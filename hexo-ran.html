@@ -1,0 +1,277 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>hexo主题配置整合包发布 | Ran</title><meta name="keywords" content="hexo-ran"><meta name="author" content="Ran"><meta name="copyright" content="Ran"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><meta name="description" content="hexo-ran预览: 👍 Ran文檔: 📖 Butterfly Docs项目地址: Hexo-Ran   本整合包是基于hexo-butterfly整合而来的整合包 安裝Git 安裝新建一个blog文件夹，在里面直接运行: 1git clone https:&#x2F;&#x2F;github.com&#x2F;Ran08&#x2F;hexo-ran.git exe安装打开提供的exe程序，将文件安装在你的hexo博客目录即可点">
+<meta property="og:type" content="article">
+<meta property="og:title" content="hexo主题配置整合包发布">
+<meta property="og:url" content="https://www.ranas.cn/hexo-ran.html">
+<meta property="og:site_name" content="Ran">
+<meta property="og:description" content="hexo-ran预览: 👍 Ran文檔: 📖 Butterfly Docs项目地址: Hexo-Ran   本整合包是基于hexo-butterfly整合而来的整合包 安裝Git 安裝新建一个blog文件夹，在里面直接运行: 1git clone https:&#x2F;&#x2F;github.com&#x2F;Ran08&#x2F;hexo-ran.git exe安装打开提供的exe程序，将文件安装在你的hexo博客目录即可点">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://www.ranas.cn/img/topimg/hexo-ran.png">
+<meta property="article:published_time" content="2020-12-03T15:31:18.000Z">
+<meta property="article:modified_time" content="2020-12-03T15:44:17.305Z">
+<meta property="article:author" content="Ran">
+<meta property="article:tag" content="hexo-ran">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.ranas.cn/img/topimg/hexo-ran.png"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://www.ranas.cn/hexo-ran"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="preconnect" href="//zz.bdstatic.com"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  ClickShowText: undefined,
+  lightbox: 'mediumZoom',
+  Snackbar: undefined,
+  justifiedGallery: {
+    js: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js',
+    css: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css'
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isanchor: false
+};
+
+var saveToLocal = {
+  set: function setWithExpiry(key, value, ttl) {
+    const now = new Date()
+    const expiryDay = ttl * 86400000
+    const item = {
+      value: value,
+      expiry: now.getTime() + expiryDay,
+    }
+    localStorage.setItem(key, JSON.stringify(item))
+  },
+
+  get: function getWithExpiry(key) {
+    const itemStr = localStorage.getItem(key)
+
+    if (!itemStr) {
+      return undefined
+    }
+    const item = JSON.parse(itemStr)
+    const now = new Date()
+
+    if (now.getTime() > item.expiry) {
+      localStorage.removeItem(key)
+      return undefined
+    }
+    return item.value
+  }
+}</script><script id="config_change">var GLOBAL_CONFIG_SITE = { 
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2020-12-03 23:44:17'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(function () {  window.activateDarkMode = function () {
+    document.documentElement.setAttribute('data-theme', 'dark')
+    if (document.querySelector('meta[name="theme-color"]') !== null) {
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+    }
+  }
+  window.activateLightMode = function () {
+    document.documentElement.setAttribute('data-theme', 'light')
+   if (document.querySelector('meta[name="theme-color"]') !== null) {
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+    }
+  }
+  const autoChangeMode = 'false'
+  const t = saveToLocal.get('theme')
+  if (autoChangeMode === '1') {
+    const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+    const isLightMode = window.matchMedia('(prefers-color-scheme: light)').matches
+    const isNotSpecified = window.matchMedia('(prefers-color-scheme: no-preference)').matches
+    const hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+    if (t === undefined) {
+      if (isLightMode) activateLightMode()
+      else if (isDarkMode) activateDarkMode()
+      else if (isNotSpecified || hasNoSupport) {
+        const now = new Date()
+        const hour = now.getHours()
+        const isNight = hour <= 6 || hour >= 18
+        isNight ? activateDarkMode() : activateLightMode()
+      }
+      window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
+        if (saveToLocal.get('theme') === undefined) {
+          e.matches ? activateDarkMode() : activateLightMode()
+        }
+      })
+    } else if (t === 'light') activateLightMode()
+    else activateDarkMode()
+  } else if (autoChangeMode === '2') {
+    const now = new Date()
+    const hour = now.getHours()
+    const isNight = hour <= 6 || hour >= 18
+    if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+    else if (t === 'light') activateLightMode()
+    else activateDarkMode()
+  } else {
+    if (t === 'dark') activateDarkMode()
+    else if (t === 'light') activateLightMode()
+  }const asideStatus = saveToLocal.get('aside-status')
+if (asideStatus !== undefined) {
+   if (asideStatus === 'hide') {
+     document.documentElement.classList.add('hide-aside')
+   } else {
+     document.documentElement.classList.remove('hide-aside')
+   }
+}})()</script><meta name="generator" content="Hexo 5.2.0"><link rel="alternate" href="/atom.xml" title="Ran" type="application/atom+xml">
+</head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">稍等片刻</div></div></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="author-avatar"><img class="avatar-img" data-lazy-src="/img/tx.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">14</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">9</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 文章</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/messageboard/"><i class="fa-fw fa-fw fas fa-comment-dots"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa-fw fas fa-link"></i><span> 友情链接</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://w.ranas.cn"><i class="fa-fw fa-fw fas fa-cubes"></i><span> WordPress站点</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url(/img/topimg/hexo-ran.png)"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">Ran</a></span><span id="menus"><div id="search_button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 文章</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/messageboard/"><i class="fa-fw fa-fw fas fa-comment-dots"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa-fw fas fa-link"></i><span> 友情链接</span></a></div><div class="menus_item"><a class="site-page" target="_blank" rel="noopener" href="https://w.ranas.cn"><i class="fa-fw fa-fw fas fa-cubes"></i><span> WordPress站点</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><span class="close" id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></span></span></nav><div id="post-info"><h1 class="post-title">hexo主题配置整合包发布</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2020-12-03T15:31:18.000Z" title="发表于 2020-12-03 23:31:18">2020-12-03</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2020-12-03T15:44:17.305Z" title="更新于 2020-12-03 23:44:17">2020-12-03</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E5%BC%80%E5%8F%91/">开发</a></span></div><div class="meta-secondline"> <span class="post-meta-separator">|</span><span class="post-meta-pv-cv"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><p><img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
+<h1 id="hexo-ran"><a href="#hexo-ran" class="headerlink" title="hexo-ran"></a>hexo-ran</h1><p>预览: 👍 <a href="https://www.ranas.cn/">Ran</a><br>文檔: 📖 <a target="_blank" rel="noopener" href="https://butterfly.js.org/posts/21cfbf15/">Butterfly Docs</a><br>项目地址: <a target="_blank" rel="noopener" href="https://github.com/Ran08/hexo-ran/">Hexo-Ran</a></p>
+<p>  本整合包是基于<a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-butterfly</a>整合而来的整合包</p>
+<h2 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h2><h3 id="Git-安裝"><a href="#Git-安裝" class="headerlink" title="Git 安裝"></a>Git 安裝</h3><p>新建一个blog文件夹，在里面直接运行:</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">git</span> <span class="string">clone</span> <span class="string">https://github.com/Ran08/hexo-ran.git</span></span><br></pre></td></tr></table></figure>
+<h3 id="exe安装"><a href="#exe安装" class="headerlink" title="exe安装"></a>exe安装</h3><p>打开提供的exe程序，将文件安装在你的hexo博客目录即可<br><a href="https://github.com/Ran08/hexo-ran/releases/download/V0.1/hexo-ran.exe" target="_blank">点击下载</a><br>下载直连github  </p>
+<h2 id="前置NPM插件"><a href="#前置NPM插件" class="headerlink" title="前置NPM插件"></a>前置NPM插件</h2><blockquote>
+<p>如果需要删除，把install更为uninstall即可。<br>pug以及stylus的渲染器</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-renderer-pug</span> <span class="string">hexo-renderer-stylus</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://github.com/wzpan/hexo-generator-search">hexo-generator-search</a>本地搜索</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-searchdb</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo-generator-feed">hexo-generator-feed</a> RSS</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-feed</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://github.com/coneycode/hexo-generator-baidu-sitemap">hexo-generator-sitemap</a> sitemap生成</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-sitemap</span> <span class="string">--save</span></span><br><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-baidu-sitemap</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://github.com/EYHN/hexo-helper-live2d">hexo-helper-live2d</a> 看板娘</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">--save</span> <span class="string">hexo-helper-live2d</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<h3 id="整合包的好处"><a href="#整合包的好处" class="headerlink" title="整合包的好处"></a>整合包的好处</h3></blockquote>
+<blockquote>
+<p>1.对于小白更加的友好。<br>2.即装即用。<br>3.稳定不易出错。</p>
+</blockquote>
+<h2 id="本站的-config-butterfly-yml正在全面汉化。"><a href="#本站的-config-butterfly-yml正在全面汉化。" class="headerlink" title="本站的_config.butterfly.yml正在全面汉化。"></a>本站的_config.butterfly.yml正在全面汉化。</h2></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">Ran</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.ranas.cn/hexo-ran.html">https://www.ranas.cn/hexo-ran.html</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.ranas.cn" target="_blank">Ran</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/hexo-ran/">hexo-ran</a></div><div class="post_share"><div class="social-share" data-image="/img/topimg/hexo-ran.png" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css"><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i> 打赏<div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="/img/wechat.jpg" target="_blank"><img class="post-qr-code-img" data-lazy-src="/img/wechat.jpg" alt="wechat"/></a><div class="post-qr-code-desc">wechat</div></li><li class="reward-item"><a href="/img/alipay.jpg" target="_blank"><img class="post-qr-code-img" data-lazy-src="/img/alipay.jpg" alt="alipay"/></a><div class="post-qr-code-desc">alipay</div></li></ul></div></div></div><nav class="pagination-post" id="pagination"><div class="next-post pull-full"><a href="/hexogithub.html"><img class="next-cover" data-lazy-src="/img/topimg/hexoga.jpg" onerror="onerror=null;src='/img/404.jpg'"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">使用Hexo和Github Actions自动化博客更新</div></div></a></div></nav><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div class="vcomment" id="vcomment"></div></div></div></div></div><div class="aside_content" id="aside_content"><div class="card-widget card-info"><div class="card-content"><div class="card-info-avatar is-center"><img class="avatar-img" data-lazy-src="/img/tx.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/><div class="author-info__name">Ran</div><div class="author-info__description">An ordinary web page based on hexo, but ordinary does not mean simple.</div></div><div class="card-info-data"><div class="card-info-data-item is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">14</div></a></div><div class="card-info-data-item is-center"><a href="/tags/"><div class="headline">标签</div><div class="length-num">9</div></a></div><div class="card-info-data-item is-center"><a href="/categories/"><div class="headline">分类</div><div class="length-num">6</div></a></div></div><a class="button--animated" id="card-info-btn" href="mailto:hr0824@qq.com"><i class="fab fa-email"></i><span>我的邮箱</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="https://www.ranas.cn/atom.xml" target="_blank" title="rss"><i class="fas fa-rss"></i></a><a class="social-icon" href="https://wpa.qq.com/msgrd?v=3&amp;uin=384965992&amp;site=qq&amp;menu=yes" target="_blank" title="QQ"><i class="fab fa-qq"></i></a></div></div></div><div class="card-widget card-announcement"><div class="card-content"><div class="item-headline"><i class="fas fa-bullhorn card-announcement-animation"></i><span>公告</span></div><div class="announcement_content">欢迎来到Ranas，这是一个个人博客网页，如有问题可以联系我询问。</div></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="card-content"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#hexo-ran"><span class="toc-number">1.</span> <span class="toc-text">hexo-ran</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AE%89%E8%A3%9D"><span class="toc-number">1.1.</span> <span class="toc-text">安裝</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Git-%E5%AE%89%E8%A3%9D"><span class="toc-number">1.1.1.</span> <span class="toc-text">Git 安裝</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#exe%E5%AE%89%E8%A3%85"><span class="toc-number">1.1.2.</span> <span class="toc-text">exe安装</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%89%8D%E7%BD%AENPM%E6%8F%92%E4%BB%B6"><span class="toc-number">1.2.</span> <span class="toc-text">前置NPM插件</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%95%B4%E5%90%88%E5%8C%85%E7%9A%84%E5%A5%BD%E5%A4%84"><span class="toc-number">1.2.1.</span> <span class="toc-text">整合包的好处</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%9C%AC%E7%AB%99%E7%9A%84-config-butterfly-yml%E6%AD%A3%E5%9C%A8%E5%85%A8%E9%9D%A2%E6%B1%89%E5%8C%96%E3%80%82"><span class="toc-number">1.3.</span> <span class="toc-text">本站的_config.butterfly.yml正在全面汉化。</span></a></li></ol></li></ol></div></div></div><div class="card-widget card-recent-post"><div class="card-content"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/hexo-ran.html" title="hexo主题配置整合包发布"><img data-lazy-src="/img/topimg/hexo-ran.png" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="hexo主题配置整合包发布"/></a><div class="content"><a class="title" href="/hexo-ran.html" title="hexo主题配置整合包发布">hexo主题配置整合包发布</a><time datetime="2020-12-03T15:31:18.000Z" title="发表于 2020-12-03 23:31:18">2020-12-03</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/hexogithub.html" title="使用Hexo和Github Actions自动化博客更新"><img data-lazy-src="/img/topimg/hexoga.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="使用Hexo和Github Actions自动化博客更新"/></a><div class="content"><a class="title" href="/hexogithub.html" title="使用Hexo和Github Actions自动化博客更新">使用Hexo和Github Actions自动化博客更新</a><time datetime="2020-12-02T16:01:15.000Z" title="发表于 2020-12-03 00:01:15">2020-12-03</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/khfx.html" title="客户分析-价格段的选取"><img data-lazy-src="/img/defaultcover.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="客户分析-价格段的选取"/></a><div class="content"><a class="title" href="/khfx.html" title="客户分析-价格段的选取">客户分析-价格段的选取</a><time datetime="2020-11-01T16:01:19.000Z" title="发表于 2020-11-02 00:01:19">2020-11-02</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/wpnoadmin.html" title="Wordpress后台管理员无法访问"><img data-lazy-src="/img/defaultcover.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Wordpress后台管理员无法访问"/></a><div class="content"><a class="title" href="/wpnoadmin.html" title="Wordpress后台管理员无法访问">Wordpress后台管理员无法访问</a><time datetime="2020-10-31T16:01:16.000Z" title="发表于 2020-11-01 00:01:16">2020-11-01</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/wpsslerror.html" title="WordPress配置完SSL证书后台重定向过多"><img data-lazy-src="/img/topimg/wpsslerror.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="WordPress配置完SSL证书后台重定向过多"/></a><div class="content"><a class="title" href="/wpsslerror.html" title="WordPress配置完SSL证书后台重定向过多">WordPress配置完SSL证书后台重定向过多</a><time datetime="2020-10-31T16:01:15.000Z" title="发表于 2020-11-01 00:01:15">2020-11-01</time></div></div></div></div></div></div></div></main><footer id="footer" style="background-image: url(/img/topimg/hexo-ran.png)"><div id="footer-wrap"><div class="copyright">&copy;2018 - 2020 By Ran</div><div class="framework-info"><span>本站基于 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo 搭建</a><span class="footer-separator">|</span><span>主题由 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly 提供</a></div><div class="footer_custom_text">本站部署于中国大陆，请勿发布违反国家法律信息</div><div class="icp"><a target="_blank" rel="noopener" href="http://www.beian.miit.gov.cn/"><img class="icp-icon" src="/img/icp.png" alt="ICP"/><span>苏ICP备20005417号</span></a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"><div id="local-hits"></div><div id="local-stats"><div class="local-search-stats__hr" id="hr"><span>由</span> <a target="_blank" rel="noopener" href="https://github.com/wzpan/hexo-generator-search" style="color:#49B1F5;">hexo-generator-search</a>
+ <span>提供支持</span></div></div></div><span class="search-close-button"><i class="fas fa-times"></i></span></div><div id="search-mask"></div></div><div><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js"></script><script src="/js/search/local-search.js"></script><script>var preloader = {
+  endLoading: () => {
+    document.body.style.overflow = 'auto';
+    document.getElementById('loading-box').classList.add("loaded")
+  },
+  initLoading: () => {
+    document.body.style.overflow = '';
+    document.getElementById('loading-box').classList.remove("loaded")
+
+  }
+}
+window.addEventListener('load',()=> {preloader.endLoading()})</script><div class="js-pjax"><script>function loadValine () {
+  function initValine () {
+    let initData = {
+      el: '#vcomment',
+      appId: 'O3AJFzNUHIrvFvl5SKatWYG8-9Nh9j0Va',
+      appKey: '7N67EgVW766JcafR8k2CLwwF',
+      placeholder: 'Please leave your footprints',
+      avatar: 'monsterid',
+      meta: 'nick,mail,link'.split(','),
+      pageSize: '10',
+      lang: 'zh-CN',
+      recordIP: false,
+      serverURLs: '',
+      emojiCDN: '',
+      emojiMaps: "",
+      enableQQ: false,
+      path: window.location.pathname,
+    }
+
+    if (true) { 
+      initData.requiredFields= ('nick,mail'.split(','))
+    }
+    
+    if (false) {
+      const otherData = false
+      initData = Object.assign({}, initData, otherData)
+    }
+    
+    const valine = new Valine(initData)
+  }
+
+  if (typeof Valine === 'function') initValine() 
+  else $.getScript('https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js', initValine)
+}
+
+if ('Valine' === 'Valine' || !false) {
+  if (false) btf.loadComment(document.querySelector('#vcomment'),loadValine)
+  else setTimeout(() => loadValine(), 0)
+} else {
+  function loadOtherComment () {
+    loadValine()
+  }
+}</script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><script defer="defer" id="fluttering_ribbon" mobile="true" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/canvas-fluttering-ribbon.min.js"></script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = true;
+POWERMODE.mobile = true;
+document.body.addEventListener('input', POWERMODE);
+</script><script id="click-heart" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-heart.min.js" async="async" mobile="true"></script><script>(function(d, w, c) {
+    w.ChatraID = 'J7yHMLDRrQm9EgvcQ';
+    var s = d.createElement('script');
+    w[c] = w[c] || function() {
+        (w[c].q = w[c].q || []).push(arguments);
+    };
+    s.async = true;
+    s.src = 'https://call.chatra.io/chatra.js';
+    if (d.head) d.head.appendChild(s);
+})(document, window, 'Chatra');
+
+if (false) {
+  var chatBtnFn = () => {
+    var chatBtn = document.getElementById("chat_btn")
+    chatBtn.addEventListener("click", function(){
+      Chatra('openChat')
+    });
+  }
+  chatBtnFn()
+} else {
+  if (false) {
+    function chatBtnHide () {
+      Chatra('hide')
+    }
+    function chatBtnShow () {
+      Chatra('show')
+    }
+  }
+}</script><script>(function(){
+  const bp = document.createElement('script');
+  const curProtocol = window.location.protocol.split(':')[0];
+  if (curProtocol === 'https'){
+  bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+  bp.dataset.pjax = ''
+  const s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(bp, s);
+})()</script></div><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"scale":1,"hHeadPos":0.5,"vHeadPos":0.618},"display":{"superSample":2,"width":150,"height":300,"position":"left","hOffset":0,"vOffset":-20},"mobile":{"show":true,"scale":0.5},"react":{"opacityDefault":0.7,"opacityOnHover":0.2,"search":null},"path":"search.xml","field":"post","content":true,"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></html>
