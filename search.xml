@@ -111,21 +111,6 @@
       </tags>
   </entry>
   <entry>
-    <title>使用Hexo和Github Actions自动化博客更新</title>
-    <url>/hexogithub.html</url>
-    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
-</div>
-
-<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
-      <categories>
-        <category>视频推荐</category>
-      </categories>
-      <tags>
-        <tag>bilibili</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo主题配置整合包发布</title>
     <url>/hexo-ran.html</url>
     <content><![CDATA[<p><img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
@@ -165,6 +150,71 @@
       </categories>
       <tags>
         <tag>hexo-ran</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用Hexo和Github Actions自动化博客更新</title>
+    <url>/hexogithub.html</url>
+    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+</div>
+
+<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
+      <categories>
+        <category>视频推荐</category>
+      </categories>
+      <tags>
+        <tag>bilibili</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>客户分析-价格段的选取</title>
+    <url>/khfx.html</url>
+    <content><![CDATA[<p>我们在对产品定位时不仅要通过产品进行定位，也要从客户方面进行定位。</p>
+<h3 id="首先我们要看：客户购买时会考虑什么因素？"><a href="#首先我们要看：客户购买时会考虑什么因素？" class="headerlink" title="首先我们要看：客户购买时会考虑什么因素？"></a>首先我们要看：客户购买时会考虑什么因素？</h3><p>我们在购买一款产品时，无法就会关注两点 1.价格 2.品牌。</p>
+<p>而此时，如果我们店铺没有品牌和价格优势。就会陷入一个非常被动的场面，而此时我们就要进行<strong>价格区间</strong>的调整。</p>
+<h3 id="什么是价格区间"><a href="#什么是价格区间" class="headerlink" title="什么是价格区间"></a>什么是价格区间</h3><p>价值区间就是指在某个时间段,由产品在市场上的流通量和资金的变化所决定的变动范围。</p>
+<p>价格区间有什么<strong>用</strong>？</p>
+<ul>
+<li> 区分不同的客户人群。</li>
+</ul>
+<p>例如，一件衣服的三个价格区间为：100-200、200-500、500-1000那么：</p>
+<p>100-200的客户可能会在产品质量和性价比上做关注。</p>
+<p>200-500的客户可能会在外观上有要求。</p>
+<p>500-1000的客户会有比较全方面的要求。</p>
+<p>同样，价格区间还把你的客户分为了3个<strong>人群</strong></p>
+<p>100-200的客户可能是普通的民众。</p>
+<p>200-500的客户可能是有一定消费能力的从业者。</p>
+<p>500-1000的客户会是中产、高级从业者。</p>
+<h3 id="那么怎么寻找“价格区间”？"><a href="#那么怎么寻找“价格区间”？" class="headerlink" title="那么怎么寻找“价格区间”？"></a>那么怎么寻找“价格区间”？</h3><p>举例说明：小提琴中高端市场<strong>179-413</strong>元，</p>
+<p>[<img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/11/20/1605856519.png" alt="1605856519.png">]</p>
+<p>那么平均价格=（179+431）÷2=305；</p>
+<p>305-179=126；431-305=126</p>
+<p>区间价格的20%浮动 126*0.3=37.8</p>
+<p>305+37.8=342.8；305-37.8=267.5</p>
+<p>267作为一个区间相对低点参考；342作为一个区间相对高点；</p>
+<p>（当要进行较大幅度竞争则直接中间点642.5浮动+-20%）</p>
+<h3 id="找到了价格区间那么我们会有竞争力吗？"><a href="#找到了价格区间那么我们会有竞争力吗？" class="headerlink" title="找到了价格区间那么我们会有竞争力吗？"></a>找到了价格区间那么我们会有竞争力吗？</h3><p>不，这个价格段包含了很多产品，我们还要看同行的价格。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/11/20/16058568751.png" alt="16058568751.png"></p>
+<p>同行的价格也能给予很大的参考。通过对比价格，参数，品牌等。寻找一个适合自己的价格段才是最重要的。</p>
+<h5 id="价格维度考虑要素有以下几点"><a href="#价格维度考虑要素有以下几点" class="headerlink" title="价格维度考虑要素有以下几点"></a>价格维度考虑要素有以下几点</h5><p>（1）中小卖家不能再迷信自己有核心竞争力，充其量也就是局部竞争力</p>
+<p>（2）中小卖家局部优势要发挥到极致，选取最合理的点</p>
+<p>（3）底价冲量做法目前并不是最先选取的参考点</p>
+<p>（4）目标价格带的中间点是中小卖家优先选取的参考点；一般空白价格段更具与竞争空间</p>
+<p>（5）20%作为一个经验参考点可供测试（注意金额变大超过1000元的波动应当适当加大调成30%-35%）</p>
+<p>（6）可以到不同价格带找典型的参考卖家</p>
+<p>（7）看评价数据，买家好评原因，差评不能满足客户要求的原因，做到人无我有突出我们的主要竞争力，我们的优势，识别出最终客户（精准客户）</p>
+<p>（8）通过（供应链、资金、人才能力、风险承受能力）来选择适合自己的竞争参考系</p>
+<p>（9）发现自己的局部优势来定价</p>
+<h3 id="那怎么在同价格段能够领先同行？"><a href="#那怎么在同价格段能够领先同行？" class="headerlink" title="那怎么在同价格段能够领先同行？"></a>那怎么在同价格段能够领先同行？</h3><h4 id="那就要说到高低认知的部分了"><a href="#那就要说到高低认知的部分了" class="headerlink" title="那就要说到高低认知的部分了"></a>那就要说到高低认知的部分了</h4><p>（1）低认知：品牌、价格、差异化卖点-能让客户一见钟情</p>
+<p>（2）高认知：参数、属性、评测、细节—属于细水长流工作能让客户日久生情</p>
+<p>我们中小卖家可以通过一些市场上目前所不具备的卖点进行打造产品。然后通过问大家、评价等方式积攒口碑以及买家信任度来领先同行。</p>
+]]></content>
+      <categories>
+        <category>电商</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -399,56 +449,6 @@
       </tags>
   </entry>
   <entry>
-    <title>客户分析-价格段的选取</title>
-    <url>/khfx.html</url>
-    <content><![CDATA[<p>我们在对产品定位时不仅要通过产品进行定位，也要从客户方面进行定位。</p>
-<h3 id="首先我们要看：客户购买时会考虑什么因素？"><a href="#首先我们要看：客户购买时会考虑什么因素？" class="headerlink" title="首先我们要看：客户购买时会考虑什么因素？"></a>首先我们要看：客户购买时会考虑什么因素？</h3><p>我们在购买一款产品时，无法就会关注两点 1.价格 2.品牌。</p>
-<p>而此时，如果我们店铺没有品牌和价格优势。就会陷入一个非常被动的场面，而此时我们就要进行<strong>价格区间</strong>的调整。</p>
-<h3 id="什么是价格区间"><a href="#什么是价格区间" class="headerlink" title="什么是价格区间"></a>什么是价格区间</h3><p>价值区间就是指在某个时间段,由产品在市场上的流通量和资金的变化所决定的变动范围。</p>
-<p>价格区间有什么<strong>用</strong>？</p>
-<ul>
-<li> 区分不同的客户人群。</li>
-</ul>
-<p>例如，一件衣服的三个价格区间为：100-200、200-500、500-1000那么：</p>
-<p>100-200的客户可能会在产品质量和性价比上做关注。</p>
-<p>200-500的客户可能会在外观上有要求。</p>
-<p>500-1000的客户会有比较全方面的要求。</p>
-<p>同样，价格区间还把你的客户分为了3个<strong>人群</strong></p>
-<p>100-200的客户可能是普通的民众。</p>
-<p>200-500的客户可能是有一定消费能力的从业者。</p>
-<p>500-1000的客户会是中产、高级从业者。</p>
-<h3 id="那么怎么寻找“价格区间”？"><a href="#那么怎么寻找“价格区间”？" class="headerlink" title="那么怎么寻找“价格区间”？"></a>那么怎么寻找“价格区间”？</h3><p>举例说明：小提琴中高端市场<strong>179-413</strong>元，</p>
-<p>[<img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/11/20/1605856519.png" alt="1605856519.png">]</p>
-<p>那么平均价格=（179+431）÷2=305；</p>
-<p>305-179=126；431-305=126</p>
-<p>区间价格的20%浮动 126*0.3=37.8</p>
-<p>305+37.8=342.8；305-37.8=267.5</p>
-<p>267作为一个区间相对低点参考；342作为一个区间相对高点；</p>
-<p>（当要进行较大幅度竞争则直接中间点642.5浮动+-20%）</p>
-<h3 id="找到了价格区间那么我们会有竞争力吗？"><a href="#找到了价格区间那么我们会有竞争力吗？" class="headerlink" title="找到了价格区间那么我们会有竞争力吗？"></a>找到了价格区间那么我们会有竞争力吗？</h3><p>不，这个价格段包含了很多产品，我们还要看同行的价格。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/11/20/16058568751.png" alt="16058568751.png"></p>
-<p>同行的价格也能给予很大的参考。通过对比价格，参数，品牌等。寻找一个适合自己的价格段才是最重要的。</p>
-<h5 id="价格维度考虑要素有以下几点"><a href="#价格维度考虑要素有以下几点" class="headerlink" title="价格维度考虑要素有以下几点"></a>价格维度考虑要素有以下几点</h5><p>（1）中小卖家不能再迷信自己有核心竞争力，充其量也就是局部竞争力</p>
-<p>（2）中小卖家局部优势要发挥到极致，选取最合理的点</p>
-<p>（3）底价冲量做法目前并不是最先选取的参考点</p>
-<p>（4）目标价格带的中间点是中小卖家优先选取的参考点；一般空白价格段更具与竞争空间</p>
-<p>（5）20%作为一个经验参考点可供测试（注意金额变大超过1000元的波动应当适当加大调成30%-35%）</p>
-<p>（6）可以到不同价格带找典型的参考卖家</p>
-<p>（7）看评价数据，买家好评原因，差评不能满足客户要求的原因，做到人无我有突出我们的主要竞争力，我们的优势，识别出最终客户（精准客户）</p>
-<p>（8）通过（供应链、资金、人才能力、风险承受能力）来选择适合自己的竞争参考系</p>
-<p>（9）发现自己的局部优势来定价</p>
-<h3 id="那怎么在同价格段能够领先同行？"><a href="#那怎么在同价格段能够领先同行？" class="headerlink" title="那怎么在同价格段能够领先同行？"></a>那怎么在同价格段能够领先同行？</h3><h4 id="那就要说到高低认知的部分了"><a href="#那就要说到高低认知的部分了" class="headerlink" title="那就要说到高低认知的部分了"></a>那就要说到高低认知的部分了</h4><p>（1）低认知：品牌、价格、差异化卖点-能让客户一见钟情</p>
-<p>（2）高认知：参数、属性、评测、细节—属于细水长流工作能让客户日久生情</p>
-<p>我们中小卖家可以通过一些市场上目前所不具备的卖点进行打造产品。然后通过问大家、评价等方式积攒口碑以及买家信任度来领先同行。</p>
-]]></content>
-      <categories>
-        <category>电商</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>用树莓派搭建FM广播，播放音乐和实时语音</title>
     <url>/smpfm.html</url>
     <content><![CDATA[<p>-</p>
@@ -477,33 +477,6 @@
       </categories>
       <tags>
         <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站推荐第一期</title>
-    <url>/websitefx.html</url>
-    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
-<ul>
-<li>资源类 </li>
-</ul>
-<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
-<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
-<p>如果你需要寻找开源软件你可以前往这个网站。</p>
-<ul>
-<li>杂项类</li>
-</ul>
-<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
-<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
-<p>那么，第一期就先这样了。我们下一期再见~</p>
-]]></content>
-      <categories>
-        <category>推荐</category>
-      </categories>
-      <tags>
-        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -619,6 +592,33 @@
       </categories>
       <tags>
         <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站推荐第一期</title>
+    <url>/websitefx.html</url>
+    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
+<ul>
+<li>资源类 </li>
+</ul>
+<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
+<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
+<p>如果你需要寻找开源软件你可以前往这个网站。</p>
+<ul>
+<li>杂项类</li>
+</ul>
+<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
+<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
+<p>那么，第一期就先这样了。我们下一期再见~</p>
+]]></content>
+      <categories>
+        <category>推荐</category>
+      </categories>
+      <tags>
+        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
