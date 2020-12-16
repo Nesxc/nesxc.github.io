@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.ranas.cn/20minmarkdown.html</loc>
-    <lastmod>2020-12-03</lastmod>
+    <loc>https://www.ranas.cn/smpOpenCV.html</loc>
+    <lastmod>2020-12-16</lastmod>
   </url>
   <url>
     <loc>https://www.ranas.cn/40linuxcd.html</loc>
-    <lastmod>2020-12-03</lastmod>
+    <lastmod>2020-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ranas.cn/20minmarkdown.html</loc>
+    <lastmod>2020-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ranas.cn/smpbtb.html</loc>
+    <lastmod>2020-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ranas.cn/smpkj.html</loc>
+    <lastmod>2020-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ranas.cn/smpset.html</loc>
+    <lastmod>2020-12-16</lastmod>
   </url>
   <url>
     <loc>https://www.ranas.cn/hexo-ran.html</loc>
@@ -15,22 +31,6 @@
   <url>
     <loc>https://www.ranas.cn/hexogithub.html</loc>
     <lastmod>2020-12-03</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ranas.cn/smpbtb.html</loc>
-    <lastmod>2020-12-02</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ranas.cn/smpset.html</loc>
-    <lastmod>2020-12-02</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ranas.cn/smpkj.html</loc>
-    <lastmod>2020-12-02</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ranas.cn/smpOpenCV.html</loc>
-    <lastmod>2020-12-02</lastmod>
   </url>
   <url>
     <loc>https://www.ranas.cn/smpfm.html</loc>
