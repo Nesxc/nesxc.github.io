@@ -153,21 +153,6 @@
       </tags>
   </entry>
   <entry>
-    <title>使用Hexo和Github Actions自动化博客更新</title>
-    <url>/hexogithub.html</url>
-    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
-</div>
-
-<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
-      <categories>
-        <category>视频推荐</category>
-      </categories>
-      <tags>
-        <tag>bilibili</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>客户分析-价格段的选取</title>
     <url>/khfx.html</url>
     <content><![CDATA[<p>我们在对产品定位时不仅要通过产品进行定位，也要从客户方面进行定位。</p>
@@ -215,6 +200,21 @@
       </categories>
       <tags>
         <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用Hexo和Github Actions自动化博客更新</title>
+    <url>/hexogithub.html</url>
+    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+</div>
+
+<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
+      <categories>
+        <category>视频推荐</category>
+      </categories>
+      <tags>
+        <tag>bilibili</tag>
       </tags>
   </entry>
   <entry>
@@ -480,6 +480,39 @@
       </tags>
   </entry>
   <entry>
+    <title>树莓派开机教程</title>
+    <url>/smpkj.html</url>
+    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
+<p>格式化SD卡</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc7215d37c39e836.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/640" alt="格式化已有的SD卡"></p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-abf5e3f941d3016a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300" alt="格式化SD卡成功"></p>
+<p>烧录系统镜像</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6d22b8fb9a2fbd6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="烧录树莓派操作系统镜像"></p>
+<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
+<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>例如这样</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1b37351bcd946978.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="配置wifi文件"></p>
+<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-70819fe7ad131c4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="将ssh文件和wpa_supplicant.conf文件放入boot盘中"></p>
+<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
+<p>获取树莓派ip地址的方法：</p>
+<ol>
+<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
+<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
+<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
+<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
+</ol>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一劳永逸配置树莓派</title>
     <url>/smpset.html</url>
     <content><![CDATA[<p>换源</p>
@@ -553,39 +586,6 @@
 <p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-d5d8b43ba0bf11b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="点击小齿轮图标，设置"></p>
 <p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3dbed8171117ba60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="设置连接密码"></p>
 <p>sudo apt-get upgrade </p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>树莓派开机教程</title>
-    <url>/smpkj.html</url>
-    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
-<p>格式化SD卡</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc7215d37c39e836.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/640" alt="格式化已有的SD卡"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-abf5e3f941d3016a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300" alt="格式化SD卡成功"></p>
-<p>烧录系统镜像</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6d22b8fb9a2fbd6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="烧录树莓派操作系统镜像"></p>
-<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
-<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>例如这样</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1b37351bcd946978.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="配置wifi文件"></p>
-<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-70819fe7ad131c4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="将ssh文件和wpa_supplicant.conf文件放入boot盘中"></p>
-<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
-<p>获取树莓派ip地址的方法：</p>
-<ol>
-<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
-<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
-<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
-<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
-</ol>
 ]]></content>
       <categories>
         <category>开发</category>
