@@ -622,32 +622,6 @@
       </tags>
   </entry>
   <entry>
-    <title>WordPress配置完SSL证书后台重定向过多</title>
-    <url>/wpsslerror.html</url>
-    <content><![CDATA[<h5 id="Wordpress配置完SSL证书后台重定向过多"><a href="#Wordpress配置完SSL证书后台重定向过多" class="headerlink" title="Wordpress配置完SSL证书后台重定向过多"></a>Wordpress配置完SSL证书后台重定向过多</h5><p>前言:在配置完cloudflash的DNS解析后，我发现我的管理员后台一直显示重定向过多。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARN.png" alt="cdx"></p>
-<p>后来发现是我的HTTPS配置问题。</p>
-<h5 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h5><p>首先打开你的网站根目录。找到一个名为wp-config.php的文件。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARR.png" alt="wj"></p>
-<p>打开它，然后拉到最下面。添加以下代码。</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
-
-<p>然后回到后台地址</p>
-<p><a href="https://exp.com/wp-admin/">https://exp.com/wp-admin/</a></p>
-<p>按住</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ctrl + F5</span><br></pre></td></tr></table></figure>
-
-<p>刷新即可。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARV.png" alt="cg"></p>
-]]></content>
-      <categories>
-        <category>WordPress</category>
-      </categories>
-      <tags>
-        <tag>WordPress错误</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Wordpress后台管理员无法访问</title>
     <url>/wpnoadmin.html</url>
     <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
@@ -665,6 +639,32 @@
 
 <p>这串代码以上就行了。</p>
 <p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS1.png" alt="jj"></p>
+]]></content>
+      <categories>
+        <category>WordPress</category>
+      </categories>
+      <tags>
+        <tag>WordPress错误</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>WordPress配置完SSL证书后台重定向过多</title>
+    <url>/wpsslerror.html</url>
+    <content><![CDATA[<h5 id="Wordpress配置完SSL证书后台重定向过多"><a href="#Wordpress配置完SSL证书后台重定向过多" class="headerlink" title="Wordpress配置完SSL证书后台重定向过多"></a>Wordpress配置完SSL证书后台重定向过多</h5><p>前言:在配置完cloudflash的DNS解析后，我发现我的管理员后台一直显示重定向过多。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARN.png" alt="cdx"></p>
+<p>后来发现是我的HTTPS配置问题。</p>
+<h5 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h5><p>首先打开你的网站根目录。找到一个名为wp-config.php的文件。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARR.png" alt="wj"></p>
+<p>打开它，然后拉到最下面。添加以下代码。</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
+
+<p>然后回到后台地址</p>
+<p><a href="https://exp.com/wp-admin/">https://exp.com/wp-admin/</a></p>
+<p>按住</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ctrl + F5</span><br></pre></td></tr></table></figure>
+
+<p>刷新即可。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARV.png" alt="cg"></p>
 ]]></content>
       <categories>
         <category>WordPress</category>

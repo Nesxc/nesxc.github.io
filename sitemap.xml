@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.ranas.cn/link/index.html</loc>
+    
+    <lastmod>2020-12-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.ranas.cn/smpOpenCV.html</loc>
     
     <lastmod>2020-12-16</lastmod>
@@ -52,13 +59,6 @@
   
   <url>
     <loc>https://www.ranas.cn/hexogithub.html</loc>
-    
-    <lastmod>2020-12-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.ranas.cn/link/index.html</loc>
     
     <lastmod>2020-12-03</lastmod>
     
