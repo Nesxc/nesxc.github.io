@@ -153,6 +153,21 @@
       </tags>
   </entry>
   <entry>
+    <title>使用Hexo和Github Actions自动化博客更新</title>
+    <url>/hexogithub.html</url>
+    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+</div>
+
+<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
+      <categories>
+        <category>视频推荐</category>
+      </categories>
+      <tags>
+        <tag>bilibili</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>客户分析-价格段的选取</title>
     <url>/khfx.html</url>
     <content><![CDATA[<p>我们在对产品定位时不仅要通过产品进行定位，也要从客户方面进行定位。</p>
@@ -200,21 +215,6 @@
       </categories>
       <tags>
         <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>使用Hexo和Github Actions自动化博客更新</title>
-    <url>/hexogithub.html</url>
-    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
-</div>
-
-<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
-      <categories>
-        <category>视频推荐</category>
-      </categories>
-      <tags>
-        <tag>bilibili</tag>
       </tags>
   </entry>
   <entry>
