@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.ranas.cn/Typany.html</loc>
+    
+    <lastmod>2020-12-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.ranas.cn/virtualhardwareshack.html</loc>
     
     <lastmod>2020-12-20</lastmod>
@@ -308,6 +315,13 @@
   
   <url>
     <loc>https://www.ranas.cn/categories/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2020-12-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ranas.cn/categories/markdown/</loc>
     <lastmod>2020-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
