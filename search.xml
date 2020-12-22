@@ -111,29 +111,6 @@
       </tags>
   </entry>
   <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
-
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>维护</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>typora教程附下载地址</title>
     <url>/Typany.html</url>
     <content><![CDATA[<h3 id="文章目录"><a href="#文章目录" class="headerlink" title="文章目录"></a>文章目录</h3><ul>
@@ -395,6 +372,29 @@ $$</code></pre>
       </categories>
       <tags>
         <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
       </tags>
   </entry>
   <entry>
@@ -761,37 +761,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>用树莓派搭建FM广播，播放音乐和实时语音</title>
-    <url>/smpfm.html</url>
-    <content><![CDATA[<p>-</p>
-<p>在树莓派的命令行界面运行以下八条命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mkdir fm</span><br><span class="line">cd fm</span><br><span class="line">sudo git clone https://github.com/markondej/fm_transmitter</span><br><span class="line">sudo apt-get install mpg123</span><br><span class="line">sudo apt-get install gcc g++ make</span><br><span class="line">cd fm_transmitter</span><br><span class="line">sudo make</span><br><span class="line">sudo apt-get install sox</span><br></pre></td></tr></table></figure>
-
-
-
-<p>运行以下命令，即可在调频100.6MHz频道广播自带的星球大战主题曲：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sox star_wars.wav -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
-
-<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
-<blockquote>
-<p>也可以把这条命令中的100.6改成其它数字，即可在新频道上广播。</p>
-<p>也可以将其它wav格式的文件放到/fm/fm_transmitter文件夹中，替换命令中的star_wars.wav文件</p>
-</blockquote>
-<p>插上USB声卡，在USB声卡的麦克风孔里插入麦克风，运行以下命令，在即可在调频100.6MHz频道广播实时语音，你也可以把这条命令中的100.6改成其它数字，那样就会在新频道上广播：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -D plughw:1,0 -c1 -d 0 -r 22050 -f S16_LE | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
-
-<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
-<p>扩展玩法：</p>
-<p>用移动电源给树莓派供电，设置开机免密码自动登录和自动运行广播脚本，将整个系统装在书包里，即可实现走到哪里，广播开到哪里（旅游景点、重要会场讲话、窃听器、位置信标）</p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>树莓派开机教程</title>
     <url>/smpkj.html</url>
     <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
@@ -816,6 +785,37 @@ layout: false
 <li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
 <li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
 </ol>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用树莓派搭建FM广播，播放音乐和实时语音</title>
+    <url>/smpfm.html</url>
+    <content><![CDATA[<p>-</p>
+<p>在树莓派的命令行界面运行以下八条命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mkdir fm</span><br><span class="line">cd fm</span><br><span class="line">sudo git clone https://github.com/markondej/fm_transmitter</span><br><span class="line">sudo apt-get install mpg123</span><br><span class="line">sudo apt-get install gcc g++ make</span><br><span class="line">cd fm_transmitter</span><br><span class="line">sudo make</span><br><span class="line">sudo apt-get install sox</span><br></pre></td></tr></table></figure>
+
+
+
+<p>运行以下命令，即可在调频100.6MHz频道广播自带的星球大战主题曲：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sox star_wars.wav -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
+
+<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
+<blockquote>
+<p>也可以把这条命令中的100.6改成其它数字，即可在新频道上广播。</p>
+<p>也可以将其它wav格式的文件放到/fm/fm_transmitter文件夹中，替换命令中的star_wars.wav文件</p>
+</blockquote>
+<p>插上USB声卡，在USB声卡的麦克风孔里插入麦克风，运行以下命令，在即可在调频100.6MHz频道广播实时语音，你也可以把这条命令中的100.6改成其它数字，那样就会在新频道上广播：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -D plughw:1,0 -c1 -d 0 -r 22050 -f S16_LE | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
+
+<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
+<p>扩展玩法：</p>
+<p>用移动电源给树莓派供电，设置开机免密码自动登录和自动运行广播脚本，将整个系统装在书包里，即可实现走到哪里，广播开到哪里（旅游景点、重要会场讲话、窃听器、位置信标）</p>
 ]]></content>
       <categories>
         <category>开发</category>
