@@ -111,6 +111,293 @@
       </tags>
   </entry>
   <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>typora教程附下载地址</title>
+    <url>/Typany.html</url>
+    <content><![CDATA[<h3 id="文章目录"><a href="#文章目录" class="headerlink" title="文章目录"></a>文章目录</h3><ul>
+<li>  <a href="#Tutorial_of_markdown_in_Typora_1">Tutorial of markdown in Typora</a></li>
+<li><ul>
+<li><a href="#_7">创建标题</a><ul>
+<li>  <a href="#_15">如何改变文本的样式</a></li>
+<li>  <a href="#_62">生成一个适合你的列表</a></li>
+<li>  <a href="#_97">如何插入一段漂亮的代码片</a></li>
+<li>  <a href="#_115">插入链接与图片</a></li>
+<li><ul>
+<li><a href="#_117">插入链接</a><ul>
+<li>  <a href="#_133">插入图片</a></li>
+<li>  <a href="#_140">插入带链接的图片</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>  <a href="#_168">创建一个表格</a></li>
+<li><ul>
+<li><a href="#_185">设定内容居中、居左、居右</a><ul>
+<li>  <a href="#SmartyPants_203">SmartyPants</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>  <a href="#_223">如何创建一个注脚</a></li>
+<li>  <a href="#KaTeX_241">KaTeX数学公式</a></li>
+<li>  <a href="#_263">甘特图绘制</a></li>
+<li>  <a href="#UML__292">UML 图表绘制</a></li>
+<li>  <a href="#FLowchart_346">FLowchart流程图绘制</a></li>
+<li>  <a href="#_367">导出与导入</a></li>
+<li><ul>
+<li><a href="#_369">导出</a><ul>
+<li>  <a href="#_372">导入</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="Tutorial-of-markdown-in-Typora"><a href="#Tutorial-of-markdown-in-Typora" class="headerlink" title="Tutorial of markdown in Typora"></a>Tutorial of markdown in Typora</h1><blockquote>
+<p>工欲善其事，必先利其器</p>
+</blockquote>
+<p><strong>如上所说，这里给大家安利一款高BIG的利器Typora<a href="https://gitee.com/lybbs/img/raw/master/typora-setup-x64.exe" target="_blank">GITEE下载地址</a>，这是一款文艺青年(装逼)必备的用于编写markdown的打造高质量文档的神器，一打开就有被惊艳到，界面设计使用程序猿最爱的极简风格，清新脱俗，出淤泥而不染(**已经彻底沦陷</strong>)，可以让人集中注意力去构思文档的编写而不用被格式问题所烦扰。支持LaTex公式编辑，Mermaid流程图和甘特图绘制等等。**  </p>
+<h2 id="创建标题"><a href="#创建标题" class="headerlink" title="创建标题"></a>创建标题</h2><ul>
+<li><p>  输入1次#，并按下space后再输入文本，将生成1级标题。</p>
+</li>
+<li><p>  输入2次#，并按下space后在输入文本，将生成2级标题。</p>
+</li>
+</ul>
+<p>以此类推，我们支持6级标题。有助于使用<code>TOC</code>语法后生成一个完美的目录，在你想要放置目录的地方码上[TOC]即可生成目录。  </p>
+<h2 id="如何改变文本的样式"><a href="#如何改变文本的样式" class="headerlink" title="如何改变文本的样式"></a>如何改变文本的样式</h2><pre><code>*强调文本* _强调文本_</code></pre>
+<p><em>强调文本</em> <em>强调文本</em></p>
+<pre><code>**加粗文本** __加粗文本__</code></pre>
+<p><strong>加粗文本</strong> <strong>加粗文本</strong></p>
+<pre><code>==标记文本==</code></pre>
+<p>标记文本</p>
+<pre><code>~~删除文本~~</code></pre>
+<p>删除文本</p>
+<pre><code>&gt;引用文本</code></pre>
+<blockquote>
+<p>引用文本</p>
+</blockquote>
+<pre><code>H~2~o 是液体</code></pre>
+<p>H2O 是液体。</p>
+<pre><code>2^10^运算结果是1024</code></pre>
+<p>210 运算结果是 1024.</p>
+<blockquote>
+<p>attention: 要实现上面这些也行需要在file-&gt;preference里面进行设置</p>
+</blockquote>
+<h2 id="生成一个适合你的列表"><a href="#生成一个适合你的列表" class="headerlink" title="生成一个适合你的列表"></a>生成一个适合你的列表</h2><pre><code>- 项目
+  - 项目
+    - 项目</code></pre>
+<ul>
+<li><p>项目</p>
+<ul>
+<li>项目<ul>
+<li>  项目</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>项目1</li>
+<li>项目2</li>
+<li>项目3</li>
+</ol>
+</li>
+</ul>
+<ol>
+<li><p> 项目1</p>
+</li>
+<li><p> 项目2</p>
+</li>
+<li><p>项目3</p>
+<ul>
+<li><input disabled="" type="checkbox"> 计划任务</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li><p> 计划任务</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> 完成任务</li>
+</ul>
+</li>
+<li><p>   完成任务</p>
+</li>
+</ul>
+<h2 id="如何插入一段漂亮的代码片"><a href="#如何插入一段漂亮的代码片" class="headerlink" title="如何插入一段漂亮的代码片"></a>如何插入一段漂亮的代码片</h2><p>展示同样高亮的 <code>代码片</code>.</p>
+<pre><code><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// An highlighted block</span></span><br><span class="line"><span class="keyword">var</span> foo = <span class="string">&#x27;bar&#x27;</span>;</span><br></pre></td></tr></table></figure>
+
+
+// An highlighted block
+var foo = &#39;bar&#39;;
+12</code></pre>
+<h2 id="插入链接与图片"><a href="#插入链接与图片" class="headerlink" title="插入链接与图片"></a>插入链接与图片</h2><h3 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h3><pre><code>链接:[link](https://www.cnblogs.com/coding-fun).</code></pre>
+<p>链接: <a href="https://www.cnblogs.com/coding-fun">link</a>.</p>
+<ul>
+<li><p>插入链接还有一个方便快捷的方式[link][num],其中num就是数字，例如[link]<a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">1</a>，然后在文末贴出[num]到链接的映射如[1]:<a href="https://www.cnblogs.com/coding-fun">https://www.cnblogs.com/coding-fun</a></p>
+<p>  [link][1]</p>
+</li>
+</ul>
+<p><a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">link</a></p>
+<h3 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h3><pre><code>图片: ![Xun](https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg)</code></pre>
+<p><img src= "/img/loading.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg" alt="Xun"></p>
+<h3 id="插入带链接的图片"><a href="#插入带链接的图片" class="headerlink" title="插入带链接的图片"></a>插入带链接的图片</h3><ul>
+<li><p>还可以给图片加上链接，但是Typera不支持给图片加链接的markdown语法，为知笔记是支持的，也可能是我姿势不对吧，所以在Typora里面我都是用html代码来给图片加链接，下面分别给出这两种方式代码:</p>
+<p>  //markdown<br>  <a href="https://blog.csdn.net/tracy1talent"><img src= "/img/loading.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg" alt="Xun" title="Xun"></a></p>
+</li>
+</ul>
+<pre><code>//HTML
+&lt;div align=&quot;center&quot;&gt;
+ &lt;a href=&quot;https://blog.csdn.net/tracy1talent&quot;&gt;
+ &lt;img src=&quot;https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg&quot; title=&quot;Xun&quot;&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+123456</code></pre>
+<p> <a href="https://blog.csdn.net/tracy1talent"><img src= "/img/loading.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun1.jpg" title="Xun"></a> </p>
+<ul>
+<li>  除了代码方式外还可以以拖拽方式上传图片。</li>
+</ul>
+<h2 id="创建一个表格"><a href="#创建一个表格" class="headerlink" title="创建一个表格"></a>创建一个表格</h2><p>一个简单的表格是这么创建的：</p>
+<pre><code>项目 | Value
+-------- | -----
+电脑 | $1600
+手机 | $12
+导管 | $1</code></pre>
+<p>项目</p>
+<p>Value</p>
+<p>电脑</p>
+<p>$1600</p>
+<p>手机</p>
+<p>$12</p>
+<p>导管</p>
+<p>$1</p>
+<h3 id="设定内容居中、居左、居右"><a href="#设定内容居中、居左、居右" class="headerlink" title="设定内容居中、居左、居右"></a>设定内容居中、居左、居右</h3><ul>
+<li><p>  使用<code>:---------:</code>居中</p>
+</li>
+<li><p>  使用<code>:----------</code>居左</p>
+</li>
+<li><p>  使用<code>----------:</code>居右</p>
+</li>
+</ul>
+<pre><code>|     第一列     |         第二列 | 第三列         |
+| :------------: | -------------: | :------------- |
+| 第一列文本居中 | 第二列文本居右 | 第三列文本居左 |</code></pre>
+<p>第一列</p>
+<p>第二列</p>
+<p>第三列</p>
+<p>第一列文本居中</p>
+<p>第二列文本居右</p>
+<p>第三列文本居左</p>
+<h3 id="SmartyPants"><a href="#SmartyPants" class="headerlink" title="SmartyPants"></a>SmartyPants</h3><p>SmartyPants将ASCII标点字符转换为“智能”印刷标点HTML实体。例如：</p>
+<pre><code>| TYPE |ASCII |HTML |                      
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`&#39;Isn&#39;t this fun?&#39;` |&#39;Isn&#39;t this fun?&#39; |
+|Quotes |`&quot;Isn&#39;t this fun?&quot;` |&quot;Isn&#39;t this fun?&quot; |
+|Dashes |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|</code></pre>
+<p>TYPE</p>
+<p>ASCII</p>
+<p>HTML</p>
+<p>Single backticks</p>
+<p><code>&#39;Isn&#39;t this fun?&#39;</code></p>
+<p>‘Isn’t this fun?’</p>
+<p>Quotes</p>
+<p><code>&quot;Isn&#39;t this fun?&quot;</code></p>
+<p>“Isn’t this fun?”</p>
+<p>Dashes</p>
+<p><code>-- is en-dash, --- is em-dash</code></p>
+<p>– is en-dash, — is em-dash</p>
+<h2 id="如何创建一个注脚"><a href="#如何创建一个注脚" class="headerlink" title="如何创建一个注脚"></a>如何创建一个注脚</h2><pre><code>一个具有注脚的文本。[^1]</code></pre>
+<ul>
+<li><p>一个具有注脚的文本。<a href="#fn1">1</a></p>
+<p>  [^1]: 注脚的解释</p>
+</li>
+<li><p>  注脚写在文中但被markdown解析后会放在文末</p>
+</li>
+</ul>
+<h2 id="KaTeX数学公式"><a href="#KaTeX数学公式" class="headerlink" title="KaTeX数学公式"></a>KaTeX数学公式</h2><ul>
+<li><p>可以使用渲染LaTeX数学表达式 <a href="https://khan.github.io/KaTeX/">KaTeX</a>:</p>
+<p>  Gamma公式展示 Γ ( n ) = ( n − 1 ) ! ∀ n ∈ N \Gamma(n) = (n-1)!\quad\forall n\in\mathbb N Γ(n)=(n−1)!∀n∈N 是通过欧拉积分</p>
+</li>
+</ul>
+<pre><code>$$
+\Gamma(z) = \int_0^\infty t^&#123;z-1&#125;e^&#123;-t&#125;dt\,.
+$$</code></pre>
+<p>Γ ( z ) = ∫ 0 ∞ t z − 1 e − t d t &ThinSpace; . \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,. Γ(z)=∫0∞tz−1e−tdt.</p>
+<blockquote>
+<p>你可以找到更多关于的信息 <strong>LaTeX</strong> 数学表达式<a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">here</a>.</p>
+</blockquote>
+<h2 id="甘特图绘制"><a href="#甘特图绘制" class="headerlink" title="甘特图绘制"></a>甘特图绘制</h2><pre><code><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gantt</span><br><span class="line">        dateFormat YYYY-MM-DD</span><br><span class="line">        title Adding GANTT diagram functionality to mermaid</span><br><span class="line">        section 现有任务</span><br><span class="line">        已完成 :done, des1, 2014-01-06,2014-01-08</span><br><span class="line">        进行中 :active, des2, 2014-01-09, 3d</span><br><span class="line">        计划一 : des3, after des2, 5d</span><br><span class="line">        计划二 : des4, after des3, 5d</span><br></pre></td></tr></table></figure></code></pre>
+<p>Mon 06 Mon 13 Mon 20 已完成 进行中 计划一 计划二 现有任务 Adding GANTT diagram functionality to mermaid</p>
+<blockquote>
+<p>关于 <strong>甘特图</strong> 语法，参考 <a href="https://mermaidjs.github.io/">这儿</a>,</p>
+</blockquote>
+<h2 id="UML-图表绘制"><a href="#UML-图表绘制" class="headerlink" title="UML 图表绘制"></a>UML 图表绘制</h2><ul>
+<li><p>可以使用UML图表进行渲染。 <a href="https://mermaidjs.github.io/">Mermaid</a>. 例如下面产生的一个序列图：</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sequenceDiagram</span><br><span class="line">张三 -&gt;&gt; 李四: 你好！李四, 最近怎么样?</span><br><span class="line">李四--&gt;&gt;王五: 你最近怎么样，王五？</span><br><span class="line">李四--x 张三: 我很好，谢谢!</span><br><span class="line">李四-x 王五: 我很好，谢谢!</span><br><span class="line">Note right of 王五: 李四想了很长时间, 文字太长了&lt;br&#x2F;&gt;不适合放在一行.</span><br><span class="line"></span><br><span class="line">李四--&gt;&gt;张三: 打量着王五...</span><br><span class="line">张三-&gt;&gt;王五: 很好... 王五, 你怎么样?</span><br></pre></td></tr></table></figure>
+
+
+</li>
+</ul>
+<p>张三 李四 王五 你好！李四, 最近怎么样? 你最近怎么样，王五？ 我很好，谢谢! 我很好，谢谢! 李四想了很长时间, 文字太长了 不适合放在一行. 打量着王五… 很好… 王五, 你怎么样? 张三 李四 王五</p>
+<ul>
+<li><p>这将产生一个流程图:</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">graph LR</span><br><span class="line">A[长方形] -- 链接 --&gt; B((圆))</span><br><span class="line">A --&gt; C(圆角长方形)</span><br><span class="line">B --&gt; D&#123;菱形&#125;</span><br><span class="line">C --&gt; D</span><br></pre></td></tr></table></figure>
+
+
+</li>
+</ul>
+<p>链接</p>
+<p>长方形</p>
+<p>圆</p>
+<p>圆角长方形</p>
+<p>菱形</p>
+<blockquote>
+<p>关于 <strong>Mermaid</strong> 语法，参考 <a href="https://mermaidjs.github.io/">这儿</a>,</p>
+</blockquote>
+<h2 id="FLowchart流程图绘制"><a href="#FLowchart流程图绘制" class="headerlink" title="FLowchart流程图绘制"></a>FLowchart流程图绘制</h2><ul>
+<li>  Typora目前不支持flowchart的渲染，这里仅给出一个示例代码</li>
+</ul>
+<p>Created with Raphaël 2.2.0 开始 我的操作 确认？ 结束 yes no</p>
+<blockquote>
+<p>关于 <strong>Flowchart流程图</strong> 语法，参考 <a href="http://adrai.github.io/flowchart.js/">这儿</a>.</p>
+</blockquote>
+<h2 id="导出与导入"><a href="#导出与导入" class="headerlink" title="导出与导入"></a>导出与导入</h2><h3 id="导出"><a href="#导出" class="headerlink" title="导出"></a>导出</h3><p>当你完成了一篇文章的写作, 在左上方工具栏找到 <strong>文件-&gt;导出</strong> ，选择一个你想要的文件格式进行本地保存，支持导出HTML，LaTex，PDF，Word等等。</p>
+<h3 id="导入"><a href="#导入" class="headerlink" title="导入"></a>导入</h3><p>文件导入部分需要下载Pandoc插件用于文件转换，平时写markdown文档没用到导入这个模块，所以也不了解具体的导入细节。</p>
+<hr>
+<ol>
+<li> 这是一个注脚解释 <a href="#fnref1">↩︎</a></li>
+</ol>
+]]></content>
+      <categories>
+        <category>markdown</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo主题配置整合包发布</title>
     <url>/hexo-ran.html</url>
     <content><![CDATA[<p><img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
@@ -165,6 +452,31 @@
       </categories>
       <tags>
         <tag>bilibili</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo建立一个独立的html页面</title>
+    <url>/hexohtml.html</url>
+    <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
+<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><pre><code>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 `_config.yml` 里找到 `skip_render` 关键字，在后面添加想要跳过渲染的页面，比如我们创建 `\source\about\index.html`， 配置文件填写：`skip_render: about\**`，那么就表示 `\source\about` 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：https://hexo.io/docs/configuration</code></pre>
+<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><pre><code>在文章头部的 Front-matter 里添加配置 `layout: false` 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 `\source\about\index.md`，将这个页面的相关 HTML 代码写进`.md`文件并保存，然后在 `index.md` 的头部写入：
+
+---
+layout: false
+---
+
+    xxxxxxxxxxxxx
+    xx HTML代码 xx
+    xxxxxxxxxxxxx
+    </code></pre>
+<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
+<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -592,6 +904,105 @@
       </categories>
       <tags>
         <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VirtualHardwares硬件虚拟工具收费版本</title>
+    <url>/virtualhardwareshack.html</url>
+    <content><![CDATA[<p><strong>VirtualHardwares硬件虚拟工具收费版本</strong>为能够任意更改你的硬件显示参数的软件，并非真实的改变哟，有时候试用部分程序的时候，会用到它来改本机ID识别码，进行多次、长时间的免费</p>
+<p>使用，功能上来说，还是挺强大实用的东西呢，推荐给有需要的用户们！</p>
+<h3 id="virtualhardwares破解版简介"><a href="#virtualhardwares破解版简介" class="headerlink" title="virtualhardwares破解版简介"></a>virtualhardwares破解版简介</h3><p>VirtualHardwares是一款windows下可视化可定制虚拟硬件信息的工具。VirtualHardwares并不是真正的修改，而是虚拟修改，您重启计算机后将恢复到原始计算机状态，不会对您的硬件和软件造成任何影响。VirtualHardwares内置了查询硬件信息和随机生成硬件信息，用户不需要任何专业知识，甚至可以完全不懂硬件信息，也能快速虚拟一份新硬件信息。此外他能支持全局虚拟一份硬件信息，也支持不同进程虚拟不同硬件信息，他是完全可定制化的，是一款所见即所得的软件。让普通人虚拟出专业水准的硬件信息，以前是一个不可思议的想法，而VirtualHardwares的出现，让这成为现实。经过数年的发展，目前国内已经有数万用户成功利用VirtualHardwares自行虚拟硬件信息，不再受制于软件硬件公司，不少用户省了一笔不菲费用；同时也发展了一大批个人爱好者，这些爱好者很多都是个人用户，硬件DIY爱好者，熟悉硬件和硬件DIY，以前苦于没有合适的虚拟工具，无法根据自己的需要自行虚拟硬件，VirtualHardwares的出现，让他们如虎添翼，纷纷虚拟出适合自己需求的硬件信息。</p>
+<h3 id="GITEE下载地址，"><a href="#GITEE下载地址，" class="headerlink" title="GITEE下载地址，"></a><a href="https://gitee.com/lybbs/img/raw/master/hardware.exe" target="_blank">GITEE下载地址</a>，</h3><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220113248.png"></p>
+<h3 id="本软件对电脑软件硬件有损坏吗？"><a href="#本软件对电脑软件硬件有损坏吗？" class="headerlink" title="本软件对电脑软件硬件有损坏吗？"></a>本软件对电脑软件硬件有损坏吗？</h3><p>**硬件:**本软件是虚拟修改，并非正真修改，重启计算机将恢复您的原始计算机状态。因此本软件不会对您的硬件有任何损坏。 </p>
+<p>**软件:**本软件是虚拟设置操作系统和软件信息，不会真正的修改操作系统和软件的设置。 </p>
+<p>**注意:**某些软件会根据硬件信息来生成序列号和注册码，您的虚拟操作可能会使您的机器码改变，导致您正常使用的序列号或者注册码无法正常使用。(使用本软件表明您已经同意此操作，在使用过程中出现任何未知预料的错误将于本人无关)。</p>
+<h3 id="VirtualHardwares免费主要特性"><a href="#VirtualHardwares免费主要特性" class="headerlink" title="VirtualHardwares免费主要特性"></a>VirtualHardwares免费主要特性</h3><p>功能特性概括起来就是兼容性强、多重虚拟、可定制化、参数丰富。下面我们逐个来看下介绍。</p>
+<p><strong>1、兼容性强</strong></p>
+<p>支持所有windows32/64位系统(xp-win10)</p>
+<p>支持<a href="http://www.itmop.com/key/vmware/">vmware</a> Workstation Pro<a href="http://www.itmop.com/key/xuniji/">虚拟机</a></p>
+<p>全面兼容32/64位进程</p>
+<p>重启恢复原始硬件信息状态</p>
+<p>不破坏任何软件和硬件</p>
+<p><strong>2、多重虚拟</strong></p>
+<p>支持驱动级系统全局虚拟</p>
+<p>支持对所有进程虚拟</p>
+<p>支持对精准进程ID虚拟</p>
+<p>支持启动新的进程虚拟</p>
+<p>支持以上4种模式禁止查询硬件信息</p>
+<p><strong>3、可定制化</strong></p>
+<p>支持自定义硬件信息进行虚拟一份新硬件信息</p>
+<p>可根据虚拟模式来虚拟不同硬件信息</p>
+<p>完全可定制化</p>
+<p><strong>4、参数丰富</strong></p>
+<p>系统信息虚拟：计算机名,产品ID,系统安时间</p>
+<p>网卡信息虚拟：当前、物理、操作系统的MAC地址</p>
+<p>硬盘分区信息虚拟：硬盘序列号、硬盘型号、硬盘大小、硬盘固件版本、硬盘分区序列号</p>
+<h3 id="运行模式介绍"><a href="#运行模式介绍" class="headerlink" title="运行模式介绍"></a>运行模式介绍</h3><p>该软件包括hardware.exe、VMwarehardware.exe、网卡MAC地址修改工具.exe 和 GameHardware.exe四个可执行文件，包换多种模式设置，需要注意的是不论什么模式均需要加载驱动，所以可能被<a href="http://www.itmop.com/key/anquanruanjian/">安全软件</a>拦截，这个工具不会修改任何硬件，也不会修改操作系统任何设置，重启计算机将恢复到系统的初始化状态，所以大家可以大胆设置放行。</p>
+<p><strong>驱动全局模式</strong></p>
+<p>驱动全局模式是驱动级虚拟一份硬件信息，当操作系统或者硬件信息查询软件进行硬件信息查询的时候都能进入虚拟硬件模式。</p>
+<p>双击桌面的hardware.exe 图标启动本软件，选择”驱动全局模式”，勾选需要虚拟的硬件信息，点击确定按钮。</p>
+<p><strong>驱动进程模式</strong></p>
+<p>驱动进程模式是驱动级虚拟一份硬件信息，当硬件信息查询软件进行硬件信息查询的时候都能进入虚拟硬件模式（只对当前选择操作的进程有效其他进程和系统不受影响）。</p>
+<p><strong>全部进程模式</strong></p>
+<p>全部进程模式是对当前操作系统正在运行的所有进程进程虚拟一份完全一样的硬件信息，这个工具只是内部自动过滤了系统进程，不会对系统造成任何影响，并且此操作只会对系统正在运行的常用软件进行虚拟硬件。</p>
+<p><strong>单一进程模式</strong></p>
+<p>单一进程模式是对当前某个进程进程虚拟一份硬件信息的模式，比如只需对获取硬件信息的软件执行虚拟一份硬件信息，这个功能就非常合适了。不仅可以启动一个新的进程开虚拟一份硬件信息还可以在进程列表中选择一个已经存在的进程进行虚拟一份硬件信息。</p>
+<p><strong>禁止查询模式</strong></p>
+<h3 id="virtualhardwares怎么用"><a href="#virtualhardwares怎么用" class="headerlink" title="virtualhardwares怎么用"></a>virtualhardwares怎么用</h3><p><strong>常见操作说明</strong></p>
+<p><strong>1、虚拟硬件信息使用说明</strong></p>
+<p><strong>1.1 修改硬盘序列号</strong></p>
+<p>硬盘有硬盘序列号,硬盘固件版本,硬盘型号ID,硬盘大小。这些信息都可以虚拟一份。选择需要操作的硬盘，勾选要操作的硬盘信息，纯手工输入您需要虚拟的硬盘硬件信息，点击随机按钮，随机生成一份，点击确定。</p>
+<p><strong>1.2 修改分区序列号</strong></p>
+<p>分区序列号是硬盘分区后(C盘 D盘)每个盘符都有的一个序列号，您可以对分区的序列号进行虚拟，重启计算机将恢复您的分区序列号初始化状态。选择需要操作的分区，纯手工输入您需要虚拟的分区序列号，点击随机按钮，随机生成一份，点击确定。</p>
+<p><strong>1.3 修改网卡MAC地址</strong></p>
+<p>网卡MAC码是由全球惟一的一个固定组织来分配的，未经认证和授权的厂家无权生产网卡。每块网卡都有一个固定的卡号，并且任何正规厂家生产的网卡上都直接标明了卡号，一般为一组12位的16进制数。其中前6位代表网卡的生产厂商，您可以虚拟物理网卡MAC、当前网卡MAC和操作系统的网卡MAC地址。</p>
+<p>选择要操作的网卡，勾选操作选项，纯手工输入网卡MAC地址，点击随机按钮来随机生成一份，点击确定按钮。</p>
+<p>为了使用方便，本工具包单独制作有一个网卡MAC地址修改工具.exe的可执行文件。 </p>
+<p><strong>2、VM虚拟机修改使用说明</strong></p>
+<p>VMwarehardware是一款在VMware Workstation Pro虚拟机里面运行的软件，用来修改VMware Workstation Pro虚拟机里面的xp-win10系统的硬件信息，3z学堂这里要特别提醒下，请勿用这个虚拟机软件修改物理机器！</p>
+<p>请勿用这个虚拟机软件修改物理机器！请勿用这个虚拟机软件修改物理机器！重要的事情说三遍！</p>
+<p>VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。VMware Workstation可在一部实体机器上模拟完整的网络环境，以及可便于携带的虚拟机器，其更好的灵活性与先进的技术胜过了市面上其他的虚拟计算机软件。对于企业的 IT开发人员和系统管理员而言， VMware在虚拟网路，实时快照，拖曳共享文件夹，支持 PXE 等方面的特点使它成为必不可少的工具。</p>
+<p>使用方法：在VMware Workstation Pro虚拟机里面运行VMwarehardware.exe，勾选要修改的信息，可点击随机来随机生成硬件信息，点击确定修改按钮来实现。</p>
+<p><strong>3、游戏多开虚拟硬件使用说明</strong></p>
+<p>GameHardware是一款针对游戏多开多进程不同硬件信息的工具，支持系统MAC地址 硬盘信息 分区信息 自动父子进程硬件信息同步。</p>
+<p>使用方法：启动GameHardware.exe，登陆账号，功能设置，添加程序，启动游戏。</p>
+<p><strong>3.1 父子进程同步模式</strong></p>
+<p>比如A.exe启动了B.exe，然后B.exe又启动了C.exe，那么ABC进程硬件信息同步，反之只有A有效果</p>
+<p><strong>3.2 禁用WMI模式</strong></p>
+<p>禁用系统WMI接口查询硬件信息，推荐勾选，如果进程环境异常请不要勾选增强硬盘模式(插入U盘等移动设备系统识别不了请关闭此项)。注册表中保存了一份硬盘信息，某些程序会读取这里，推荐勾选，如果进程环境异常请不要勾选</p>
+<p><strong>3.3 自动加入模式</strong></p>
+<p>启动新进程自动加入虚拟列表中</p>
+<p><strong>3.4 设置开机启动流程</strong></p>
+<p>1.右键创建到桌面快捷方式 2.拖动桌面快捷方式到开始程序启动</p>
+<h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><p><strong>2018/03/07</strong></p>
+<p>修复分区序列号虚拟设置后去掉勾选无法还原的BUG</p>
+<p><strong>2018/03/02</strong></p>
+<p>紧急去掉上个版本虚拟硬盘信息导致蓝屏的问题</p>
+<p><strong>2018/03/01</strong></p>
+<p>1.禁止查询模式下分区序列号置零处理,修复分区序列号修改后关闭EXE重新打开读取修改状态错误的bug</p>
+<p>2.增强硬盘信息虚拟能力，某些情况下虚拟硬盘信息关闭EXE打开还是以前的信息</p>
+<p>3.磁盘信息只对固定磁盘类型虚拟，过滤U盘 CD-ROM 网络磁盘等等</p>
+<p>4.勾选硬盘信息和禁止查询模式下，插入U盘识别不了的，请关闭这些功能重新插拔U盘已正常识别使用。</p>
+<p><strong>2018/02/23</strong></p>
+<p>驱动全局模式的禁止查询模式增加新的功能，大大提升禁止查询硬件信息能力</p>
+<p><strong>2018/01/31</strong></p>
+<p>hardware正式发布</p>
+<h3 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h3><p><strong>1、虚拟硬件信息后如何恢复？</strong></p>
+<p>当虚拟硬件信息后想恢复原始状态时只需要去掉勾选的硬件信息，点击确定无需重启计算机即可完成恢复。也可以使用快捷恢复按钮”一键恢复”</p>
+<p><strong>2、VMwarehardware使用场景</strong></p>
+<p>VMwarehardware是一款在VMware Workstation Pro虚拟机里面运行的软件，用来修改VMware Workstation Pro虚拟机里面的xp-win10系统的硬件信息，请勿用于修改物理机器，否则后果自负！</p>
+<p><strong>3、操作完毕后软件可以关闭吗？</strong></p>
+<p>操作完成后您可以关闭本软件，它仍然在继续工作</p>
+<p>**4、为什么网卡MAC地址修改失败？ **</p>
+<p>答：这种情况一般是网卡不支持修改MAC地址(比如USB无线网卡)</p>
+<p>**5、为什么重启网卡失败? **</p>
+<p>答：这种情况一般是网卡被其他程序独占打开了，导致程序重启网卡失败，可以尝试手动禁用网卡在启动或重启计算机</p>
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>破解软件</tag>
       </tags>
   </entry>
   <entry>
@@ -1156,9 +1567,9 @@ npm install</code></pre>
 </li>
 </ul>
 <p>打开hexo的服务，在浏览器输入localhost:4000就可以看到你生成的博客了。</p>
-<p>大概长这样：<br><img src= "/img/loading.gif" data-lazy-src="http://ww1.sinaimg.cn/large/d40b6c29gy1fvrksvj6e0j211c0f2n60.jpg"><br>使用ctrl+c可以把服务关掉。</p>
+<p>大概长这样：<br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrksvj6e0j211c0f2n60.jpg"><br>使用ctrl+c可以把服务关掉。</p>
 <h1 id="4-GitHub创建个人仓库"><a href="#4-GitHub创建个人仓库" class="headerlink" title="4. GitHub创建个人仓库"></a>4. GitHub创建个人仓库</h1><p>首先，你先要有一个GitHub账户，去注册一个吧。</p>
-<p>注册完登录后，在GitHub.com中看到一个New repository，新建仓库<br><img src= "/img/loading.gif" data-lazy-src="http://ww1.sinaimg.cn/large/d40b6c29gy1fvrkstcm7ej20ei0c1aah.jpg"></p>
+<p>注册完登录后，在GitHub.com中看到一个New repository，新建仓库<br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkstcm7ej20ei0c1aah.jpg"></p>
 <p>创建一个和你用户名相同的仓库，<a href="http://后面加.github.io/">后面加.github.io</a>，只有这样，将来要部署到GitHub page的时候，才会被识别，<a href="http://也就是xxxx.github.io/">也就是xxxx.github.io</a>，其中xxx就是你注册GitHub的用户名。我这里是已经建过了。</p>
 <p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212458.png"></p>
 <p>点击create repository。</p>
@@ -1175,7 +1586,7 @@ git config user.email</code></pre>
 <p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212536.png"></p>
 <p>ssh，简单来讲，就是一个秘钥，其中，<code>id_rsa</code>是你这台电脑的私人秘钥，不能给别人看的，<code>id_rsa.pub</code>是公共秘钥，可以随便给别人看。把这个公钥放在GitHub上，这样当你链接GitHub自己的账户时，它就会根据公钥匹配你的私钥，当能够相互匹配时，才能够顺利的通过git上传你的文件到GitHub上。</p>
 <p>而后在GitHub的setting中，找到SSH keys的设置选项，点击<code>New SSH key</code><br>把你的<code>id_rsa.pub</code>里面的信息复制进去。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="http://ww1.sinaimg.cn/large/d40b6c29gy1fvrkstdifaj210s0gfjrz.jpg"></p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkstdifaj210s0gfjrz.jpg">****</p>
 <p>在gitbash中，查看是否成功</p>
 <pre><code>ssh -T git@github.com</code></pre>
 <h1 id="6-将hexo部署到GitHub"><a href="#6-将hexo部署到GitHub" class="headerlink" title="6. 将hexo部署到GitHub"></a>6. 将hexo部署到GitHub</h1><p>这一步，我们就可以将hexo和GitHub关联起来，也就是将hexo生成的文章部署到GitHub上，打开站点配置文件 <code>_config.yml</code>，翻到最后，修改为<br>YourgithubName就是你的GitHub账户</p>
@@ -1191,7 +1602,7 @@ hexo generate
 hexo deploy</code></pre>
 <p>其中 <code>hexo clean</code>清除了你之前生成的东西，也可以不加。<br><code>hexo generate</code> 顾名思义，生成静态文章，可以用 <code>hexo g</code>缩写<br><code>hexo deploy</code> 部署文章，可以用<code>hexo d</code>缩写</p>
 <p>注意deploy时可能要你输入username和password。</p>
-<p>得到下图就说明部署成功了，过一会儿就可以在<code>http://yourname.github.io</code> 这个网站看到你的博客了！！<br><img src= "/img/loading.gif" data-lazy-src="http://ww1.sinaimg.cn/large/d40b6c29gy1fvrkstbtvfj20lq01u3yd.jpg"></p>
+<p>得到下图就说明部署成功了，过一会儿就可以在<code>http://yourname.github.io</code> 这个网站看到你的博客了！！<br><img src= "/img/loading.gif" data-lazy-src="https://ww1.sinaimg.cn/large/d40b6c29gy1fvrkstbtvfj20lq01u3yd.jpg"></p>
 <h1 id="第二部分"><a href="#第二部分" class="headerlink" title="第二部分"></a>第二部分</h1><p>hexo的基本配置，更换主题，实现多终端工作，以及在coding page部署实现国内外分流。</p>
 <h1 id="1-hexo基本配置"><a href="#1-hexo基本配置" class="headerlink" title="1. hexo基本配置"></a>1. hexo基本配置</h1><p>在文件根目录下的<code>_config.yml</code>，就是整个hexo框架的配置文件了。可以在里面修改大部分的配置。详细可参考<a href="https://hexo.io/zh-cn/docs/configuration">官方的配置</a>描述。</p>
 <h3 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h3><p>参数</p>
@@ -1300,7 +1711,7 @@ tags:
 <p>就会自动把newpage.md发送到post中。</p>
 <hr>
 <h1 id="2-更换主题"><a href="#2-更换主题" class="headerlink" title="2. 更换主题"></a>2. 更换主题</h1><p>到这一步，如果你觉得默认的<code>landscape</code>主题不好看，那么可以在官网的主题中，选择你喜欢的一个主题进行修改就可以啦。<a href="https://hexo.io/themes/">点这里</a></p>
-<p><img src= "/img/loading.gif" data-lazy-src="http://ww1.sinaimg.cn/large/d40b6c29gy1fvrkswpjhtj21fu0rhtp6.jpg"></p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkswpjhtj21fu0rhtp6.jpg"></p>
 <p>这里有200多个主题可以选。不过最受欢迎的就是那么几个，比如<a href="https://github.com/theme-next/hexo-theme-next">NexT主题</a>，非常的简洁好看，大多数人都选择这个，关于这个的教程也比较多。不过我选择的是<a href="https://github.com/jerryc127/hexo-theme-butterfly">butterfly</a>这个主题</p>
 <p>直接在github链接上下载下来，然后放到<code>theme</code>文件夹下就行了，然后再在刚才说的配置文件中把<code>theme</code>换成那个主题文件夹的名字，它就会自动在<code>theme</code>文件夹中搜索你配置的主题。</p>
 <h3 id="menu（菜单栏）"><a href="#menu（菜单栏）" class="headerlink" title="menu（菜单栏）"></a>menu（菜单栏）</h3><p>也就是上面菜单栏上的这些东西。</p>
@@ -1386,7 +1797,7 @@ npm install hexo-generator-baidu-sitemap --save</code></pre>
 <p>重新部署后，就可以在public文件夹下看到生成的sitemap.xml和baidusitemap.xml了。</p>
 <p>然后就可以向百度提交你的站点地图了。</p>
 <p>这里建议使用自动提交。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="http://ww1.sinaimg.cn/large/d40b6c29gy1fvrkstwp4pj20fc0kyq4n.jpg"></p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkstwp4pj20fc0kyq4n.jpg"></p>
 <p><strong>ps:</strong> 百度收录比较慢，慢慢等个十天半个月再去<code>site:&lt;域名&gt;</code>看看有没有被收录。</p>
 <h3 id="google的SEO"><a href="#google的SEO" class="headerlink" title="google的SEO"></a>google的SEO</h3><p>流程一样，google更简单，而且收录更快，进入<a href="https://search.google.com/search-console/sitemaps?resource_id=http://fangzh.top/&hl=zh-CN">google站点地图</a>，提交网站和sitemap.xml，就可以了。</p>
 <p>如果你这个域名在google这里出了问题，那你就提交 <a href="http://yourname.github.io/">yourname.github.io</a>，这个链接，效果是一样的。</p>
@@ -1401,417 +1812,6 @@ npm install hexo-generator-baidu-sitemap --save</code></pre>
       </categories>
       <tags>
         <tag>开发</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
-
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>维护</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>VirtualHardwares硬件虚拟工具收费版本</title>
-    <url>/virtualhardwareshack.html</url>
-    <content><![CDATA[<p><strong>VirtualHardwares硬件虚拟工具收费版本</strong>为能够任意更改你的硬件显示参数的软件，并非真实的改变哟，有时候试用部分程序的时候，会用到它来改本机ID识别码，进行多次、长时间的免费</p>
-<p>使用，功能上来说，还是挺强大实用的东西呢，推荐给有需要的用户们！</p>
-<h3 id="virtualhardwares破解版简介"><a href="#virtualhardwares破解版简介" class="headerlink" title="virtualhardwares破解版简介"></a>virtualhardwares破解版简介</h3><p>VirtualHardwares是一款windows下可视化可定制虚拟硬件信息的工具。VirtualHardwares并不是真正的修改，而是虚拟修改，您重启计算机后将恢复到原始计算机状态，不会对您的硬件和软件造成任何影响。VirtualHardwares内置了查询硬件信息和随机生成硬件信息，用户不需要任何专业知识，甚至可以完全不懂硬件信息，也能快速虚拟一份新硬件信息。此外他能支持全局虚拟一份硬件信息，也支持不同进程虚拟不同硬件信息，他是完全可定制化的，是一款所见即所得的软件。让普通人虚拟出专业水准的硬件信息，以前是一个不可思议的想法，而VirtualHardwares的出现，让这成为现实。经过数年的发展，目前国内已经有数万用户成功利用VirtualHardwares自行虚拟硬件信息，不再受制于软件硬件公司，不少用户省了一笔不菲费用；同时也发展了一大批个人爱好者，这些爱好者很多都是个人用户，硬件DIY爱好者，熟悉硬件和硬件DIY，以前苦于没有合适的虚拟工具，无法根据自己的需要自行虚拟硬件，VirtualHardwares的出现，让他们如虎添翼，纷纷虚拟出适合自己需求的硬件信息。</p>
-<h3 id="GITEE下载地址，"><a href="#GITEE下载地址，" class="headerlink" title="GITEE下载地址，"></a><a href="https://gitee.com/lybbs/img/raw/master/hardware.exe" target="_blank">GITEE下载地址</a>，</h3><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220113248.png"></p>
-<h3 id="本软件对电脑软件硬件有损坏吗？"><a href="#本软件对电脑软件硬件有损坏吗？" class="headerlink" title="本软件对电脑软件硬件有损坏吗？"></a>本软件对电脑软件硬件有损坏吗？</h3><p>**硬件:**本软件是虚拟修改，并非正真修改，重启计算机将恢复您的原始计算机状态。因此本软件不会对您的硬件有任何损坏。 </p>
-<p>**软件:**本软件是虚拟设置操作系统和软件信息，不会真正的修改操作系统和软件的设置。 </p>
-<p>**注意:**某些软件会根据硬件信息来生成序列号和注册码，您的虚拟操作可能会使您的机器码改变，导致您正常使用的序列号或者注册码无法正常使用。(使用本软件表明您已经同意此操作，在使用过程中出现任何未知预料的错误将于本人无关)。</p>
-<h3 id="VirtualHardwares免费主要特性"><a href="#VirtualHardwares免费主要特性" class="headerlink" title="VirtualHardwares免费主要特性"></a>VirtualHardwares免费主要特性</h3><p>功能特性概括起来就是兼容性强、多重虚拟、可定制化、参数丰富。下面我们逐个来看下介绍。</p>
-<p><strong>1、兼容性强</strong></p>
-<p>支持所有windows32/64位系统(xp-win10)</p>
-<p>支持<a href="http://www.itmop.com/key/vmware/">vmware</a> Workstation Pro<a href="http://www.itmop.com/key/xuniji/">虚拟机</a></p>
-<p>全面兼容32/64位进程</p>
-<p>重启恢复原始硬件信息状态</p>
-<p>不破坏任何软件和硬件</p>
-<p><strong>2、多重虚拟</strong></p>
-<p>支持驱动级系统全局虚拟</p>
-<p>支持对所有进程虚拟</p>
-<p>支持对精准进程ID虚拟</p>
-<p>支持启动新的进程虚拟</p>
-<p>支持以上4种模式禁止查询硬件信息</p>
-<p><strong>3、可定制化</strong></p>
-<p>支持自定义硬件信息进行虚拟一份新硬件信息</p>
-<p>可根据虚拟模式来虚拟不同硬件信息</p>
-<p>完全可定制化</p>
-<p><strong>4、参数丰富</strong></p>
-<p>系统信息虚拟：计算机名,产品ID,系统安时间</p>
-<p>网卡信息虚拟：当前、物理、操作系统的MAC地址</p>
-<p>硬盘分区信息虚拟：硬盘序列号、硬盘型号、硬盘大小、硬盘固件版本、硬盘分区序列号</p>
-<h3 id="运行模式介绍"><a href="#运行模式介绍" class="headerlink" title="运行模式介绍"></a>运行模式介绍</h3><p>该软件包括hardware.exe、VMwarehardware.exe、网卡MAC地址修改工具.exe 和 GameHardware.exe四个可执行文件，包换多种模式设置，需要注意的是不论什么模式均需要加载驱动，所以可能被<a href="http://www.itmop.com/key/anquanruanjian/">安全软件</a>拦截，这个工具不会修改任何硬件，也不会修改操作系统任何设置，重启计算机将恢复到系统的初始化状态，所以大家可以大胆设置放行。</p>
-<p><strong>驱动全局模式</strong></p>
-<p>驱动全局模式是驱动级虚拟一份硬件信息，当操作系统或者硬件信息查询软件进行硬件信息查询的时候都能进入虚拟硬件模式。</p>
-<p>双击桌面的hardware.exe 图标启动本软件，选择”驱动全局模式”，勾选需要虚拟的硬件信息，点击确定按钮。</p>
-<p><strong>驱动进程模式</strong></p>
-<p>驱动进程模式是驱动级虚拟一份硬件信息，当硬件信息查询软件进行硬件信息查询的时候都能进入虚拟硬件模式（只对当前选择操作的进程有效其他进程和系统不受影响）。</p>
-<p><strong>全部进程模式</strong></p>
-<p>全部进程模式是对当前操作系统正在运行的所有进程进程虚拟一份完全一样的硬件信息，这个工具只是内部自动过滤了系统进程，不会对系统造成任何影响，并且此操作只会对系统正在运行的常用软件进行虚拟硬件。</p>
-<p><strong>单一进程模式</strong></p>
-<p>单一进程模式是对当前某个进程进程虚拟一份硬件信息的模式，比如只需对获取硬件信息的软件执行虚拟一份硬件信息，这个功能就非常合适了。不仅可以启动一个新的进程开虚拟一份硬件信息还可以在进程列表中选择一个已经存在的进程进行虚拟一份硬件信息。</p>
-<p><strong>禁止查询模式</strong></p>
-<h3 id="virtualhardwares怎么用"><a href="#virtualhardwares怎么用" class="headerlink" title="virtualhardwares怎么用"></a>virtualhardwares怎么用</h3><p><strong>常见操作说明</strong></p>
-<p><strong>1、虚拟硬件信息使用说明</strong></p>
-<p><strong>1.1 修改硬盘序列号</strong></p>
-<p>硬盘有硬盘序列号,硬盘固件版本,硬盘型号ID,硬盘大小。这些信息都可以虚拟一份。选择需要操作的硬盘，勾选要操作的硬盘信息，纯手工输入您需要虚拟的硬盘硬件信息，点击随机按钮，随机生成一份，点击确定。</p>
-<p><strong>1.2 修改分区序列号</strong></p>
-<p>分区序列号是硬盘分区后(C盘 D盘)每个盘符都有的一个序列号，您可以对分区的序列号进行虚拟，重启计算机将恢复您的分区序列号初始化状态。选择需要操作的分区，纯手工输入您需要虚拟的分区序列号，点击随机按钮，随机生成一份，点击确定。</p>
-<p><strong>1.3 修改网卡MAC地址</strong></p>
-<p>网卡MAC码是由全球惟一的一个固定组织来分配的，未经认证和授权的厂家无权生产网卡。每块网卡都有一个固定的卡号，并且任何正规厂家生产的网卡上都直接标明了卡号，一般为一组12位的16进制数。其中前6位代表网卡的生产厂商，您可以虚拟物理网卡MAC、当前网卡MAC和操作系统的网卡MAC地址。</p>
-<p>选择要操作的网卡，勾选操作选项，纯手工输入网卡MAC地址，点击随机按钮来随机生成一份，点击确定按钮。</p>
-<p>为了使用方便，本工具包单独制作有一个网卡MAC地址修改工具.exe的可执行文件。 </p>
-<p><strong>2、VM虚拟机修改使用说明</strong></p>
-<p>VMwarehardware是一款在VMware Workstation Pro虚拟机里面运行的软件，用来修改VMware Workstation Pro虚拟机里面的xp-win10系统的硬件信息，3z学堂这里要特别提醒下，请勿用这个虚拟机软件修改物理机器！</p>
-<p>请勿用这个虚拟机软件修改物理机器！请勿用这个虚拟机软件修改物理机器！重要的事情说三遍！</p>
-<p>VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。VMware Workstation可在一部实体机器上模拟完整的网络环境，以及可便于携带的虚拟机器，其更好的灵活性与先进的技术胜过了市面上其他的虚拟计算机软件。对于企业的 IT开发人员和系统管理员而言， VMware在虚拟网路，实时快照，拖曳共享文件夹，支持 PXE 等方面的特点使它成为必不可少的工具。</p>
-<p>使用方法：在VMware Workstation Pro虚拟机里面运行VMwarehardware.exe，勾选要修改的信息，可点击随机来随机生成硬件信息，点击确定修改按钮来实现。</p>
-<p><strong>3、游戏多开虚拟硬件使用说明</strong></p>
-<p>GameHardware是一款针对游戏多开多进程不同硬件信息的工具，支持系统MAC地址 硬盘信息 分区信息 自动父子进程硬件信息同步。</p>
-<p>使用方法：启动GameHardware.exe，登陆账号，功能设置，添加程序，启动游戏。</p>
-<p><strong>3.1 父子进程同步模式</strong></p>
-<p>比如A.exe启动了B.exe，然后B.exe又启动了C.exe，那么ABC进程硬件信息同步，反之只有A有效果</p>
-<p><strong>3.2 禁用WMI模式</strong></p>
-<p>禁用系统WMI接口查询硬件信息，推荐勾选，如果进程环境异常请不要勾选增强硬盘模式(插入U盘等移动设备系统识别不了请关闭此项)。注册表中保存了一份硬盘信息，某些程序会读取这里，推荐勾选，如果进程环境异常请不要勾选</p>
-<p><strong>3.3 自动加入模式</strong></p>
-<p>启动新进程自动加入虚拟列表中</p>
-<p><strong>3.4 设置开机启动流程</strong></p>
-<p>1.右键创建到桌面快捷方式 2.拖动桌面快捷方式到开始程序启动</p>
-<h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><p><strong>2018/03/07</strong></p>
-<p>修复分区序列号虚拟设置后去掉勾选无法还原的BUG</p>
-<p><strong>2018/03/02</strong></p>
-<p>紧急去掉上个版本虚拟硬盘信息导致蓝屏的问题</p>
-<p><strong>2018/03/01</strong></p>
-<p>1.禁止查询模式下分区序列号置零处理,修复分区序列号修改后关闭EXE重新打开读取修改状态错误的bug</p>
-<p>2.增强硬盘信息虚拟能力，某些情况下虚拟硬盘信息关闭EXE打开还是以前的信息</p>
-<p>3.磁盘信息只对固定磁盘类型虚拟，过滤U盘 CD-ROM 网络磁盘等等</p>
-<p>4.勾选硬盘信息和禁止查询模式下，插入U盘识别不了的，请关闭这些功能重新插拔U盘已正常识别使用。</p>
-<p><strong>2018/02/23</strong></p>
-<p>驱动全局模式的禁止查询模式增加新的功能，大大提升禁止查询硬件信息能力</p>
-<p><strong>2018/01/31</strong></p>
-<p>hardware正式发布</p>
-<h3 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h3><p><strong>1、虚拟硬件信息后如何恢复？</strong></p>
-<p>当虚拟硬件信息后想恢复原始状态时只需要去掉勾选的硬件信息，点击确定无需重启计算机即可完成恢复。也可以使用快捷恢复按钮”一键恢复”</p>
-<p><strong>2、VMwarehardware使用场景</strong></p>
-<p>VMwarehardware是一款在VMware Workstation Pro虚拟机里面运行的软件，用来修改VMware Workstation Pro虚拟机里面的xp-win10系统的硬件信息，请勿用于修改物理机器，否则后果自负！</p>
-<p><strong>3、操作完毕后软件可以关闭吗？</strong></p>
-<p>操作完成后您可以关闭本软件，它仍然在继续工作</p>
-<p>**4、为什么网卡MAC地址修改失败？ **</p>
-<p>答：这种情况一般是网卡不支持修改MAC地址(比如USB无线网卡)</p>
-<p>**5、为什么重启网卡失败? **</p>
-<p>答：这种情况一般是网卡被其他程序独占打开了，导致程序重启网卡失败，可以尝试手动禁用网卡在启动或重启计算机</p>
-]]></content>
-      <categories>
-        <category>软件</category>
-      </categories>
-      <tags>
-        <tag>破解软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>typora教程附下载地址</title>
-    <url>/Typany.html</url>
-    <content><![CDATA[<h3 id="文章目录"><a href="#文章目录" class="headerlink" title="文章目录"></a>文章目录</h3><ul>
-<li>  <a href="#Tutorial_of_markdown_in_Typora_1">Tutorial of markdown in Typora</a></li>
-<li><ul>
-<li><a href="#_7">创建标题</a><ul>
-<li>  <a href="#_15">如何改变文本的样式</a></li>
-<li>  <a href="#_62">生成一个适合你的列表</a></li>
-<li>  <a href="#_97">如何插入一段漂亮的代码片</a></li>
-<li>  <a href="#_115">插入链接与图片</a></li>
-<li><ul>
-<li><a href="#_117">插入链接</a><ul>
-<li>  <a href="#_133">插入图片</a></li>
-<li>  <a href="#_140">插入带链接的图片</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>  <a href="#_168">创建一个表格</a></li>
-<li><ul>
-<li><a href="#_185">设定内容居中、居左、居右</a><ul>
-<li>  <a href="#SmartyPants_203">SmartyPants</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>  <a href="#_223">如何创建一个注脚</a></li>
-<li>  <a href="#KaTeX_241">KaTeX数学公式</a></li>
-<li>  <a href="#_263">甘特图绘制</a></li>
-<li>  <a href="#UML__292">UML 图表绘制</a></li>
-<li>  <a href="#FLowchart_346">FLowchart流程图绘制</a></li>
-<li>  <a href="#_367">导出与导入</a></li>
-<li><ul>
-<li><a href="#_369">导出</a><ul>
-<li>  <a href="#_372">导入</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h1 id="Tutorial-of-markdown-in-Typora"><a href="#Tutorial-of-markdown-in-Typora" class="headerlink" title="Tutorial of markdown in Typora"></a>Tutorial of markdown in Typora</h1><blockquote>
-<p>工欲善其事，必先利其器</p>
-</blockquote>
-<p><strong>如上所说，这里给大家安利一款高BIG的利器Typora<a href="https://gitee.com/lybbs/img/raw/master/typora-setup-x64.exe" target="_blank">GITEE下载地址</a>，这是一款文艺青年(装逼)必备的用于编写markdown的打造高质量文档的神器，一打开就有被惊艳到，界面设计使用程序猿最爱的极简风格，清新脱俗，出淤泥而不染(**已经彻底沦陷</strong>)，可以让人集中注意力去构思文档的编写而不用被格式问题所烦扰。支持LaTex公式编辑，Mermaid流程图和甘特图绘制等等。**  </p>
-<h2 id="创建标题"><a href="#创建标题" class="headerlink" title="创建标题"></a>创建标题</h2><ul>
-<li><p>  输入1次#，并按下space后再输入文本，将生成1级标题。</p>
-</li>
-<li><p>  输入2次#，并按下space后在输入文本，将生成2级标题。</p>
-</li>
-</ul>
-<p>以此类推，我们支持6级标题。有助于使用<code>TOC</code>语法后生成一个完美的目录，在你想要放置目录的地方码上[TOC]即可生成目录。  </p>
-<h2 id="如何改变文本的样式"><a href="#如何改变文本的样式" class="headerlink" title="如何改变文本的样式"></a>如何改变文本的样式</h2><pre><code>*强调文本* _强调文本_</code></pre>
-<p><em>强调文本</em> <em>强调文本</em></p>
-<pre><code>**加粗文本** __加粗文本__</code></pre>
-<p><strong>加粗文本</strong> <strong>加粗文本</strong></p>
-<pre><code>==标记文本==</code></pre>
-<p>标记文本</p>
-<pre><code>~~删除文本~~</code></pre>
-<p>删除文本</p>
-<pre><code>&gt;引用文本</code></pre>
-<blockquote>
-<p>引用文本</p>
-</blockquote>
-<pre><code>H~2~o 是液体</code></pre>
-<p>H2O 是液体。</p>
-<pre><code>2^10^运算结果是1024</code></pre>
-<p>210 运算结果是 1024.</p>
-<blockquote>
-<p>attention: 要实现上面这些也行需要在file-&gt;preference里面进行设置</p>
-</blockquote>
-<h2 id="生成一个适合你的列表"><a href="#生成一个适合你的列表" class="headerlink" title="生成一个适合你的列表"></a>生成一个适合你的列表</h2><pre><code>- 项目
-  - 项目
-    - 项目</code></pre>
-<ul>
-<li><p>项目</p>
-<ul>
-<li>项目<ul>
-<li>  项目</li>
-</ul>
-</li>
-</ul>
-<ol>
-<li>项目1</li>
-<li>项目2</li>
-<li>项目3</li>
-</ol>
-</li>
-</ul>
-<ol>
-<li><p> 项目1</p>
-</li>
-<li><p> 项目2</p>
-</li>
-<li><p>项目3</p>
-<ul>
-<li><input disabled="" type="checkbox"> 计划任务</li>
-</ul>
-</li>
-</ol>
-<ul>
-<li><p> 计划任务</p>
-<ul>
-<li><input checked="" disabled="" type="checkbox"> 完成任务</li>
-</ul>
-</li>
-<li><p>   完成任务</p>
-</li>
-</ul>
-<h2 id="如何插入一段漂亮的代码片"><a href="#如何插入一段漂亮的代码片" class="headerlink" title="如何插入一段漂亮的代码片"></a>如何插入一段漂亮的代码片</h2><p>展示同样高亮的 <code>代码片</code>.</p>
-<pre><code><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// An highlighted block</span></span><br><span class="line"><span class="keyword">var</span> foo = <span class="string">&#x27;bar&#x27;</span>;</span><br></pre></td></tr></table></figure>
-
-
-// An highlighted block
-var foo = &#39;bar&#39;;
-12</code></pre>
-<h2 id="插入链接与图片"><a href="#插入链接与图片" class="headerlink" title="插入链接与图片"></a>插入链接与图片</h2><h3 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h3><pre><code>链接:[link](https://www.cnblogs.com/coding-fun).</code></pre>
-<p>链接: <a href="https://www.cnblogs.com/coding-fun">link</a>.</p>
-<ul>
-<li><p>插入链接还有一个方便快捷的方式[link][num],其中num就是数字，例如[link]<a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">1</a>，然后在文末贴出[num]到链接的映射如[1]:<a href="https://www.cnblogs.com/coding-fun">https://www.cnblogs.com/coding-fun</a></p>
-<p>  [link][1]</p>
-</li>
-</ul>
-<p><a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">link</a></p>
-<h3 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h3><pre><code>图片: ![Xun](https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg)</code></pre>
-<p><img src= "/img/loading.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg" alt="Xun"></p>
-<h3 id="插入带链接的图片"><a href="#插入带链接的图片" class="headerlink" title="插入带链接的图片"></a>插入带链接的图片</h3><ul>
-<li><p>还可以给图片加上链接，但是Typera不支持给图片加链接的markdown语法，为知笔记是支持的，也可能是我姿势不对吧，所以在Typora里面我都是用html代码来给图片加链接，下面分别给出这两种方式代码:</p>
-<p>  //markdown<br>  <a href="https://blog.csdn.net/tracy1talent"><img src= "/img/loading.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg" alt="Xun" title="Xun"></a></p>
-</li>
-</ul>
-<pre><code>//HTML
-&lt;div align=&quot;center&quot;&gt;
- &lt;a href=&quot;https://blog.csdn.net/tracy1talent&quot;&gt;
- &lt;img src=&quot;https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg&quot; title=&quot;Xun&quot;&gt;
- &lt;/a&gt;
-&lt;/div&gt;
-123456</code></pre>
-<p> <a href="https://blog.csdn.net/tracy1talent"><img src= "/img/loading.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun1.jpg" title="Xun"></a> </p>
-<ul>
-<li>  除了代码方式外还可以以拖拽方式上传图片。</li>
-</ul>
-<h2 id="创建一个表格"><a href="#创建一个表格" class="headerlink" title="创建一个表格"></a>创建一个表格</h2><p>一个简单的表格是这么创建的：</p>
-<pre><code>项目 | Value
--------- | -----
-电脑 | $1600
-手机 | $12
-导管 | $1</code></pre>
-<p>项目</p>
-<p>Value</p>
-<p>电脑</p>
-<p>$1600</p>
-<p>手机</p>
-<p>$12</p>
-<p>导管</p>
-<p>$1</p>
-<h3 id="设定内容居中、居左、居右"><a href="#设定内容居中、居左、居右" class="headerlink" title="设定内容居中、居左、居右"></a>设定内容居中、居左、居右</h3><ul>
-<li><p>  使用<code>:---------:</code>居中</p>
-</li>
-<li><p>  使用<code>:----------</code>居左</p>
-</li>
-<li><p>  使用<code>----------:</code>居右</p>
-</li>
-</ul>
-<pre><code>|     第一列     |         第二列 | 第三列         |
-| :------------: | -------------: | :------------- |
-| 第一列文本居中 | 第二列文本居右 | 第三列文本居左 |</code></pre>
-<p>第一列</p>
-<p>第二列</p>
-<p>第三列</p>
-<p>第一列文本居中</p>
-<p>第二列文本居右</p>
-<p>第三列文本居左</p>
-<h3 id="SmartyPants"><a href="#SmartyPants" class="headerlink" title="SmartyPants"></a>SmartyPants</h3><p>SmartyPants将ASCII标点字符转换为“智能”印刷标点HTML实体。例如：</p>
-<pre><code>| TYPE |ASCII |HTML |                      
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`&#39;Isn&#39;t this fun?&#39;` |&#39;Isn&#39;t this fun?&#39; |
-|Quotes |`&quot;Isn&#39;t this fun?&quot;` |&quot;Isn&#39;t this fun?&quot; |
-|Dashes |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|</code></pre>
-<p>TYPE</p>
-<p>ASCII</p>
-<p>HTML</p>
-<p>Single backticks</p>
-<p><code>&#39;Isn&#39;t this fun?&#39;</code></p>
-<p>‘Isn’t this fun?’</p>
-<p>Quotes</p>
-<p><code>&quot;Isn&#39;t this fun?&quot;</code></p>
-<p>“Isn’t this fun?”</p>
-<p>Dashes</p>
-<p><code>-- is en-dash, --- is em-dash</code></p>
-<p>– is en-dash, — is em-dash</p>
-<h2 id="如何创建一个注脚"><a href="#如何创建一个注脚" class="headerlink" title="如何创建一个注脚"></a>如何创建一个注脚</h2><pre><code>一个具有注脚的文本。[^1]</code></pre>
-<ul>
-<li><p>一个具有注脚的文本。<a href="#fn1">1</a></p>
-<p>  [^1]: 注脚的解释</p>
-</li>
-<li><p>  注脚写在文中但被markdown解析后会放在文末</p>
-</li>
-</ul>
-<h2 id="KaTeX数学公式"><a href="#KaTeX数学公式" class="headerlink" title="KaTeX数学公式"></a>KaTeX数学公式</h2><ul>
-<li><p>可以使用渲染LaTeX数学表达式 <a href="https://khan.github.io/KaTeX/">KaTeX</a>:</p>
-<p>  Gamma公式展示 Γ ( n ) = ( n − 1 ) ! ∀ n ∈ N \Gamma(n) = (n-1)!\quad\forall n\in\mathbb N Γ(n)=(n−1)!∀n∈N 是通过欧拉积分</p>
-</li>
-</ul>
-<pre><code>$$
-\Gamma(z) = \int_0^\infty t^&#123;z-1&#125;e^&#123;-t&#125;dt\,.
-$$</code></pre>
-<p>Γ ( z ) = ∫ 0 ∞ t z − 1 e − t d t &ThinSpace; . \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,. Γ(z)=∫0∞tz−1e−tdt.</p>
-<blockquote>
-<p>你可以找到更多关于的信息 <strong>LaTeX</strong> 数学表达式<a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">here</a>.</p>
-</blockquote>
-<h2 id="甘特图绘制"><a href="#甘特图绘制" class="headerlink" title="甘特图绘制"></a>甘特图绘制</h2><pre><code><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gantt</span><br><span class="line">        dateFormat YYYY-MM-DD</span><br><span class="line">        title Adding GANTT diagram functionality to mermaid</span><br><span class="line">        section 现有任务</span><br><span class="line">        已完成 :done, des1, 2014-01-06,2014-01-08</span><br><span class="line">        进行中 :active, des2, 2014-01-09, 3d</span><br><span class="line">        计划一 : des3, after des2, 5d</span><br><span class="line">        计划二 : des4, after des3, 5d</span><br></pre></td></tr></table></figure></code></pre>
-<p>Mon 06 Mon 13 Mon 20 已完成 进行中 计划一 计划二 现有任务 Adding GANTT diagram functionality to mermaid</p>
-<blockquote>
-<p>关于 <strong>甘特图</strong> 语法，参考 <a href="https://mermaidjs.github.io/">这儿</a>,</p>
-</blockquote>
-<h2 id="UML-图表绘制"><a href="#UML-图表绘制" class="headerlink" title="UML 图表绘制"></a>UML 图表绘制</h2><ul>
-<li><p>可以使用UML图表进行渲染。 <a href="https://mermaidjs.github.io/">Mermaid</a>. 例如下面产生的一个序列图：</p>
-  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sequenceDiagram</span><br><span class="line">张三 -&gt;&gt; 李四: 你好！李四, 最近怎么样?</span><br><span class="line">李四--&gt;&gt;王五: 你最近怎么样，王五？</span><br><span class="line">李四--x 张三: 我很好，谢谢!</span><br><span class="line">李四-x 王五: 我很好，谢谢!</span><br><span class="line">Note right of 王五: 李四想了很长时间, 文字太长了&lt;br&#x2F;&gt;不适合放在一行.</span><br><span class="line"></span><br><span class="line">李四--&gt;&gt;张三: 打量着王五...</span><br><span class="line">张三-&gt;&gt;王五: 很好... 王五, 你怎么样?</span><br></pre></td></tr></table></figure>
-
-
-</li>
-</ul>
-<p>张三 李四 王五 你好！李四, 最近怎么样? 你最近怎么样，王五？ 我很好，谢谢! 我很好，谢谢! 李四想了很长时间, 文字太长了 不适合放在一行. 打量着王五… 很好… 王五, 你怎么样? 张三 李四 王五</p>
-<ul>
-<li><p>这将产生一个流程图:</p>
-  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">graph LR</span><br><span class="line">A[长方形] -- 链接 --&gt; B((圆))</span><br><span class="line">A --&gt; C(圆角长方形)</span><br><span class="line">B --&gt; D&#123;菱形&#125;</span><br><span class="line">C --&gt; D</span><br></pre></td></tr></table></figure>
-
-
-</li>
-</ul>
-<p>链接</p>
-<p>长方形</p>
-<p>圆</p>
-<p>圆角长方形</p>
-<p>菱形</p>
-<blockquote>
-<p>关于 <strong>Mermaid</strong> 语法，参考 <a href="https://mermaidjs.github.io/">这儿</a>,</p>
-</blockquote>
-<h2 id="FLowchart流程图绘制"><a href="#FLowchart流程图绘制" class="headerlink" title="FLowchart流程图绘制"></a>FLowchart流程图绘制</h2><ul>
-<li>  Typora目前不支持flowchart的渲染，这里仅给出一个示例代码</li>
-</ul>
-<p>Created with Raphaël 2.2.0 开始 我的操作 确认？ 结束 yes no</p>
-<blockquote>
-<p>关于 <strong>Flowchart流程图</strong> 语法，参考 <a href="http://adrai.github.io/flowchart.js/">这儿</a>.</p>
-</blockquote>
-<h2 id="导出与导入"><a href="#导出与导入" class="headerlink" title="导出与导入"></a>导出与导入</h2><h3 id="导出"><a href="#导出" class="headerlink" title="导出"></a>导出</h3><p>当你完成了一篇文章的写作, 在左上方工具栏找到 <strong>文件-&gt;导出</strong> ，选择一个你想要的文件格式进行本地保存，支持导出HTML，LaTex，PDF，Word等等。</p>
-<h3 id="导入"><a href="#导入" class="headerlink" title="导入"></a>导入</h3><p>文件导入部分需要下载Pandoc插件用于文件转换，平时写markdown文档没用到导入这个模块，所以也不了解具体的导入细节。</p>
-<hr>
-<ol>
-<li> 这是一个注脚解释 <a href="#fnref1">↩︎</a></li>
-</ol>
-]]></content>
-      <categories>
-        <category>markdown</category>
-      </categories>
-      <tags>
-        <tag>markdown</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo建立一个独立的html页面</title>
-    <url>/hexohtml.html</url>
-    <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
-<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><pre><code>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 `_config.yml` 里找到 `skip_render` 关键字，在后面添加想要跳过渲染的页面，比如我们创建 `\source\about\index.html`， 配置文件填写：`skip_render: about\**`，那么就表示 `\source\about` 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：https://hexo.io/docs/configuration</code></pre>
-<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><pre><code>在文章头部的 Front-matter 里添加配置 `layout: false` 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 `\source\about\index.md`，将这个页面的相关 HTML 代码写进`.md`文件并保存，然后在 `index.md` 的头部写入：
-
----
-layout: false
----
-
-    xxxxxxxxxxxxx
-    xx HTML代码 xx
-    xxxxxxxxxxxxx
-    </code></pre>
-<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
-<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
