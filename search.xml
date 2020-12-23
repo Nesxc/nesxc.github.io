@@ -6,9 +6,9 @@
     <content><![CDATA[<blockquote>
 <p>文字排版神器Markdown的强大功能：图片和链接嵌入、标题系统及目录生成、多平台支持、微信公众号图文消息一键转换、基本语法与编辑工具、视频及地图嵌入等。将你从繁杂的文字图片排版工作中解放出来，专注内容质量本身。知乎、简书、有道云笔记、Github、CSDN、Wordpress、有道云笔记、Gitbook等网站都支持Markdown写作。你也可以通过markdown一键生成微信公众号图文消息的页面，省去在公众号编辑后台一张张上传和插入图片的烦恼。精通markdown只需要二十分钟，学会之后将大大提高你的工作效率。<br><a href="https://www.bilibili.com/video/av35579542">本文配套B站视频：二十分钟精通排版神器Markdown，从此word和秀米是路人</a>        </p>
 </blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-40ef56b0907b84c8.png%7CimageView2/2/w/600" alt="文字排版"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-40ef56b0907b84c8.png%7CimageView2/2/w/600" alt="文字排版"></p>
 <p>[TOC]</p>
-<h1 id="Word—反人类的富文本编辑器"><a href="#Word—反人类的富文本编辑器" class="headerlink" title="Word—反人类的富文本编辑器"></a>Word—反人类的富文本编辑器</h1><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-0ff5655a5988e7b3.png%7CimageView2/2/w/1240" alt="Word排版"></p>
+<h1 id="Word—反人类的富文本编辑器"><a href="#Word—反人类的富文本编辑器" class="headerlink" title="Word—反人类的富文本编辑器"></a>Word—反人类的富文本编辑器</h1><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-0ff5655a5988e7b3.png%7CimageView2/2/w/1240" alt="Word排版"></p>
 <p>我极其反感word反人类的排版系统，试问你看到下列字句有什么感受？</p>
 <blockquote>
 <p>字体、字号、段落、标题、目录、页眉页脚、图片环绕、段间距、首行缩进、批注、嵌入型、四周型、紧密型环绕、上下型环绕、衬于文字下方、……</p>
@@ -21,7 +21,7 @@
 <p><strong>有了Markdown，上述所有问题都可以轻松解决</strong></p>
 <h1 id="Markdown—解放生产力的排版神器"><a href="#Markdown—解放生产力的排版神器" class="headerlink" title="Markdown—解放生产力的排版神器"></a>Markdown—解放生产力的排版神器</h1><p><a href="https://www.bilibili.com/video/av35579542">本文配套视频：二十分钟精通排版神器Markdown，从此word和秀米是路人</a>        </p>
 <p>Markdown彻底解放了我的写作生产力，彻底省去了费心费力排版的时间，让作者可以专注内容本身。所有博客平台（知乎、简书、CSDN、电子邮件）基本都支持markdown语法写作，所以可以通过文章markdown源码一键保留排版直接跨平台迁移发布。而且微信公众号图文消息也可以由markdown源码一键生成。程序员熟悉的开源代码网站Github，所有项目说明文档全部使用markdown格式撰写。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8e61552a33d3cb35.png%7CimageView2/2/w/1240" alt="Markdown"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8e61552a33d3cb35.png%7CimageView2/2/w/1240" alt="Markdown"></p>
 <h2 id="1、众多支持Markdown的写作平台"><a href="#1、众多支持Markdown的写作平台" class="headerlink" title="1、众多支持Markdown的写作平台"></a>1、众多支持Markdown的写作平台</h2><ul>
 <li><h3 id="有道云笔记"><a href="#有道云笔记" class="headerlink" title="有道云笔记"></a>有道云笔记</h3></li>
 <li><h3 id="知乎"><a href="#知乎" class="headerlink" title="知乎"></a>知乎</h3></li>
@@ -47,13 +47,13 @@
 <p>你可以通过<code>sudo apt-get install cmatrix</code>命令安装黑客帝国流水字符的程序。</p>
 <h2 id="3、支持微信公众号图文消息一键转换"><a href="#3、支持微信公众号图文消息一键转换" class="headerlink" title="3、支持微信公众号图文消息一键转换"></a>3、支持微信公众号图文消息一键转换</h2><p><a href="http://blog.didispace.com/tools/online-markdown/">Markdown转微信公众号格式化转换工具</a></p>
 <p>关注微信公众号 <strong>人工智能小技巧</strong> 回复 <strong>公众号格式化工具</strong> 也可以看到这个工具的链接。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-c7862f084e93ab0c.png%7CimageView2/2/w/1240" alt="公众号格式化工具"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-c7862f084e93ab0c.png%7CimageView2/2/w/1240" alt="公众号格式化工具"></p>
 <h2 id="4、占用存储空间小"><a href="#4、占用存储空间小" class="headerlink" title="4、占用存储空间小"></a>4、占用存储空间小</h2><p>在Markdown中，所有图片、视频、跳转链接、文字、代码块，都是以链接和标签语言的形式存成字符串的，并没有保存图片和视频本身，所以.md文件占用空间特别少，一篇带图片的长文也不过10KB左右。而且可以随时无损导出成PDF格式和HTML格式的文件。</p>
 <h1 id="Markdown基本语法"><a href="#Markdown基本语法" class="headerlink" title="Markdown基本语法"></a>Markdown基本语法</h1><p>Markdown常用的语法就是下面四个，学会就能包打天下了。</p>
-<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-7424a9a21a2cb81b.jpg%7CimageView2/2/w/815/format/webp" alt="标题"></p>
-<h2 id="链接和图片"><a href="#链接和图片" class="headerlink" title="链接和图片"></a>链接和图片</h2><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-90ac0f366310f464.jpg%7CimageView2/2/w/1000/format/webp" alt="插入链接和图片"></p>
-<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-438c3424cfbfb029.jpg%7CimageView2/2/w/1000/format/webp" alt="引用"></p>
-<h2 id="代码插入"><a href="#代码插入" class="headerlink" title="代码插入"></a>代码插入</h2><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-dcf737a97e71cd73.jpg%7CimageView2/2/w/879/format/webp" alt="插入代码"></p>
+<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-7424a9a21a2cb81b.jpg%7CimageView2/2/w/815/format/webp" alt="标题"></p>
+<h2 id="链接和图片"><a href="#链接和图片" class="headerlink" title="链接和图片"></a>链接和图片</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-90ac0f366310f464.jpg%7CimageView2/2/w/1000/format/webp" alt="插入链接和图片"></p>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-438c3424cfbfb029.jpg%7CimageView2/2/w/1000/format/webp" alt="引用"></p>
+<h2 id="代码插入"><a href="#代码插入" class="headerlink" title="代码插入"></a>代码插入</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-dcf737a97e71cd73.jpg%7CimageView2/2/w/879/format/webp" alt="插入代码"></p>
 <h1 id="在Markdown中嵌入HTML页面"><a href="#在Markdown中嵌入HTML页面" class="headerlink" title="在Markdown中嵌入HTML页面"></a>在Markdown中嵌入HTML页面</h1><h2 id="嵌入百度地图"><a href="#嵌入百度地图" class="headerlink" title="嵌入百度地图"></a>嵌入百度地图</h2><p> <a href="http://api.map.baidu.com/lbsapi/creatmap/index.html">百度地图API定制工具</a>    </p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;http://118.25.75.221/map2.html&quot;</span> <span class="attr">width</span>=<span class="string">&quot;600&quot;</span> <span class="attr">height</span>=<span class="string">&quot;300&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
 
@@ -81,7 +81,7 @@
   <entry>
     <title>OKR工作法</title>
     <url>//post/OKR.html</url>
-    <content><![CDATA[<p><img src= "/img/loading.gif" data-lazy-src="https://pic1.zhimg.com/v2-2420fcc1a9e6f2f13bf456ded6c2e616_1440w.jpg" alt="OKR"></p>
+    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://pic1.zhimg.com/v2-2420fcc1a9e6f2f13bf456ded6c2e616_1440w.jpg" alt="OKR"></p>
 <h5 id="OKR的意义"><a href="#OKR的意义" class="headerlink" title="OKR的意义"></a>OKR的意义</h5><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">O是Objectives，</span><br><span class="line">KR是Key Results，</span><br><span class="line">OKR就是Objectives and Key Results，即目标与关键结果法。</span><br></pre></td></tr></table></figure>
 
 <p>使用OKR工作法可以协调推进团队任务的进度。</p>
@@ -108,6 +108,29 @@
       </categories>
       <tags>
         <tag>OKR</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>//post/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
       </tags>
   </entry>
   <entry>
@@ -239,10 +262,10 @@ var foo = &#39;bar&#39;;
 </ul>
 <p><a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">link</a></p>
 <h3 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h3><pre><code>图片: ![Xun](https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg)</code></pre>
-<p><img src= "/img/loading.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg" alt="Xun"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg" alt="Xun"></p>
 <h3 id="插入带链接的图片"><a href="#插入带链接的图片" class="headerlink" title="插入带链接的图片"></a>插入带链接的图片</h3><ul>
 <li><p>还可以给图片加上链接，但是Typera不支持给图片加链接的markdown语法，为知笔记是支持的，也可能是我姿势不对吧，所以在Typora里面我都是用html代码来给图片加链接，下面分别给出这两种方式代码:</p>
-<p>  //markdown<br>  <a href="https://blog.csdn.net/tracy1talent"><img src= "/img/loading.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg" alt="Xun" title="Xun"></a></p>
+<p>  //markdown<br>  <a href="https://blog.csdn.net/tracy1talent"><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun.jpg" alt="Xun" title="Xun"></a></p>
 </li>
 </ul>
 <pre><code>//HTML
@@ -252,7 +275,7 @@ var foo = &#39;bar&#39;;
  &lt;/a&gt;
 &lt;/div&gt;
 123456</code></pre>
-<p> <a href="https://blog.csdn.net/tracy1talent"><img src= "/img/loading.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun1.jpg" title="Xun"></a> </p>
+<p> <a href="https://blog.csdn.net/tracy1talent"><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://raw.githubusercontent.com/tracy-talent/Notes/master/imgs/April_Xun1.jpg" title="Xun"></a> </p>
 <ul>
 <li>  除了代码方式外还可以以拖拽方式上传图片。</li>
 </ul>
@@ -375,32 +398,9 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>//post/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
-
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>维护</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo主题配置整合包发布</title>
     <url>//post/hexo-ran.html</url>
-    <content><![CDATA[<p><img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
+    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
 <h1 id="hexo-ran"><a href="#hexo-ran" class="headerlink" title="hexo-ran"></a>hexo-ran</h1><p>预览: 👍 <a href="https://www.ranas.cn/">Ran</a><br>文檔: 📖 <a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly Docs</a><br>项目地址: <a href="https://github.com/Ran08/hexo-ran/">Hexo-Ran</a></p>
 <p>  本整合包是基于<a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-butterfly</a>整合而来的整合包</p>
 <h2 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h2><h3 id="Git-安裝"><a href="#Git-安裝" class="headerlink" title="Git 安裝"></a>Git 安裝</h3><p>新建一个blog文件夹，在里面直接运行:</p>
@@ -440,21 +440,6 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>使用Hexo和Github Actions自动化博客更新</title>
-    <url>//post/hexogithub.html</url>
-    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
-</div>
-
-<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
-      <categories>
-        <category>视频推荐</category>
-      </categories>
-      <tags>
-        <tag>bilibili</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo建立一个独立的html页面</title>
     <url>//post/hexohtml.html</url>
     <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
@@ -470,13 +455,28 @@ layout: false
     xxxxxxxxxxxxx
     </code></pre>
 <p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
-<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
+<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
 ]]></content>
       <categories>
         <category>开发</category>
       </categories>
       <tags>
         <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用Hexo和Github Actions自动化博客更新</title>
+    <url>//post/hexogithub.html</url>
+    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+</div>
+
+<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
+      <categories>
+        <category>视频推荐</category>
+      </categories>
+      <tags>
+        <tag>bilibili</tag>
       </tags>
   </entry>
   <entry>
@@ -499,7 +499,7 @@ layout: false
 <p>200-500的客户可能是有一定消费能力的从业者。</p>
 <p>500-1000的客户会是中产、高级从业者。</p>
 <h3 id="那么怎么寻找“价格区间”？"><a href="#那么怎么寻找“价格区间”？" class="headerlink" title="那么怎么寻找“价格区间”？"></a>那么怎么寻找“价格区间”？</h3><p>举例说明：小提琴中高端市场<strong>179-413</strong>元，</p>
-<p>[<img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/11/20/1605856519.png" alt="1605856519.png">]</p>
+<p>[<img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/11/20/1605856519.png" alt="1605856519.png">]</p>
 <p>那么平均价格=（179+431）÷2=305；</p>
 <p>305-179=126；431-305=126</p>
 <p>区间价格的20%浮动 126*0.3=37.8</p>
@@ -507,7 +507,7 @@ layout: false
 <p>267作为一个区间相对低点参考；342作为一个区间相对高点；</p>
 <p>（当要进行较大幅度竞争则直接中间点642.5浮动+-20%）</p>
 <h3 id="找到了价格区间那么我们会有竞争力吗？"><a href="#找到了价格区间那么我们会有竞争力吗？" class="headerlink" title="找到了价格区间那么我们会有竞争力吗？"></a>找到了价格区间那么我们会有竞争力吗？</h3><p>不，这个价格段包含了很多产品，我们还要看同行的价格。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/11/20/16058568751.png" alt="16058568751.png"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/11/20/16058568751.png" alt="16058568751.png"></p>
 <p>同行的价格也能给予很大的参考。通过对比价格，参数，品牌等。寻找一个适合自己的价格段才是最重要的。</p>
 <h5 id="价格维度考虑要素有以下几点"><a href="#价格维度考虑要素有以下几点" class="headerlink" title="价格维度考虑要素有以下几点"></a>价格维度考虑要素有以下几点</h5><p>（1）中小卖家不能再迷信自己有核心竞争力，充其量也就是局部竞争力</p>
 <p>（2）中小卖家局部优势要发挥到极致，选取最合理的点</p>
@@ -537,7 +537,7 @@ layout: false
 <h3 id="3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"><a href="#3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置" class="headerlink" title="3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"></a>3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置</h3><blockquote>
 <p>如果没有官方摄像头，也不影响安装</p>
 </blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4b420067401c12f1.png%7CimageView2/2/w/400" alt="连接树莓派摄像头Picamera"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4b420067401c12f1.png%7CimageView2/2/w/400" alt="连接树莓派摄像头Picamera"></p>
 <p>在命令行输入以下命令，这个命令的意思是用nano编辑器打开modules这个文件：</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo nano /etc/modules</span><br></pre></td></tr></table></figure>
 
@@ -545,13 +545,13 @@ layout: false
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">bcm2835-v4l2</span><br></pre></td></tr></table></figure>
 
 <p>也就是这个效果</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-364a600885dd8cdf.png%7CimageView2/2/w/1240"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-364a600885dd8cdf.png%7CimageView2/2/w/1240"></p>
 <p>先按键盘上的<code>ctrl</code>+<code>o</code>，再按回车保存，再按<code>ctrl</code>+<code>x</code>退出nano编辑器回到命令行界面。</p>
 <p>输入命令</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd get_camera</span><br></pre></td></tr></table></figure>
 
 <p>如果得到下面的结果，则证明摄像头连接成功</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-07e411efaac25994.png%7CimageView2/2/w/1240" alt="检查摄像头是否被树莓派识别"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-07e411efaac25994.png%7CimageView2/2/w/1240" alt="检查摄像头是否被树莓派识别"></p>
 <p>可以输入命令</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">raspistill -o image.jpg</span><br></pre></td></tr></table></figure>
 
@@ -567,27 +567,27 @@ layout: false
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
 
 <p>如果出现下图的结果，说明Python2环境下的OpenCV安装成功。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-202da54ab2900054.png%7CimageView2/2/w/1240" alt="python2环境中运行opencv"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-202da54ab2900054.png%7CimageView2/2/w/1240" alt="python2环境中运行opencv"></p>
 <p>也可以输入</p>
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
 
 <p>查看opencv版本号</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f97eed06c60e3c03.png%7CimageView2/2/w/1240" alt="查看python2的opencv版本"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f97eed06c60e3c03.png%7CimageView2/2/w/1240" alt="查看python2的opencv版本"></p>
 <blockquote>
 <p>为啥叫cv2而不叫opencv呢？这是因为OpenCV是基于C/C++开发的，有两个版本，’’cv”版本的API是C语言开发的，’’cv2’’版本的API是基于C++语言开发的，为了保持向后兼容性所以叫”cv2”，但我们都知道cv2就是OpenCV本尊。</p>
 </blockquote>
 <p>也可以在桌面命令行里输入以下三个命令调用树莓派摄像头，把摄像头捕捉到的画面显示在桌面上，按<code>ctrl</code>+<code>c</code>键退出。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/TommyZihao/opencvtest.git</span><br><span class="line">cd opencvtest</span><br><span class="line">python2 testopencv.py</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4558d79be1004043.png%7CimageView2/2/w/1240" alt="测试python2上的opencv：调用树莓派摄像头"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4558d79be1004043.png%7CimageView2/2/w/1240" alt="测试python2上的opencv：调用树莓派摄像头"></p>
 <h1 id="在树莓派安装运行在Python3上的OpenCV"><a href="#在树莓派安装运行在Python3上的OpenCV" class="headerlink" title="在树莓派安装运行在Python3上的OpenCV"></a>在树莓派安装运行在Python3上的OpenCV</h1><h3 id="1、安装numpy"><a href="#1、安装numpy" class="headerlink" title="1、安装numpy"></a>1、安装numpy</h3><p>打开命令行界面，输入以下命令，安装Python科学计算库numpy</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo pip3 install numpy</span><br></pre></td></tr></table></figure>
 
 <h3 id="2、在树莓派设置中把根目录扩大到整个SD卡"><a href="#2、在树莓派设置中把根目录扩大到整个SD卡" class="headerlink" title="2、在树莓派设置中把根目录扩大到整个SD卡"></a>2、在树莓派设置中把根目录扩大到整个SD卡</h3><p>命令行界面输入命令，进入树莓派配置界面。用上下键和左右键切换光标位置。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo raspi-config</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
-<h4 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h4><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
+<h4 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h4><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
 <p>选择Expand Filesystem，将根目录扩展到这个SD卡，充分利用SD卡的存储空间。如果不进行这一步，后续命令会出现卡死。退出设置界面，重启树莓派。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo reboot</span><br></pre></td></tr></table></figure>
 
@@ -612,16 +612,16 @@ layout: false
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/home/pi/Downloads/opencv_contrib-3.4.0/modules -D BUILD_EXAMPLES=ON -D WITH_LIBV4L=ON PYTHON3_EXECUTABLE=/usr/bin/python3.5 PYTHON_INCLUDE_DIR=/usr/include/python3.5 PYTHON_LIBRARY=/usr/lib/arm-linux-gnueabihf/libpython3.5m.so PYTHON3_NUMPY_INCLUDE_DIRS=/home/pi/.local/lib/python3.5/site-packages/numpy/core/include ..</span><br></pre></td></tr></table></figure>
 
 <p>根据下图判断你是否配置成功了CMAKE。如果失败，可能是因为两个压缩包的路径没有严格按照上文的要求。如果成功，就可以开始最重要的编译了。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-532012bb713dc869.png%7CimageView2/2/w/1240" alt="CMAKE配置"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-532012bb713dc869.png%7CimageView2/2/w/1240" alt="CMAKE配置"></p>
 <h3 id="6、编译"><a href="#6、编译" class="headerlink" title="6、编译"></a>6、编译</h3><p>最后一步，也是最重要的一步：编译</p>
 <p>保证树莓派有至少5G的存储空间，建议本命令用树莓派桌面上的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0/build</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-36df3d7c4c6c0db7.png%7CimageView2/2/w/1240" alt="开始编译"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-36df3d7c4c6c0db7.png%7CimageView2/2/w/1240" alt="开始编译"></p>
 <p>编译两个小时之后，完成了40%</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e938295662efec1e.png%7CimageView2/2/w/1240" alt="编译两个小时之后"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e938295662efec1e.png%7CimageView2/2/w/1240" alt="编译两个小时之后"></p>
 <p>静待五个小时的编译。注意，在此期间，树莓派要供电充足，不要运行其它任务，以免因为内存不够什么的幺蛾子报错。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-542b34f0f59da291.png%7CimageView2/2/w/1240" alt="编译完成"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-542b34f0f59da291.png%7CimageView2/2/w/1240" alt="编译完成"></p>
 <p><code>make</code>命令执行完成之后，执行下面的命令，执行命令需要一分钟：</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo make insall</span><br></pre></td></tr></table></figure>
 
@@ -633,7 +633,7 @@ layout: false
 
 <p>回车</p>
 <p>如果出现下图的结果，说明Python3环境下的OpenCV安装成功。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8b4162cec9589cd6.png%7CimageView2/2/w/1240" alt="Python3的OpenCV安装完成"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8b4162cec9589cd6.png%7CimageView2/2/w/1240" alt="Python3的OpenCV安装完成"></p>
 <h1 id="参考文献与扩展阅读"><a href="#参考文献与扩展阅读" class="headerlink" title="参考文献与扩展阅读"></a>参考文献与扩展阅读</h1><blockquote>
 <p><a href="https://www.jianshu.com/p/3180a253fe3c">【树莓派】树莓派+OpenCV3.4 + python3.5 成功以及注意细节</a></p>
 <p><a href="https://blog.csdn.net/u014397533/article/details/50910531">树莓派安装Python-OpenCV</a></p>
@@ -665,7 +665,7 @@ layout: false
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd measure_temp</span><br></pre></td></tr></table></figure>
 
 
-<h2 id="BOINC平台上各领域有趣的分布式计算项目详细介绍"><a href="#BOINC平台上各领域有趣的分布式计算项目详细介绍" class="headerlink" title="BOINC平台上各领域有趣的分布式计算项目详细介绍"></a>BOINC平台上各领域有趣的分布式计算项目详细介绍</h2><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3e2ec8af4186e54c.png" alt="BOINC平台上的科学计算项目"></p>
+<h2 id="BOINC平台上各领域有趣的分布式计算项目详细介绍"><a href="#BOINC平台上各领域有趣的分布式计算项目详细介绍" class="headerlink" title="BOINC平台上各领域有趣的分布式计算项目详细介绍"></a>BOINC平台上各领域有趣的分布式计算项目详细介绍</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3e2ec8af4186e54c.png" alt="BOINC平台上的科学计算项目"></p>
 <h3 id="几个比较经典的项目"><a href="#几个比较经典的项目" class="headerlink" title="几个比较经典的项目:"></a>几个比较经典的项目:</h3><ul>
 <li><h4 id="天文及物理"><a href="#天文及物理" class="headerlink" title="天文及物理"></a>天文及物理</h4></li>
 <li><p>SETI@home：分析阿雷西博射电望远镜的海量数据，寻找可能的地外文明信号。</p>
@@ -718,12 +718,12 @@ layout: false
 <p>两条加密电文的译文都是关于当时大西洋潜艇战德军U型潜艇的位置、行动航向、速度、遭受攻击，以及战场风向、天气、能见度等战场情报。</p>
 <p>“图灵机”概念创始人、人工智能之父阿兰图灵二战期间秘密受命于英国军方，也在从事破译德军Enigma密码的工作并取得成功，使德军在大西洋的“潜艇狼群战术”破产。卷福主演的电影《模仿游戏》讲述的就是这一段历史。关于二战期间英德两国的潜艇战和密码战，以及数学天才阿兰图灵的传奇人生，推荐观看<a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a>、罗辑思维<a href="https://v.youku.com/v_show/id_XMTMzMjMzOTA4NA==.html">《庸众的迫害》</a>。</p>
 </blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-ce58e5ff1690f3a7.png" alt="几个项目的屏幕保护界面"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="http://www.equn.com/images/thumb/5/58/Sah_scr1.jpg/680px-Sah_scr1.jpg" alt="SETI@home屏幕保护界面"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-ce58e5ff1690f3a7.png" alt="几个项目的屏幕保护界面"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="http://www.equn.com/images/thumb/5/58/Sah_scr1.jpg/680px-Sah_scr1.jpg" alt="SETI@home屏幕保护界面"></p>
 <p><a href="http://www.equn.com/wiki/SETI@home:%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4">SETI@home屏幕保护界面解读</a></p>
 <p><a href="http://www.equn.com/forum/thread-16446-1-1.html">BOINC各项目屏幕保护动画</a></p>
 <h2 id="数字货币与BOINC科学计算的结合——GridCoin"><a href="#数字货币与BOINC科学计算的结合——GridCoin" class="headerlink" title="数字货币与BOINC科学计算的结合——GridCoin"></a>数字货币与BOINC科学计算的结合——GridCoin</h2><div align=center>
-<img src= "/img/loading.gif" data-lazy-src='https://upload-images.jianshu.io/upload_images/13714448-eeb156d302b4460b.png%7CimageView2/2/w/1240' />
+<img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src='https://upload-images.jianshu.io/upload_images/13714448-eeb156d302b4460b.png%7CimageView2/2/w/1240' />
 </div>
 
 <p>​         众所周知，传统的区块链数字货币（比如比特币、以太坊），为了保证区块的安全和交易速度，引入了<strong>挖矿</strong>的“工作量证明共识机制”（<a href="https://mp.weixin.qq.com/s/YB1USLerYHUvOOphAqUuxA">比特币的产生与挖矿</a>），<strong>挖矿本质上是区块链的参与者用计算设备、算力、电力能源换取区块链交易记账权并获取数字货币奖励的过程</strong>。挖矿消耗了巨量的电力能源，造成显卡矿机的军备竞赛和矿池“矿霸”的出现，而用于比特币和以太坊挖矿的算力和能源并不能为实体经济产生价值。于是，基于真实科学计算平台BOINC的虚拟货币GridCoin应运而生。<a href="https://www.gridcoin.us/">GridCoin</a>格雷德币于2013年10月上线，2015年3月改版升级。它依托BOINC（伯克利分布式计算）平台，这个币以去中心化机制，按照科学计算的贡献决定挖矿收益，用算力支持了BOINC平台上涉及生物医学、气候变化、天体物理、密码破译、数学证明、搜寻地外文明等众多领域的有趣的科研项目，解决了比特币挖矿被诟病的浪费能源的问题。创始人Rob Halford三年半以来一直坚持开发，带领一支活跃的开发团队，解决了初期的种种bug，保证了这个币的稳定性和科学计算功能。目前，格雷德币团队在BOINC中的所有十万支团队中近期积分排名第一<a href="http://link.zhihu.com/?target=https://boincstats.com/en/stats/-1/team/list/16/0%231">BOINC全球团队积分排行榜</a>总积分也达到了第六名。</p>
@@ -750,8 +750,8 @@ layout: false
 <p><a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a></p>
 <p><a href="http://tieba.baidu.com/p/3095639402">坐在家中电脑前贡献科研？蛋白质折叠小游戏 Foldit 中文版来啦！</a></p>
 </blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://projects-static.raspberrypi.org/projects/raspberry-pi-getting-started/13aeb423985e6bacd5d798f5f206a644b7c250a3/en/images/pi-plug-in.gif" alt="树莓派接线"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9413183a2d79c2a8.png%7CimageView2/2/w/1240" alt="欢迎加入树莓派全球开源社区"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://projects-static.raspberrypi.org/projects/raspberry-pi-getting-started/13aeb423985e6bacd5d798f5f206a644b7c250a3/en/images/pi-plug-in.gif" alt="树莓派接线"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9413183a2d79c2a8.png%7CimageView2/2/w/1240" alt="欢迎加入树莓派全球开源社区"></p>
 ]]></content>
       <categories>
         <category>开发</category>
@@ -792,6 +792,39 @@ layout: false
       </tags>
   </entry>
   <entry>
+    <title>树莓派开机教程</title>
+    <url>//post/smpkj.html</url>
+    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
+<p>格式化SD卡</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc7215d37c39e836.png%7CimageView2/2/w/640" alt="格式化已有的SD卡"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-abf5e3f941d3016a.png%7CimageView2/2/w/300" alt="格式化SD卡成功"></p>
+<p>烧录系统镜像</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6d22b8fb9a2fbd6a.png%7CimageView2/2/w/1240" alt="烧录树莓派操作系统镜像"></p>
+<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
+<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>例如这样</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1b37351bcd946978.png%7CimageView2/2/w/1240" alt="配置wifi文件"></p>
+<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-70819fe7ad131c4c.png%7CimageView2/2/w/1240" alt="将ssh文件和wpa_supplicant.conf文件放入boot盘中"></p>
+<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
+<p>获取树莓派ip地址的方法：</p>
+<ol>
+<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
+<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
+<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
+<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
+</ol>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一劳永逸配置树莓派</title>
     <url>//post/smpset.html</url>
     <content><![CDATA[<p>换源</p>
@@ -800,7 +833,7 @@ layout: false
 <p>在第一行开头加一个<code>#</code>，把下面的内容拷贝到最后一行之后，如图中的效果：</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">deb http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ stretch main contrib non-free rpi</span><br><span class="line">deb-src http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ stretch main contrib non-free rpi</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6e15c90b0aa7acb5.png%7CimageView2/2/w/1240" alt="换国内源"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6e15c90b0aa7acb5.png%7CimageView2/2/w/1240" alt="换国内源"></p>
 <p>先按键盘上的<code>ctrl</code>+<code>o</code>，再按回车保存，再按<code>ctrl</code>+<code>x</code>退出nano编辑器回到命令行界面。再输入以下命令更新到清华大学镜像源最新的软件列表。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get update </span><br></pre></td></tr></table></figure>
 
@@ -816,20 +849,20 @@ layout: false
 <h2 id="树莓派内部设置"><a href="#树莓派内部设置" class="headerlink" title="树莓派内部设置"></a>树莓派内部设置</h2><p>命令行界面输入命令，进入树莓派配置界面。用上下键和左右键切换光标位置。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo raspi-config</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
 <h3 id="第一行：Change-User-Password"><a href="#第一行：Change-User-Password" class="headerlink" title="第一行：Change User Password"></a>第一行：Change User Password</h3><p>按照里面的要求修改自己的密码即可。</p>
-<h3 id="第四行：Localisation-Options"><a href="#第四行：Localisation-Options" class="headerlink" title="第四行：Localisation Options"></a>第四行：Localisation Options</h3><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-b48ae582572cdfdf.png%7CimageView2/2/w/1240" alt="Localisation Options"></p>
+<h3 id="第四行：Localisation-Options"><a href="#第四行：Localisation-Options" class="headerlink" title="第四行：Localisation Options"></a>第四行：Localisation Options</h3><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-b48ae582572cdfdf.png%7CimageView2/2/w/1240" alt="Localisation Options"></p>
 <h4 id="第一行：Change-Locale-选择所在国家"><a href="#第一行：Change-Locale-选择所在国家" class="headerlink" title="第一行：Change Locale 选择所在国家"></a>第一行：Change Locale 选择所在国家</h4><p>这是一串很长的列表，到这个列表的最下面，让光标指在zh_CN.UTF-8 UTF-8前面，先按空格，再按回车，回到之前的界面再按回车。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-b1dbcf02b13931d0.png%7CimageView2/2/w/1240" alt="此时再按回车"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-b1dbcf02b13931d0.png%7CimageView2/2/w/1240" alt="此时再按回车"></p>
 <p>重新选择第四行Localisation Options</p>
 <h4 id="第二行：Change-Timezone-选择所在时区"><a href="#第二行：Change-Timezone-选择所在时区" class="headerlink" title="第二行：Change Timezone 选择所在时区"></a>第二行：Change Timezone 选择所在时区</h4><p>选择Asia，再选择Shanghai</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-04ab876253408fc5.png%7CimageView2/2/w/1240" alt="选择Asia"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-53862520982039df.png%7CimageView2/2/w/1240" alt="选择Shanghai"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-04ab876253408fc5.png%7CimageView2/2/w/1240" alt="选择Asia"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-53862520982039df.png%7CimageView2/2/w/1240" alt="选择Shanghai"></p>
 <h4 id="第四行：Change-Wi-fi-Country-选择wifi国家"><a href="#第四行：Change-Wi-fi-Country-选择wifi国家" class="headerlink" title="第四行：Change Wi-fi Country 选择wifi国家"></a>第四行：Change Wi-fi Country 选择wifi国家</h4><p>选择CN China，回车</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3f99f1c817ce7396.png%7CimageView2/2/w/1240" alt="选择Wifi国家"></p>
-<h3 id="第五行：Interfacing-Options"><a href="#第五行：Interfacing-Options" class="headerlink" title="第五行：Interfacing Options"></a>第五行：Interfacing Options</h3><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e4c334e40682f5c2.png%7CimageView2/2/w/1240" alt="Interfacing Options"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3f99f1c817ce7396.png%7CimageView2/2/w/1240" alt="选择Wifi国家"></p>
+<h3 id="第五行：Interfacing-Options"><a href="#第五行：Interfacing-Options" class="headerlink" title="第五行：Interfacing Options"></a>第五行：Interfacing Options</h3><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e4c334e40682f5c2.png%7CimageView2/2/w/1240" alt="Interfacing Options"></p>
 <p>打开Camera、SSH、VNC、Serial、Remote GPIO</p>
-<h3 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h3><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
+<h3 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h3><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
 <ul>
 <li><p>选择Expand Filesystem，将根目录扩展到这个SD卡，充分利用SD卡的存储空间</p>
 </li>
@@ -859,45 +892,12 @@ layout: false
 <p>在命令行中输入</p>
 <p><code>teamviewer info</code>可以查看teamviewer当前版本</p>
 <p>在跳出的对话框选择Accept License Agreement</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-2bd262010506fd1d.png%7CimageView2/2/w/1240" alt="teamviewer对话框"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-2bd262010506fd1d.png%7CimageView2/2/w/1240" alt="teamviewer对话框"></p>
 <p>在树莓派桌面，右上角可以看到teamviewer的图标了，点击进入。再点击Grant easy access，登录你的teamviewer账户，设置连接密码。通过那一串数字（如图中的1112747434），就可以让全世界任意一台上网的电脑或手机远程桌面操控你的树莓派了。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-2830f9965d4f0ce1.png%7CimageView2/2/w/1240" alt="登录teamviewer账户"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-d5d8b43ba0bf11b9.png%7CimageView2/2/w/1240" alt="点击小齿轮图标，设置"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3dbed8171117ba60.png%7CimageView2/2/w/1240" alt="设置连接密码"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-2830f9965d4f0ce1.png%7CimageView2/2/w/1240" alt="登录teamviewer账户"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-d5d8b43ba0bf11b9.png%7CimageView2/2/w/1240" alt="点击小齿轮图标，设置"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3dbed8171117ba60.png%7CimageView2/2/w/1240" alt="设置连接密码"></p>
 <p>sudo apt-get upgrade </p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>树莓派开机教程</title>
-    <url>//post/smpkj.html</url>
-    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
-<p>格式化SD卡</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc7215d37c39e836.png%7CimageView2/2/w/640" alt="格式化已有的SD卡"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-abf5e3f941d3016a.png%7CimageView2/2/w/300" alt="格式化SD卡成功"></p>
-<p>烧录系统镜像</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6d22b8fb9a2fbd6a.png%7CimageView2/2/w/1240" alt="烧录树莓派操作系统镜像"></p>
-<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
-<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>例如这样</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1b37351bcd946978.png%7CimageView2/2/w/1240" alt="配置wifi文件"></p>
-<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-70819fe7ad131c4c.png%7CimageView2/2/w/1240" alt="将ssh文件和wpa_supplicant.conf文件放入boot盘中"></p>
-<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
-<p>获取树莓派ip地址的方法：</p>
-<ol>
-<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
-<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
-<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
-<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
-</ol>
 ]]></content>
       <categories>
         <category>开发</category>
@@ -912,7 +912,7 @@ layout: false
     <content><![CDATA[<p><strong>VirtualHardwares硬件虚拟工具收费版本</strong>为能够任意更改你的硬件显示参数的软件，并非真实的改变哟，有时候试用部分程序的时候，会用到它来改本机ID识别码，进行多次、长时间的免费</p>
 <p>使用，功能上来说，还是挺强大实用的东西呢，推荐给有需要的用户们！</p>
 <h3 id="virtualhardwares破解版简介"><a href="#virtualhardwares破解版简介" class="headerlink" title="virtualhardwares破解版简介"></a>virtualhardwares破解版简介</h3><p>VirtualHardwares是一款windows下可视化可定制虚拟硬件信息的工具。VirtualHardwares并不是真正的修改，而是虚拟修改，您重启计算机后将恢复到原始计算机状态，不会对您的硬件和软件造成任何影响。VirtualHardwares内置了查询硬件信息和随机生成硬件信息，用户不需要任何专业知识，甚至可以完全不懂硬件信息，也能快速虚拟一份新硬件信息。此外他能支持全局虚拟一份硬件信息，也支持不同进程虚拟不同硬件信息，他是完全可定制化的，是一款所见即所得的软件。让普通人虚拟出专业水准的硬件信息，以前是一个不可思议的想法，而VirtualHardwares的出现，让这成为现实。经过数年的发展，目前国内已经有数万用户成功利用VirtualHardwares自行虚拟硬件信息，不再受制于软件硬件公司，不少用户省了一笔不菲费用；同时也发展了一大批个人爱好者，这些爱好者很多都是个人用户，硬件DIY爱好者，熟悉硬件和硬件DIY，以前苦于没有合适的虚拟工具，无法根据自己的需要自行虚拟硬件，VirtualHardwares的出现，让他们如虎添翼，纷纷虚拟出适合自己需求的硬件信息。</p>
-<h3 id="GITEE下载地址，"><a href="#GITEE下载地址，" class="headerlink" title="GITEE下载地址，"></a><a href="https://gitee.com/lybbs/img/raw/master/hardware.exe" target="_blank">GITEE下载地址</a>，</h3><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220113248.png"></p>
+<h3 id="GITEE下载地址，"><a href="#GITEE下载地址，" class="headerlink" title="GITEE下载地址，"></a><a href="https://gitee.com/lybbs/img/raw/master/hardware.exe" target="_blank">GITEE下载地址</a>，</h3><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220113248.png"></p>
 <h3 id="本软件对电脑软件硬件有损坏吗？"><a href="#本软件对电脑软件硬件有损坏吗？" class="headerlink" title="本软件对电脑软件硬件有损坏吗？"></a>本软件对电脑软件硬件有损坏吗？</h3><p>**硬件:**本软件是虚拟修改，并非正真修改，重启计算机将恢复您的原始计算机状态。因此本软件不会对您的硬件有任何损坏。 </p>
 <p>**软件:**本软件是虚拟设置操作系统和软件信息，不会真正的修改操作系统和软件的设置。 </p>
 <p>**注意:**某些软件会根据硬件信息来生成序列号和注册码，您的虚拟操作可能会使您的机器码改变，导致您正常使用的序列号或者注册码无法正常使用。(使用本软件表明您已经同意此操作，在使用过程中出现任何未知预料的错误将于本人无关)。</p>
@@ -1013,15 +1013,15 @@ layout: false
 <li>资源类 </li>
 </ul>
 <p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
 <p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
 <p>如果你需要寻找开源软件你可以前往这个网站。</p>
 <ul>
 <li>杂项类</li>
 </ul>
 <p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
 <p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
 <p>那么，第一期就先这样了。我们下一期再见~</p>
 ]]></content>
@@ -1044,12 +1044,12 @@ layout: false
 <p>他们把这串代码弄到了最底下。</p>
 <figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS2.png" alt="wt"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS2.png" alt="wt"></p>
 <p>然后，你只需把他移动到</p>
 <figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( ! defined( <span class="string">&#x27;ABSPATH&#x27;</span> ) ) &#123;</span><br><span class="line">	define( <span class="string">&#x27;ABSPATH&#x27;</span>, dirname( <span class="keyword">__FILE__</span> ) . <span class="string">&#x27;/&#x27;</span> );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <p>这串代码以上就行了。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS1.png" alt="jj"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS1.png" alt="jj"></p>
 ]]></content>
       <categories>
         <category>WordPress</category>
@@ -1062,10 +1062,10 @@ layout: false
     <title>WordPress配置完SSL证书后台重定向过多</title>
     <url>//post/wpsslerror.html</url>
     <content><![CDATA[<h5 id="Wordpress配置完SSL证书后台重定向过多"><a href="#Wordpress配置完SSL证书后台重定向过多" class="headerlink" title="Wordpress配置完SSL证书后台重定向过多"></a>Wordpress配置完SSL证书后台重定向过多</h5><p>前言:在配置完cloudflash的DNS解析后，我发现我的管理员后台一直显示重定向过多。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARN.png" alt="cdx"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARN.png" alt="cdx"></p>
 <p>后来发现是我的HTTPS配置问题。</p>
 <h5 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h5><p>首先打开你的网站根目录。找到一个名为wp-config.php的文件。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARR.png" alt="wj"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARR.png" alt="wj"></p>
 <p>打开它，然后拉到最下面。添加以下代码。</p>
 <figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
 
@@ -1075,7 +1075,7 @@ layout: false
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ctrl + F5</span><br></pre></td></tr></table></figure>
 
 <p>刷新即可。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARV.png" alt="cg"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8ARV.png" alt="cg"></p>
 ]]></content>
       <categories>
         <category>WordPress</category>
@@ -1092,10 +1092,10 @@ layout: false
 <p>40个有趣的Linux命令行彩蛋和游戏，让你假装成日理万机的黑客高手。附一键安装脚本，在树莓派和ubuntu云主机上亲测成功，有些还可以在Windows的DOS命令行中运行。</p>
 </blockquote>
 </blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-777806bcc005bb31.png%7CimageView2/2/w/1240" alt="toilet命令彩色字"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-660f85e3aeb6a9bf.gif" alt="高大上黑客仪表盘"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1921727182271686.gif" alt="hollywood命令"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-953feec6877d32ca.gif" alt="字符串水族馆"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-777806bcc005bb31.png%7CimageView2/2/w/1240" alt="toilet命令彩色字"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-660f85e3aeb6a9bf.gif" alt="高大上黑客仪表盘"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1921727182271686.gif" alt="hollywood命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-953feec6877d32ca.gif" alt="字符串水族馆"></p>
 <h1 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h1><ul>
 <li>  <a href="#%E4%B8%80%E9%94%AE%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E6%9C%AC%E6%96%87%E5%85%A8%E9%83%A8%E5%91%BD%E4%BB%A4%E6%89%80%E9%9C%80%E7%8E%AF%E5%A2%83">一键下载安装配置本文全部命令所需环境</a></li>
 <li>  <a href="#%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD%E5%AD%97%E8%8A%82%E6%95%B0%E6%8D%AE%E6%B5%81%E5%81%87%E8%A3%85%E8%87%AA%E5%B7%B1%E6%98%AF%E9%BB%91%E5%AE%A2%E9%AB%98%E6%89%8B%E6%97%A0%E5%AD%94%E4%B8%8D%E5%85%A5">1、黑客帝国字节数据流——假装自己是黑客高手，无孔不入</a></li>
@@ -1147,18 +1147,18 @@ layout: false
 <h1 id="1、黑客帝国字节数据流——假装自己是黑客高手，无孔不入"><a href="#1、黑客帝国字节数据流——假装自己是黑客高手，无孔不入" class="headerlink" title="1、黑客帝国字节数据流——假装自己是黑客高手，无孔不入"></a>1、黑客帝国字节数据流——假装自己是黑客高手，无孔不入</h1><p>在命令行中输入以下命令安装并运行。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install cmatrix</span><br><span class="line">cmatrix</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-92f96d6586936f3e.gif" alt="cmatrix字节流效果"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-92f96d6586936f3e.gif" alt="cmatrix字节流效果"></p>
 <p>还可输入参数控制颜色。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cmatric -C red</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-406fef5a59b0446e.gif" alt="cmatrix红色字节流"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-406fef5a59b0446e.gif" alt="cmatrix红色字节流"></p>
 <p>按<code>ctrl</code>+<code>c</code>退出。</p>
 <blockquote>
 <p>在《黑客帝国》电影里的字节流其实是该片美术指导Simon<br>Whitley的日本妻子菜谱上的片假名。</p>
 </blockquote>
 <h1 id="2、高大上仪表盘blessed-contrib——假装自己指点江山，纵横捭阖"><a href="#2、高大上仪表盘blessed-contrib——假装自己指点江山，纵横捭阖" class="headerlink" title="2、高大上仪表盘blessed-contrib——假装自己指点江山，纵横捭阖"></a>2、高大上仪表盘blessed-contrib——假装自己指点江山，纵横捭阖</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install npm</span><br><span class="line">sudo apt install nodejs-legacy</span><br><span class="line">git clone https:&#x2F;&#x2F;github.com&#x2F;yaronn&#x2F;blessed-contrib.git</span><br><span class="line">cd blessed-contrib</span><br><span class="line">npm install</span><br><span class="line">node .&#x2F;examples&#x2F;dashboard.js</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-660f85e3aeb6a9bf.gif" alt="高大上黑客仪表盘"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-660f85e3aeb6a9bf.gif" alt="高大上黑客仪表盘"></p>
 <blockquote>
 <p><a href="https://github.com/yaronn/blessed-contrib">blessed-contrib项目主页</a></p>
 <p>建议在云服务器或虚拟机上运行这个命令，在树莓派上运行可能会出问题。</p>
@@ -1170,8 +1170,8 @@ layout: false
 <p>在其它Linux发行版中，可以通过以下命令安装并运行。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-add-repository ppa:hollywood&#x2F;ppa</span><br><span class="line">sudo apt-get install hollywood</span><br><span class="line">sudo apt-get install byobu</span><br><span class="line">hollywood</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-7f75cabe6d2f5560.gif" alt="hollywood命令"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1921727182271686.gif" alt="hollywood命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-7f75cabe6d2f5560.gif" alt="hollywood命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1921727182271686.gif" alt="hollywood命令"></p>
 <blockquote>
 <p><a href="https://github.com/dustinkirkland/hollywood">hollywood项目主页</a></p>
 </blockquote>
@@ -1183,23 +1183,23 @@ layout: false
 <blockquote>
 <p>注意，本命令只能在桌面所在的命令行界面输入，在远程ssh界面会显示“oneko:Can’t<br>open display”</p>
 </blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9c07f52aa2939f25.gif" alt="oneko命令：小猫追鼠标"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9c07f52aa2939f25.gif" alt="oneko命令：小猫追鼠标"></p>
 <h1 id="5、ASCII艺术框：box命令"><a href="#5、ASCII艺术框：box命令" class="headerlink" title="5、ASCII艺术框：box命令"></a>5、ASCII艺术框：box命令</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install boxes</span><br><span class="line">echo &quot;Tongji Univerisity&quot; | boxes</span><br><span class="line">echo &quot;Tongji Univerisity&quot; | boxes -d dog</span><br><span class="line">fortune | boxes -d cat | lolcat</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e533a44e5f2bbe26.png%7CimageView2/2/w/1240" alt="box命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e533a44e5f2bbe26.png%7CimageView2/2/w/1240" alt="box命令"></p>
 <h1 id="6、燃起字符串大火aafire"><a href="#6、燃起字符串大火aafire" class="headerlink" title="6、燃起字符串大火aafire"></a>6、燃起字符串大火aafire</h1><p>在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install libaa-bin  </span><br><span class="line">aafire</span><br></pre></td></tr></table></figure>
 
 <p>然后输入 <code>aafire</code>，即可看到效果</p>
 <p>按<code>ctrl</code>+<code>c</code>退出。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-cb38f19a1221c7a1.gif" alt="aafire字符串大火"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-cb38f19a1221c7a1.gif" alt="aafire字符串大火"></p>
 <h1 id="7、火车：Strem-Locomotive"><a href="#7、火车：Strem-Locomotive" class="headerlink" title="7、火车：Strem Locomotive"></a>7、火车：Strem Locomotive</h1><p>在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install sl</span><br></pre></td></tr></table></figure>
 
 <p>然后输入 <code>sl</code>，即可看到效果。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-7afaccc26583811d.gif" alt="sl命令：字符串火车"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-7afaccc26583811d.gif" alt="sl命令：字符串火车"></p>
 <p>输入<code>sl-h</code>可以看到彩蛋（没有空格）</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-eb99852eeb36aa5b.gif" alt="字符串火车命令彩蛋"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-eb99852eeb36aa5b.gif" alt="字符串火车命令彩蛋"></p>
 <blockquote>
 <p>这个命令其实是在用户把ls命令输错成sl命令的时候准备的彩蛋。</p>
 </blockquote>
@@ -1208,7 +1208,7 @@ layout: false
 
 <p>然后输入 <code>xeyes</code>，回车，即可看到效果：一双紧盯着鼠标所在位置的大眼睛。</p>
 <p>按<code>ctrl</code>+<code>c</code>退出。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-69733edb8e3d12c9.gif" alt="xeyes大眼睛命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-69733edb8e3d12c9.gif" alt="xeyes大眼睛命令"></p>
 <h1 id="9、艺术字生成器toilet"><a href="#9、艺术字生成器toilet" class="headerlink" title="9、艺术字生成器toilet"></a>9、艺术字生成器toilet</h1><p>在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install toilet</span><br></pre></td></tr></table></figure>
 
@@ -1216,23 +1216,23 @@ layout: false
 <p>案例1</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">toilet Tongji University</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4ab6cce86ecf5f06.png%7CimageView2/2/w/1240" alt="toilet命令1"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4ab6cce86ecf5f06.png%7CimageView2/2/w/1240" alt="toilet命令1"></p>
 <p>案例2 双色字：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">toilet -f mono12 -F metal Tongji University</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e49e74b6445a50d7.png%7CimageView2/2/w/1240" alt="toilet命令双色字"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e49e74b6445a50d7.png%7CimageView2/2/w/1240" alt="toilet命令双色字"></p>
 <p>案例3 彩色字：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">toilet -f mono12 -F gay Tongji University</span><br></pre></td></tr></table></figure>
 
 <p>输入<code>man toilet</code>查看更多帮助，按<code>q</code>退出。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-777806bcc005bb31.png%7CimageView2/2/w/1240" alt="toilet命令彩色字"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-777806bcc005bb31.png%7CimageView2/2/w/1240" alt="toilet命令彩色字"></p>
 <h1 id="10、艺术字生成器figlet"><a href="#10、艺术字生成器figlet" class="headerlink" title="10、艺术字生成器figlet"></a>10、艺术字生成器figlet</h1><p>在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install figlet</span><br></pre></td></tr></table></figure>
 
 <p>然后输入下面任意一行命令，通过在命令中加-f更换字体或滤镜，你可以把命令里的<code>Tongji University</code>换成你想要转换的字符。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">figlet Tongji University</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-205e39c52eed91a4.png%7CimageView2/2/w/1240" alt="figlet命令1"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-205e39c52eed91a4.png%7CimageView2/2/w/1240" alt="figlet命令1"></p>
 <h1 id="11、字符串视频——回归计算机的上古时代"><a href="#11、字符串视频——回归计算机的上古时代" class="headerlink" title="11、字符串视频——回归计算机的上古时代"></a>11、字符串视频——回归计算机的上古时代</h1><p>在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install bb</span><br></pre></td></tr></table></figure>
 
@@ -1241,12 +1241,12 @@ layout: false
 <blockquote>
 <p>这段视频的音乐很带感哦~</p>
 </blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-7420604404205ad9.gif" alt="bb命令：字符串视频"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-7420604404205ad9.gif" alt="bb命令：字符串视频"></p>
 <h1 id="12、输出名人名言、古诗词"><a href="#12、输出名人名言、古诗词" class="headerlink" title="12、输出名人名言、古诗词"></a>12、输出名人名言、古诗词</h1><p>在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install fortune fortune-zh</span><br></pre></td></tr></table></figure>
 
 <p>然后输入 <code>fortune</code>，即可看到效果。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-345cc951023cc6d6.png%7CimageView2/2/w/1240" alt="fortune命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-345cc951023cc6d6.png%7CimageView2/2/w/1240" alt="fortune命令"></p>
 <blockquote>
 <p>可以把这个程序设置成每次开机自动启动，每次你登陆的时候就能看到一条新的名人名言或唐诗宋词了。</p>
 </blockquote>
@@ -1260,7 +1260,7 @@ layout: false
 <p>然后继续执行下列命令。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">tar -zxvf asciiquarium.tar.gz</span><br><span class="line">cd asciiquarium_1.1&#x2F;</span><br><span class="line">sudo cp asciiquarium &#x2F;usr&#x2F;local&#x2F;bin</span><br><span class="line">sudo chmod 0755 &#x2F;usr&#x2F;local&#x2F;bin&#x2F;asciiquarium</span><br><span class="line">asciiquarium</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-953feec6877d32ca.gif" alt="字符串水族馆"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-953feec6877d32ca.gif" alt="字符串水族馆"></p>
 <blockquote>
 <p><a href="https://robobunny.com/projects/asciiquarium/html/?page=0">ASCIIquarium项目主页</a></p>
 </blockquote>
@@ -1268,7 +1268,7 @@ layout: false
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install cowsay</span><br></pre></td></tr></table></figure>
 
 <p>然后输入 <code>cowsay “Hello Tongji Univerisity”</code>。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-91cadd9c91f009d4.png%7CimageView2/2/w/1240" alt="cowsay命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-91cadd9c91f009d4.png%7CimageView2/2/w/1240" alt="cowsay命令"></p>
 <p>只需用 <code>-l</code>参数就能看到它能提供的所有动物。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cowsay -l</span><br></pre></td></tr></table></figure>
 
@@ -1278,7 +1278,7 @@ layout: false
 <p>比如更换成hellokitty：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cowsay -f dragon &#39;Hello Tongji Univerisity&#39;</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-dcf0c2ce485bbd5e.png%7CimageView2/2/w/1240" alt="更换说话的动物"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-dcf0c2ce485bbd5e.png%7CimageView2/2/w/1240" alt="更换说话的动物"></p>
 <p>也可以利用管道命令，将fortune生成的名人名言在cowsay中输出</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">fortune | cowsay</span><br></pre></td></tr></table></figure>
 
@@ -1288,7 +1288,7 @@ layout: false
 <p>利用管道命令，让彩色的恐龙大哥说彩色的唐诗：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">fortune | cowsay -f stegosaurus | lolcat</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-11d24b0de66c5007.png%7CimageView2/2/w/1240" alt="利用管道命令让彩色动物说话"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-11d24b0de66c5007.png%7CimageView2/2/w/1240" alt="利用管道命令让彩色动物说话"></p>
 <h1 id="15、会说话的牛2"><a href="#15、会说话的牛2" class="headerlink" title="15、会说话的牛2"></a>15、会说话的牛2</h1><blockquote>
 <p>注意，本命令只能在桌面所在的命令行界面输入，在远程ssh命令行界面输入会显示“Can’t<br>open display”</p>
 </blockquote>
@@ -1296,12 +1296,12 @@ layout: false
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install xcowsay</span><br></pre></td></tr></table></figure>
 
 <p>然后输入 <code>xcowsay “Hello Tongji Univerisity欢迎来同济大学”</code></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-adab2588c11df68b.png%7CimageView2/2/w/1240" alt="xcowsay说中文"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-adab2588c11df68b.png%7CimageView2/2/w/1240" alt="xcowsay说中文"></p>
 <h1 id="16、日历"><a href="#16、日历" class="headerlink" title="16、日历"></a>16、日历</h1><p>直接在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cal 12 2018</span><br></pre></td></tr></table></figure>
 
 <p>即可看到2018年12月的日历。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-d8b38641704a03c0.png%7CimageView2/2/w/1240" alt="日历命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-d8b38641704a03c0.png%7CimageView2/2/w/1240" alt="日历命令"></p>
 <p>有趣的是，如果你输入。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cal 9 1752</span><br></pre></td></tr></table></figure>
 
@@ -1312,41 +1312,41 @@ layout: false
 
 <p>就会看到无穷无尽输出的Tongji University</p>
 <p>按<code>ctrl</code>+<code>c</code>退出。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-cb061c5f4e9a2dcc.gif" alt="yes命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-cb061c5f4e9a2dcc.gif" alt="yes命令"></p>
 <h1 id="18、分解因数"><a href="#18、分解因数" class="headerlink" title="18、分解因数"></a>18、分解因数</h1><p>在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">factor 60</span><br></pre></td></tr></table></figure>
 
 <p>即可看到60的分解质因数的结果</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-552691f5ab69af8c.png%7CimageView2/2/w/1240" alt="factor命令：分解质因数"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-552691f5ab69af8c.png%7CimageView2/2/w/1240" alt="factor命令：分解质因数"></p>
 <h1 id="19、screenfetch-显示系统、主题信息"><a href="#19、screenfetch-显示系统、主题信息" class="headerlink" title="19、screenfetch:显示系统、主题信息"></a>19、screenfetch:显示系统、主题信息</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt install screenfetch</span><br><span class="line">screenfetch</span><br></pre></td></tr></table></figure>
 
 <p>在开源社区或程序员社区提问时，可以通过这条命令，直接截图，就能很清晰地描述自己的系统环境。</p>
 <p>在Ubuntu云服务器上运行：</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-11ec8a07f22a4846.png%7CimageView2/2/w/1240" alt="在Ubuntu云服务器上运行screenfetch命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-11ec8a07f22a4846.png%7CimageView2/2/w/1240" alt="在Ubuntu云服务器上运行screenfetch命令"></p>
 <p>在树莓派上运行：</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-47504f3bebc05a58.png%7CimageView2/2/w/1240" alt="树莓派上运行screenfetch命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-47504f3bebc05a58.png%7CimageView2/2/w/1240" alt="树莓派上运行screenfetch命令"></p>
 <h1 id="20、linux各发行版logo图片及系统信息"><a href="#20、linux各发行版logo图片及系统信息" class="headerlink" title="20、linux各发行版logo图片及系统信息"></a>20、linux各发行版logo图片及系统信息</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt install linuxlogo</span><br><span class="line">linux_logo</span><br><span class="line">linux_logo -f -L list</span><br><span class="line">sudo apt-get install neofetch</span><br><span class="line">neofetch</span><br></pre></td></tr></table></figure>
 
 <p>在ubuntu云服务器上运行linux_logo</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-ba7b79fa4009f951.png%7CimageView2/2/w/1240" alt="在ubuntu云服务器上运行linux\_logo"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-ba7b79fa4009f951.png%7CimageView2/2/w/1240" alt="在ubuntu云服务器上运行linux\_logo"></p>
 <p>在树莓派上运行linux_logo</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-d03ff4b5604d5309.png%7CimageView2/2/w/1240" alt="在树莓派上运行linux\_logo命令"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f4549aa6f834cba2.png%7CimageView2/2/w/1240" alt="所有支持打印logo的linux发行版"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-d03ff4b5604d5309.png%7CimageView2/2/w/1240" alt="在树莓派上运行linux\_logo命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f4549aa6f834cba2.png%7CimageView2/2/w/1240" alt="所有支持打印logo的linux发行版"></p>
 <p>循环打印所有支持打印的图标</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">for i in &#123;1..30&#125;;do linux_logo -f -L $i;sleep 0.5;done</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-eca7597c796ced96.gif" alt="打印所有支持的logo"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-eca7597c796ced96.gif" alt="打印所有支持的logo"></p>
 <h1 id="21、图片转ASCII画风"><a href="#21、图片转ASCII画风" class="headerlink" title="21、图片转ASCII画风"></a>21、图片转ASCII画风</h1><blockquote>
 <p>这条命令在树莓派上运行会出问题，建议在云主机或虚拟机上运行。</p>
 </blockquote>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install aview imagemagick</span><br><span class="line"></span><br><span class="line">wget http:&#x2F;&#x2F;labfile.oss.aliyuncs.com&#x2F;courses&#x2F;1&#x2F;Linus.png</span><br><span class="line"></span><br><span class="line">asciiview Linus.png</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-7db67728f6ca8b3b.png%7CimageView2/2/w/1240" alt="Linux之父：Linus的照片"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-7db67728f6ca8b3b.png%7CimageView2/2/w/1240" alt="Linux之父：Linus的照片"></p>
 <p>你可以把wget后面的链接换成任意图片的URL。</p>
 <p>比如</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">wget http:&#x2F;&#x2F;www.shumeipai.wang&#x2F;bingbingbing.jpg</span><br><span class="line">asciiview bingbingbing.jpg</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-27bab579984d63cc.png%7CimageView2/2/w/1240" alt="范冰冰照片ASCII字符串处理"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-27bab579984d63cc.png%7CimageView2/2/w/1240" alt="范冰冰照片ASCII字符串处理"></p>
 <h1 id="22、反转字符命令"><a href="#22、反转字符命令" class="headerlink" title="22、反转字符命令"></a>22、反转字符命令</h1><p>在命令行中输入<code>rev</code>，打开rev界面，然后输入任意字符，比如</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">I am a student in Tongji Univerisity</span><br></pre></td></tr></table></figure>
 
@@ -1357,11 +1357,11 @@ layout: false
 <p>将一句话中所有单词的顺序反转,但在单词内部字母顺序不变</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">echo &quot;I am a student in Tongji University&quot; | rev | tr &#39; &#39; &#39;\n&#39; | tac | tr &#39;\n&#39; &#39; &#39;| rev</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1953b01188a746e4.png%7CimageView2/2/w/1240" alt="rev命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1953b01188a746e4.png%7CimageView2/2/w/1240" alt="rev命令"></p>
 <h1 id="23、打字机pv命令：字幕一个个匀速显示出来"><a href="#23、打字机pv命令：字幕一个个匀速显示出来" class="headerlink" title="23、打字机pv命令：字幕一个个匀速显示出来"></a>23、打字机pv命令：字幕一个个匀速显示出来</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install pv</span><br><span class="line">echo &quot;Tongji Opensource&quot; | pv -qL 10</span><br><span class="line">cal | pv -qL 10</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc6f86e12e776681.gif" alt="pv打字机命令"></p>
-<h1 id="24、从删库到跑路-sudo-rm-rf"><a href="#24、从删库到跑路-sudo-rm-rf" class="headerlink" title="24、从删库到跑路 sudo rm -rf /*"></a>24、从删库到跑路 sudo rm -rf /*</h1><p><img src= "/img/loading.gif" data-lazy-src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539792611926&di=a261ba9fadfa7ba727ef2a7c724016e1&imgtype=0&src=http://i0.hdslb.com/bfs/archive/b6d4f8aa58841f6e8674c3bd46126e5f8ad5fc7f.jpg" alt="sudo rm -rf
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc6f86e12e776681.gif" alt="pv打字机命令"></p>
+<h1 id="24、从删库到跑路-sudo-rm-rf"><a href="#24、从删库到跑路-sudo-rm-rf" class="headerlink" title="24、从删库到跑路 sudo rm -rf /*"></a>24、从删库到跑路 sudo rm -rf /*</h1><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1539792611926&di=a261ba9fadfa7ba727ef2a7c724016e1&imgtype=0&src=http://i0.hdslb.com/bfs/archive/b6d4f8aa58841f6e8674c3bd46126e5f8ad5fc7f.jpg" alt="sudo rm -rf
 /"></p>
 <blockquote>
 <p>友情提示：千万不要轻易尝试这个命令，特别是在运行有网站服务器、数据库的Linux主机上</p>
@@ -1377,20 +1377,20 @@ layout: false
 </ul>
 <p><strong>也就是说，这条命令是删除这台Linux主机上的所有文件，甚至包括开机文件</strong></p>
 <p>关于这条命令的一些有趣的图片：</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-057901398c109d38.GIF" alt="删库大爆炸"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9108c4583143f501.GIF" alt="从删库到跑路1"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e42e61a486b7d1fd.GIF" alt="数据库删了肯定要跑路啊"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-77ce9a2551b16ad4.GIF" alt="从删库到跑路2"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-057901398c109d38.GIF" alt="删库大爆炸"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9108c4583143f501.GIF" alt="从删库到跑路1"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e42e61a486b7d1fd.GIF" alt="数据库删了肯定要跑路啊"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-77ce9a2551b16ad4.GIF" alt="从删库到跑路2"></p>
 <h1 id="25、播放星球大战"><a href="#25、播放星球大战" class="headerlink" title="25、播放星球大战"></a>25、播放星球大战</h1><p>这条命令在windows上都可以运行</p>
 <p>1、打开控制面板，找到”启动或关闭Windows功能“，然后打开Telnet客户端。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e13443f55165768d.png%7CimageView2/2/w/1240" alt="控制面板"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-98d0012f082f5cc2.png%7CimageView2/2/w/1240" alt="打开Telnet应用"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e13443f55165768d.png%7CimageView2/2/w/1240" alt="控制面板"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-98d0012f082f5cc2.png%7CimageView2/2/w/1240" alt="打开Telnet应用"></p>
 <p>2、用管理员模式打开DOS命令行界面，输入以下命令，回车。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-212d2be6bf953cea.png%7CimageView2/2/w/1240" alt="进入windows命令行"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-212d2be6bf953cea.png%7CimageView2/2/w/1240" alt="进入windows命令行"></p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">telnet towel.blinkenlights.nl</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-a9b65eda982e05e4.gif" alt="字符串星球大战"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bb927898d4bd7a3a.gif" alt="字符串星球大战"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-a9b65eda982e05e4.gif" alt="字符串星球大战"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bb927898d4bd7a3a.gif" alt="字符串星球大战"></p>
 <h1 id="26、让命令行说话"><a href="#26、让命令行说话" class="headerlink" title="26、让命令行说话"></a>26、让命令行说话</h1><blockquote>
 <p>运行这个命令不能通过远程连接，必须通过音响</p>
 </blockquote>
@@ -1398,7 +1398,7 @@ layout: false
 
 <h1 id="27、随机产生人名与地址"><a href="#27、随机产生人名与地址" class="headerlink" title="27、随机产生人名与地址"></a>27、随机产生人名与地址</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install rig</span><br><span class="line">rig</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e2b6b7c5e45ce7bc.png%7CimageView2/2/w/1240" alt="rig命令"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e2b6b7c5e45ce7bc.png%7CimageView2/2/w/1240" alt="rig命令"></p>
 <h1 id="28、超级牛力——包管理器的彩蛋"><a href="#28、超级牛力——包管理器的彩蛋" class="headerlink" title="28、超级牛力——包管理器的彩蛋"></a>28、超级牛力——包管理器的彩蛋</h1><p>在Ubuntu和Debian上，apt-get包管理器内嵌着一个彩蛋。<br>如果你在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">apt-get help</span><br></pre></td></tr></table></figure>
 
@@ -1406,7 +1406,7 @@ layout: false
 <p>This APT has Super Cow Powers。</p>
 <p>本APT具有超级牛力。</p>
 <p>则说明你的系统可以运行这个菜单。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-13ff4a649e7ce51d.png%7CimageView2/2/w/1240" alt="&quot;超级牛力&quot;彩蛋"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-13ff4a649e7ce51d.png%7CimageView2/2/w/1240" alt="&quot;超级牛力&quot;彩蛋"></p>
 <p>在命令行界面输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">apt-get moo</span><br></pre></td></tr></table></figure>
 
@@ -1414,58 +1414,58 @@ layout: false
 <p>aptitiude包管理器也有类似的彩蛋</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">aptitude moo</span><br><span class="line">aptitude moo -vv</span><br><span class="line">aptitude moo -vvv</span><br><span class="line">aptitude moo -vvvv</span><br><span class="line">aptitude moo -vvvvv</span><br><span class="line">aptitude moo -vvvvvv</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f4d6aad28df0ea0d.png%7CimageView2/2/w/1240" alt="apititude包管理器彩蛋"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f4d6aad28df0ea0d.png%7CimageView2/2/w/1240" alt="apititude包管理器彩蛋"></p>
 <blockquote>
 <p>这个彩蛋的灵感来自于法国作家安托万·德·圣·埃克苏佩里童话小说《小王子》的第一章</p>
 </blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-b08afa0b5cc8d6bb.png%7CimageView2/2/w/1240" alt="小王子插图：法国作家安托万·德·圣·埃克苏佩里童话小说"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-b08afa0b5cc8d6bb.png%7CimageView2/2/w/1240" alt="小王子插图：法国作家安托万·德·圣·埃克苏佩里童话小说"></p>
 <h1 id="29、命令行游戏bastet：俄罗斯方块"><a href="#29、命令行游戏bastet：俄罗斯方块" class="headerlink" title="29、命令行游戏bastet：俄罗斯方块"></a>29、命令行游戏bastet：俄罗斯方块</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt install bastet</span><br><span class="line">bastet</span><br></pre></td></tr></table></figure>
 
 <p>左右键控制方块移动，上键控制方块旋转。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4187991a1d0416de.gif" alt="命令行游戏bastet：俄罗斯方块"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4187991a1d0416de.gif" alt="命令行游戏bastet：俄罗斯方块"></p>
 <h1 id="30、命令行游戏ninvaders：太空入侵者"><a href="#30、命令行游戏ninvaders：太空入侵者" class="headerlink" title="30、命令行游戏ninvaders：太空入侵者"></a>30、命令行游戏ninvaders：太空入侵者</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install ninvaders</span><br><span class="line">ninvaders</span><br></pre></td></tr></table></figure>
 
 <p>按空格键发射子弹。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-cab4c13405bd2dd9.gif" alt="命令行游戏ninvaders：太空入侵者"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-cab4c13405bd2dd9.gif" alt="命令行游戏ninvaders：太空入侵者"></p>
 <h1 id="31、命令行游戏pacman4console：吃豆人"><a href="#31、命令行游戏pacman4console：吃豆人" class="headerlink" title="31、命令行游戏pacman4console：吃豆人"></a>31、命令行游戏pacman4console：吃豆人</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install pacman4console</span><br><span class="line">pacman4console</span><br></pre></td></tr></table></figure>
 
 <p>使用方向键控制移动。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-29f0fdce7a5071c5.gif" alt="命令行游戏pacman4console：吃豆人"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-29f0fdce7a5071c5.gif" alt="命令行游戏pacman4console：吃豆人"></p>
 <h1 id="32、命令行游戏nSnake：贪吃蛇"><a href="#32、命令行游戏nSnake：贪吃蛇" class="headerlink" title="32、命令行游戏nSnake：贪吃蛇"></a>32、命令行游戏nSnake：贪吃蛇</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install nsnake</span><br><span class="line">nsnake</span><br></pre></td></tr></table></figure>
 
 <p>使用方向键控制。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-57c0b9360d55d9b0.gif" alt="nSnake贪吃蛇命令行小游戏"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-57c0b9360d55d9b0.gif" alt="nSnake贪吃蛇命令行小游戏"></p>
 <h1 id="33、命令行游戏Greed：赢者通吃"><a href="#33、命令行游戏Greed：赢者通吃" class="headerlink" title="33、命令行游戏Greed：赢者通吃"></a>33、命令行游戏Greed：赢者通吃</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install greed</span><br><span class="line">greed</span><br></pre></td></tr></table></figure>
 
 <p>数字表示下一步可前进的步数，游戏的目标是在咬到自己尾巴之前尽可能多走几步。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f139804315451e0b.gif" alt="命令行游戏Greed：赢者通吃"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f139804315451e0b.gif" alt="命令行游戏Greed：赢者通吃"></p>
 <h1 id="34、命令行游戏Air-Traffic-Controller：空中塔台控制"><a href="#34、命令行游戏Air-Traffic-Controller：空中塔台控制" class="headerlink" title="34、命令行游戏Air Traffic Controller：空中塔台控制"></a>34、命令行游戏Air Traffic Controller：空中塔台控制</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install bsdgames</span><br><span class="line">atc</span><br></pre></td></tr></table></figure>
 
 <p>在玩之前，你可以先输入<code>man atc</code>查看这个游戏的说明文档。游戏的目标是通过一系列命令输入，引导飞机起飞和降落，进行空中塔台调度。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-be5ab52abe3e42f1.gif" alt="空中塔台调度游戏atc"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-be5ab52abe3e42f1.gif" alt="空中塔台调度游戏atc"></p>
 <h1 id="35、命令行游戏backgammon：双陆棋"><a href="#35、命令行游戏backgammon：双陆棋" class="headerlink" title="35、命令行游戏backgammon：双陆棋"></a>35、命令行游戏backgammon：双陆棋</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install bsdgames</span><br><span class="line">backgammon</span><br></pre></td></tr></table></figure>
 
 <p>这是一款1997年制作的老游戏，游戏开始的时候可以阅读相关规则介绍。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-71ea0e1e0d7ba7f9.png%7CimageView2/2/w/1240" alt="命令行游戏双陆棋"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-71ea0e1e0d7ba7f9.png%7CimageView2/2/w/1240" alt="命令行游戏双陆棋"></p>
 <h1 id="36、命令行游戏moonbuggy：月球战车"><a href="#36、命令行游戏moonbuggy：月球战车" class="headerlink" title="36、命令行游戏moonbuggy：月球战车"></a>36、命令行游戏moonbuggy：月球战车</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install moon-buggy</span><br><span class="line">moon-buggy</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-d1cecec4d7ac19eb.gif" alt="命令行游戏moonbuggy：月球战车"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-d1cecec4d7ac19eb.gif" alt="命令行游戏moonbuggy：月球战车"></p>
 <h1 id="37、命令行游戏2048"><a href="#37、命令行游戏2048" class="headerlink" title="37、命令行游戏2048"></a>37、命令行游戏2048</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">wget https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;mevdschee&#x2F;2048.c&#x2F;master&#x2F;2048.c</span><br><span class="line">gcc -o 2048 2048.c</span><br><span class="line">.&#x2F;2048</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-49fff6bd836aeffd.gif" alt="命令行游戏2048"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-49fff6bd836aeffd.gif" alt="命令行游戏2048"></p>
 <h1 id="38、命令行也能联机玩网游：Tron"><a href="#38、命令行也能联机玩网游：Tron" class="headerlink" title="38、命令行也能联机玩网游：Tron"></a>38、命令行也能联机玩网游：Tron</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh sshtron.zachlatta.com</span><br></pre></td></tr></table></figure>
 
 <p>使用wasd四个键控制蛇的移动，游戏的目标是既不要咬到别人也不要咬到自己，活着的时间越长分数越高。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-a88c4f292ebcd0a8.gif" alt="命令行也能联机玩网游：Tron"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-a88c4f292ebcd0a8.gif" alt="命令行也能联机玩网游：Tron"></p>
 <h1 id="39、命令行游戏：巨洞冒险"><a href="#39、命令行游戏：巨洞冒险" class="headerlink" title="39、命令行游戏：巨洞冒险"></a>39、命令行游戏：巨洞冒险</h1><p>巨洞冒险Colossal Cave Adventure，又名 ADVENT、Clossal Cave 或<br>Adventure，是八十年代初到九十年代末最受欢迎的基于文字的冒险游戏。在 1976<br>年，一个叫 Will Crowther<br>的程序员开发了这款游戏的一个早期版本，之后另一位叫 Don Woods<br>的程序员改进了这款游戏，为它添加了许多新元素，包括计分系统以及更多的幻想角色和场景。这款游戏最初是为<br>PDP-10<br>开发的，这是一种历史悠久的大型计算机。后来，它被移植到普通家用台式电脑上，比如<br>IBM PC 和 Commodore 64。游戏的最初版使用 Fortran<br>开发，之后在八十年代初它被微软加入到 MS-DOS 1.0 当中。</p>
 <p>游戏的主要目标是找到一个传言中藏有大量宝藏和金子的洞穴并活着离开它。这款游戏的灵感主要来源于原作者<br>Will Crowther<br>丰富的洞穴探索的经历。他曾经经常在洞穴中冒险，特别是肯塔基州的猛犸洞Mammoth<br>Cave。因为游戏中的洞穴结构大体基于猛犸洞，你也许会注意到游戏中的场景和现实中的猛犸洞的相似之处。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install python3-yaml libedit-dev</span><br><span class="line">sudo pip3 install PyYAML</span><br><span class="line">git clone https:&#x2F;&#x2F;gitlab.com&#x2F;esr&#x2F;open-adventure.git</span><br><span class="line">cd open-adventure</span><br><span class="line">make</span><br><span class="line">make check</span><br><span class="line">advent</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4c3cd5e758ac0d8b.png%7CimageView2/2/w/1240" alt="命令行游戏巨洞冒险"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4c3cd5e758ac0d8b.png%7CimageView2/2/w/1240" alt="命令行游戏巨洞冒险"></p>
 <h1 id="40、打印圆周率后小数点若干位"><a href="#40、打印圆周率后小数点若干位" class="headerlink" title="40、打印圆周率后小数点若干位"></a>40、打印圆周率后小数点若干位</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install pi</span><br><span class="line">pi 50</span><br></pre></td></tr></table></figure>
 
 <p>打印小数点后若干位的圆周率。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-5e6814eea9cdf956.png%7CimageView2/2/w/1240" alt="圆周率小数点后若干位"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-5e6814eea9cdf956.png%7CimageView2/2/w/1240" alt="圆周率小数点后若干位"></p>
 <h1 id="扩展阅读与参考文献"><a href="#扩展阅读与参考文献" class="headerlink" title="扩展阅读与参考文献"></a>扩展阅读与参考文献</h1><blockquote>
 <p><a href="https://www.cnblogs.com/1394htw/p/6358737.html?utm_source=itdadao&utm_medium=referral">10个非常有趣的Linux命令</a></p>
 <p><a href="https://www.cnblogs.com/1394htw/p/6358737.html?utm_source=itdadao&utm_medium=referral">超有趣的几个Linux命令，你都用过吗？</a></p>
@@ -1502,7 +1502,7 @@ layout: false
   <entry>
     <title>HEXO安装教程</title>
     <url>//post/hexo.html</url>
-    <content><![CDATA[<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201217223938.png" alt="site"><br>现在市面上的博客很多，如CSDN，博客园，简书等平台，可以直接在上面发表，用户交互做的好，写的文章百度也能搜索的到。缺点是比较不自由，会受到平台的各种限制和恶心的广告。</p>
+    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201217223938.png" alt="site"><br>现在市面上的博客很多，如CSDN，博客园，简书等平台，可以直接在上面发表，用户交互做的好，写的文章百度也能搜索的到。缺点是比较不自由，会受到平台的各种限制和恶心的广告。</p>
 <p>而自己购买域名和服务器，搭建博客的成本实在是太高了，不光是说这些购买成本，单单是花力气去自己搭这么一个网站，还要定期的维护它，对于我们大多数人来说，实在是没有这样的精力和时间。</p>
 <p>那么就有第三种选择，直接在github page平台上托管我们的博客。这样就可以安心的来写作，又不需要定期维护，而且hexo作为一个快速简洁的博客框架，用它来搭建博客真的非常容易。</p>
 <h2 id="Hexo简介"><a href="#Hexo简介" class="headerlink" title="Hexo简介"></a>Hexo简介</h2><p>Hexo是一款基于Node.js的静态博客框架，依赖少易于安装使用，可以方便的生成静态网页托管在GitHub和Coding上，是搭建博客的首选框架。大家可以进入<a href="https://hexo.io/zh-cn/">hexo官网</a>进行详细查看，因为Hexo的创建者是台湾人，对中文的支持很友好，可以选择中文进行查看。</p>
@@ -1567,11 +1567,11 @@ npm install</code></pre>
 </li>
 </ul>
 <p>打开hexo的服务，在浏览器输入localhost:4000就可以看到你生成的博客了。</p>
-<p>大概长这样：<br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrksvj6e0j211c0f2n60.jpg"><br>使用ctrl+c可以把服务关掉。</p>
+<p>大概长这样：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrksvj6e0j211c0f2n60.jpg"><br>使用ctrl+c可以把服务关掉。</p>
 <h1 id="4-GitHub创建个人仓库"><a href="#4-GitHub创建个人仓库" class="headerlink" title="4. GitHub创建个人仓库"></a>4. GitHub创建个人仓库</h1><p>首先，你先要有一个GitHub账户，去注册一个吧。</p>
-<p>注册完登录后，在GitHub.com中看到一个New repository，新建仓库<br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkstcm7ej20ei0c1aah.jpg"></p>
+<p>注册完登录后，在GitHub.com中看到一个New repository，新建仓库<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkstcm7ej20ei0c1aah.jpg"></p>
 <p>创建一个和你用户名相同的仓库，<a href="http://后面加.github.io/">后面加.github.io</a>，只有这样，将来要部署到GitHub page的时候，才会被识别，<a href="http://也就是xxxx.github.io/">也就是xxxx.github.io</a>，其中xxx就是你注册GitHub的用户名。我这里是已经建过了。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212458.png"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212458.png"></p>
 <p>点击create repository。</p>
 <h1 id="5-生成SSH添加到GitHub"><a href="#5-生成SSH添加到GitHub" class="headerlink" title="5. 生成SSH添加到GitHub"></a>5. 生成SSH添加到GitHub</h1><p>回到你的git bash中，</p>
 <pre><code>git config --global user.name &quot;yourname&quot;
@@ -1583,10 +1583,10 @@ git config user.email</code></pre>
 <p>然后创建SSH,一路回车</p>
 <pre><code>ssh-keygen -t rsa -C &quot;youremail&quot;</code></pre>
 <p>这个时候它会告诉你已经生成了.ssh的文件夹。在你的电脑中找到这个文件夹。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212536.png"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212536.png"></p>
 <p>ssh，简单来讲，就是一个秘钥，其中，<code>id_rsa</code>是你这台电脑的私人秘钥，不能给别人看的，<code>id_rsa.pub</code>是公共秘钥，可以随便给别人看。把这个公钥放在GitHub上，这样当你链接GitHub自己的账户时，它就会根据公钥匹配你的私钥，当能够相互匹配时，才能够顺利的通过git上传你的文件到GitHub上。</p>
 <p>而后在GitHub的setting中，找到SSH keys的设置选项，点击<code>New SSH key</code><br>把你的<code>id_rsa.pub</code>里面的信息复制进去。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkstdifaj210s0gfjrz.jpg">****</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkstdifaj210s0gfjrz.jpg">****</p>
 <p>在gitbash中，查看是否成功</p>
 <pre><code>ssh -T git@github.com</code></pre>
 <h1 id="6-将hexo部署到GitHub"><a href="#6-将hexo部署到GitHub" class="headerlink" title="6. 将hexo部署到GitHub"></a>6. 将hexo部署到GitHub</h1><p>这一步，我们就可以将hexo和GitHub关联起来，也就是将hexo生成的文章部署到GitHub上，打开站点配置文件 <code>_config.yml</code>，翻到最后，修改为<br>YourgithubName就是你的GitHub账户</p>
@@ -1602,7 +1602,7 @@ hexo generate
 hexo deploy</code></pre>
 <p>其中 <code>hexo clean</code>清除了你之前生成的东西，也可以不加。<br><code>hexo generate</code> 顾名思义，生成静态文章，可以用 <code>hexo g</code>缩写<br><code>hexo deploy</code> 部署文章，可以用<code>hexo d</code>缩写</p>
 <p>注意deploy时可能要你输入username和password。</p>
-<p>得到下图就说明部署成功了，过一会儿就可以在<code>http://yourname.github.io</code> 这个网站看到你的博客了！！<br><img src= "/img/loading.gif" data-lazy-src="https://ww1.sinaimg.cn/large/d40b6c29gy1fvrkstbtvfj20lq01u3yd.jpg"></p>
+<p>得到下图就说明部署成功了，过一会儿就可以在<code>http://yourname.github.io</code> 这个网站看到你的博客了！！<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ww1.sinaimg.cn/large/d40b6c29gy1fvrkstbtvfj20lq01u3yd.jpg"></p>
 <h1 id="第二部分"><a href="#第二部分" class="headerlink" title="第二部分"></a>第二部分</h1><p>hexo的基本配置，更换主题，实现多终端工作，以及在coding page部署实现国内外分流。</p>
 <h1 id="1-hexo基本配置"><a href="#1-hexo基本配置" class="headerlink" title="1. hexo基本配置"></a>1. hexo基本配置</h1><p>在文件根目录下的<code>_config.yml</code>，就是整个hexo框架的配置文件了。可以在里面修改大部分的配置。详细可参考<a href="https://hexo.io/zh-cn/docs/configuration">官方的配置</a>描述。</p>
 <h3 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h3><p>参数</p>
@@ -1711,11 +1711,11 @@ tags:
 <p>就会自动把newpage.md发送到post中。</p>
 <hr>
 <h1 id="2-更换主题"><a href="#2-更换主题" class="headerlink" title="2. 更换主题"></a>2. 更换主题</h1><p>到这一步，如果你觉得默认的<code>landscape</code>主题不好看，那么可以在官网的主题中，选择你喜欢的一个主题进行修改就可以啦。<a href="https://hexo.io/themes/">点这里</a></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkswpjhtj21fu0rhtp6.jpg"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkswpjhtj21fu0rhtp6.jpg"></p>
 <p>这里有200多个主题可以选。不过最受欢迎的就是那么几个，比如<a href="https://github.com/theme-next/hexo-theme-next">NexT主题</a>，非常的简洁好看，大多数人都选择这个，关于这个的教程也比较多。不过我选择的是<a href="https://github.com/jerryc127/hexo-theme-butterfly">butterfly</a>这个主题</p>
 <p>直接在github链接上下载下来，然后放到<code>theme</code>文件夹下就行了，然后再在刚才说的配置文件中把<code>theme</code>换成那个主题文件夹的名字，它就会自动在<code>theme</code>文件夹中搜索你配置的主题。</p>
 <h3 id="menu（菜单栏）"><a href="#menu（菜单栏）" class="headerlink" title="menu（菜单栏）"></a>menu（菜单栏）</h3><p>也就是上面菜单栏上的这些东西。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212726.png"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212726.png"></p>
 <p>其中，关于这个你是找不到网页的，因为你的文章中没有about这个东西。如果你想要的话，可以执行命令</p>
 <pre><code>hexo new page about</code></pre>
 <p>它就会在根目录下<code>source</code>文件夹中新建了一个<code>about</code>文件夹，<a href="http://以及index.md/">以及index.md</a>，在index.md中写上你想要写的东西，就可以在网站上展示出来了。</p>
@@ -1793,16 +1793,16 @@ feed:
 <pre><code>npm install hexo-generator-sitemap --save     
 npm install hexo-generator-baidu-sitemap --save</code></pre>
 <p>这时候你需要在你的根目录下<code>_config.xml</code>中看看url有没有改成你自己的：</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212919.png"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219212919.png"></p>
 <p>重新部署后，就可以在public文件夹下看到生成的sitemap.xml和baidusitemap.xml了。</p>
 <p>然后就可以向百度提交你的站点地图了。</p>
 <p>这里建议使用自动提交。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkstwp4pj20fc0kyq4n.jpg"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/d40b6c29gy1fvrkstwp4pj20fc0kyq4n.jpg"></p>
 <p><strong>ps:</strong> 百度收录比较慢，慢慢等个十天半个月再去<code>site:&lt;域名&gt;</code>看看有没有被收录。</p>
 <h3 id="google的SEO"><a href="#google的SEO" class="headerlink" title="google的SEO"></a>google的SEO</h3><p>流程一样，google更简单，而且收录更快，进入<a href="https://search.google.com/search-console/sitemaps?resource_id=http://fangzh.top/&hl=zh-CN">google站点地图</a>，提交网站和sitemap.xml，就可以了。</p>
 <p>如果你这个域名在google这里出了问题，那你就提交 <a href="http://yourname.github.io/">yourname.github.io</a>，这个链接，效果是一样的。</p>
 <p>不出意外的话一天内google就能收录你的网站了。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219213019.png"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219213019.png"></p>
 <p>其他的搜索，如搜狗搜索，360搜索，流程是一样的，这里就不再赘述。</p>
 <h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>到这里就基本做完了。其实都是参考别的博主的设置的，不一定仅限于butterfly主题，其他主题的设置也是大体相同的，所以如果你希望设置别的主题，那么仔细看一下这个主题的代码结构，也能够把上边的功能添加进去。</p>
 <p>多看看别的博主的那些功能，如果有你能找到自己喜欢的功能，那么好好发动搜索技能，很快就能找到怎么做了。加油吧！</p>

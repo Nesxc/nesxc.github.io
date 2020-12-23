@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/post/smpset.html</loc>
+    <loc>https://www.nesxc.com/post/smpkj.html</loc>
     
     <lastmod>2020-12-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/post/smpkj.html</loc>
+    <loc>https://www.nesxc.com/post/smpset.html</loc>
     
     <lastmod>2020-12-16</lastmod>
     
@@ -214,14 +214,14 @@
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/tags/bilibili/</loc>
+    <loc>https://www.nesxc.com/tags/hexo/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/tags/hexo/</loc>
+    <loc>https://www.nesxc.com/tags/bilibili/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -293,14 +293,14 @@
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/categories/markdown/</loc>
+    <loc>https://www.nesxc.com/categories/hexo/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/categories/hexo/</loc>
+    <loc>https://www.nesxc.com/categories/markdown/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
