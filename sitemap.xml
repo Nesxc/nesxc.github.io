@@ -86,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/post/smpbtb.html</loc>
-    
-    <lastmod>2020-12-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.nesxc.com/post/smpOpenCV.html</loc>
     
     <lastmod>2020-12-16</lastmod>
@@ -100,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/post/smpset.html</loc>
+    <loc>https://www.nesxc.com/post/smpbtb.html</loc>
     
     <lastmod>2020-12-16</lastmod>
     
@@ -108,6 +101,13 @@
   
   <url>
     <loc>https://www.nesxc.com/post/smpkj.html</loc>
+    
+    <lastmod>2020-12-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.nesxc.com/post/smpset.html</loc>
     
     <lastmod>2020-12-16</lastmod>
     
@@ -214,14 +214,14 @@
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/tags/hexo/</loc>
+    <loc>https://www.nesxc.com/tags/bilibili/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.nesxc.com/tags/bilibili/</loc>
+    <loc>https://www.nesxc.com/tags/hexo/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -286,6 +286,13 @@
   </url>
   
   <url>
+    <loc>https://www.nesxc.com/categories/markdown/</loc>
+    <lastmod>2020-12-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.nesxc.com/categories/%E7%94%B5%E5%95%86/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
@@ -301,13 +308,6 @@
   
   <url>
     <loc>https://www.nesxc.com/categories/%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2020-12-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nesxc.com/categories/markdown/</loc>
     <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
