@@ -1,38 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>OKR工作法</title>
-    <url>//post/OKR.html</url>
-    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://pic1.zhimg.com/v2-2420fcc1a9e6f2f13bf456ded6c2e616_1440w.jpg" alt="OKR"></p>
-<h5 id="OKR的意义"><a href="#OKR的意义" class="headerlink" title="OKR的意义"></a>OKR的意义</h5><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">O是Objectives，</span><br><span class="line">KR是Key Results，</span><br><span class="line">OKR就是Objectives and Key Results，即目标与关键结果法。</span><br></pre></td></tr></table></figure>
-
-<p>使用OKR工作法可以协调推进团队任务的进度。</p>
-<h5 id="如何推进OKR？"><a href="#如何推进OKR？" class="headerlink" title="如何推进OKR？"></a>如何推进OKR？</h5><p>每周一，团队一起开会盘点OKR，来明确本周具体负责完成哪些任务。可以参考这种四象限OKR展示形式：</p>
-<p>本周关注的任务</p>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">OKR当前状态</span><br><span class="line">P1：订阅系统的建立</span><br><span class="line">P1：Ico的制作</span><br><span class="line">P1：留言板的制作</span><br><span class="line">P2：SEO的优化</span><br><span class="line"></span><br><span class="line">目标：百度谷歌的收录</span><br><span class="line">关键结果：网站的收录（50%）</span><br><span class="line">关键结果：第一个被收录的博客（50%）</span><br><span class="line"></span><br><span class="line">未来四周的计划</span><br><span class="line">优化系统</span><br><span class="line">服务器的提升</span><br><span class="line">备份系统的建立</span><br></pre></td></tr></table></figure>
-
-<p>● 本周关注的任务：列出3~4件最重要的事情，只有本周完成了这几件事，团队的目标才能向前推进；明确这些事的优先级（P表示Plan，P1的优先级大于P2，没有P3或更不重要的事）。</p>
-<p>● 未来四周的计划：有哪些事情需要其他团队成员做好准备或支持，都列在这一象限。</p>
-<p>● OKR当前的状态：每周讨论你们的信心指数，变高了还是变低了？因为发生了什么导致如此？</p>
-<p>● 状态指标：挑出两个影响目标达成的其他因素，简略地用色彩记录它们的变化来关注它们。（例如绿色为好，黄色为警戒，红色为差）当这些因素发生意外时，马上讨论找出应对方案，确保OKR不受影响。</p>
-<h5 id="怎么进行OKR"><a href="#怎么进行OKR" class="headerlink" title="怎么进行OKR"></a>怎么进行OKR</h5><p>每周一的会议可以用1/4的时间来讲述进度，剩余时间一起讨论下一步计划，并落实每个人本周的职责。</p>
-<p>每周五，召开“胜利会议”，让每个团队都可以展示本周的工作成果，并准备一些酒水饮料和点心等庆祝这些成果。</p>
-<p>每周重复这些事情，反复这样“明确责任”-“庆祝胜利”的节奏，就实现了OKR的分步骤落实。</p>
-<h5 id="易造成目标无法达成的5个因素"><a href="#易造成目标无法达成的5个因素" class="headerlink" title="易造成目标无法达成的5个因素"></a>易造成目标无法达成的5个因素</h5><p>（1）设置多个目标但没有给目标设定优先级。</p>
-<p>（2）缺乏充分沟通，导致团队其他成员没能准确理解目标。</p>
-<p>（3）没有做好具体落实目标的计划，只是空谈目标。</p>
-<p>（4）没有把时间花在重要的事情上，而去做了许多偏离目标的事情。</p>
-<p>（5）轻易放弃。</p>
-<h5 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h5><p>OKR是一个可以供大到上万人小到我一个人的目标实现工作法。 </p>
-]]></content>
-      <categories>
-        <category>电商</category>
-      </categories>
-      <tags>
-        <tag>OKR</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>二十分钟精通markdown</title>
     <url>//post/20minmarkdown.html</url>
     <content><![CDATA[<blockquote>
@@ -111,68 +79,35 @@
       </tags>
   </entry>
   <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>//post/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+    <title>OKR工作法</title>
+    <url>//post/OKR.html</url>
+    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://pic1.zhimg.com/v2-2420fcc1a9e6f2f13bf456ded6c2e616_1440w.jpg" alt="OKR"></p>
+<h5 id="OKR的意义"><a href="#OKR的意义" class="headerlink" title="OKR的意义"></a>OKR的意义</h5><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">O是Objectives，</span><br><span class="line">KR是Key Results，</span><br><span class="line">OKR就是Objectives and Key Results，即目标与关键结果法。</span><br></pre></td></tr></table></figure>
 
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+<p>使用OKR工作法可以协调推进团队任务的进度。</p>
+<h5 id="如何推进OKR？"><a href="#如何推进OKR？" class="headerlink" title="如何推进OKR？"></a>如何推进OKR？</h5><p>每周一，团队一起开会盘点OKR，来明确本周具体负责完成哪些任务。可以参考这种四象限OKR展示形式：</p>
+<p>本周关注的任务</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">OKR当前状态</span><br><span class="line">P1：订阅系统的建立</span><br><span class="line">P1：Ico的制作</span><br><span class="line">P1：留言板的制作</span><br><span class="line">P2：SEO的优化</span><br><span class="line"></span><br><span class="line">目标：百度谷歌的收录</span><br><span class="line">关键结果：网站的收录（50%）</span><br><span class="line">关键结果：第一个被收录的博客（50%）</span><br><span class="line"></span><br><span class="line">未来四周的计划</span><br><span class="line">优化系统</span><br><span class="line">服务器的提升</span><br><span class="line">备份系统的建立</span><br></pre></td></tr></table></figure>
 
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+<p>● 本周关注的任务：列出3~4件最重要的事情，只有本周完成了这几件事，团队的目标才能向前推进；明确这些事的优先级（P表示Plan，P1的优先级大于P2，没有P3或更不重要的事）。</p>
+<p>● 未来四周的计划：有哪些事情需要其他团队成员做好准备或支持，都列在这一象限。</p>
+<p>● OKR当前的状态：每周讨论你们的信心指数，变高了还是变低了？因为发生了什么导致如此？</p>
+<p>● 状态指标：挑出两个影响目标达成的其他因素，简略地用色彩记录它们的变化来关注它们。（例如绿色为好，黄色为警戒，红色为差）当这些因素发生意外时，马上讨论找出应对方案，确保OKR不受影响。</p>
+<h5 id="怎么进行OKR"><a href="#怎么进行OKR" class="headerlink" title="怎么进行OKR"></a>怎么进行OKR</h5><p>每周一的会议可以用1/4的时间来讲述进度，剩余时间一起讨论下一步计划，并落实每个人本周的职责。</p>
+<p>每周五，召开“胜利会议”，让每个团队都可以展示本周的工作成果，并准备一些酒水饮料和点心等庆祝这些成果。</p>
+<p>每周重复这些事情，反复这样“明确责任”-“庆祝胜利”的节奏，就实现了OKR的分步骤落实。</p>
+<h5 id="易造成目标无法达成的5个因素"><a href="#易造成目标无法达成的5个因素" class="headerlink" title="易造成目标无法达成的5个因素"></a>易造成目标无法达成的5个因素</h5><p>（1）设置多个目标但没有给目标设定优先级。</p>
+<p>（2）缺乏充分沟通，导致团队其他成员没能准确理解目标。</p>
+<p>（3）没有做好具体落实目标的计划，只是空谈目标。</p>
+<p>（4）没有把时间花在重要的事情上，而去做了许多偏离目标的事情。</p>
+<p>（5）轻易放弃。</p>
+<h5 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h5><p>OKR是一个可以供大到上万人小到我一个人的目标实现工作法。 </p>
 ]]></content>
       <categories>
-        <category>hexo</category>
+        <category>电商</category>
       </categories>
       <tags>
-        <tag>维护</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo主题配置整合包发布</title>
-    <url>//post/hexo-ran.html</url>
-    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
-<h1 id="hexo-ran"><a href="#hexo-ran" class="headerlink" title="hexo-ran"></a>hexo-ran</h1><p>预览: 👍 <a href="https://www.ranas.cn/">Ran</a><br>文檔: 📖 <a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly Docs</a><br>项目地址: <a href="https://github.com/Ran08/hexo-ran/">Hexo-Ran</a></p>
-<p>  本整合包是基于<a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-butterfly</a>整合而来的整合包</p>
-<h2 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h2><h3 id="Git-安裝"><a href="#Git-安裝" class="headerlink" title="Git 安裝"></a>Git 安裝</h3><p>新建一个blog文件夹，在里面直接运行:</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">git</span> <span class="string">clone</span> <span class="string">https://github.com/Ran08/hexo-ran.git</span></span><br></pre></td></tr></table></figure>
-<h3 id="exe安装"><a href="#exe安装" class="headerlink" title="exe安装"></a>exe安装</h3><p>打开提供的exe程序，将文件安装在你的hexo博客目录即可<br><a href="https://github.com/Ran08/hexo-ran/releases/download/V0.1/hexo-ran.exe" target="_blank">点击下载</a><br>下载直连github  </p>
-<h2 id="前置NPM插件"><a href="#前置NPM插件" class="headerlink" title="前置NPM插件"></a>前置NPM插件</h2><blockquote>
-<p>如果需要删除，把install更为uninstall即可。<br>pug以及stylus的渲染器</p>
-</blockquote>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-renderer-pug</span> <span class="string">hexo-renderer-stylus</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
-<blockquote>
-<p><a href="https://github.com/wzpan/hexo-generator-search">hexo-generator-search</a>本地搜索</p>
-</blockquote>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-searchdb</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
-<blockquote>
-<p><a href="https://github.com/hexojs/hexo-generator-feed">hexo-generator-feed</a> RSS</p>
-</blockquote>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-feed</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
-<blockquote>
-<p><a href="https://github.com/coneycode/hexo-generator-baidu-sitemap">hexo-generator-sitemap</a> sitemap生成</p>
-</blockquote>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-sitemap</span> <span class="string">--save</span></span><br><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-baidu-sitemap</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
-<blockquote>
-<p><a href="https://github.com/EYHN/hexo-helper-live2d">hexo-helper-live2d</a> 看板娘</p>
-</blockquote>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">--save</span> <span class="string">hexo-helper-live2d</span></span><br></pre></td></tr></table></figure>
-<blockquote>
-<h3 id="整合包的好处"><a href="#整合包的好处" class="headerlink" title="整合包的好处"></a>整合包的好处</h3></blockquote>
-<blockquote>
-<p>1.对于小白更加的友好。<br>2.即装即用。<br>3.稳定不易出错。</p>
-</blockquote>
-<h2 id="本站的-config-butterfly-yml正在全面汉化。"><a href="#本站的-config-butterfly-yml正在全面汉化。" class="headerlink" title="本站的_config.butterfly.yml正在全面汉化。"></a>本站的_config.butterfly.yml正在全面汉化。</h2>]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>hexo-ran</tag>
+        <tag>OKR</tag>
       </tags>
   </entry>
   <entry>
@@ -440,6 +375,111 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
+    <title>hexo主题配置整合包发布</title>
+    <url>//post/hexo-ran.html</url>
+    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
+<h1 id="hexo-ran"><a href="#hexo-ran" class="headerlink" title="hexo-ran"></a>hexo-ran</h1><p>预览: 👍 <a href="https://www.ranas.cn/">Ran</a><br>文檔: 📖 <a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly Docs</a><br>项目地址: <a href="https://github.com/Ran08/hexo-ran/">Hexo-Ran</a></p>
+<p>  本整合包是基于<a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-butterfly</a>整合而来的整合包</p>
+<h2 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h2><h3 id="Git-安裝"><a href="#Git-安裝" class="headerlink" title="Git 安裝"></a>Git 安裝</h3><p>新建一个blog文件夹，在里面直接运行:</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">git</span> <span class="string">clone</span> <span class="string">https://github.com/Ran08/hexo-ran.git</span></span><br></pre></td></tr></table></figure>
+<h3 id="exe安装"><a href="#exe安装" class="headerlink" title="exe安装"></a>exe安装</h3><p>打开提供的exe程序，将文件安装在你的hexo博客目录即可<br><a href="https://github.com/Ran08/hexo-ran/releases/download/V0.1/hexo-ran.exe" target="_blank">点击下载</a><br>下载直连github  </p>
+<h2 id="前置NPM插件"><a href="#前置NPM插件" class="headerlink" title="前置NPM插件"></a>前置NPM插件</h2><blockquote>
+<p>如果需要删除，把install更为uninstall即可。<br>pug以及stylus的渲染器</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-renderer-pug</span> <span class="string">hexo-renderer-stylus</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a href="https://github.com/wzpan/hexo-generator-search">hexo-generator-search</a>本地搜索</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-searchdb</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a href="https://github.com/hexojs/hexo-generator-feed">hexo-generator-feed</a> RSS</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-feed</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a href="https://github.com/coneycode/hexo-generator-baidu-sitemap">hexo-generator-sitemap</a> sitemap生成</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-sitemap</span> <span class="string">--save</span></span><br><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-baidu-sitemap</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a href="https://github.com/EYHN/hexo-helper-live2d">hexo-helper-live2d</a> 看板娘</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">--save</span> <span class="string">hexo-helper-live2d</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<h3 id="整合包的好处"><a href="#整合包的好处" class="headerlink" title="整合包的好处"></a>整合包的好处</h3></blockquote>
+<blockquote>
+<p>1.对于小白更加的友好。<br>2.即装即用。<br>3.稳定不易出错。</p>
+</blockquote>
+<h2 id="本站的-config-butterfly-yml正在全面汉化。"><a href="#本站的-config-butterfly-yml正在全面汉化。" class="headerlink" title="本站的_config.butterfly.yml正在全面汉化。"></a>本站的_config.butterfly.yml正在全面汉化。</h2>]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>hexo-ran</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>//post/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo建立一个独立的html页面</title>
+    <url>//post/hexohtml.html</url>
+    <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
+<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><pre><code>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 `_config.yml` 里找到 `skip_render` 关键字，在后面添加想要跳过渲染的页面，比如我们创建 `\source\about\index.html`， 配置文件填写：`skip_render: about\**`，那么就表示 `\source\about` 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：https://hexo.io/docs/configuration</code></pre>
+<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><pre><code>在文章头部的 Front-matter 里添加配置 `layout: false` 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 `\source\about\index.md`，将这个页面的相关 HTML 代码写进`.md`文件并保存，然后在 `index.md` 的头部写入：
+
+---
+layout: false
+---
+
+    xxxxxxxxxxxxx
+    xx HTML代码 xx
+    xxxxxxxxxxxxx
+    </code></pre>
+<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
+<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用Hexo和Github Actions自动化博客更新</title>
+    <url>//post/hexogithub.html</url>
+    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+</div>
+
+<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
+      <categories>
+        <category>视频推荐</category>
+      </categories>
+      <tags>
+        <tag>bilibili</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>客户分析-价格段的选取</title>
     <url>//post/khfx.html</url>
     <content><![CDATA[<p>我们在对产品定位时不仅要通过产品进行定位，也要从客户方面进行定位。</p>
@@ -490,18 +530,116 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>使用Hexo和Github Actions自动化博客更新</title>
-    <url>//post/hexogithub.html</url>
-    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+    <title>在树莓派上安装BOINC并参与SETI@home分布式计算项目</title>
+    <url>//post/smpbtb.html</url>
+    <content><![CDATA[<h2 id="1-在树莓派上安装BOINC客户端"><a href="#1-在树莓派上安装BOINC客户端" class="headerlink" title="1.在树莓派上安装BOINC客户端"></a>1.在树莓派上安装BOINC客户端</h2><p>仅需要一行命令即可在树莓派或者Ubuntu操作系统上安装BOINC</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install boinc-client boinc</span><br></pre></td></tr></table></figure>
+
+<p>在跳出的对话框中输入<code>y</code>和回车<code>↩</code>，确定下载安装，需要64MB存储空间。</p>
+<p>安装成功之后，打开树莓派桌面（或者使用VNC远程桌面），在“系统工具”中点击“BOINC Manager”。</p>
+<h3 id="2-选择你想参加的分布式计算项目"><a href="#2-选择你想参加的分布式计算项目" class="headerlink" title="2.选择你想参加的分布式计算项目"></a>2.选择你想参加的分布式计算项目</h3><p>选择SETI@home，点击“下一步“</p>
+<p>BOINC平台上各领域有趣的分布式计算项目详细介绍见后文。</p>
+<h3 id="3-注册新账号或登陆已有账号"><a href="#3-注册新账号或登陆已有账号" class="headerlink" title="3.注册新账号或登陆已有账号"></a>3.注册新账号或登陆已有账号</h3><h3 id="4-自动从项目服务器上获取数据，开始计算"><a href="#4-自动从项目服务器上获取数据，开始计算" class="headerlink" title="4.自动从项目服务器上获取数据，开始计算"></a>4.自动从项目服务器上获取数据，开始计算</h3><p>现在，你的树莓派就开始自动计算并把数据发回项目服务器了，大功告成。</p>
+<p>树莓派性能远不及平常电脑，计算一个数据包需要19个小时，而普通笔记本电脑计算一个数据包仅需3个小时。</p>
+<p>而且树莓派上运行SETI@home不能看到本项目标志性的高大上信号处理屏幕保护图片，</p>
+<p>通过以下设置修改计算参数，防止CPU资源被全部占用，或CPU过烫</p>
+<p>在命令行中输入以下命令查看实时CPU温度，在全速运行计算项目时CPU温度可能会达到100摄氏度以上，应密切注意CPU温度并调整适当计算参数。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd measure_temp</span><br></pre></td></tr></table></figure>
+
+
+<h2 id="BOINC平台上各领域有趣的分布式计算项目详细介绍"><a href="#BOINC平台上各领域有趣的分布式计算项目详细介绍" class="headerlink" title="BOINC平台上各领域有趣的分布式计算项目详细介绍"></a>BOINC平台上各领域有趣的分布式计算项目详细介绍</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3e2ec8af4186e54c.png" alt="BOINC平台上的科学计算项目"></p>
+<h3 id="几个比较经典的项目"><a href="#几个比较经典的项目" class="headerlink" title="几个比较经典的项目:"></a>几个比较经典的项目:</h3><ul>
+<li><h4 id="天文及物理"><a href="#天文及物理" class="headerlink" title="天文及物理"></a>天文及物理</h4></li>
+<li><p>SETI@home：分析阿雷西博射电望远镜的海量数据，寻找可能的地外文明信号。</p>
+</li>
+<li><p>Einsten@home：分析LIGO和GEO600采集的海量观测数据，寻找引力波存在的证据。分析阿雷西博射电望远镜和费米伽马射线卫星传来的数据寻找脉冲星和中子星。由威斯康星大学密尔沃基分校发起。</p>
+</li>
+<li><p>Milkyway@home：使用Sloan数字巡天的数据来对银河系进行高精度的三维建模。</p>
+</li>
+<li><p>LHC@home：大型强子对撞机（LHC）是 CERN（欧洲核子研究组织）的一个粒子加速器装置，也是世界上最大的粒子物理实验室。它是人类现有的用于研究基本粒子特性的最强大的实验装置。LHC@home 的作用主要是对加速器进行模拟，并帮助改进 LHC 及其探测器的设计。</p>
+</li>
+<li><p>Cosmology@Home：寻找描述宇宙演化的数学模型。由UIUC大学发起。</p>
+</li>
+<li><p>Asteroids@home：研究小行星形状、自转周期、自转轴信息。</p>
+</li>
+<li><p>Universe@home：创建宇宙天体数据库，从最初的恒星到奇特的黑洞双星。</p>
+</li>
+<li><h4 id="地球物理"><a href="#地球物理" class="headerlink" title="地球物理"></a>地球物理</h4></li>
+<li><p>Climateprediction.net：牛津大学发起，旨在优化现有大气模型对二氧化碳、硫循环等的敏感程度。预测未来全球气候变化。</p>
+</li>
+<li><h4 id="生物信息学"><a href="#生物信息学" class="headerlink" title="生物信息学"></a>生物信息学</h4></li>
+<li><p>CAS@home：帮助中国科学家研究蛋白质结构、纳米技术、肿瘤基因组学以及高能物理。由中科院计算技术研究所、中科院高能物理研究所、清华大学牵头发起。</p>
+</li>
+<li><p>RNA World：旨在识别、 分析、 结构预测和设计建立生物信息学软件的 RNA 分子。源代码全部公开，成果向公众公开。</p>
+</li>
+<li><p>MindModeling@home：使用计算模拟认知过程模型，以更好地理解人类的思维。</p>
+</li>
+<li><p>Rosetta@home：进行蛋白质的三维构造研究，设计出新的蛋白质以抗击艾滋病、疟疾、癌症以及阿尔茨海默氏症（老年痴呆症）。由美国华盛顿大学发起。</p>
+</li>
+<li><p>GPUGrid.net：利用 NVIDIA 显卡（GPU）来进行全原子的分子动力学模拟。计算生物学的应用给生物医药学带来了新的研究方向。</p>
+</li>
+<li><p>DENIS@home：通过心脏电生理仿真，研究心脏的电活动。</p>
+</li>
+<li><h4 id="物联网"><a href="#物联网" class="headerlink" title="物联网"></a>物联网</h4></li>
+<li><p>Quake Catcher Network：使用连接到智能手机的传感器来检测地震波。由南加利福尼亚大学发起。</p>
+</li>
+<li><p>Radioactive@home：使用志愿者计算机上的传感器来建立一个免费并持续更新的辐射强度地图。你需要购买一个传感器来加入这个项目。</p>
+</li>
+<li><h4 id="数学与密码学"><a href="#数学与密码学" class="headerlink" title="数学与密码学"></a>数学与密码学</h4></li>
+<li><p>PrimeGrid：寻找已知最大的质数。</p>
+</li>
+<li><p>NFS@home：进行大数的分解质因数。</p>
+</li>
+<li><p>Collatz Conjecture：研究考拉兹猜想(Collatz conjecture)，一个尚未被证明的数学猜想。</p>
+</li>
+<li><p>Enigma@home：试图破译三条二战期间的纳粹德军加密Enigma电文消息，这些消息于1942年11月25日在北大西洋截获而且一直被认为是不可破解的。该项目采用暴力破解和梯度算法(爬山法)的混合方法试图破译（<a href="http://www.equn.com/m4/m4_project.html">项目说明</a>）。第一条加密信息于2006年2月20日被<a href="http://www.equn.com/m4/m4-project-first-break.html"><strong>成功破译（译文）</strong></a>。第二条加密信息于2006年3月7日被<a href="http://www.equn.com/m4/m4-project-second-break.html"><strong>成功破译（译文）</strong></a>。第三条信息尚未被破译。</p>
+</li>
+</ul>
+<blockquote>
+<p>子豪兄批注：</p>
+<p>两条加密电文的译文都是关于当时大西洋潜艇战德军U型潜艇的位置、行动航向、速度、遭受攻击，以及战场风向、天气、能见度等战场情报。</p>
+<p>“图灵机”概念创始人、人工智能之父阿兰图灵二战期间秘密受命于英国军方，也在从事破译德军Enigma密码的工作并取得成功，使德军在大西洋的“潜艇狼群战术”破产。卷福主演的电影《模仿游戏》讲述的就是这一段历史。关于二战期间英德两国的潜艇战和密码战，以及数学天才阿兰图灵的传奇人生，推荐观看<a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a>、罗辑思维<a href="https://v.youku.com/v_show/id_XMTMzMjMzOTA4NA==.html">《庸众的迫害》</a>。</p>
+</blockquote>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-ce58e5ff1690f3a7.png" alt="几个项目的屏幕保护界面"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="http://www.equn.com/images/thumb/5/58/Sah_scr1.jpg/680px-Sah_scr1.jpg" alt="SETI@home屏幕保护界面"></p>
+<p><a href="http://www.equn.com/wiki/SETI@home:%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4">SETI@home屏幕保护界面解读</a></p>
+<p><a href="http://www.equn.com/forum/thread-16446-1-1.html">BOINC各项目屏幕保护动画</a></p>
+<h2 id="数字货币与BOINC科学计算的结合——GridCoin"><a href="#数字货币与BOINC科学计算的结合——GridCoin" class="headerlink" title="数字货币与BOINC科学计算的结合——GridCoin"></a>数字货币与BOINC科学计算的结合——GridCoin</h2><div align=center>
+<img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src='https://upload-images.jianshu.io/upload_images/13714448-eeb156d302b4460b.png%7CimageView2/2/w/1240' />
 </div>
 
-<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
+<p>​         众所周知，传统的区块链数字货币（比如比特币、以太坊），为了保证区块的安全和交易速度，引入了<strong>挖矿</strong>的“工作量证明共识机制”（<a href="https://mp.weixin.qq.com/s/YB1USLerYHUvOOphAqUuxA">比特币的产生与挖矿</a>），<strong>挖矿本质上是区块链的参与者用计算设备、算力、电力能源换取区块链交易记账权并获取数字货币奖励的过程</strong>。挖矿消耗了巨量的电力能源，造成显卡矿机的军备竞赛和矿池“矿霸”的出现，而用于比特币和以太坊挖矿的算力和能源并不能为实体经济产生价值。于是，基于真实科学计算平台BOINC的虚拟货币GridCoin应运而生。<a href="https://www.gridcoin.us/">GridCoin</a>格雷德币于2013年10月上线，2015年3月改版升级。它依托BOINC（伯克利分布式计算）平台，这个币以去中心化机制，按照科学计算的贡献决定挖矿收益，用算力支持了BOINC平台上涉及生物医学、气候变化、天体物理、密码破译、数学证明、搜寻地外文明等众多领域的有趣的科研项目，解决了比特币挖矿被诟病的浪费能源的问题。创始人Rob Halford三年半以来一直坚持开发，带领一支活跃的开发团队，解决了初期的种种bug，保证了这个币的稳定性和科学计算功能。目前，格雷德币团队在BOINC中的所有十万支团队中近期积分排名第一<a href="http://link.zhihu.com/?target=https://boincstats.com/en/stats/-1/team/list/16/0%231">BOINC全球团队积分排行榜</a>总积分也达到了第六名。</p>
+<p>​        Gridcoin格雷德币的矿工如果只是挖矿记账，而不将算力贡献给BOINC科学计算平台，那么每个BLOCK的回报只有5个格币；如果将算力贡献给BOINC科学计算平台，每个BLOCK的回报根据贡献算力的大小将达到6到150个格币。</p>
+<p>​        Gridcoin格雷德币充分考虑了避免ASIC（专业矿机）的渗入，保证只有个人电脑的CPU和GPU才能挖矿。格币提供更快的交易确认：平均2.5分钟生成一个新区块，采用SCRYPT的POW（工作量证明）算法。</p>
+<p>​        <a href="https://gridcoin.us/assets/img/whitepaper.pdf">数字货币Grid官方白皮书</a></p>
+<p>​    <a href="https://zhuanlan.zhihu.com/p/27697266?utm_source=qq&utm_medium=social&utm_oi=571402578022109184">知乎：对格雷德币（Gridcoin，GRC）的了解与初步获取方法</a></p>
+<h2 id="扩展阅读与参考文献"><a href="#扩展阅读与参考文献" class="headerlink" title="扩展阅读与参考文献"></a>扩展阅读与参考文献</h2><blockquote>
+<p><a href="https://www.bilibili.com/video/av9388526?from=search&seid=6157990192498395439">Bilibili视频：科技小制作 - 树莓派的好去处——SETI@Home - by 科技小制作</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/SETI@home">维基百科：SETI@home</a></p>
+<p><a href="https://boinc.berkeley.edu/">BOINC官方主页</a></p>
+<p><a href="http://www.equn.com/wiki/BOINC">BOINC中国分布式总站</a></p>
+<p><a href="http://www.equn.com/wiki/%E6%A8%A1%E6%9D%BF:BOINC_topics">BOINC主流计算项目详细介绍</a></p>
+<p><a href="https://setiathome.berkeley.edu/">SETI@home官方主页</a></p>
+<p><a href="http://www.equn.com/wiki/SETI@home:%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4">SETI@home屏幕保护界面解读</a></p>
+<p><a href="http://www.equn.com/forum/thread-16446-1-1.html">BOINC各项目屏幕保护动画</a></p>
+<p><a href="https://www.jinse.com/news/bitcoin/85217.html">Gridcoin格雷德币是什么|金色百科</a></p>
+<p><a href="https://www.zhihu.com/collection/211032264">知乎：除了比特币，还有哪些区块链的数字货币值得投资？走地鸡的回答</a></p>
+<p><a href="https://mp.weixin.qq.com/s/YB1USLerYHUvOOphAqUuxA">比特币的产生与挖矿？</a></p>
+<p><a href="https://gridcoin.us/assets/img/whitepaper.pdf">数字货币Grid官方白皮书</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/27697266?utm_source=qq&utm_medium=social&utm_oi=571402578022109184">知乎：对格雷德币（Gridcoin，GRC）的了解与初步获取方法</a></p>
+<p><a href="http://ac.qq.com/Comic/comicInfo/id/519544">刘慈欣小说《球状闪电》漫画版，作者：<em>锋绘网</em></a></p>
+<p><a href="https://v.youku.com/v_show/id_XMTMzMjMzOTA4NA==.html">罗辑思维第138期《庸众的迫害》</a></p>
+<p><a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a></p>
+<p><a href="http://tieba.baidu.com/p/3095639402">坐在家中电脑前贡献科研？蛋白质折叠小游戏 Foldit 中文版来啦！</a></p>
+</blockquote>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://projects-static.raspberrypi.org/projects/raspberry-pi-getting-started/13aeb423985e6bacd5d798f5f206a644b7c250a3/en/images/pi-plug-in.gif" alt="树莓派接线"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9413183a2d79c2a8.png%7CimageView2/2/w/1240" alt="欢迎加入树莓派全球开源社区"></p>
+]]></content>
       <categories>
-        <category>视频推荐</category>
+        <category>开发</category>
       </categories>
       <tags>
-        <tag>bilibili</tag>
+        <tag>树莓派</tag>
       </tags>
   </entry>
   <entry>
@@ -614,144 +752,6 @@ $$</code></pre>
 <p><a href="https://blog.csdn.net/u014397533/article/details/50910531">树莓派安装Python-OpenCV</a></p>
 <p> <a href="https://www.cnblogs.com/Pyrokine/p/8921285.html">基于树莓派3B+Python3.5的OpenCV3.4的配置教程</a></p>
 </blockquote>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo建立一个独立的html页面</title>
-    <url>//post/hexohtml.html</url>
-    <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
-<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><pre><code>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 `_config.yml` 里找到 `skip_render` 关键字，在后面添加想要跳过渲染的页面，比如我们创建 `\source\about\index.html`， 配置文件填写：`skip_render: about\**`，那么就表示 `\source\about` 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：https://hexo.io/docs/configuration</code></pre>
-<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><pre><code>在文章头部的 Front-matter 里添加配置 `layout: false` 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 `\source\about\index.md`，将这个页面的相关 HTML 代码写进`.md`文件并保存，然后在 `index.md` 的头部写入：
-
----
-layout: false
----
-
-    xxxxxxxxxxxxx
-    xx HTML代码 xx
-    xxxxxxxxxxxxx
-    </code></pre>
-<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
-<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在树莓派上安装BOINC并参与SETI@home分布式计算项目</title>
-    <url>//post/smpbtb.html</url>
-    <content><![CDATA[<h2 id="1-在树莓派上安装BOINC客户端"><a href="#1-在树莓派上安装BOINC客户端" class="headerlink" title="1.在树莓派上安装BOINC客户端"></a>1.在树莓派上安装BOINC客户端</h2><p>仅需要一行命令即可在树莓派或者Ubuntu操作系统上安装BOINC</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install boinc-client boinc</span><br></pre></td></tr></table></figure>
-
-<p>在跳出的对话框中输入<code>y</code>和回车<code>↩</code>，确定下载安装，需要64MB存储空间。</p>
-<p>安装成功之后，打开树莓派桌面（或者使用VNC远程桌面），在“系统工具”中点击“BOINC Manager”。</p>
-<h3 id="2-选择你想参加的分布式计算项目"><a href="#2-选择你想参加的分布式计算项目" class="headerlink" title="2.选择你想参加的分布式计算项目"></a>2.选择你想参加的分布式计算项目</h3><p>选择SETI@home，点击“下一步“</p>
-<p>BOINC平台上各领域有趣的分布式计算项目详细介绍见后文。</p>
-<h3 id="3-注册新账号或登陆已有账号"><a href="#3-注册新账号或登陆已有账号" class="headerlink" title="3.注册新账号或登陆已有账号"></a>3.注册新账号或登陆已有账号</h3><h3 id="4-自动从项目服务器上获取数据，开始计算"><a href="#4-自动从项目服务器上获取数据，开始计算" class="headerlink" title="4.自动从项目服务器上获取数据，开始计算"></a>4.自动从项目服务器上获取数据，开始计算</h3><p>现在，你的树莓派就开始自动计算并把数据发回项目服务器了，大功告成。</p>
-<p>树莓派性能远不及平常电脑，计算一个数据包需要19个小时，而普通笔记本电脑计算一个数据包仅需3个小时。</p>
-<p>而且树莓派上运行SETI@home不能看到本项目标志性的高大上信号处理屏幕保护图片，</p>
-<p>通过以下设置修改计算参数，防止CPU资源被全部占用，或CPU过烫</p>
-<p>在命令行中输入以下命令查看实时CPU温度，在全速运行计算项目时CPU温度可能会达到100摄氏度以上，应密切注意CPU温度并调整适当计算参数。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd measure_temp</span><br></pre></td></tr></table></figure>
-
-
-<h2 id="BOINC平台上各领域有趣的分布式计算项目详细介绍"><a href="#BOINC平台上各领域有趣的分布式计算项目详细介绍" class="headerlink" title="BOINC平台上各领域有趣的分布式计算项目详细介绍"></a>BOINC平台上各领域有趣的分布式计算项目详细介绍</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3e2ec8af4186e54c.png" alt="BOINC平台上的科学计算项目"></p>
-<h3 id="几个比较经典的项目"><a href="#几个比较经典的项目" class="headerlink" title="几个比较经典的项目:"></a>几个比较经典的项目:</h3><ul>
-<li><h4 id="天文及物理"><a href="#天文及物理" class="headerlink" title="天文及物理"></a>天文及物理</h4></li>
-<li><p>SETI@home：分析阿雷西博射电望远镜的海量数据，寻找可能的地外文明信号。</p>
-</li>
-<li><p>Einsten@home：分析LIGO和GEO600采集的海量观测数据，寻找引力波存在的证据。分析阿雷西博射电望远镜和费米伽马射线卫星传来的数据寻找脉冲星和中子星。由威斯康星大学密尔沃基分校发起。</p>
-</li>
-<li><p>Milkyway@home：使用Sloan数字巡天的数据来对银河系进行高精度的三维建模。</p>
-</li>
-<li><p>LHC@home：大型强子对撞机（LHC）是 CERN（欧洲核子研究组织）的一个粒子加速器装置，也是世界上最大的粒子物理实验室。它是人类现有的用于研究基本粒子特性的最强大的实验装置。LHC@home 的作用主要是对加速器进行模拟，并帮助改进 LHC 及其探测器的设计。</p>
-</li>
-<li><p>Cosmology@Home：寻找描述宇宙演化的数学模型。由UIUC大学发起。</p>
-</li>
-<li><p>Asteroids@home：研究小行星形状、自转周期、自转轴信息。</p>
-</li>
-<li><p>Universe@home：创建宇宙天体数据库，从最初的恒星到奇特的黑洞双星。</p>
-</li>
-<li><h4 id="地球物理"><a href="#地球物理" class="headerlink" title="地球物理"></a>地球物理</h4></li>
-<li><p>Climateprediction.net：牛津大学发起，旨在优化现有大气模型对二氧化碳、硫循环等的敏感程度。预测未来全球气候变化。</p>
-</li>
-<li><h4 id="生物信息学"><a href="#生物信息学" class="headerlink" title="生物信息学"></a>生物信息学</h4></li>
-<li><p>CAS@home：帮助中国科学家研究蛋白质结构、纳米技术、肿瘤基因组学以及高能物理。由中科院计算技术研究所、中科院高能物理研究所、清华大学牵头发起。</p>
-</li>
-<li><p>RNA World：旨在识别、 分析、 结构预测和设计建立生物信息学软件的 RNA 分子。源代码全部公开，成果向公众公开。</p>
-</li>
-<li><p>MindModeling@home：使用计算模拟认知过程模型，以更好地理解人类的思维。</p>
-</li>
-<li><p>Rosetta@home：进行蛋白质的三维构造研究，设计出新的蛋白质以抗击艾滋病、疟疾、癌症以及阿尔茨海默氏症（老年痴呆症）。由美国华盛顿大学发起。</p>
-</li>
-<li><p>GPUGrid.net：利用 NVIDIA 显卡（GPU）来进行全原子的分子动力学模拟。计算生物学的应用给生物医药学带来了新的研究方向。</p>
-</li>
-<li><p>DENIS@home：通过心脏电生理仿真，研究心脏的电活动。</p>
-</li>
-<li><h4 id="物联网"><a href="#物联网" class="headerlink" title="物联网"></a>物联网</h4></li>
-<li><p>Quake Catcher Network：使用连接到智能手机的传感器来检测地震波。由南加利福尼亚大学发起。</p>
-</li>
-<li><p>Radioactive@home：使用志愿者计算机上的传感器来建立一个免费并持续更新的辐射强度地图。你需要购买一个传感器来加入这个项目。</p>
-</li>
-<li><h4 id="数学与密码学"><a href="#数学与密码学" class="headerlink" title="数学与密码学"></a>数学与密码学</h4></li>
-<li><p>PrimeGrid：寻找已知最大的质数。</p>
-</li>
-<li><p>NFS@home：进行大数的分解质因数。</p>
-</li>
-<li><p>Collatz Conjecture：研究考拉兹猜想(Collatz conjecture)，一个尚未被证明的数学猜想。</p>
-</li>
-<li><p>Enigma@home：试图破译三条二战期间的纳粹德军加密Enigma电文消息，这些消息于1942年11月25日在北大西洋截获而且一直被认为是不可破解的。该项目采用暴力破解和梯度算法(爬山法)的混合方法试图破译（<a href="http://www.equn.com/m4/m4_project.html">项目说明</a>）。第一条加密信息于2006年2月20日被<a href="http://www.equn.com/m4/m4-project-first-break.html"><strong>成功破译（译文）</strong></a>。第二条加密信息于2006年3月7日被<a href="http://www.equn.com/m4/m4-project-second-break.html"><strong>成功破译（译文）</strong></a>。第三条信息尚未被破译。</p>
-</li>
-</ul>
-<blockquote>
-<p>子豪兄批注：</p>
-<p>两条加密电文的译文都是关于当时大西洋潜艇战德军U型潜艇的位置、行动航向、速度、遭受攻击，以及战场风向、天气、能见度等战场情报。</p>
-<p>“图灵机”概念创始人、人工智能之父阿兰图灵二战期间秘密受命于英国军方，也在从事破译德军Enigma密码的工作并取得成功，使德军在大西洋的“潜艇狼群战术”破产。卷福主演的电影《模仿游戏》讲述的就是这一段历史。关于二战期间英德两国的潜艇战和密码战，以及数学天才阿兰图灵的传奇人生，推荐观看<a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a>、罗辑思维<a href="https://v.youku.com/v_show/id_XMTMzMjMzOTA4NA==.html">《庸众的迫害》</a>。</p>
-</blockquote>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-ce58e5ff1690f3a7.png" alt="几个项目的屏幕保护界面"></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="http://www.equn.com/images/thumb/5/58/Sah_scr1.jpg/680px-Sah_scr1.jpg" alt="SETI@home屏幕保护界面"></p>
-<p><a href="http://www.equn.com/wiki/SETI@home:%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4">SETI@home屏幕保护界面解读</a></p>
-<p><a href="http://www.equn.com/forum/thread-16446-1-1.html">BOINC各项目屏幕保护动画</a></p>
-<h2 id="数字货币与BOINC科学计算的结合——GridCoin"><a href="#数字货币与BOINC科学计算的结合——GridCoin" class="headerlink" title="数字货币与BOINC科学计算的结合——GridCoin"></a>数字货币与BOINC科学计算的结合——GridCoin</h2><div align=center>
-<img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src='https://upload-images.jianshu.io/upload_images/13714448-eeb156d302b4460b.png%7CimageView2/2/w/1240' />
-</div>
-
-<p>​         众所周知，传统的区块链数字货币（比如比特币、以太坊），为了保证区块的安全和交易速度，引入了<strong>挖矿</strong>的“工作量证明共识机制”（<a href="https://mp.weixin.qq.com/s/YB1USLerYHUvOOphAqUuxA">比特币的产生与挖矿</a>），<strong>挖矿本质上是区块链的参与者用计算设备、算力、电力能源换取区块链交易记账权并获取数字货币奖励的过程</strong>。挖矿消耗了巨量的电力能源，造成显卡矿机的军备竞赛和矿池“矿霸”的出现，而用于比特币和以太坊挖矿的算力和能源并不能为实体经济产生价值。于是，基于真实科学计算平台BOINC的虚拟货币GridCoin应运而生。<a href="https://www.gridcoin.us/">GridCoin</a>格雷德币于2013年10月上线，2015年3月改版升级。它依托BOINC（伯克利分布式计算）平台，这个币以去中心化机制，按照科学计算的贡献决定挖矿收益，用算力支持了BOINC平台上涉及生物医学、气候变化、天体物理、密码破译、数学证明、搜寻地外文明等众多领域的有趣的科研项目，解决了比特币挖矿被诟病的浪费能源的问题。创始人Rob Halford三年半以来一直坚持开发，带领一支活跃的开发团队，解决了初期的种种bug，保证了这个币的稳定性和科学计算功能。目前，格雷德币团队在BOINC中的所有十万支团队中近期积分排名第一<a href="http://link.zhihu.com/?target=https://boincstats.com/en/stats/-1/team/list/16/0%231">BOINC全球团队积分排行榜</a>总积分也达到了第六名。</p>
-<p>​        Gridcoin格雷德币的矿工如果只是挖矿记账，而不将算力贡献给BOINC科学计算平台，那么每个BLOCK的回报只有5个格币；如果将算力贡献给BOINC科学计算平台，每个BLOCK的回报根据贡献算力的大小将达到6到150个格币。</p>
-<p>​        Gridcoin格雷德币充分考虑了避免ASIC（专业矿机）的渗入，保证只有个人电脑的CPU和GPU才能挖矿。格币提供更快的交易确认：平均2.5分钟生成一个新区块，采用SCRYPT的POW（工作量证明）算法。</p>
-<p>​        <a href="https://gridcoin.us/assets/img/whitepaper.pdf">数字货币Grid官方白皮书</a></p>
-<p>​    <a href="https://zhuanlan.zhihu.com/p/27697266?utm_source=qq&utm_medium=social&utm_oi=571402578022109184">知乎：对格雷德币（Gridcoin，GRC）的了解与初步获取方法</a></p>
-<h2 id="扩展阅读与参考文献"><a href="#扩展阅读与参考文献" class="headerlink" title="扩展阅读与参考文献"></a>扩展阅读与参考文献</h2><blockquote>
-<p><a href="https://www.bilibili.com/video/av9388526?from=search&seid=6157990192498395439">Bilibili视频：科技小制作 - 树莓派的好去处——SETI@Home - by 科技小制作</a></p>
-<p><a href="https://zh.wikipedia.org/wiki/SETI@home">维基百科：SETI@home</a></p>
-<p><a href="https://boinc.berkeley.edu/">BOINC官方主页</a></p>
-<p><a href="http://www.equn.com/wiki/BOINC">BOINC中国分布式总站</a></p>
-<p><a href="http://www.equn.com/wiki/%E6%A8%A1%E6%9D%BF:BOINC_topics">BOINC主流计算项目详细介绍</a></p>
-<p><a href="https://setiathome.berkeley.edu/">SETI@home官方主页</a></p>
-<p><a href="http://www.equn.com/wiki/SETI@home:%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4">SETI@home屏幕保护界面解读</a></p>
-<p><a href="http://www.equn.com/forum/thread-16446-1-1.html">BOINC各项目屏幕保护动画</a></p>
-<p><a href="https://www.jinse.com/news/bitcoin/85217.html">Gridcoin格雷德币是什么|金色百科</a></p>
-<p><a href="https://www.zhihu.com/collection/211032264">知乎：除了比特币，还有哪些区块链的数字货币值得投资？走地鸡的回答</a></p>
-<p><a href="https://mp.weixin.qq.com/s/YB1USLerYHUvOOphAqUuxA">比特币的产生与挖矿？</a></p>
-<p><a href="https://gridcoin.us/assets/img/whitepaper.pdf">数字货币Grid官方白皮书</a></p>
-<p><a href="https://zhuanlan.zhihu.com/p/27697266?utm_source=qq&utm_medium=social&utm_oi=571402578022109184">知乎：对格雷德币（Gridcoin，GRC）的了解与初步获取方法</a></p>
-<p><a href="http://ac.qq.com/Comic/comicInfo/id/519544">刘慈欣小说《球状闪电》漫画版，作者：<em>锋绘网</em></a></p>
-<p><a href="https://v.youku.com/v_show/id_XMTMzMjMzOTA4NA==.html">罗辑思维第138期《庸众的迫害》</a></p>
-<p><a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a></p>
-<p><a href="http://tieba.baidu.com/p/3095639402">坐在家中电脑前贡献科研？蛋白质折叠小游戏 Foldit 中文版来啦！</a></p>
-</blockquote>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://projects-static.raspberrypi.org/projects/raspberry-pi-getting-started/13aeb423985e6bacd5d798f5f206a644b7c250a3/en/images/pi-plug-in.gif" alt="树莓派接线"></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9413183a2d79c2a8.png%7CimageView2/2/w/1240" alt="欢迎加入树莓派全球开源社区"></p>
 ]]></content>
       <categories>
         <category>开发</category>
@@ -907,33 +907,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>网站推荐第一期</title>
-    <url>//post/websitefx.html</url>
-    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
-<ul>
-<li>资源类 </li>
-</ul>
-<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
-<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
-<p>如果你需要寻找开源软件你可以前往这个网站。</p>
-<ul>
-<li>杂项类</li>
-</ul>
-<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
-<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
-<p>那么，第一期就先这样了。我们下一期再见~</p>
-]]></content>
-      <categories>
-        <category>推荐</category>
-      </categories>
-      <tags>
-        <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>VirtualHardwares硬件虚拟工具收费版本</title>
     <url>//post/virtualhardwareshack.html</url>
     <content><![CDATA[<p><strong>VirtualHardwares硬件虚拟工具收费版本</strong>为能够任意更改你的硬件显示参数的软件，并非真实的改变哟，有时候试用部分程序的时候，会用到它来改本机ID识别码，进行多次、长时间的免费</p>
@@ -1056,6 +1029,33 @@ layout: false
       </categories>
       <tags>
         <tag>WordPress错误</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站推荐第一期</title>
+    <url>//post/websitefx.html</url>
+    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
+<ul>
+<li>资源类 </li>
+</ul>
+<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
+<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
+<p>如果你需要寻找开源软件你可以前往这个网站。</p>
+<ul>
+<li>杂项类</li>
+</ul>
+<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
+<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
+<p>那么，第一期就先这样了。我们下一期再见~</p>
+]]></content>
+      <categories>
+        <category>推荐</category>
+      </categories>
+      <tags>
+        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
