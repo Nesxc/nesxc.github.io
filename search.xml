@@ -79,6 +79,29 @@
       </tags>
   </entry>
   <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>OKR工作法</title>
     <url>/OKR.html</url>
     <content><![CDATA[<p><img src= "/img/loading.gif" data-lazy-src="https://pic1.zhimg.com/v2-2420fcc1a9e6f2f13bf456ded6c2e616_1440w.jpg" alt="OKR"></p>
@@ -375,29 +398,6 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
-
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "/img/loading.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>维护</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo主题配置整合包发布</title>
     <url>/hexo-ran.html</url>
     <content><![CDATA[<p><img src= "/img/loading.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
@@ -530,6 +530,119 @@ layout: false
       </tags>
   </entry>
   <entry>
+    <title>在树莓派上安装BOINC并参与SETI@home分布式计算项目</title>
+    <url>/smpbtb.html</url>
+    <content><![CDATA[<h2 id="1-在树莓派上安装BOINC客户端"><a href="#1-在树莓派上安装BOINC客户端" class="headerlink" title="1.在树莓派上安装BOINC客户端"></a>1.在树莓派上安装BOINC客户端</h2><p>仅需要一行命令即可在树莓派或者Ubuntu操作系统上安装BOINC</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install boinc-client boinc</span><br></pre></td></tr></table></figure>
+
+<p>在跳出的对话框中输入<code>y</code>和回车<code>↩</code>，确定下载安装，需要64MB存储空间。</p>
+<p>安装成功之后，打开树莓派桌面（或者使用VNC远程桌面），在“系统工具”中点击“BOINC Manager”。</p>
+<h3 id="2-选择你想参加的分布式计算项目"><a href="#2-选择你想参加的分布式计算项目" class="headerlink" title="2.选择你想参加的分布式计算项目"></a>2.选择你想参加的分布式计算项目</h3><p>选择SETI@home，点击“下一步“</p>
+<p>BOINC平台上各领域有趣的分布式计算项目详细介绍见后文。</p>
+<h3 id="3-注册新账号或登陆已有账号"><a href="#3-注册新账号或登陆已有账号" class="headerlink" title="3.注册新账号或登陆已有账号"></a>3.注册新账号或登陆已有账号</h3><h3 id="4-自动从项目服务器上获取数据，开始计算"><a href="#4-自动从项目服务器上获取数据，开始计算" class="headerlink" title="4.自动从项目服务器上获取数据，开始计算"></a>4.自动从项目服务器上获取数据，开始计算</h3><p>现在，你的树莓派就开始自动计算并把数据发回项目服务器了，大功告成。</p>
+<p>树莓派性能远不及平常电脑，计算一个数据包需要19个小时，而普通笔记本电脑计算一个数据包仅需3个小时。</p>
+<p>而且树莓派上运行SETI@home不能看到本项目标志性的高大上信号处理屏幕保护图片，</p>
+<p>通过以下设置修改计算参数，防止CPU资源被全部占用，或CPU过烫</p>
+<p>在命令行中输入以下命令查看实时CPU温度，在全速运行计算项目时CPU温度可能会达到100摄氏度以上，应密切注意CPU温度并调整适当计算参数。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd measure_temp</span><br></pre></td></tr></table></figure>
+
+
+<h2 id="BOINC平台上各领域有趣的分布式计算项目详细介绍"><a href="#BOINC平台上各领域有趣的分布式计算项目详细介绍" class="headerlink" title="BOINC平台上各领域有趣的分布式计算项目详细介绍"></a>BOINC平台上各领域有趣的分布式计算项目详细介绍</h2><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3e2ec8af4186e54c.png" alt="BOINC平台上的科学计算项目"></p>
+<h3 id="几个比较经典的项目"><a href="#几个比较经典的项目" class="headerlink" title="几个比较经典的项目:"></a>几个比较经典的项目:</h3><ul>
+<li><h4 id="天文及物理"><a href="#天文及物理" class="headerlink" title="天文及物理"></a>天文及物理</h4></li>
+<li><p>SETI@home：分析阿雷西博射电望远镜的海量数据，寻找可能的地外文明信号。</p>
+</li>
+<li><p>Einsten@home：分析LIGO和GEO600采集的海量观测数据，寻找引力波存在的证据。分析阿雷西博射电望远镜和费米伽马射线卫星传来的数据寻找脉冲星和中子星。由威斯康星大学密尔沃基分校发起。</p>
+</li>
+<li><p>Milkyway@home：使用Sloan数字巡天的数据来对银河系进行高精度的三维建模。</p>
+</li>
+<li><p>LHC@home：大型强子对撞机（LHC）是 CERN（欧洲核子研究组织）的一个粒子加速器装置，也是世界上最大的粒子物理实验室。它是人类现有的用于研究基本粒子特性的最强大的实验装置。LHC@home 的作用主要是对加速器进行模拟，并帮助改进 LHC 及其探测器的设计。</p>
+</li>
+<li><p>Cosmology@Home：寻找描述宇宙演化的数学模型。由UIUC大学发起。</p>
+</li>
+<li><p>Asteroids@home：研究小行星形状、自转周期、自转轴信息。</p>
+</li>
+<li><p>Universe@home：创建宇宙天体数据库，从最初的恒星到奇特的黑洞双星。</p>
+</li>
+<li><h4 id="地球物理"><a href="#地球物理" class="headerlink" title="地球物理"></a>地球物理</h4></li>
+<li><p>Climateprediction.net：牛津大学发起，旨在优化现有大气模型对二氧化碳、硫循环等的敏感程度。预测未来全球气候变化。</p>
+</li>
+<li><h4 id="生物信息学"><a href="#生物信息学" class="headerlink" title="生物信息学"></a>生物信息学</h4></li>
+<li><p>CAS@home：帮助中国科学家研究蛋白质结构、纳米技术、肿瘤基因组学以及高能物理。由中科院计算技术研究所、中科院高能物理研究所、清华大学牵头发起。</p>
+</li>
+<li><p>RNA World：旨在识别、 分析、 结构预测和设计建立生物信息学软件的 RNA 分子。源代码全部公开，成果向公众公开。</p>
+</li>
+<li><p>MindModeling@home：使用计算模拟认知过程模型，以更好地理解人类的思维。</p>
+</li>
+<li><p>Rosetta@home：进行蛋白质的三维构造研究，设计出新的蛋白质以抗击艾滋病、疟疾、癌症以及阿尔茨海默氏症（老年痴呆症）。由美国华盛顿大学发起。</p>
+</li>
+<li><p>GPUGrid.net：利用 NVIDIA 显卡（GPU）来进行全原子的分子动力学模拟。计算生物学的应用给生物医药学带来了新的研究方向。</p>
+</li>
+<li><p>DENIS@home：通过心脏电生理仿真，研究心脏的电活动。</p>
+</li>
+<li><h4 id="物联网"><a href="#物联网" class="headerlink" title="物联网"></a>物联网</h4></li>
+<li><p>Quake Catcher Network：使用连接到智能手机的传感器来检测地震波。由南加利福尼亚大学发起。</p>
+</li>
+<li><p>Radioactive@home：使用志愿者计算机上的传感器来建立一个免费并持续更新的辐射强度地图。你需要购买一个传感器来加入这个项目。</p>
+</li>
+<li><h4 id="数学与密码学"><a href="#数学与密码学" class="headerlink" title="数学与密码学"></a>数学与密码学</h4></li>
+<li><p>PrimeGrid：寻找已知最大的质数。</p>
+</li>
+<li><p>NFS@home：进行大数的分解质因数。</p>
+</li>
+<li><p>Collatz Conjecture：研究考拉兹猜想(Collatz conjecture)，一个尚未被证明的数学猜想。</p>
+</li>
+<li><p>Enigma@home：试图破译三条二战期间的纳粹德军加密Enigma电文消息，这些消息于1942年11月25日在北大西洋截获而且一直被认为是不可破解的。该项目采用暴力破解和梯度算法(爬山法)的混合方法试图破译（<a href="http://www.equn.com/m4/m4_project.html">项目说明</a>）。第一条加密信息于2006年2月20日被<a href="http://www.equn.com/m4/m4-project-first-break.html"><strong>成功破译（译文）</strong></a>。第二条加密信息于2006年3月7日被<a href="http://www.equn.com/m4/m4-project-second-break.html"><strong>成功破译（译文）</strong></a>。第三条信息尚未被破译。</p>
+</li>
+</ul>
+<blockquote>
+<p>子豪兄批注：</p>
+<p>两条加密电文的译文都是关于当时大西洋潜艇战德军U型潜艇的位置、行动航向、速度、遭受攻击，以及战场风向、天气、能见度等战场情报。</p>
+<p>“图灵机”概念创始人、人工智能之父阿兰图灵二战期间秘密受命于英国军方，也在从事破译德军Enigma密码的工作并取得成功，使德军在大西洋的“潜艇狼群战术”破产。卷福主演的电影《模仿游戏》讲述的就是这一段历史。关于二战期间英德两国的潜艇战和密码战，以及数学天才阿兰图灵的传奇人生，推荐观看<a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a>、罗辑思维<a href="https://v.youku.com/v_show/id_XMTMzMjMzOTA4NA==.html">《庸众的迫害》</a>。</p>
+</blockquote>
+<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-ce58e5ff1690f3a7.png" alt="几个项目的屏幕保护界面"></p>
+<p><img src= "/img/loading.gif" data-lazy-src="http://www.equn.com/images/thumb/5/58/Sah_scr1.jpg/680px-Sah_scr1.jpg" alt="SETI@home屏幕保护界面"></p>
+<p><a href="http://www.equn.com/wiki/SETI@home:%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4">SETI@home屏幕保护界面解读</a></p>
+<p><a href="http://www.equn.com/forum/thread-16446-1-1.html">BOINC各项目屏幕保护动画</a></p>
+<h2 id="数字货币与BOINC科学计算的结合——GridCoin"><a href="#数字货币与BOINC科学计算的结合——GridCoin" class="headerlink" title="数字货币与BOINC科学计算的结合——GridCoin"></a>数字货币与BOINC科学计算的结合——GridCoin</h2><div align=center>
+<img src= "/img/loading.gif" data-lazy-src='https://upload-images.jianshu.io/upload_images/13714448-eeb156d302b4460b.png%7CimageView2/2/w/1240' />
+</div>
+
+<p>​         众所周知，传统的区块链数字货币（比如比特币、以太坊），为了保证区块的安全和交易速度，引入了<strong>挖矿</strong>的“工作量证明共识机制”（<a href="https://mp.weixin.qq.com/s/YB1USLerYHUvOOphAqUuxA">比特币的产生与挖矿</a>），<strong>挖矿本质上是区块链的参与者用计算设备、算力、电力能源换取区块链交易记账权并获取数字货币奖励的过程</strong>。挖矿消耗了巨量的电力能源，造成显卡矿机的军备竞赛和矿池“矿霸”的出现，而用于比特币和以太坊挖矿的算力和能源并不能为实体经济产生价值。于是，基于真实科学计算平台BOINC的虚拟货币GridCoin应运而生。<a href="https://www.gridcoin.us/">GridCoin</a>格雷德币于2013年10月上线，2015年3月改版升级。它依托BOINC（伯克利分布式计算）平台，这个币以去中心化机制，按照科学计算的贡献决定挖矿收益，用算力支持了BOINC平台上涉及生物医学、气候变化、天体物理、密码破译、数学证明、搜寻地外文明等众多领域的有趣的科研项目，解决了比特币挖矿被诟病的浪费能源的问题。创始人Rob Halford三年半以来一直坚持开发，带领一支活跃的开发团队，解决了初期的种种bug，保证了这个币的稳定性和科学计算功能。目前，格雷德币团队在BOINC中的所有十万支团队中近期积分排名第一<a href="http://link.zhihu.com/?target=https://boincstats.com/en/stats/-1/team/list/16/0%231">BOINC全球团队积分排行榜</a>总积分也达到了第六名。</p>
+<p>​        Gridcoin格雷德币的矿工如果只是挖矿记账，而不将算力贡献给BOINC科学计算平台，那么每个BLOCK的回报只有5个格币；如果将算力贡献给BOINC科学计算平台，每个BLOCK的回报根据贡献算力的大小将达到6到150个格币。</p>
+<p>​        Gridcoin格雷德币充分考虑了避免ASIC（专业矿机）的渗入，保证只有个人电脑的CPU和GPU才能挖矿。格币提供更快的交易确认：平均2.5分钟生成一个新区块，采用SCRYPT的POW（工作量证明）算法。</p>
+<p>​        <a href="https://gridcoin.us/assets/img/whitepaper.pdf">数字货币Grid官方白皮书</a></p>
+<p>​    <a href="https://zhuanlan.zhihu.com/p/27697266?utm_source=qq&utm_medium=social&utm_oi=571402578022109184">知乎：对格雷德币（Gridcoin，GRC）的了解与初步获取方法</a></p>
+<h2 id="扩展阅读与参考文献"><a href="#扩展阅读与参考文献" class="headerlink" title="扩展阅读与参考文献"></a>扩展阅读与参考文献</h2><blockquote>
+<p><a href="https://www.bilibili.com/video/av9388526?from=search&seid=6157990192498395439">Bilibili视频：科技小制作 - 树莓派的好去处——SETI@Home - by 科技小制作</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/SETI@home">维基百科：SETI@home</a></p>
+<p><a href="https://boinc.berkeley.edu/">BOINC官方主页</a></p>
+<p><a href="http://www.equn.com/wiki/BOINC">BOINC中国分布式总站</a></p>
+<p><a href="http://www.equn.com/wiki/%E6%A8%A1%E6%9D%BF:BOINC_topics">BOINC主流计算项目详细介绍</a></p>
+<p><a href="https://setiathome.berkeley.edu/">SETI@home官方主页</a></p>
+<p><a href="http://www.equn.com/wiki/SETI@home:%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4">SETI@home屏幕保护界面解读</a></p>
+<p><a href="http://www.equn.com/forum/thread-16446-1-1.html">BOINC各项目屏幕保护动画</a></p>
+<p><a href="https://www.jinse.com/news/bitcoin/85217.html">Gridcoin格雷德币是什么|金色百科</a></p>
+<p><a href="https://www.zhihu.com/collection/211032264">知乎：除了比特币，还有哪些区块链的数字货币值得投资？走地鸡的回答</a></p>
+<p><a href="https://mp.weixin.qq.com/s/YB1USLerYHUvOOphAqUuxA">比特币的产生与挖矿？</a></p>
+<p><a href="https://gridcoin.us/assets/img/whitepaper.pdf">数字货币Grid官方白皮书</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/27697266?utm_source=qq&utm_medium=social&utm_oi=571402578022109184">知乎：对格雷德币（Gridcoin，GRC）的了解与初步获取方法</a></p>
+<p><a href="http://ac.qq.com/Comic/comicInfo/id/519544">刘慈欣小说《球状闪电》漫画版，作者：<em>锋绘网</em></a></p>
+<p><a href="https://v.youku.com/v_show/id_XMTMzMjMzOTA4NA==.html">罗辑思维第138期《庸众的迫害》</a></p>
+<p><a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a></p>
+<p><a href="http://tieba.baidu.com/p/3095639402">坐在家中电脑前贡献科研？蛋白质折叠小游戏 Foldit 中文版来啦！</a></p>
+</blockquote>
+<p><img src= "/img/loading.gif" data-lazy-src="https://projects-static.raspberrypi.org/projects/raspberry-pi-getting-started/13aeb423985e6bacd5d798f5f206a644b7c250a3/en/images/pi-plug-in.gif" alt="树莓派接线"></p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9413183a2d79c2a8.png%7CimageView2/2/w/1240" alt="欢迎加入树莓派全球开源社区"></p>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>教你在树莓派上安装OpenCV</title>
     <url>/smpOpenCV.html</url>
     <content><![CDATA[<h1 id="安装前提"><a href="#安装前提" class="headerlink" title="安装前提"></a>安装前提</h1><h3 id="1-配置好树莓派的Raspbian操作系统"><a href="#1-配置好树莓派的Raspbian操作系统" class="headerlink" title="1.配置好树莓派的Raspbian操作系统"></a>1.配置好树莓派的Raspbian操作系统</h3><p>本教程使用的系统是2018年6月27日树莓派官方发布的Raspbian-stretch操作系统，<a href="https://www.raspberrypi.org/downloads/raspbian/">官方下载链接</a>。</p>
@@ -648,119 +761,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>在树莓派上安装BOINC并参与SETI@home分布式计算项目</title>
-    <url>/smpbtb.html</url>
-    <content><![CDATA[<h2 id="1-在树莓派上安装BOINC客户端"><a href="#1-在树莓派上安装BOINC客户端" class="headerlink" title="1.在树莓派上安装BOINC客户端"></a>1.在树莓派上安装BOINC客户端</h2><p>仅需要一行命令即可在树莓派或者Ubuntu操作系统上安装BOINC</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install boinc-client boinc</span><br></pre></td></tr></table></figure>
-
-<p>在跳出的对话框中输入<code>y</code>和回车<code>↩</code>，确定下载安装，需要64MB存储空间。</p>
-<p>安装成功之后，打开树莓派桌面（或者使用VNC远程桌面），在“系统工具”中点击“BOINC Manager”。</p>
-<h3 id="2-选择你想参加的分布式计算项目"><a href="#2-选择你想参加的分布式计算项目" class="headerlink" title="2.选择你想参加的分布式计算项目"></a>2.选择你想参加的分布式计算项目</h3><p>选择SETI@home，点击“下一步“</p>
-<p>BOINC平台上各领域有趣的分布式计算项目详细介绍见后文。</p>
-<h3 id="3-注册新账号或登陆已有账号"><a href="#3-注册新账号或登陆已有账号" class="headerlink" title="3.注册新账号或登陆已有账号"></a>3.注册新账号或登陆已有账号</h3><h3 id="4-自动从项目服务器上获取数据，开始计算"><a href="#4-自动从项目服务器上获取数据，开始计算" class="headerlink" title="4.自动从项目服务器上获取数据，开始计算"></a>4.自动从项目服务器上获取数据，开始计算</h3><p>现在，你的树莓派就开始自动计算并把数据发回项目服务器了，大功告成。</p>
-<p>树莓派性能远不及平常电脑，计算一个数据包需要19个小时，而普通笔记本电脑计算一个数据包仅需3个小时。</p>
-<p>而且树莓派上运行SETI@home不能看到本项目标志性的高大上信号处理屏幕保护图片，</p>
-<p>通过以下设置修改计算参数，防止CPU资源被全部占用，或CPU过烫</p>
-<p>在命令行中输入以下命令查看实时CPU温度，在全速运行计算项目时CPU温度可能会达到100摄氏度以上，应密切注意CPU温度并调整适当计算参数。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd measure_temp</span><br></pre></td></tr></table></figure>
-
-
-<h2 id="BOINC平台上各领域有趣的分布式计算项目详细介绍"><a href="#BOINC平台上各领域有趣的分布式计算项目详细介绍" class="headerlink" title="BOINC平台上各领域有趣的分布式计算项目详细介绍"></a>BOINC平台上各领域有趣的分布式计算项目详细介绍</h2><p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-3e2ec8af4186e54c.png" alt="BOINC平台上的科学计算项目"></p>
-<h3 id="几个比较经典的项目"><a href="#几个比较经典的项目" class="headerlink" title="几个比较经典的项目:"></a>几个比较经典的项目:</h3><ul>
-<li><h4 id="天文及物理"><a href="#天文及物理" class="headerlink" title="天文及物理"></a>天文及物理</h4></li>
-<li><p>SETI@home：分析阿雷西博射电望远镜的海量数据，寻找可能的地外文明信号。</p>
-</li>
-<li><p>Einsten@home：分析LIGO和GEO600采集的海量观测数据，寻找引力波存在的证据。分析阿雷西博射电望远镜和费米伽马射线卫星传来的数据寻找脉冲星和中子星。由威斯康星大学密尔沃基分校发起。</p>
-</li>
-<li><p>Milkyway@home：使用Sloan数字巡天的数据来对银河系进行高精度的三维建模。</p>
-</li>
-<li><p>LHC@home：大型强子对撞机（LHC）是 CERN（欧洲核子研究组织）的一个粒子加速器装置，也是世界上最大的粒子物理实验室。它是人类现有的用于研究基本粒子特性的最强大的实验装置。LHC@home 的作用主要是对加速器进行模拟，并帮助改进 LHC 及其探测器的设计。</p>
-</li>
-<li><p>Cosmology@Home：寻找描述宇宙演化的数学模型。由UIUC大学发起。</p>
-</li>
-<li><p>Asteroids@home：研究小行星形状、自转周期、自转轴信息。</p>
-</li>
-<li><p>Universe@home：创建宇宙天体数据库，从最初的恒星到奇特的黑洞双星。</p>
-</li>
-<li><h4 id="地球物理"><a href="#地球物理" class="headerlink" title="地球物理"></a>地球物理</h4></li>
-<li><p>Climateprediction.net：牛津大学发起，旨在优化现有大气模型对二氧化碳、硫循环等的敏感程度。预测未来全球气候变化。</p>
-</li>
-<li><h4 id="生物信息学"><a href="#生物信息学" class="headerlink" title="生物信息学"></a>生物信息学</h4></li>
-<li><p>CAS@home：帮助中国科学家研究蛋白质结构、纳米技术、肿瘤基因组学以及高能物理。由中科院计算技术研究所、中科院高能物理研究所、清华大学牵头发起。</p>
-</li>
-<li><p>RNA World：旨在识别、 分析、 结构预测和设计建立生物信息学软件的 RNA 分子。源代码全部公开，成果向公众公开。</p>
-</li>
-<li><p>MindModeling@home：使用计算模拟认知过程模型，以更好地理解人类的思维。</p>
-</li>
-<li><p>Rosetta@home：进行蛋白质的三维构造研究，设计出新的蛋白质以抗击艾滋病、疟疾、癌症以及阿尔茨海默氏症（老年痴呆症）。由美国华盛顿大学发起。</p>
-</li>
-<li><p>GPUGrid.net：利用 NVIDIA 显卡（GPU）来进行全原子的分子动力学模拟。计算生物学的应用给生物医药学带来了新的研究方向。</p>
-</li>
-<li><p>DENIS@home：通过心脏电生理仿真，研究心脏的电活动。</p>
-</li>
-<li><h4 id="物联网"><a href="#物联网" class="headerlink" title="物联网"></a>物联网</h4></li>
-<li><p>Quake Catcher Network：使用连接到智能手机的传感器来检测地震波。由南加利福尼亚大学发起。</p>
-</li>
-<li><p>Radioactive@home：使用志愿者计算机上的传感器来建立一个免费并持续更新的辐射强度地图。你需要购买一个传感器来加入这个项目。</p>
-</li>
-<li><h4 id="数学与密码学"><a href="#数学与密码学" class="headerlink" title="数学与密码学"></a>数学与密码学</h4></li>
-<li><p>PrimeGrid：寻找已知最大的质数。</p>
-</li>
-<li><p>NFS@home：进行大数的分解质因数。</p>
-</li>
-<li><p>Collatz Conjecture：研究考拉兹猜想(Collatz conjecture)，一个尚未被证明的数学猜想。</p>
-</li>
-<li><p>Enigma@home：试图破译三条二战期间的纳粹德军加密Enigma电文消息，这些消息于1942年11月25日在北大西洋截获而且一直被认为是不可破解的。该项目采用暴力破解和梯度算法(爬山法)的混合方法试图破译（<a href="http://www.equn.com/m4/m4_project.html">项目说明</a>）。第一条加密信息于2006年2月20日被<a href="http://www.equn.com/m4/m4-project-first-break.html"><strong>成功破译（译文）</strong></a>。第二条加密信息于2006年3月7日被<a href="http://www.equn.com/m4/m4-project-second-break.html"><strong>成功破译（译文）</strong></a>。第三条信息尚未被破译。</p>
-</li>
-</ul>
-<blockquote>
-<p>子豪兄批注：</p>
-<p>两条加密电文的译文都是关于当时大西洋潜艇战德军U型潜艇的位置、行动航向、速度、遭受攻击，以及战场风向、天气、能见度等战场情报。</p>
-<p>“图灵机”概念创始人、人工智能之父阿兰图灵二战期间秘密受命于英国军方，也在从事破译德军Enigma密码的工作并取得成功，使德军在大西洋的“潜艇狼群战术”破产。卷福主演的电影《模仿游戏》讲述的就是这一段历史。关于二战期间英德两国的潜艇战和密码战，以及数学天才阿兰图灵的传奇人生，推荐观看<a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a>、罗辑思维<a href="https://v.youku.com/v_show/id_XMTMzMjMzOTA4NA==.html">《庸众的迫害》</a>。</p>
-</blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-ce58e5ff1690f3a7.png" alt="几个项目的屏幕保护界面"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="http://www.equn.com/images/thumb/5/58/Sah_scr1.jpg/680px-Sah_scr1.jpg" alt="SETI@home屏幕保护界面"></p>
-<p><a href="http://www.equn.com/wiki/SETI@home:%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4">SETI@home屏幕保护界面解读</a></p>
-<p><a href="http://www.equn.com/forum/thread-16446-1-1.html">BOINC各项目屏幕保护动画</a></p>
-<h2 id="数字货币与BOINC科学计算的结合——GridCoin"><a href="#数字货币与BOINC科学计算的结合——GridCoin" class="headerlink" title="数字货币与BOINC科学计算的结合——GridCoin"></a>数字货币与BOINC科学计算的结合——GridCoin</h2><div align=center>
-<img src= "/img/loading.gif" data-lazy-src='https://upload-images.jianshu.io/upload_images/13714448-eeb156d302b4460b.png%7CimageView2/2/w/1240' />
-</div>
-
-<p>​         众所周知，传统的区块链数字货币（比如比特币、以太坊），为了保证区块的安全和交易速度，引入了<strong>挖矿</strong>的“工作量证明共识机制”（<a href="https://mp.weixin.qq.com/s/YB1USLerYHUvOOphAqUuxA">比特币的产生与挖矿</a>），<strong>挖矿本质上是区块链的参与者用计算设备、算力、电力能源换取区块链交易记账权并获取数字货币奖励的过程</strong>。挖矿消耗了巨量的电力能源，造成显卡矿机的军备竞赛和矿池“矿霸”的出现，而用于比特币和以太坊挖矿的算力和能源并不能为实体经济产生价值。于是，基于真实科学计算平台BOINC的虚拟货币GridCoin应运而生。<a href="https://www.gridcoin.us/">GridCoin</a>格雷德币于2013年10月上线，2015年3月改版升级。它依托BOINC（伯克利分布式计算）平台，这个币以去中心化机制，按照科学计算的贡献决定挖矿收益，用算力支持了BOINC平台上涉及生物医学、气候变化、天体物理、密码破译、数学证明、搜寻地外文明等众多领域的有趣的科研项目，解决了比特币挖矿被诟病的浪费能源的问题。创始人Rob Halford三年半以来一直坚持开发，带领一支活跃的开发团队，解决了初期的种种bug，保证了这个币的稳定性和科学计算功能。目前，格雷德币团队在BOINC中的所有十万支团队中近期积分排名第一<a href="http://link.zhihu.com/?target=https://boincstats.com/en/stats/-1/team/list/16/0%231">BOINC全球团队积分排行榜</a>总积分也达到了第六名。</p>
-<p>​        Gridcoin格雷德币的矿工如果只是挖矿记账，而不将算力贡献给BOINC科学计算平台，那么每个BLOCK的回报只有5个格币；如果将算力贡献给BOINC科学计算平台，每个BLOCK的回报根据贡献算力的大小将达到6到150个格币。</p>
-<p>​        Gridcoin格雷德币充分考虑了避免ASIC（专业矿机）的渗入，保证只有个人电脑的CPU和GPU才能挖矿。格币提供更快的交易确认：平均2.5分钟生成一个新区块，采用SCRYPT的POW（工作量证明）算法。</p>
-<p>​        <a href="https://gridcoin.us/assets/img/whitepaper.pdf">数字货币Grid官方白皮书</a></p>
-<p>​    <a href="https://zhuanlan.zhihu.com/p/27697266?utm_source=qq&utm_medium=social&utm_oi=571402578022109184">知乎：对格雷德币（Gridcoin，GRC）的了解与初步获取方法</a></p>
-<h2 id="扩展阅读与参考文献"><a href="#扩展阅读与参考文献" class="headerlink" title="扩展阅读与参考文献"></a>扩展阅读与参考文献</h2><blockquote>
-<p><a href="https://www.bilibili.com/video/av9388526?from=search&seid=6157990192498395439">Bilibili视频：科技小制作 - 树莓派的好去处——SETI@Home - by 科技小制作</a></p>
-<p><a href="https://zh.wikipedia.org/wiki/SETI@home">维基百科：SETI@home</a></p>
-<p><a href="https://boinc.berkeley.edu/">BOINC官方主页</a></p>
-<p><a href="http://www.equn.com/wiki/BOINC">BOINC中国分布式总站</a></p>
-<p><a href="http://www.equn.com/wiki/%E6%A8%A1%E6%9D%BF:BOINC_topics">BOINC主流计算项目详细介绍</a></p>
-<p><a href="https://setiathome.berkeley.edu/">SETI@home官方主页</a></p>
-<p><a href="http://www.equn.com/wiki/SETI@home:%E5%B1%8F%E5%B9%95%E4%BF%9D%E6%8A%A4">SETI@home屏幕保护界面解读</a></p>
-<p><a href="http://www.equn.com/forum/thread-16446-1-1.html">BOINC各项目屏幕保护动画</a></p>
-<p><a href="https://www.jinse.com/news/bitcoin/85217.html">Gridcoin格雷德币是什么|金色百科</a></p>
-<p><a href="https://www.zhihu.com/collection/211032264">知乎：除了比特币，还有哪些区块链的数字货币值得投资？走地鸡的回答</a></p>
-<p><a href="https://mp.weixin.qq.com/s/YB1USLerYHUvOOphAqUuxA">比特币的产生与挖矿？</a></p>
-<p><a href="https://gridcoin.us/assets/img/whitepaper.pdf">数字货币Grid官方白皮书</a></p>
-<p><a href="https://zhuanlan.zhihu.com/p/27697266?utm_source=qq&utm_medium=social&utm_oi=571402578022109184">知乎：对格雷德币（Gridcoin，GRC）的了解与初步获取方法</a></p>
-<p><a href="http://ac.qq.com/Comic/comicInfo/id/519544">刘慈欣小说《球状闪电》漫画版，作者：<em>锋绘网</em></a></p>
-<p><a href="https://v.youku.com/v_show/id_XMTMzMjMzOTA4NA==.html">罗辑思维第138期《庸众的迫害》</a></p>
-<p><a href="https://www.iqiyi.com/w_19rqzc75pp.html">北京电视台档案栏目：二战英德密码战</a></p>
-<p><a href="http://tieba.baidu.com/p/3095639402">坐在家中电脑前贡献科研？蛋白质折叠小游戏 Foldit 中文版来啦！</a></p>
-</blockquote>
-<p><img src= "/img/loading.gif" data-lazy-src="https://projects-static.raspberrypi.org/projects/raspberry-pi-getting-started/13aeb423985e6bacd5d798f5f206a644b7c250a3/en/images/pi-plug-in.gif" alt="树莓派接线"></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-9413183a2d79c2a8.png%7CimageView2/2/w/1240" alt="欢迎加入树莓派全球开源社区"></p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>树莓派开机教程</title>
     <url>/smpkj.html</url>
     <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
@@ -785,37 +785,6 @@ layout: false
 <li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
 <li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
 </ol>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用树莓派搭建FM广播，播放音乐和实时语音</title>
-    <url>/smpfm.html</url>
-    <content><![CDATA[<p>-</p>
-<p>在树莓派的命令行界面运行以下八条命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mkdir fm</span><br><span class="line">cd fm</span><br><span class="line">sudo git clone https://github.com/markondej/fm_transmitter</span><br><span class="line">sudo apt-get install mpg123</span><br><span class="line">sudo apt-get install gcc g++ make</span><br><span class="line">cd fm_transmitter</span><br><span class="line">sudo make</span><br><span class="line">sudo apt-get install sox</span><br></pre></td></tr></table></figure>
-
-
-
-<p>运行以下命令，即可在调频100.6MHz频道广播自带的星球大战主题曲：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sox star_wars.wav -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
-
-<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
-<blockquote>
-<p>也可以把这条命令中的100.6改成其它数字，即可在新频道上广播。</p>
-<p>也可以将其它wav格式的文件放到/fm/fm_transmitter文件夹中，替换命令中的star_wars.wav文件</p>
-</blockquote>
-<p>插上USB声卡，在USB声卡的麦克风孔里插入麦克风，运行以下命令，在即可在调频100.6MHz频道广播实时语音，你也可以把这条命令中的100.6改成其它数字，那样就会在新频道上广播：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -D plughw:1,0 -c1 -d 0 -r 22050 -f S16_LE | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
-
-<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
-<p>扩展玩法：</p>
-<p>用移动电源给树莓派供电，设置开机免密码自动登录和自动运行广播脚本，将整个系统装在书包里，即可实现走到哪里，广播开到哪里（旅游景点、重要会场讲话、窃听器、位置信标）</p>
 ]]></content>
       <categories>
         <category>开发</category>
@@ -1006,30 +975,34 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>网站推荐第一期</title>
-    <url>/websitefx.html</url>
-    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
-<ul>
-<li>资源类 </li>
-</ul>
-<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
-<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
-<p>如果你需要寻找开源软件你可以前往这个网站。</p>
-<ul>
-<li>杂项类</li>
-</ul>
-<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
-<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
-<p>那么，第一期就先这样了。我们下一期再见~</p>
+    <title>用树莓派搭建FM广播，播放音乐和实时语音</title>
+    <url>/smpfm.html</url>
+    <content><![CDATA[<p>-</p>
+<p>在树莓派的命令行界面运行以下八条命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mkdir fm</span><br><span class="line">cd fm</span><br><span class="line">sudo git clone https://github.com/markondej/fm_transmitter</span><br><span class="line">sudo apt-get install mpg123</span><br><span class="line">sudo apt-get install gcc g++ make</span><br><span class="line">cd fm_transmitter</span><br><span class="line">sudo make</span><br><span class="line">sudo apt-get install sox</span><br></pre></td></tr></table></figure>
+
+
+
+<p>运行以下命令，即可在调频100.6MHz频道广播自带的星球大战主题曲：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sox star_wars.wav -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
+
+<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
+<blockquote>
+<p>也可以把这条命令中的100.6改成其它数字，即可在新频道上广播。</p>
+<p>也可以将其它wav格式的文件放到/fm/fm_transmitter文件夹中，替换命令中的star_wars.wav文件</p>
+</blockquote>
+<p>插上USB声卡，在USB声卡的麦克风孔里插入麦克风，运行以下命令，在即可在调频100.6MHz频道广播实时语音，你也可以把这条命令中的100.6改成其它数字，那样就会在新频道上广播：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -D plughw:1,0 -c1 -d 0 -r 22050 -f S16_LE | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
+
+<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
+<p>扩展玩法：</p>
+<p>用移动电源给树莓派供电，设置开机免密码自动登录和自动运行广播脚本，将整个系统装在书包里，即可实现走到哪里，广播开到哪里（旅游景点、重要会场讲话、窃听器、位置信标）</p>
 ]]></content>
       <categories>
-        <category>推荐</category>
+        <category>开发</category>
       </categories>
       <tags>
-        <tag>网站推荐</tag>
+        <tag>树莓派</tag>
       </tags>
   </entry>
   <entry>
@@ -1056,6 +1029,33 @@ layout: false
       </categories>
       <tags>
         <tag>WordPress错误</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站推荐第一期</title>
+    <url>/websitefx.html</url>
+    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
+<ul>
+<li>资源类 </li>
+</ul>
+<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
+<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
+<p>如果你需要寻找开源软件你可以前往这个网站。</p>
+<ul>
+<li>杂项类</li>
+</ul>
+<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
+<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
+<p>那么，第一期就先这样了。我们下一期再见~</p>
+]]></content>
+      <categories>
+        <category>推荐</category>
+      </categories>
+      <tags>
+        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
