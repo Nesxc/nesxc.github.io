@@ -618,66 +618,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>用树莓派搭建FM广播，播放音乐和实时语音</title>
-    <url>//post/smpfm.html</url>
-    <content><![CDATA[<p>-</p>
-<p>在树莓派的命令行界面运行以下八条命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mkdir fm</span><br><span class="line">cd fm</span><br><span class="line">sudo git clone https://github.com/markondej/fm_transmitter</span><br><span class="line">sudo apt-get install mpg123</span><br><span class="line">sudo apt-get install gcc g++ make</span><br><span class="line">cd fm_transmitter</span><br><span class="line">sudo make</span><br><span class="line">sudo apt-get install sox</span><br></pre></td></tr></table></figure>
-
-
-<p>运行以下命令，即可在调频100.6MHz频道广播自带的星球大战主题曲：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sox star_wars.wav -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
-<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
-<blockquote>
-<p>也可以把这条命令中的100.6改成其它数字，即可在新频道上广播。</p>
-<p>也可以将其它wav格式的文件放到/fm/fm_transmitter文件夹中，替换命令中的star_wars.wav文件</p>
-</blockquote>
-<p>插上USB声卡，在USB声卡的麦克风孔里插入麦克风，运行以下命令，在即可在调频100.6MHz频道广播实时语音，你也可以把这条命令中的100.6改成其它数字，那样就会在新频道上广播：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -D plughw:1,0 -c1 -d 0 -r 22050 -f S16_LE | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
-<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
-<p>扩展玩法：</p>
-<p>用移动电源给树莓派供电，设置开机免密码自动登录和自动运行广播脚本，将整个系统装在书包里，即可实现走到哪里，广播开到哪里（旅游景点、重要会场讲话、窃听器、位置信标）</p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>树莓派开机教程</title>
-    <url>//post/smpkj.html</url>
-    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
-<p>格式化SD卡</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc7215d37c39e836.png%7CimageView2/2/w/640" alt="格式化已有的SD卡"></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-abf5e3f941d3016a.png%7CimageView2/2/w/300" alt="格式化SD卡成功"></p>
-<p>烧录系统镜像</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6d22b8fb9a2fbd6a.png%7CimageView2/2/w/1240" alt="烧录树莓派操作系统镜像"></p>
-<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
-<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>例如这样</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1b37351bcd946978.png%7CimageView2/2/w/1240" alt="配置wifi文件"></p>
-<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-70819fe7ad131c4c.png%7CimageView2/2/w/1240" alt="将ssh文件和wpa_supplicant.conf文件放入boot盘中"></p>
-<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
-<p>获取树莓派ip地址的方法：</p>
-<ol>
-<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
-<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
-<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
-<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
-</ol>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>在树莓派上安装BOINC并参与SETI@home分布式计算项目</title>
     <url>//post/smpbtb.html</url>
     <content><![CDATA[<h2 id="1-在树莓派上安装BOINC客户端"><a href="#1-在树莓派上安装BOINC客户端" class="headerlink" title="1.在树莓派上安装BOINC客户端"></a>1.在树莓派上安装BOINC客户端</h2><p>仅需要一行命令即可在树莓派或者Ubuntu操作系统上安装BOINC</p>
@@ -789,6 +729,66 @@ layout: false
       </tags>
   </entry>
   <entry>
+    <title>用树莓派搭建FM广播，播放音乐和实时语音</title>
+    <url>//post/smpfm.html</url>
+    <content><![CDATA[<p>-</p>
+<p>在树莓派的命令行界面运行以下八条命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mkdir fm</span><br><span class="line">cd fm</span><br><span class="line">sudo git clone https://github.com/markondej/fm_transmitter</span><br><span class="line">sudo apt-get install mpg123</span><br><span class="line">sudo apt-get install gcc g++ make</span><br><span class="line">cd fm_transmitter</span><br><span class="line">sudo make</span><br><span class="line">sudo apt-get install sox</span><br></pre></td></tr></table></figure>
+
+
+<p>运行以下命令，即可在调频100.6MHz频道广播自带的星球大战主题曲：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sox star_wars.wav -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
+<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
+<blockquote>
+<p>也可以把这条命令中的100.6改成其它数字，即可在新频道上广播。</p>
+<p>也可以将其它wav格式的文件放到/fm/fm_transmitter文件夹中，替换命令中的star_wars.wav文件</p>
+</blockquote>
+<p>插上USB声卡，在USB声卡的麦克风孔里插入麦克风，运行以下命令，在即可在调频100.6MHz频道广播实时语音，你也可以把这条命令中的100.6改成其它数字，那样就会在新频道上广播：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -D plughw:1,0 -c1 -d 0 -r 22050 -f S16_LE | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
+<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
+<p>扩展玩法：</p>
+<p>用移动电源给树莓派供电，设置开机免密码自动登录和自动运行广播脚本，将整个系统装在书包里，即可实现走到哪里，广播开到哪里（旅游景点、重要会场讲话、窃听器、位置信标）</p>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>树莓派开机教程</title>
+    <url>//post/smpkj.html</url>
+    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
+<p>格式化SD卡</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc7215d37c39e836.png%7CimageView2/2/w/640" alt="格式化已有的SD卡"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-abf5e3f941d3016a.png%7CimageView2/2/w/300" alt="格式化SD卡成功"></p>
+<p>烧录系统镜像</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6d22b8fb9a2fbd6a.png%7CimageView2/2/w/1240" alt="烧录树莓派操作系统镜像"></p>
+<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
+<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>例如这样</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1b37351bcd946978.png%7CimageView2/2/w/1240" alt="配置wifi文件"></p>
+<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-70819fe7ad131c4c.png%7CimageView2/2/w/1240" alt="将ssh文件和wpa_supplicant.conf文件放入boot盘中"></p>
+<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
+<p>获取树莓派ip地址的方法：</p>
+<ol>
+<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
+<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
+<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
+<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
+</ol>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一劳永逸配置树莓派</title>
     <url>//post/smpset.html</url>
     <content><![CDATA[<p>换源</p>
@@ -861,33 +861,6 @@ layout: false
       </categories>
       <tags>
         <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站推荐第一期</title>
-    <url>//post/websitefx.html</url>
-    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
-<ul>
-<li>资源类 </li>
-</ul>
-<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
-<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
-<p>如果你需要寻找开源软件你可以前往这个网站。</p>
-<ul>
-<li>杂项类</li>
-</ul>
-<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
-<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
-<p>那么，第一期就先这样了。我们下一期再见~</p>
-]]></content>
-      <categories>
-        <category>推荐</category>
-      </categories>
-      <tags>
-        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -987,6 +960,33 @@ layout: false
       </categories>
       <tags>
         <tag>破解软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站推荐第一期</title>
+    <url>//post/websitefx.html</url>
+    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
+<ul>
+<li>资源类 </li>
+</ul>
+<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
+<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
+<p>如果你需要寻找开源软件你可以前往这个网站。</p>
+<ul>
+<li>杂项类</li>
+</ul>
+<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
+<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
+<p>那么，第一期就先这样了。我们下一期再见~</p>
+]]></content>
+      <categories>
+        <category>推荐</category>
+      </categories>
+      <tags>
+        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
