@@ -1343,7 +1343,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: '';
+  background: url(https://cdn.jsdelivr.net/gh/Ran08/file@master/wallhaven-v9m1vl.jpg);
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -3162,13 +3162,7 @@ blockquote footer cite:before {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-}
-#footer:before {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.5);
-  content: '';
+  background-color: rgba(0,0,0,0.1);
 }
 #footer-wrap {
   position: relative;
@@ -3188,6 +3182,11 @@ blockquote footer cite:before {
 #footer-wrap .icp-icon {
   padding: 0 4px;
   vertical-align: text-bottom;
+}
+@media only screen and (max-width: 767px) {
+  style. #sidebar_search_box input[type=text] {
+    width: calc(100% - 24px);
+  }
 }
 #page-header {
   position: relative;
