@@ -864,6 +864,30 @@ layout: false
       </tags>
   </entry>
   <entry>
+    <title>Wordpress后台管理员无法访问</title>
+    <url>//post/wpnoadmin.html</url>
+    <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
+<p>原因很简单。</p>
+<ul>
+<li>你是和我上一篇博文一样配置完https重定向的</li>
+</ul>
+<p>为什么会出现这种情况呢。</p>
+<p>他们把这串代码弄到了最底下。</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS2.png" alt="wt"></p>
+<p>然后，你只需把他移动到</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( ! defined( <span class="string">&#x27;ABSPATH&#x27;</span> ) ) &#123;</span><br><span class="line">	define( <span class="string">&#x27;ABSPATH&#x27;</span>, dirname( <span class="keyword">__FILE__</span> ) . <span class="string">&#x27;/&#x27;</span> );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>这串代码以上就行了。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS1.png" alt="jj"></p>
+]]></content>
+      <categories>
+        <category>WordPress</category>
+      </categories>
+      <tags>
+        <tag>WordPress错误</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>VirtualHardwares硬件虚拟工具收费版本</title>
     <url>//post/virtualhardwareshack.html</url>
     <content><![CDATA[<p><strong>VirtualHardwares硬件虚拟工具收费版本</strong>为能够任意更改你的硬件显示参数的软件，并非真实的改变哟，有时候试用部分程序的时候，会用到它来改本机ID识别码，进行多次、长时间的免费</p>
@@ -987,30 +1011,6 @@ layout: false
       </categories>
       <tags>
         <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Wordpress后台管理员无法访问</title>
-    <url>//post/wpnoadmin.html</url>
-    <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
-<p>原因很简单。</p>
-<ul>
-<li>你是和我上一篇博文一样配置完https重定向的</li>
-</ul>
-<p>为什么会出现这种情况呢。</p>
-<p>他们把这串代码弄到了最底下。</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS2.png" alt="wt"></p>
-<p>然后，你只需把他移动到</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( ! defined( <span class="string">&#x27;ABSPATH&#x27;</span> ) ) &#123;</span><br><span class="line">	define( <span class="string">&#x27;ABSPATH&#x27;</span>, dirname( <span class="keyword">__FILE__</span> ) . <span class="string">&#x27;/&#x27;</span> );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>这串代码以上就行了。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS1.png" alt="jj"></p>
-]]></content>
-      <categories>
-        <category>WordPress</category>
-      </categories>
-      <tags>
-        <tag>WordPress错误</tag>
       </tags>
   </entry>
   <entry>
