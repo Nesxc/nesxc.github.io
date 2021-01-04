@@ -178,6 +178,10 @@ template {
 [hidden] {
   display: none
 }
+
+@font-face { font-family:MyFont;
+src: url(https://cdn.jsdelivr.net/gh/Ran08/file@master/%E6%80%9D%E6%BA%90%E6%9F%94%E9%BB%91-Medium.ttf)}
+body{font-family:MyFont!important;}
 .limit-one-line,
 .flink#article-container .flink-list > .flink-list-item a .flink-item-name,
 .flink#article-container .flink-list > .flink-list-item a .flink-item-desc,
@@ -3605,7 +3609,7 @@ _:future,
   display: inline-block !important;
 }
 #nav.hide-menu #toggle-menu .site-page {
-  font-size: inherit;
+  font-size: 0.7rem;
 }
 #nav.hide-menu .menus_items {
   display: none !important;
