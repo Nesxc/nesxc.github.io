@@ -1,45 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>OKR工作法</title>
-    <url>//post/OKR.html</url>
-    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://pic1.zhimg.com/v2-2420fcc1a9e6f2f13bf456ded6c2e616_1440w.jpg" alt="OKR"></p>
-<h5 id="OKR的意义"><a href="#OKR的意义" class="headerlink" title="OKR的意义"></a>OKR的意义</h5><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">O是Objectives，</span><br><span class="line">KR是Key Results，</span><br><span class="line">OKR就是Objectives and Key Results，即目标与关键结果法。</span><br></pre></td></tr></table></figure>
-
-<p>使用OKR工作法可以协调推进团队任务的进度。</p>
-<h5 id="如何推进OKR？"><a href="#如何推进OKR？" class="headerlink" title="如何推进OKR？"></a>如何推进OKR？</h5><p>每周一，团队一起开会盘点OKR，来明确本周具体负责完成哪些任务。可以参考这种四象限OKR展示形式：</p>
-<p>本周关注的任务</p>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">OKR当前状态</span><br><span class="line">P1：订阅系统的建立</span><br><span class="line">P1：Ico的制作</span><br><span class="line">P1：留言板的制作</span><br><span class="line">P2：SEO的优化</span><br><span class="line"></span><br><span class="line">目标：百度谷歌的收录</span><br><span class="line">关键结果：网站的收录（50%）</span><br><span class="line">关键结果：第一个被收录的博客（50%）</span><br><span class="line"></span><br><span class="line">未来四周的计划</span><br><span class="line">优化系统</span><br><span class="line">服务器的提升</span><br><span class="line">备份系统的建立</span><br></pre></td></tr></table></figure>
-
-<p>● 本周关注的任务：列出3~4件最重要的事情，只有本周完成了这几件事，团队的目标才能向前推进；明确这些事的优先级（P表示Plan，P1的优先级大于P2，没有P3或更不重要的事）。</p>
-<p>● 未来四周的计划：有哪些事情需要其他团队成员做好准备或支持，都列在这一象限。</p>
-<p>● OKR当前的状态：每周讨论你们的信心指数，变高了还是变低了？因为发生了什么导致如此？</p>
-<p>● 状态指标：挑出两个影响目标达成的其他因素，简略地用色彩记录它们的变化来关注它们。（例如绿色为好，黄色为警戒，红色为差）当这些因素发生意外时，马上讨论找出应对方案，确保OKR不受影响。</p>
-<h5 id="怎么进行OKR"><a href="#怎么进行OKR" class="headerlink" title="怎么进行OKR"></a>怎么进行OKR</h5><p>每周一的会议可以用1/4的时间来讲述进度，剩余时间一起讨论下一步计划，并落实每个人本周的职责。</p>
-<p>每周五，召开“胜利会议”，让每个团队都可以展示本周的工作成果，并准备一些酒水饮料和点心等庆祝这些成果。</p>
-<p>每周重复这些事情，反复这样“明确责任”-“庆祝胜利”的节奏，就实现了OKR的分步骤落实。</p>
-<h5 id="易造成目标无法达成的5个因素"><a href="#易造成目标无法达成的5个因素" class="headerlink" title="易造成目标无法达成的5个因素"></a>易造成目标无法达成的5个因素</h5><p>（1）设置多个目标但没有给目标设定优先级。</p>
-<p>（2）缺乏充分沟通，导致团队其他成员没能准确理解目标。</p>
-<p>（3）没有做好具体落实目标的计划，只是空谈目标。</p>
-<p>（4）没有把时间花在重要的事情上，而去做了许多偏离目标的事情。</p>
-<p>（5）轻易放弃。</p>
-<h5 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h5><p>OKR是一个可以供大到上万人小到我一个人的目标实现工作法。 </p>
-]]></content>
-      <categories>
-        <category>电商</category>
-      </categories>
-      <tags>
-        <tag>OKR</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>你好 2021！</title>
-    <url>//post/2021welcome.html</url>
-    <content><![CDATA[<h3 id="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"><a href="#再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。" class="headerlink" title="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"></a>再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。</h3><p>2020一个令人难忘的一年。这一年里，最大的努力就是让自己活着。</p>
-<p>希望新的一年，万事大吉！！！</p>
-]]></content>
-  </entry>
-  <entry>
     <title>二十分钟精通markdown</title>
     <url>//post/20minmarkdown.html</url>
     <content><![CDATA[<blockquote>
@@ -118,26 +79,42 @@
       </tags>
   </entry>
   <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>//post/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+    <title>你好 2021！</title>
+    <url>//post/2021welcome.html</url>
+    <content><![CDATA[<h3 id="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"><a href="#再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。" class="headerlink" title="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"></a>再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。</h3><p>2020一个令人难忘的一年。这一年里，最大的努力就是让自己活着。</p>
+<p>希望新的一年，万事大吉！！！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>OKR工作法</title>
+    <url>//post/OKR.html</url>
+    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://pic1.zhimg.com/v2-2420fcc1a9e6f2f13bf456ded6c2e616_1440w.jpg" alt="OKR"></p>
+<h5 id="OKR的意义"><a href="#OKR的意义" class="headerlink" title="OKR的意义"></a>OKR的意义</h5><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">O是Objectives，</span><br><span class="line">KR是Key Results，</span><br><span class="line">OKR就是Objectives and Key Results，即目标与关键结果法。</span><br></pre></td></tr></table></figure>
 
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+<p>使用OKR工作法可以协调推进团队任务的进度。</p>
+<h5 id="如何推进OKR？"><a href="#如何推进OKR？" class="headerlink" title="如何推进OKR？"></a>如何推进OKR？</h5><p>每周一，团队一起开会盘点OKR，来明确本周具体负责完成哪些任务。可以参考这种四象限OKR展示形式：</p>
+<p>本周关注的任务</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">OKR当前状态</span><br><span class="line">P1：订阅系统的建立</span><br><span class="line">P1：Ico的制作</span><br><span class="line">P1：留言板的制作</span><br><span class="line">P2：SEO的优化</span><br><span class="line"></span><br><span class="line">目标：百度谷歌的收录</span><br><span class="line">关键结果：网站的收录（50%）</span><br><span class="line">关键结果：第一个被收录的博客（50%）</span><br><span class="line"></span><br><span class="line">未来四周的计划</span><br><span class="line">优化系统</span><br><span class="line">服务器的提升</span><br><span class="line">备份系统的建立</span><br></pre></td></tr></table></figure>
 
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+<p>● 本周关注的任务：列出3~4件最重要的事情，只有本周完成了这几件事，团队的目标才能向前推进；明确这些事的优先级（P表示Plan，P1的优先级大于P2，没有P3或更不重要的事）。</p>
+<p>● 未来四周的计划：有哪些事情需要其他团队成员做好准备或支持，都列在这一象限。</p>
+<p>● OKR当前的状态：每周讨论你们的信心指数，变高了还是变低了？因为发生了什么导致如此？</p>
+<p>● 状态指标：挑出两个影响目标达成的其他因素，简略地用色彩记录它们的变化来关注它们。（例如绿色为好，黄色为警戒，红色为差）当这些因素发生意外时，马上讨论找出应对方案，确保OKR不受影响。</p>
+<h5 id="怎么进行OKR"><a href="#怎么进行OKR" class="headerlink" title="怎么进行OKR"></a>怎么进行OKR</h5><p>每周一的会议可以用1/4的时间来讲述进度，剩余时间一起讨论下一步计划，并落实每个人本周的职责。</p>
+<p>每周五，召开“胜利会议”，让每个团队都可以展示本周的工作成果，并准备一些酒水饮料和点心等庆祝这些成果。</p>
+<p>每周重复这些事情，反复这样“明确责任”-“庆祝胜利”的节奏，就实现了OKR的分步骤落实。</p>
+<h5 id="易造成目标无法达成的5个因素"><a href="#易造成目标无法达成的5个因素" class="headerlink" title="易造成目标无法达成的5个因素"></a>易造成目标无法达成的5个因素</h5><p>（1）设置多个目标但没有给目标设定优先级。</p>
+<p>（2）缺乏充分沟通，导致团队其他成员没能准确理解目标。</p>
+<p>（3）没有做好具体落实目标的计划，只是空谈目标。</p>
+<p>（4）没有把时间花在重要的事情上，而去做了许多偏离目标的事情。</p>
+<p>（5）轻易放弃。</p>
+<h5 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h5><p>OKR是一个可以供大到上万人小到我一个人的目标实现工作法。 </p>
 ]]></content>
       <categories>
-        <category>hexo</category>
+        <category>电商</category>
       </categories>
       <tags>
-        <tag>维护</tag>
+        <tag>OKR</tag>
       </tags>
   </entry>
   <entry>
@@ -405,6 +382,29 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>//post/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo主题配置整合包发布</title>
     <url>//post/hexo-ran.html</url>
     <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
@@ -447,136 +447,28 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>使用Hexo和Github Actions自动化博客更新</title>
-    <url>//post/hexogithub.html</url>
-    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
-</div>
+    <title>hexo建立一个独立的html页面</title>
+    <url>//post/hexohtml.html</url>
+    <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
+<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><pre><code>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 `_config.yml` 里找到 `skip_render` 关键字，在后面添加想要跳过渲染的页面，比如我们创建 `\source\about\index.html`， 配置文件填写：`skip_render: about\**`，那么就表示 `\source\about` 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：https://hexo.io/docs/configuration</code></pre>
+<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><pre><code>在文章头部的 Front-matter 里添加配置 `layout: false` 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 `\source\about\index.md`，将这个页面的相关 HTML 代码写进`.md`文件并保存，然后在 `index.md` 的头部写入：
 
-<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
-      <categories>
-        <category>视频推荐</category>
-      </categories>
-      <tags>
-        <tag>bilibili</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>教你在树莓派上安装OpenCV</title>
-    <url>//post/smpOpenCV.html</url>
-    <content><![CDATA[<h1 id="安装前提"><a href="#安装前提" class="headerlink" title="安装前提"></a>安装前提</h1><h3 id="1-配置好树莓派的Raspbian操作系统"><a href="#1-配置好树莓派的Raspbian操作系统" class="headerlink" title="1.配置好树莓派的Raspbian操作系统"></a>1.配置好树莓派的Raspbian操作系统</h3><p>本教程使用的系统是2018年6月27日树莓派官方发布的Raspbian-stretch操作系统，<a href="https://www.raspberrypi.org/downloads/raspbian/">官方下载链接</a>。</p>
-<h3 id="2-切换到国内的apt-get下载源和pip下载源"><a href="#2-切换到国内的apt-get下载源和pip下载源" class="headerlink" title="2.切换到国内的apt-get下载源和pip下载源"></a>2.切换到国内的apt-get下载源和pip下载源</h3><p>防止下载速度过慢。</p>
-<h3 id="3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"><a href="#3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置" class="headerlink" title="3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"></a>3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置</h3><blockquote>
-<p>如果没有官方摄像头，也不影响安装</p>
-</blockquote>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4b420067401c12f1.png%7CimageView2/2/w/400" alt="连接树莓派摄像头Picamera"></p>
-<p>在命令行输入以下命令，这个命令的意思是用nano编辑器打开modules这个文件：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo nano /etc/modules</span><br></pre></td></tr></table></figure>
+---
+layout: false
+---
 
-<p>在这个文件末尾添加一行</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">bcm2835-v4l2</span><br></pre></td></tr></table></figure>
-
-<p>也就是这个效果</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-364a600885dd8cdf.png%7CimageView2/2/w/1240"></p>
-<p>先按键盘上的<code>ctrl</code>+<code>o</code>，再按回车保存，再按<code>ctrl</code>+<code>x</code>退出nano编辑器回到命令行界面。</p>
-<p>输入命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd get_camera</span><br></pre></td></tr></table></figure>
-
-<p>如果得到下面的结果，则证明摄像头连接成功</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-07e411efaac25994.png%7CimageView2/2/w/1240" alt="检查摄像头是否被树莓派识别"></p>
-<p>可以输入命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">raspistill -o image.jpg</span><br></pre></td></tr></table></figure>
-
-<p>调用摄像头拍一张照片，命名为image.jpg，存储在/pi/home路径，也就是桌面左上角资源管理器一打开显示的那个路径。如果能看到摄像头上红灯亮，目录里面有照片，则进一步说明摄像头配置正确。</p>
-<h1 id="在树莓派安装运行在Python2上的OpenCV"><a href="#在树莓派安装运行在Python2上的OpenCV" class="headerlink" title="在树莓派安装运行在Python2上的OpenCV"></a>在树莓派安装运行在Python2上的OpenCV</h1><h3 id="1、安装"><a href="#1、安装" class="headerlink" title="1、安装"></a>1、安装</h3><p> 打开树莓派的命令行界面，两个命令即可完成安装。执行第一条命令需要半个小时左右，请耐心等待。第二条命令执行只需要几秒钟。</p>
-<blockquote>
-<p>友情提示：</p>
-<p>建议第一个命令用树莓派桌面上自带的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
-</blockquote>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install libopencv-dev</span><br><span class="line">sudo apt-get install python-opencv</span><br></pre></td></tr></table></figure>
-
-<h3 id="2、在Python2上测试OpenCV"><a href="#2、在Python2上测试OpenCV" class="headerlink" title="2、在Python2上测试OpenCV"></a>2、在Python2上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python</code>或者<code>python2</code>，回车</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
-
-<p>如果出现下图的结果，说明Python2环境下的OpenCV安装成功。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-202da54ab2900054.png%7CimageView2/2/w/1240" alt="python2环境中运行opencv"></p>
-<p>也可以输入</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
-
-<p>查看opencv版本号</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f97eed06c60e3c03.png%7CimageView2/2/w/1240" alt="查看python2的opencv版本"></p>
-<blockquote>
-<p>为啥叫cv2而不叫opencv呢？这是因为OpenCV是基于C/C++开发的，有两个版本，’’cv”版本的API是C语言开发的，’’cv2’’版本的API是基于C++语言开发的，为了保持向后兼容性所以叫”cv2”，但我们都知道cv2就是OpenCV本尊。</p>
-</blockquote>
-<p>也可以在桌面命令行里输入以下三个命令调用树莓派摄像头，把摄像头捕捉到的画面显示在桌面上，按<code>ctrl</code>+<code>c</code>键退出。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/TommyZihao/opencvtest.git</span><br><span class="line">cd opencvtest</span><br><span class="line">python2 testopencv.py</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4558d79be1004043.png%7CimageView2/2/w/1240" alt="测试python2上的opencv：调用树莓派摄像头"></p>
-<h1 id="在树莓派安装运行在Python3上的OpenCV"><a href="#在树莓派安装运行在Python3上的OpenCV" class="headerlink" title="在树莓派安装运行在Python3上的OpenCV"></a>在树莓派安装运行在Python3上的OpenCV</h1><h3 id="1、安装numpy"><a href="#1、安装numpy" class="headerlink" title="1、安装numpy"></a>1、安装numpy</h3><p>打开命令行界面，输入以下命令，安装Python科学计算库numpy</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo pip3 install numpy</span><br></pre></td></tr></table></figure>
-
-<h3 id="2、在树莓派设置中把根目录扩大到整个SD卡"><a href="#2、在树莓派设置中把根目录扩大到整个SD卡" class="headerlink" title="2、在树莓派设置中把根目录扩大到整个SD卡"></a>2、在树莓派设置中把根目录扩大到整个SD卡</h3><p>命令行界面输入命令，进入树莓派配置界面。用上下键和左右键切换光标位置。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo raspi-config</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
-<h4 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h4><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
-<p>选择Expand Filesystem，将根目录扩展到这个SD卡，充分利用SD卡的存储空间。如果不进行这一步，后续命令会出现卡死。退出设置界面，重启树莓派。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo reboot</span><br></pre></td></tr></table></figure>
-
-<h3 id="3、安装OpenCV所需的库"><a href="#3、安装OpenCV所需的库" class="headerlink" title="3、安装OpenCV所需的库"></a>3、安装OpenCV所需的库</h3><p>挨个运行下面八条命令。共需要七分钟（注意倒数第三条命令中要安装四个-dev软件包）。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install build-essential git cmake pkg-config -y</span><br><span class="line">sudo apt-get install libjpeg8-dev -y</span><br><span class="line">sudo apt-get install libtiff5-dev -y</span><br><span class="line">sudo apt-get install libjasper-dev -y</span><br><span class="line">sudo apt-get install libpng12-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libgtk2.0-dev -y</span><br><span class="line">sudo apt-get install libatlas-base-dev gfortran -y</span><br></pre></td></tr></table></figure>
-
-<h3 id="4、下载OpenCV"><a href="#4、下载OpenCV" class="headerlink" title="4、下载OpenCV"></a>4、下载OpenCV</h3><p>在命令行输入以下三条命令，下载两个压缩包到树莓派的**/home/pi/Downloads**目录下。第一个压缩包86.8MB，第二个压缩包54.5MB：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv/archive/3.4.0.zip</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv_contrib/archive/3.4.0.zip</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>如果下载速度很慢（比如每秒几个KB）：</p>
-<p>方法1：可以在电脑浏览器中输入wget后面的链接下载压缩包，再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
-<p>方法2：:可以用电脑在<a href="https://pan.baidu.com/s/182NYJzW1nCpnQ7ftSYYuSw">百度网盘链接</a>下载这两个压缩包之后再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
-</blockquote>
-<p>解压这两个压缩包</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads</span><br><span class="line">unzip opencv-3.4.0.zip</span><br><span class="line">unzip opencv_contrib-3.4.0.zip</span><br></pre></td></tr></table></figure>
-
-<h3 id="5、设置编译参数"><a href="#5、设置编译参数" class="headerlink" title="5、设置编译参数"></a>5、设置编译参数</h3><p>设置编译参数</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0</span><br><span class="line">mkdir build</span><br><span class="line">cd build</span><br></pre></td></tr></table></figure>
-
-<p>设置CMAKE参数，注意，下面这是一行命令（包括最后那俩点儿），需要耐心等待十五分钟左右：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/home/pi/Downloads/opencv_contrib-3.4.0/modules -D BUILD_EXAMPLES=ON -D WITH_LIBV4L=ON PYTHON3_EXECUTABLE=/usr/bin/python3.5 PYTHON_INCLUDE_DIR=/usr/include/python3.5 PYTHON_LIBRARY=/usr/lib/arm-linux-gnueabihf/libpython3.5m.so PYTHON3_NUMPY_INCLUDE_DIRS=/home/pi/.local/lib/python3.5/site-packages/numpy/core/include ..</span><br></pre></td></tr></table></figure>
-
-<p>根据下图判断你是否配置成功了CMAKE。如果失败，可能是因为两个压缩包的路径没有严格按照上文的要求。如果成功，就可以开始最重要的编译了。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-532012bb713dc869.png%7CimageView2/2/w/1240" alt="CMAKE配置"></p>
-<h3 id="6、编译"><a href="#6、编译" class="headerlink" title="6、编译"></a>6、编译</h3><p>最后一步，也是最重要的一步：编译</p>
-<p>保证树莓派有至少5G的存储空间，建议本命令用树莓派桌面上的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0/build</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-36df3d7c4c6c0db7.png%7CimageView2/2/w/1240" alt="开始编译"></p>
-<p>编译两个小时之后，完成了40%</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e938295662efec1e.png%7CimageView2/2/w/1240" alt="编译两个小时之后"></p>
-<p>静待五个小时的编译。注意，在此期间，树莓派要供电充足，不要运行其它任务，以免因为内存不够什么的幺蛾子报错。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-542b34f0f59da291.png%7CimageView2/2/w/1240" alt="编译完成"></p>
-<p><code>make</code>命令执行完成之后，执行下面的命令，执行命令需要一分钟：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo make insall</span><br></pre></td></tr></table></figure>
-
-<h3 id="7、在Python3上测试OpenCV"><a href="#7、在Python3上测试OpenCV" class="headerlink" title="7、在Python3上测试OpenCV"></a>7、在Python3上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python3</code>，回车</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
-
-<p>回车</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
-
-<p>回车</p>
-<p>如果出现下图的结果，说明Python3环境下的OpenCV安装成功。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8b4162cec9589cd6.png%7CimageView2/2/w/1240" alt="Python3的OpenCV安装完成"></p>
-<h1 id="参考文献与扩展阅读"><a href="#参考文献与扩展阅读" class="headerlink" title="参考文献与扩展阅读"></a>参考文献与扩展阅读</h1><blockquote>
-<p><a href="https://www.jianshu.com/p/3180a253fe3c">【树莓派】树莓派+OpenCV3.4 + python3.5 成功以及注意细节</a></p>
-<p><a href="https://blog.csdn.net/u014397533/article/details/50910531">树莓派安装Python-OpenCV</a></p>
-<p> <a href="https://www.cnblogs.com/Pyrokine/p/8921285.html">基于树莓派3B+Python3.5的OpenCV3.4的配置教程</a></p>
-</blockquote>
+    xxxxxxxxxxxxx
+    xx HTML代码 xx
+    xxxxxxxxxxxxx
+    </code></pre>
+<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
+<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
 ]]></content>
       <categories>
         <category>开发</category>
       </categories>
       <tags>
-        <tag>树莓派</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -627,31 +519,6 @@ $$</code></pre>
       </categories>
       <tags>
         <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo建立一个独立的html页面</title>
-    <url>//post/hexohtml.html</url>
-    <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
-<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><pre><code>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 `_config.yml` 里找到 `skip_render` 关键字，在后面添加想要跳过渲染的页面，比如我们创建 `\source\about\index.html`， 配置文件填写：`skip_render: about\**`，那么就表示 `\source\about` 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：https://hexo.io/docs/configuration</code></pre>
-<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><pre><code>在文章头部的 Front-matter 里添加配置 `layout: false` 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 `\source\about\index.md`，将这个页面的相关 HTML 代码写进`.md`文件并保存，然后在 `index.md` 的头部写入：
-
----
-layout: false
----
-
-    xxxxxxxxxxxxx
-    xx HTML代码 xx
-    xxxxxxxxxxxxx
-    </code></pre>
-<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
-<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -765,6 +632,21 @@ layout: false
       </categories>
       <tags>
         <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用Hexo和Github Actions自动化博客更新</title>
+    <url>//post/hexogithub.html</url>
+    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+</div>
+
+<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
+      <categories>
+        <category>视频推荐</category>
+      </categories>
+      <tags>
+        <tag>bilibili</tag>
       </tags>
   </entry>
   <entry>
@@ -914,33 +796,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>网站推荐第一期</title>
-    <url>//post/websitefx.html</url>
-    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
-<ul>
-<li>资源类 </li>
-</ul>
-<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
-<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
-<p>如果你需要寻找开源软件你可以前往这个网站。</p>
-<ul>
-<li>杂项类</li>
-</ul>
-<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
-<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
-<p>那么，第一期就先这样了。我们下一期再见~</p>
-]]></content>
-      <categories>
-        <category>推荐</category>
-      </categories>
-      <tags>
-        <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>VirtualHardwares硬件虚拟工具收费版本</title>
     <url>//post/virtualhardwareshack.html</url>
     <content><![CDATA[<p><strong>VirtualHardwares硬件虚拟工具收费版本</strong>为能够任意更改你的硬件显示参数的软件，并非真实的改变哟，有时候试用部分程序的时候，会用到它来改本机ID识别码，进行多次、长时间的免费</p>
@@ -1040,6 +895,33 @@ layout: false
       </tags>
   </entry>
   <entry>
+    <title>网站推荐第一期</title>
+    <url>//post/websitefx.html</url>
+    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
+<ul>
+<li>资源类 </li>
+</ul>
+<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
+<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
+<p>如果你需要寻找开源软件你可以前往这个网站。</p>
+<ul>
+<li>杂项类</li>
+</ul>
+<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
+<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
+<p>那么，第一期就先这样了。我们下一期再见~</p>
+]]></content>
+      <categories>
+        <category>推荐</category>
+      </categories>
+      <tags>
+        <tag>网站推荐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Wordpress后台管理员无法访问</title>
     <url>//post/wpnoadmin.html</url>
     <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
@@ -1089,6 +971,124 @@ layout: false
       </categories>
       <tags>
         <tag>WordPress错误</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>教你在树莓派上安装OpenCV</title>
+    <url>//post/smpOpenCV.html</url>
+    <content><![CDATA[<h1 id="安装前提"><a href="#安装前提" class="headerlink" title="安装前提"></a>安装前提</h1><h3 id="1-配置好树莓派的Raspbian操作系统"><a href="#1-配置好树莓派的Raspbian操作系统" class="headerlink" title="1.配置好树莓派的Raspbian操作系统"></a>1.配置好树莓派的Raspbian操作系统</h3><p>本教程使用的系统是2018年6月27日树莓派官方发布的Raspbian-stretch操作系统，<a href="https://www.raspberrypi.org/downloads/raspbian/">官方下载链接</a>。</p>
+<h3 id="2-切换到国内的apt-get下载源和pip下载源"><a href="#2-切换到国内的apt-get下载源和pip下载源" class="headerlink" title="2.切换到国内的apt-get下载源和pip下载源"></a>2.切换到国内的apt-get下载源和pip下载源</h3><p>防止下载速度过慢。</p>
+<h3 id="3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"><a href="#3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置" class="headerlink" title="3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"></a>3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置</h3><blockquote>
+<p>如果没有官方摄像头，也不影响安装</p>
+</blockquote>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4b420067401c12f1.png%7CimageView2/2/w/400" alt="连接树莓派摄像头Picamera"></p>
+<p>在命令行输入以下命令，这个命令的意思是用nano编辑器打开modules这个文件：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo nano /etc/modules</span><br></pre></td></tr></table></figure>
+
+<p>在这个文件末尾添加一行</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">bcm2835-v4l2</span><br></pre></td></tr></table></figure>
+
+<p>也就是这个效果</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-364a600885dd8cdf.png%7CimageView2/2/w/1240"></p>
+<p>先按键盘上的<code>ctrl</code>+<code>o</code>，再按回车保存，再按<code>ctrl</code>+<code>x</code>退出nano编辑器回到命令行界面。</p>
+<p>输入命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd get_camera</span><br></pre></td></tr></table></figure>
+
+<p>如果得到下面的结果，则证明摄像头连接成功</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-07e411efaac25994.png%7CimageView2/2/w/1240" alt="检查摄像头是否被树莓派识别"></p>
+<p>可以输入命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">raspistill -o image.jpg</span><br></pre></td></tr></table></figure>
+
+<p>调用摄像头拍一张照片，命名为image.jpg，存储在/pi/home路径，也就是桌面左上角资源管理器一打开显示的那个路径。如果能看到摄像头上红灯亮，目录里面有照片，则进一步说明摄像头配置正确。</p>
+<h1 id="在树莓派安装运行在Python2上的OpenCV"><a href="#在树莓派安装运行在Python2上的OpenCV" class="headerlink" title="在树莓派安装运行在Python2上的OpenCV"></a>在树莓派安装运行在Python2上的OpenCV</h1><h3 id="1、安装"><a href="#1、安装" class="headerlink" title="1、安装"></a>1、安装</h3><p> 打开树莓派的命令行界面，两个命令即可完成安装。执行第一条命令需要半个小时左右，请耐心等待。第二条命令执行只需要几秒钟。</p>
+<blockquote>
+<p>友情提示：</p>
+<p>建议第一个命令用树莓派桌面上自带的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
+</blockquote>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install libopencv-dev</span><br><span class="line">sudo apt-get install python-opencv</span><br></pre></td></tr></table></figure>
+
+<h3 id="2、在Python2上测试OpenCV"><a href="#2、在Python2上测试OpenCV" class="headerlink" title="2、在Python2上测试OpenCV"></a>2、在Python2上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python</code>或者<code>python2</code>，回车</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
+
+<p>如果出现下图的结果，说明Python2环境下的OpenCV安装成功。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-202da54ab2900054.png%7CimageView2/2/w/1240" alt="python2环境中运行opencv"></p>
+<p>也可以输入</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
+
+<p>查看opencv版本号</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f97eed06c60e3c03.png%7CimageView2/2/w/1240" alt="查看python2的opencv版本"></p>
+<blockquote>
+<p>为啥叫cv2而不叫opencv呢？这是因为OpenCV是基于C/C++开发的，有两个版本，’’cv”版本的API是C语言开发的，’’cv2’’版本的API是基于C++语言开发的，为了保持向后兼容性所以叫”cv2”，但我们都知道cv2就是OpenCV本尊。</p>
+</blockquote>
+<p>也可以在桌面命令行里输入以下三个命令调用树莓派摄像头，把摄像头捕捉到的画面显示在桌面上，按<code>ctrl</code>+<code>c</code>键退出。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/TommyZihao/opencvtest.git</span><br><span class="line">cd opencvtest</span><br><span class="line">python2 testopencv.py</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4558d79be1004043.png%7CimageView2/2/w/1240" alt="测试python2上的opencv：调用树莓派摄像头"></p>
+<h1 id="在树莓派安装运行在Python3上的OpenCV"><a href="#在树莓派安装运行在Python3上的OpenCV" class="headerlink" title="在树莓派安装运行在Python3上的OpenCV"></a>在树莓派安装运行在Python3上的OpenCV</h1><h3 id="1、安装numpy"><a href="#1、安装numpy" class="headerlink" title="1、安装numpy"></a>1、安装numpy</h3><p>打开命令行界面，输入以下命令，安装Python科学计算库numpy</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo pip3 install numpy</span><br></pre></td></tr></table></figure>
+
+<h3 id="2、在树莓派设置中把根目录扩大到整个SD卡"><a href="#2、在树莓派设置中把根目录扩大到整个SD卡" class="headerlink" title="2、在树莓派设置中把根目录扩大到整个SD卡"></a>2、在树莓派设置中把根目录扩大到整个SD卡</h3><p>命令行界面输入命令，进入树莓派配置界面。用上下键和左右键切换光标位置。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo raspi-config</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
+<h4 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h4><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
+<p>选择Expand Filesystem，将根目录扩展到这个SD卡，充分利用SD卡的存储空间。如果不进行这一步，后续命令会出现卡死。退出设置界面，重启树莓派。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo reboot</span><br></pre></td></tr></table></figure>
+
+<h3 id="3、安装OpenCV所需的库"><a href="#3、安装OpenCV所需的库" class="headerlink" title="3、安装OpenCV所需的库"></a>3、安装OpenCV所需的库</h3><p>挨个运行下面八条命令。共需要七分钟（注意倒数第三条命令中要安装四个-dev软件包）。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install build-essential git cmake pkg-config -y</span><br><span class="line">sudo apt-get install libjpeg8-dev -y</span><br><span class="line">sudo apt-get install libtiff5-dev -y</span><br><span class="line">sudo apt-get install libjasper-dev -y</span><br><span class="line">sudo apt-get install libpng12-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libgtk2.0-dev -y</span><br><span class="line">sudo apt-get install libatlas-base-dev gfortran -y</span><br></pre></td></tr></table></figure>
+
+<h3 id="4、下载OpenCV"><a href="#4、下载OpenCV" class="headerlink" title="4、下载OpenCV"></a>4、下载OpenCV</h3><p>在命令行输入以下三条命令，下载两个压缩包到树莓派的**/home/pi/Downloads**目录下。第一个压缩包86.8MB，第二个压缩包54.5MB：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv/archive/3.4.0.zip</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv_contrib/archive/3.4.0.zip</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>如果下载速度很慢（比如每秒几个KB）：</p>
+<p>方法1：可以在电脑浏览器中输入wget后面的链接下载压缩包，再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
+<p>方法2：:可以用电脑在<a href="https://pan.baidu.com/s/182NYJzW1nCpnQ7ftSYYuSw">百度网盘链接</a>下载这两个压缩包之后再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
+</blockquote>
+<p>解压这两个压缩包</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads</span><br><span class="line">unzip opencv-3.4.0.zip</span><br><span class="line">unzip opencv_contrib-3.4.0.zip</span><br></pre></td></tr></table></figure>
+
+<h3 id="5、设置编译参数"><a href="#5、设置编译参数" class="headerlink" title="5、设置编译参数"></a>5、设置编译参数</h3><p>设置编译参数</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0</span><br><span class="line">mkdir build</span><br><span class="line">cd build</span><br></pre></td></tr></table></figure>
+
+<p>设置CMAKE参数，注意，下面这是一行命令（包括最后那俩点儿），需要耐心等待十五分钟左右：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/home/pi/Downloads/opencv_contrib-3.4.0/modules -D BUILD_EXAMPLES=ON -D WITH_LIBV4L=ON PYTHON3_EXECUTABLE=/usr/bin/python3.5 PYTHON_INCLUDE_DIR=/usr/include/python3.5 PYTHON_LIBRARY=/usr/lib/arm-linux-gnueabihf/libpython3.5m.so PYTHON3_NUMPY_INCLUDE_DIRS=/home/pi/.local/lib/python3.5/site-packages/numpy/core/include ..</span><br></pre></td></tr></table></figure>
+
+<p>根据下图判断你是否配置成功了CMAKE。如果失败，可能是因为两个压缩包的路径没有严格按照上文的要求。如果成功，就可以开始最重要的编译了。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-532012bb713dc869.png%7CimageView2/2/w/1240" alt="CMAKE配置"></p>
+<h3 id="6、编译"><a href="#6、编译" class="headerlink" title="6、编译"></a>6、编译</h3><p>最后一步，也是最重要的一步：编译</p>
+<p>保证树莓派有至少5G的存储空间，建议本命令用树莓派桌面上的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0/build</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-36df3d7c4c6c0db7.png%7CimageView2/2/w/1240" alt="开始编译"></p>
+<p>编译两个小时之后，完成了40%</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e938295662efec1e.png%7CimageView2/2/w/1240" alt="编译两个小时之后"></p>
+<p>静待五个小时的编译。注意，在此期间，树莓派要供电充足，不要运行其它任务，以免因为内存不够什么的幺蛾子报错。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-542b34f0f59da291.png%7CimageView2/2/w/1240" alt="编译完成"></p>
+<p><code>make</code>命令执行完成之后，执行下面的命令，执行命令需要一分钟：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo make insall</span><br></pre></td></tr></table></figure>
+
+<h3 id="7、在Python3上测试OpenCV"><a href="#7、在Python3上测试OpenCV" class="headerlink" title="7、在Python3上测试OpenCV"></a>7、在Python3上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python3</code>，回车</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
+
+<p>回车</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
+
+<p>回车</p>
+<p>如果出现下图的结果，说明Python3环境下的OpenCV安装成功。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8b4162cec9589cd6.png%7CimageView2/2/w/1240" alt="Python3的OpenCV安装完成"></p>
+<h1 id="参考文献与扩展阅读"><a href="#参考文献与扩展阅读" class="headerlink" title="参考文献与扩展阅读"></a>参考文献与扩展阅读</h1><blockquote>
+<p><a href="https://www.jianshu.com/p/3180a253fe3c">【树莓派】树莓派+OpenCV3.4 + python3.5 成功以及注意细节</a></p>
+<p><a href="https://blog.csdn.net/u014397533/article/details/50910531">树莓派安装Python-OpenCV</a></p>
+<p> <a href="https://www.cnblogs.com/Pyrokine/p/8921285.html">基于树莓派3B+Python3.5的OpenCV3.4的配置教程</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
       </tags>
   </entry>
   <entry>
