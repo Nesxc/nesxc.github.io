@@ -92,7 +92,7 @@ $(function () {
       }
 
       if (isHighlightCopy) {
-        highlightCopyEle = '<div class="copy-notice"></div><i class="fas fa-paste copy-button"></i>'
+        highlightCopyEle = '<div class="copy-notice"></div><i class="iconfont icon-icon-test1n"></i>'
       }
 
       if (isHighlightLang) {
