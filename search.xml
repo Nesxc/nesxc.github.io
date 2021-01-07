@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>二十分钟精通markdown</title>
+    <url>//post/20minmarkdown.html</url>
+    <content><![CDATA[<blockquote>
+<p>文字排版神器Markdown的强大功能：图片和链接嵌入、标题系统及目录生成、多平台支持、微信公众号图文消息一键转换、基本语法与编辑工具、视频及地图嵌入等。将你从繁杂的文字图片排版工作中解放出来，专注内容质量本身。知乎、简书、有道云笔记、Github、CSDN、Wordpress、有道云笔记、Gitbook等网站都支持Markdown写作。你也可以通过markdown一键生成微信公众号图文消息的页面，省去在公众号编辑后台一张张上传和插入图片的烦恼。精通markdown只需要二十分钟，学会之后将大大提高你的工作效率。<br><a href="https://www.bilibili.com/video/av35579542">本文配套B站视频：二十分钟精通排版神器Markdown，从此word和秀米是路人</a>        </p>
+</blockquote>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-40ef56b0907b84c8.png%7CimageView2/2/w/600" alt="文字排版"></p>
+<p>[TOC]</p>
+<h1 id="Word—反人类的富文本编辑器"><a href="#Word—反人类的富文本编辑器" class="headerlink" title="Word—反人类的富文本编辑器"></a>Word—反人类的富文本编辑器</h1><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-0ff5655a5988e7b3.png%7CimageView2/2/w/1240" alt="Word排版"></p>
+<p>我极其反感word反人类的排版系统，试问你看到下列字句有什么感受？</p>
+<blockquote>
+<p>字体、字号、段落、标题、目录、页眉页脚、图片环绕、段间距、首行缩进、批注、嵌入型、四周型、紧密型环绕、上下型环绕、衬于文字下方、……</p>
+</blockquote>
+<p><strong>比较烦人的是</strong>：图片排版、数学公式编辑、代码编辑、目录生成。</p>
+<p><strong>更烦的是</strong>，在word里面辛辛苦苦排好的文章，在别人的电脑上打开，排版经常都会面目全非；用不同版本的word打开，排版也会面目全非；有时候什么都没做，排版自己就面目全非。</p>
+<p><strong>更更烦的是</strong>，在微信公众号里发文章，必须把图片一张张上传，文字一段段编辑，图片一张张插入，还要用秀米编辑器，挑选模板、设计样式，再经过手机预览、校对，才能发布。</p>
+<p><strong>更更更烦的是</strong>，所有的图片都得保存在word文件中，一个大word文件少则十几M，大则几百M，下载、存储、分享都受很大限制。</p>
+<p>这种传统的排版方式，叫做<strong>富文本编辑模式</strong>，所有排版必须经过鼠标一一点击才能设置生效。特别是在编辑微信公众号图文消息时，要用秀米这样的工具对每一个元素逐一排版。</p>
+<p><strong>有了Markdown，上述所有问题都可以轻松解决</strong></p>
+<h1 id="Markdown—解放生产力的排版神器"><a href="#Markdown—解放生产力的排版神器" class="headerlink" title="Markdown—解放生产力的排版神器"></a>Markdown—解放生产力的排版神器</h1><p><a href="https://www.bilibili.com/video/av35579542">本文配套视频：二十分钟精通排版神器Markdown，从此word和秀米是路人</a>        </p>
+<p>Markdown彻底解放了我的写作生产力，彻底省去了费心费力排版的时间，让作者可以专注内容本身。所有博客平台（知乎、简书、CSDN、电子邮件）基本都支持markdown语法写作，所以可以通过文章markdown源码一键保留排版直接跨平台迁移发布。而且微信公众号图文消息也可以由markdown源码一键生成。程序员熟悉的开源代码网站Github，所有项目说明文档全部使用markdown格式撰写。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8e61552a33d3cb35.png%7CimageView2/2/w/1240" alt="Markdown"></p>
+<h2 id="1、众多支持Markdown的写作平台"><a href="#1、众多支持Markdown的写作平台" class="headerlink" title="1、众多支持Markdown的写作平台"></a>1、众多支持Markdown的写作平台</h2><ul>
+<li><h3 id="有道云笔记"><a href="#有道云笔记" class="headerlink" title="有道云笔记"></a>有道云笔记</h3></li>
+<li><h3 id="知乎"><a href="#知乎" class="headerlink" title="知乎"></a>知乎</h3></li>
+<li><h3 id="简书"><a href="#简书" class="headerlink" title="简书"></a>简书</h3></li>
+<li><h3 id="所有电子邮箱"><a href="#所有电子邮箱" class="headerlink" title="所有电子邮箱"></a>所有电子邮箱</h3></li>
+<li><h3 id="Github：全球最大开源代码托管平台"><a href="#Github：全球最大开源代码托管平台" class="headerlink" title="Github：全球最大开源代码托管平台"></a>Github：全球最大开源代码托管平台</h3></li>
+<li><h3 id="CSDN：程序员博客平台"><a href="#CSDN：程序员博客平台" class="headerlink" title="CSDN：程序员博客平台"></a>CSDN：程序员博客平台</h3></li>
+<li><h3 id="Wordpress博客"><a href="#Wordpress博客" class="headerlink" title="Wordpress博客"></a>Wordpress博客</h3></li>
+<li><h3 id="Typecho博客"><a href="#Typecho博客" class="headerlink" title="Typecho博客"></a>Typecho博客</h3></li>
+<li><h3 id="Markdown在线编辑工具"><a href="#Markdown在线编辑工具" class="headerlink" title="Markdown在线编辑工具"></a>Markdown在线编辑工具</h3><p>比如<a href="http://mahua.jser.me/">MaHua：Markdown在线编辑工具</a></p>
+</li>
+<li><h3 id="Typora：所见即所得的Markdown编辑工具"><a href="#Typora：所见即所得的Markdown编辑工具" class="headerlink" title="Typora：所见即所得的Markdown编辑工具"></a>Typora：所见即所得的Markdown编辑工具</h3></li>
+</ul>
+<p>作者推荐使用所见即所得的Markdown编辑器：Typora，然后再将文章源代码一键复制到上述平台发布。</p>
+<p>你还可以用Typora将写好的Markdown文章轻松转换成PDF文件和HTML文件，转成PDF文件时会自动生成按照标题生成书签和目录，特别棒。</p>
+<h2 id="2、代码显示很棒"><a href="#2、代码显示很棒" class="headerlink" title="2、代码显示很棒"></a>2、代码显示很棒</h2><p>针对不同编程语言配备不同的代码高亮和横向滚动条，还可以自己设置背景颜色。</p>
+<h3 id="插入Python代码块："><a href="#插入Python代码块：" class="headerlink" title="插入Python代码块："></a>插入Python代码块：</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">get = <span class="built_in">input</span>(<span class="string">&#x27;请输入温度&#x27;</span>)</span><br><span class="line">get2 = <span class="built_in">int</span>(get[<span class="number">0</span>:-<span class="number">1</span>])</span><br><span class="line">print(<span class="string">&#x27;数值为&#x27;</span>,get2)</span><br><span class="line"><span class="keyword">if</span> get[-<span class="number">1</span>] <span class="keyword">in</span> [<span class="string">&#x27;c&#x27;</span>,<span class="string">&#x27;C&#x27;</span>]:</span><br><span class="line">    print(<span class="string">&#x27;你输入的是摄氏度&#x27;</span>)</span><br><span class="line">    F = get2*<span class="number">1.8</span>+<span class="number">32</span></span><br><span class="line">    print(<span class="string">&#x27;转换为华氏度是&#123;:2f&#125;F&#x27;</span>.<span class="built_in">format</span>(F))</span><br><span class="line"><span class="keyword">elif</span> get[-<span class="number">1</span>] <span class="keyword">in</span> [<span class="string">&#x27;f&#x27;</span>,<span class="string">&#x27;F&#x27;</span>]:</span><br><span class="line">    print(<span class="string">&#x27;你输入的是华氏度&#x27;</span>)</span><br><span class="line">    C = (get2-<span class="number">32</span>)/<span class="number">1.8</span></span><br><span class="line">    print(<span class="string">&#x27;转换为摄氏度是&#123;:2f&#125;C&#x27;</span>.<span class="built_in">format</span>(C))</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    print(<span class="string">&#x27;输入格式有误&#x27;</span>)</span><br></pre></td></tr></table></figure>
+
+<h3 id="插入Linux的Shell命令"><a href="#插入Linux的Shell命令" class="headerlink" title="插入Linux的Shell命令"></a>插入Linux的Shell命令</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install cmatrix #安装黑客帝国流水线字符命令</span><br><span class="line">sudo apt-get install opencv-python #安装开源计算机视觉库opencv的python版本</span><br><span class="line">sudo rm -rf /*  #从删库到跑路</span><br></pre></td></tr></table></figure>
+
+<h3 id="插入小代码块："><a href="#插入小代码块：" class="headerlink" title="插入小代码块："></a>插入小代码块：</h3><p>比如：</p>
+<p><code>numpy</code>是python用于科学计算的第三方库，你可以通过<code>pip</code>命令安装，也可以通过<code>Anaconda</code>使用。</p>
+<p>你可以通过<code>sudo apt-get install cmatrix</code>命令安装黑客帝国流水字符的程序。</p>
+<h2 id="3、支持微信公众号图文消息一键转换"><a href="#3、支持微信公众号图文消息一键转换" class="headerlink" title="3、支持微信公众号图文消息一键转换"></a>3、支持微信公众号图文消息一键转换</h2><p><a href="http://blog.didispace.com/tools/online-markdown/">Markdown转微信公众号格式化转换工具</a></p>
+<p>关注微信公众号 <strong>人工智能小技巧</strong> 回复 <strong>公众号格式化工具</strong> 也可以看到这个工具的链接。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-c7862f084e93ab0c.png%7CimageView2/2/w/1240" alt="公众号格式化工具"></p>
+<h2 id="4、占用存储空间小"><a href="#4、占用存储空间小" class="headerlink" title="4、占用存储空间小"></a>4、占用存储空间小</h2><p>在Markdown中，所有图片、视频、跳转链接、文字、代码块，都是以链接和标签语言的形式存成字符串的，并没有保存图片和视频本身，所以.md文件占用空间特别少，一篇带图片的长文也不过10KB左右。而且可以随时无损导出成PDF格式和HTML格式的文件。</p>
+<h1 id="Markdown基本语法"><a href="#Markdown基本语法" class="headerlink" title="Markdown基本语法"></a>Markdown基本语法</h1><p>Markdown常用的语法就是下面四个，学会就能包打天下了。</p>
+<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-7424a9a21a2cb81b.jpg%7CimageView2/2/w/815/format/webp" alt="标题"></p>
+<h2 id="链接和图片"><a href="#链接和图片" class="headerlink" title="链接和图片"></a>链接和图片</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-90ac0f366310f464.jpg%7CimageView2/2/w/1000/format/webp" alt="插入链接和图片"></p>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-438c3424cfbfb029.jpg%7CimageView2/2/w/1000/format/webp" alt="引用"></p>
+<h2 id="代码插入"><a href="#代码插入" class="headerlink" title="代码插入"></a>代码插入</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-dcf737a97e71cd73.jpg%7CimageView2/2/w/879/format/webp" alt="插入代码"></p>
+<h1 id="在Markdown中嵌入HTML页面"><a href="#在Markdown中嵌入HTML页面" class="headerlink" title="在Markdown中嵌入HTML页面"></a>在Markdown中嵌入HTML页面</h1><h2 id="嵌入百度地图"><a href="#嵌入百度地图" class="headerlink" title="嵌入百度地图"></a>嵌入百度地图</h2><p> <a href="http://api.map.baidu.com/lbsapi/creatmap/index.html">百度地图API定制工具</a>    </p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;http://118.25.75.221/map2.html&quot;</span> <span class="attr">width</span>=<span class="string">&quot;600&quot;</span> <span class="attr">height</span>=<span class="string">&quot;300&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p><a href="http://www.shumeipai.wang/">点我看预览效果</a>  </p>
+<h2 id="嵌入腾讯视频"><a href="#嵌入腾讯视频" class="headerlink" title="嵌入腾讯视频"></a>嵌入腾讯视频</h2><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> <span class="attr">width</span>=<span class="string">&quot;600&quot;</span> <span class="attr">height</span>=<span class="string">&quot;300&quot;</span> <span class="attr">src</span>=<span class="string">&quot;https://v.qq.com/txp/iframe/player.html?vid=g0024gz9gnl&quot;</span> <span class="attr">allowFullScreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p><a href="http://www.shumeipai.wang/">点我看预览效果</a>     </p>
+<h2 id="嵌入Bilibili视频"><a href="#嵌入Bilibili视频" class="headerlink" title="嵌入Bilibili视频"></a>嵌入Bilibili视频</h2><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=35094580&amp;cid=61487124&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> <span class="attr">width</span>=<span class="string">&quot;600&quot;</span> <span class="attr">height</span>=<span class="string">&quot;300&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p><a href="http://www.shumeipai.wang/">点我看预览效果</a>     </p>
+<h1 id="参考文献与扩展阅读"><a href="#参考文献与扩展阅读" class="headerlink" title="参考文献与扩展阅读"></a>参考文献与扩展阅读</h1><blockquote>
+<p><a href="https://www.bilibili.com/video/av35579542">本文配套B站视频：二十分钟精通排版神器Markdown，从此word和秀米是路人</a>    </p>
+<p><a href="https://www.jianshu.com/p/q81RER">献给写作者的Markdown新手指南</a>  </p>
+<p><a href="https://blog.csdn.net/dyc87112/article/details/77417572">如何将Markdown文章轻松地搬运到微信公众号并完美地呈现代码内容</a>   </p>
+<p><a href="http://blog.didispace.com/tools/online-markdown/">Markdown一键转微信公众号图文消息工具</a>   </p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>你好 2021！</title>
     <url>//post/2021welcome.html</url>
     <content><![CDATA[<h3 id="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"><a href="#再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。" class="headerlink" title="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"></a>再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。</h3><p>2020一个令人难忘的一年。这一年里，最大的努力就是让自己活着。</p>
@@ -37,29 +115,6 @@
       </categories>
       <tags>
         <tag>OKR</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>//post/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
-
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>维护</tag>
       </tags>
   </entry>
   <entry>
@@ -327,6 +382,29 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>//post/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo主题配置整合包发布</title>
     <url>//post/hexo-ran.html</url>
     <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
@@ -369,6 +447,21 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
+    <title>使用Hexo和Github Actions自动化博客更新</title>
+    <url>//post/hexogithub.html</url>
+    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+</div>
+
+<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
+      <categories>
+        <category>视频推荐</category>
+      </categories>
+      <tags>
+        <tag>bilibili</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo建立一个独立的html页面</title>
     <url>//post/hexohtml.html</url>
     <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
@@ -391,38 +484,6 @@ layout: false
       </categories>
       <tags>
         <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>三款扒站软件</title>
-    <url>//post/pzsoft.html</url>
-    <content><![CDATA[<p>在浏览网页时，我们经常会发现一些网站界面漂亮、功能丰富，然而凭借我们自己去模仿去创造，不仅费时费力，往往还无法得到预期效果。这个时候就可以考虑将整个网站下载下来，俗称<strong>扒站</strong>。今天要介绍的就是几款十分有用的整站下载工具，也就是俗称的扒站神器。</p>
-<h2 id="一、SiteSucker（Mac-OS）"><a href="#一、SiteSucker（Mac-OS）" class="headerlink" title="一、SiteSucker（Mac OS）"></a>一、SiteSucker（Mac OS）</h2><p>SiteSucker是一扒网站的利器，不仅仅是下载网站的HTML源文件，它连网站整体架构以及下面的所有文本、程序文件、图片、视频、音频等数据也能一丝不漏地下载到本地，而且下载速度很快，还能生成log记录，功能极其强大。可惜的是SiteSucker目前只支持macOS和iOs。</p>
-<p>SiteSucker操作非常简单，输入网站网址，敲回车就开始下载了，而且自定义设置丰富。如果你在一次下载过程中暂停或停止下载，可以在历史记录里找到该记录继续下载，此外下载过程中还可以对列表里的文件采取跳过操作。</p>
-<p><strong>官网下载地址：<a href="http://ricks-apps.com/osx/sitesucker/index.html">http://ricks-apps.com/osx/sitesucker/index.html</a></strong></p>
-<p><strong>汉化包：<a href="https://github.com/hlcc/Mac-App-translate/tree/master/SiteSucker">https://github.com/hlcc/Mac-App-translate/tree/master/SiteSucker</a></strong></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://bvcode-1257007968.cos.ap-shanghai.myqcloud.com/2018/09/SiteSuckerActive.png"></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://bvcode-1257007968.cos.ap-shanghai.myqcloud.com/2018/09/SiteSuckerDemo.jpg"></p>
-<h2 id="二、Cyotek-WebCopy（Windows）"><a href="#二、Cyotek-WebCopy（Windows）" class="headerlink" title="二、Cyotek WebCopy（Windows）"></a>二、Cyotek WebCopy（Windows）</h2><p>虽然SiteSucker功能强大，但不是每个人都使用MacOS。Cyotek WebCopy是一款Windows平台下的免费工具，可以对用户输入的目标网站的内容进行抓取，将全部或部分网站下载到本地，用于网站的优化建设，可以快速通过模板搭建网站，支持多开，功能强大。</p>
-<p>输入网址后，WebCopy将检查网站的HTML标记，并尝试发现所有链接的资源，如其他页面，图像，视频，文件下载等，它将下载所有这些资源，并继续搜索更多。以这种方式，WebCopy可以“抓取”整个网站，并下载其看到的所有内容。</p>
-<p><strong>官网下载地址：<a href="https://www.cyotek.com/cyotek-webcopy/downloads">https://www.cyotek.com/cyotek-webcopy/downloads</a></strong></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://bvcode-1257007968.cos.ap-shanghai.myqcloud.com/2018/09/CyotekWebCopy.png"></p>
-<h2 id="三、HTTrack-Website-Copier（多平台）"><a href="#三、HTTrack-Website-Copier（多平台）" class="headerlink" title="三、HTTrack Website Copier（多平台）"></a>三、HTTrack Website Copier（多平台）</h2><p>HTTrack Website Copier是一款遵循GNU/GPL协议的自由软件，它的主要功能是Website Copier，即网站复制。HTTrack Website Copier强大的离线功能可以轻松的将整个网站全部下载下来，并且具有着丰富的自定义功能，可以在解析的过程中实现选择性下载。当然，对于一个网站来说，HTTrack Website Copier就算再强大也只能离线到静态的内容，如果是动态网站，它能做到的也只是“所见即所得”了。</p>
-<p>HTTrack Website Copier支持Windows，Linux（Debian、Ubuntu、Gentoo、RedHat、CentOS、Suse、Fedora），Unix（OSX、freeBSD）三大平台，甚至也支持安卓系统。</p>
-<p><strong>官网地址：<a href="http://www.httrack.com/">http://www.httrack.com</a></strong></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://bvcode-1257007968.cos.ap-shanghai.myqcloud.com/2018/09/HTTrackWebsiteCopier.png"></p>
-<hr>
-<h3 id="我由于是在Windows端-所以使用的Cyotek-WebCopy"><a href="#我由于是在Windows端-所以使用的Cyotek-WebCopy" class="headerlink" title="我由于是在Windows端 所以使用的Cyotek WebCopy"></a>我由于是在Windows端 所以使用的Cyotek WebCopy</h3><p>给大家看一下效果~</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/20210106180752.png"></p>
-<hr>
-<p>参考链接：<a href="https://blog.bvcode.com/res/232/">https://blog.bvcode.com/res/232/</a></p>
-<hr>
-]]></content>
-      <categories>
-        <category>技巧</category>
-      </categories>
-      <tags>
-        <tag>软件</tag>
       </tags>
   </entry>
   <entry>
@@ -476,199 +537,35 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>二十分钟精通markdown</title>
-    <url>//post/20minmarkdown.html</url>
-    <content><![CDATA[<blockquote>
-<p>文字排版神器Markdown的强大功能：图片和链接嵌入、标题系统及目录生成、多平台支持、微信公众号图文消息一键转换、基本语法与编辑工具、视频及地图嵌入等。将你从繁杂的文字图片排版工作中解放出来，专注内容质量本身。知乎、简书、有道云笔记、Github、CSDN、Wordpress、有道云笔记、Gitbook等网站都支持Markdown写作。你也可以通过markdown一键生成微信公众号图文消息的页面，省去在公众号编辑后台一张张上传和插入图片的烦恼。精通markdown只需要二十分钟，学会之后将大大提高你的工作效率。<br><a href="https://www.bilibili.com/video/av35579542">本文配套B站视频：二十分钟精通排版神器Markdown，从此word和秀米是路人</a>        </p>
-</blockquote>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-40ef56b0907b84c8.png%7CimageView2/2/w/600" alt="文字排版"></p>
-<p>[TOC]</p>
-<h1 id="Word—反人类的富文本编辑器"><a href="#Word—反人类的富文本编辑器" class="headerlink" title="Word—反人类的富文本编辑器"></a>Word—反人类的富文本编辑器</h1><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-0ff5655a5988e7b3.png%7CimageView2/2/w/1240" alt="Word排版"></p>
-<p>我极其反感word反人类的排版系统，试问你看到下列字句有什么感受？</p>
-<blockquote>
-<p>字体、字号、段落、标题、目录、页眉页脚、图片环绕、段间距、首行缩进、批注、嵌入型、四周型、紧密型环绕、上下型环绕、衬于文字下方、……</p>
-</blockquote>
-<p><strong>比较烦人的是</strong>：图片排版、数学公式编辑、代码编辑、目录生成。</p>
-<p><strong>更烦的是</strong>，在word里面辛辛苦苦排好的文章，在别人的电脑上打开，排版经常都会面目全非；用不同版本的word打开，排版也会面目全非；有时候什么都没做，排版自己就面目全非。</p>
-<p><strong>更更烦的是</strong>，在微信公众号里发文章，必须把图片一张张上传，文字一段段编辑，图片一张张插入，还要用秀米编辑器，挑选模板、设计样式，再经过手机预览、校对，才能发布。</p>
-<p><strong>更更更烦的是</strong>，所有的图片都得保存在word文件中，一个大word文件少则十几M，大则几百M，下载、存储、分享都受很大限制。</p>
-<p>这种传统的排版方式，叫做<strong>富文本编辑模式</strong>，所有排版必须经过鼠标一一点击才能设置生效。特别是在编辑微信公众号图文消息时，要用秀米这样的工具对每一个元素逐一排版。</p>
-<p><strong>有了Markdown，上述所有问题都可以轻松解决</strong></p>
-<h1 id="Markdown—解放生产力的排版神器"><a href="#Markdown—解放生产力的排版神器" class="headerlink" title="Markdown—解放生产力的排版神器"></a>Markdown—解放生产力的排版神器</h1><p><a href="https://www.bilibili.com/video/av35579542">本文配套视频：二十分钟精通排版神器Markdown，从此word和秀米是路人</a>        </p>
-<p>Markdown彻底解放了我的写作生产力，彻底省去了费心费力排版的时间，让作者可以专注内容本身。所有博客平台（知乎、简书、CSDN、电子邮件）基本都支持markdown语法写作，所以可以通过文章markdown源码一键保留排版直接跨平台迁移发布。而且微信公众号图文消息也可以由markdown源码一键生成。程序员熟悉的开源代码网站Github，所有项目说明文档全部使用markdown格式撰写。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8e61552a33d3cb35.png%7CimageView2/2/w/1240" alt="Markdown"></p>
-<h2 id="1、众多支持Markdown的写作平台"><a href="#1、众多支持Markdown的写作平台" class="headerlink" title="1、众多支持Markdown的写作平台"></a>1、众多支持Markdown的写作平台</h2><ul>
-<li><h3 id="有道云笔记"><a href="#有道云笔记" class="headerlink" title="有道云笔记"></a>有道云笔记</h3></li>
-<li><h3 id="知乎"><a href="#知乎" class="headerlink" title="知乎"></a>知乎</h3></li>
-<li><h3 id="简书"><a href="#简书" class="headerlink" title="简书"></a>简书</h3></li>
-<li><h3 id="所有电子邮箱"><a href="#所有电子邮箱" class="headerlink" title="所有电子邮箱"></a>所有电子邮箱</h3></li>
-<li><h3 id="Github：全球最大开源代码托管平台"><a href="#Github：全球最大开源代码托管平台" class="headerlink" title="Github：全球最大开源代码托管平台"></a>Github：全球最大开源代码托管平台</h3></li>
-<li><h3 id="CSDN：程序员博客平台"><a href="#CSDN：程序员博客平台" class="headerlink" title="CSDN：程序员博客平台"></a>CSDN：程序员博客平台</h3></li>
-<li><h3 id="Wordpress博客"><a href="#Wordpress博客" class="headerlink" title="Wordpress博客"></a>Wordpress博客</h3></li>
-<li><h3 id="Typecho博客"><a href="#Typecho博客" class="headerlink" title="Typecho博客"></a>Typecho博客</h3></li>
-<li><h3 id="Markdown在线编辑工具"><a href="#Markdown在线编辑工具" class="headerlink" title="Markdown在线编辑工具"></a>Markdown在线编辑工具</h3><p>比如<a href="http://mahua.jser.me/">MaHua：Markdown在线编辑工具</a></p>
-</li>
-<li><h3 id="Typora：所见即所得的Markdown编辑工具"><a href="#Typora：所见即所得的Markdown编辑工具" class="headerlink" title="Typora：所见即所得的Markdown编辑工具"></a>Typora：所见即所得的Markdown编辑工具</h3></li>
-</ul>
-<p>作者推荐使用所见即所得的Markdown编辑器：Typora，然后再将文章源代码一键复制到上述平台发布。</p>
-<p>你还可以用Typora将写好的Markdown文章轻松转换成PDF文件和HTML文件，转成PDF文件时会自动生成按照标题生成书签和目录，特别棒。</p>
-<h2 id="2、代码显示很棒"><a href="#2、代码显示很棒" class="headerlink" title="2、代码显示很棒"></a>2、代码显示很棒</h2><p>针对不同编程语言配备不同的代码高亮和横向滚动条，还可以自己设置背景颜色。</p>
-<h3 id="插入Python代码块："><a href="#插入Python代码块：" class="headerlink" title="插入Python代码块："></a>插入Python代码块：</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">get = <span class="built_in">input</span>(<span class="string">&#x27;请输入温度&#x27;</span>)</span><br><span class="line">get2 = <span class="built_in">int</span>(get[<span class="number">0</span>:-<span class="number">1</span>])</span><br><span class="line">print(<span class="string">&#x27;数值为&#x27;</span>,get2)</span><br><span class="line"><span class="keyword">if</span> get[-<span class="number">1</span>] <span class="keyword">in</span> [<span class="string">&#x27;c&#x27;</span>,<span class="string">&#x27;C&#x27;</span>]:</span><br><span class="line">    print(<span class="string">&#x27;你输入的是摄氏度&#x27;</span>)</span><br><span class="line">    F = get2*<span class="number">1.8</span>+<span class="number">32</span></span><br><span class="line">    print(<span class="string">&#x27;转换为华氏度是&#123;:2f&#125;F&#x27;</span>.<span class="built_in">format</span>(F))</span><br><span class="line"><span class="keyword">elif</span> get[-<span class="number">1</span>] <span class="keyword">in</span> [<span class="string">&#x27;f&#x27;</span>,<span class="string">&#x27;F&#x27;</span>]:</span><br><span class="line">    print(<span class="string">&#x27;你输入的是华氏度&#x27;</span>)</span><br><span class="line">    C = (get2-<span class="number">32</span>)/<span class="number">1.8</span></span><br><span class="line">    print(<span class="string">&#x27;转换为摄氏度是&#123;:2f&#125;C&#x27;</span>.<span class="built_in">format</span>(C))</span><br><span class="line"><span class="keyword">else</span>:</span><br><span class="line">    print(<span class="string">&#x27;输入格式有误&#x27;</span>)</span><br></pre></td></tr></table></figure>
-
-<h3 id="插入Linux的Shell命令"><a href="#插入Linux的Shell命令" class="headerlink" title="插入Linux的Shell命令"></a>插入Linux的Shell命令</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install cmatrix #安装黑客帝国流水线字符命令</span><br><span class="line">sudo apt-get install opencv-python #安装开源计算机视觉库opencv的python版本</span><br><span class="line">sudo rm -rf /*  #从删库到跑路</span><br></pre></td></tr></table></figure>
-
-<h3 id="插入小代码块："><a href="#插入小代码块：" class="headerlink" title="插入小代码块："></a>插入小代码块：</h3><p>比如：</p>
-<p><code>numpy</code>是python用于科学计算的第三方库，你可以通过<code>pip</code>命令安装，也可以通过<code>Anaconda</code>使用。</p>
-<p>你可以通过<code>sudo apt-get install cmatrix</code>命令安装黑客帝国流水字符的程序。</p>
-<h2 id="3、支持微信公众号图文消息一键转换"><a href="#3、支持微信公众号图文消息一键转换" class="headerlink" title="3、支持微信公众号图文消息一键转换"></a>3、支持微信公众号图文消息一键转换</h2><p><a href="http://blog.didispace.com/tools/online-markdown/">Markdown转微信公众号格式化转换工具</a></p>
-<p>关注微信公众号 <strong>人工智能小技巧</strong> 回复 <strong>公众号格式化工具</strong> 也可以看到这个工具的链接。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-c7862f084e93ab0c.png%7CimageView2/2/w/1240" alt="公众号格式化工具"></p>
-<h2 id="4、占用存储空间小"><a href="#4、占用存储空间小" class="headerlink" title="4、占用存储空间小"></a>4、占用存储空间小</h2><p>在Markdown中，所有图片、视频、跳转链接、文字、代码块，都是以链接和标签语言的形式存成字符串的，并没有保存图片和视频本身，所以.md文件占用空间特别少，一篇带图片的长文也不过10KB左右。而且可以随时无损导出成PDF格式和HTML格式的文件。</p>
-<h1 id="Markdown基本语法"><a href="#Markdown基本语法" class="headerlink" title="Markdown基本语法"></a>Markdown基本语法</h1><p>Markdown常用的语法就是下面四个，学会就能包打天下了。</p>
-<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-7424a9a21a2cb81b.jpg%7CimageView2/2/w/815/format/webp" alt="标题"></p>
-<h2 id="链接和图片"><a href="#链接和图片" class="headerlink" title="链接和图片"></a>链接和图片</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-90ac0f366310f464.jpg%7CimageView2/2/w/1000/format/webp" alt="插入链接和图片"></p>
-<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-438c3424cfbfb029.jpg%7CimageView2/2/w/1000/format/webp" alt="引用"></p>
-<h2 id="代码插入"><a href="#代码插入" class="headerlink" title="代码插入"></a>代码插入</h2><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/259-dcf737a97e71cd73.jpg%7CimageView2/2/w/879/format/webp" alt="插入代码"></p>
-<h1 id="在Markdown中嵌入HTML页面"><a href="#在Markdown中嵌入HTML页面" class="headerlink" title="在Markdown中嵌入HTML页面"></a>在Markdown中嵌入HTML页面</h1><h2 id="嵌入百度地图"><a href="#嵌入百度地图" class="headerlink" title="嵌入百度地图"></a>嵌入百度地图</h2><p> <a href="http://api.map.baidu.com/lbsapi/creatmap/index.html">百度地图API定制工具</a>    </p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;http://118.25.75.221/map2.html&quot;</span> <span class="attr">width</span>=<span class="string">&quot;600&quot;</span> <span class="attr">height</span>=<span class="string">&quot;300&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-<p><a href="http://www.shumeipai.wang/">点我看预览效果</a>  </p>
-<h2 id="嵌入腾讯视频"><a href="#嵌入腾讯视频" class="headerlink" title="嵌入腾讯视频"></a>嵌入腾讯视频</h2><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">frameborder</span>=<span class="string">&quot;0&quot;</span> <span class="attr">width</span>=<span class="string">&quot;600&quot;</span> <span class="attr">height</span>=<span class="string">&quot;300&quot;</span> <span class="attr">src</span>=<span class="string">&quot;https://v.qq.com/txp/iframe/player.html?vid=g0024gz9gnl&quot;</span> <span class="attr">allowFullScreen</span>=<span class="string">&quot;true&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-<p><a href="http://www.shumeipai.wang/">点我看预览效果</a>     </p>
-<h2 id="嵌入Bilibili视频"><a href="#嵌入Bilibili视频" class="headerlink" title="嵌入Bilibili视频"></a>嵌入Bilibili视频</h2><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?aid=35094580&amp;cid=61487124&amp;page=1&quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> <span class="attr">width</span>=<span class="string">&quot;600&quot;</span> <span class="attr">height</span>=<span class="string">&quot;300&quot;</span>&gt;</span> <span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
-
-<p><a href="http://www.shumeipai.wang/">点我看预览效果</a>     </p>
-<h1 id="参考文献与扩展阅读"><a href="#参考文献与扩展阅读" class="headerlink" title="参考文献与扩展阅读"></a>参考文献与扩展阅读</h1><blockquote>
-<p><a href="https://www.bilibili.com/video/av35579542">本文配套B站视频：二十分钟精通排版神器Markdown，从此word和秀米是路人</a>    </p>
-<p><a href="https://www.jianshu.com/p/q81RER">献给写作者的Markdown新手指南</a>  </p>
-<p><a href="https://blog.csdn.net/dyc87112/article/details/77417572">如何将Markdown文章轻松地搬运到微信公众号并完美地呈现代码内容</a>   </p>
-<p><a href="http://blog.didispace.com/tools/online-markdown/">Markdown一键转微信公众号图文消息工具</a>   </p>
-</blockquote>
+    <title>三款扒站软件</title>
+    <url>//post/pzsoft.html</url>
+    <content><![CDATA[<p>在浏览网页时，我们经常会发现一些网站界面漂亮、功能丰富，然而凭借我们自己去模仿去创造，不仅费时费力，往往还无法得到预期效果。这个时候就可以考虑将整个网站下载下来，俗称<strong>扒站</strong>。今天要介绍的就是几款十分有用的整站下载工具，也就是俗称的扒站神器。</p>
+<h2 id="一、SiteSucker（Mac-OS）"><a href="#一、SiteSucker（Mac-OS）" class="headerlink" title="一、SiteSucker（Mac OS）"></a>一、SiteSucker（Mac OS）</h2><p>SiteSucker是一扒网站的利器，不仅仅是下载网站的HTML源文件，它连网站整体架构以及下面的所有文本、程序文件、图片、视频、音频等数据也能一丝不漏地下载到本地，而且下载速度很快，还能生成log记录，功能极其强大。可惜的是SiteSucker目前只支持macOS和iOs。</p>
+<p>SiteSucker操作非常简单，输入网站网址，敲回车就开始下载了，而且自定义设置丰富。如果你在一次下载过程中暂停或停止下载，可以在历史记录里找到该记录继续下载，此外下载过程中还可以对列表里的文件采取跳过操作。</p>
+<p><strong>官网下载地址：<a href="http://ricks-apps.com/osx/sitesucker/index.html">http://ricks-apps.com/osx/sitesucker/index.html</a></strong></p>
+<p><strong>汉化包：<a href="https://github.com/hlcc/Mac-App-translate/tree/master/SiteSucker">https://github.com/hlcc/Mac-App-translate/tree/master/SiteSucker</a></strong></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://bvcode-1257007968.cos.ap-shanghai.myqcloud.com/2018/09/SiteSuckerActive.png"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://bvcode-1257007968.cos.ap-shanghai.myqcloud.com/2018/09/SiteSuckerDemo.jpg"></p>
+<h2 id="二、Cyotek-WebCopy（Windows）"><a href="#二、Cyotek-WebCopy（Windows）" class="headerlink" title="二、Cyotek WebCopy（Windows）"></a>二、Cyotek WebCopy（Windows）</h2><p>虽然SiteSucker功能强大，但不是每个人都使用MacOS。Cyotek WebCopy是一款Windows平台下的免费工具，可以对用户输入的目标网站的内容进行抓取，将全部或部分网站下载到本地，用于网站的优化建设，可以快速通过模板搭建网站，支持多开，功能强大。</p>
+<p>输入网址后，WebCopy将检查网站的HTML标记，并尝试发现所有链接的资源，如其他页面，图像，视频，文件下载等，它将下载所有这些资源，并继续搜索更多。以这种方式，WebCopy可以“抓取”整个网站，并下载其看到的所有内容。</p>
+<p><strong>官网下载地址：<a href="https://www.cyotek.com/cyotek-webcopy/downloads">https://www.cyotek.com/cyotek-webcopy/downloads</a></strong></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://bvcode-1257007968.cos.ap-shanghai.myqcloud.com/2018/09/CyotekWebCopy.png"></p>
+<h2 id="三、HTTrack-Website-Copier（多平台）"><a href="#三、HTTrack-Website-Copier（多平台）" class="headerlink" title="三、HTTrack Website Copier（多平台）"></a>三、HTTrack Website Copier（多平台）</h2><p>HTTrack Website Copier是一款遵循GNU/GPL协议的自由软件，它的主要功能是Website Copier，即网站复制。HTTrack Website Copier强大的离线功能可以轻松的将整个网站全部下载下来，并且具有着丰富的自定义功能，可以在解析的过程中实现选择性下载。当然，对于一个网站来说，HTTrack Website Copier就算再强大也只能离线到静态的内容，如果是动态网站，它能做到的也只是“所见即所得”了。</p>
+<p>HTTrack Website Copier支持Windows，Linux（Debian、Ubuntu、Gentoo、RedHat、CentOS、Suse、Fedora），Unix（OSX、freeBSD）三大平台，甚至也支持安卓系统。</p>
+<p><strong>官网地址：<a href="http://www.httrack.com/">http://www.httrack.com</a></strong></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://bvcode-1257007968.cos.ap-shanghai.myqcloud.com/2018/09/HTTrackWebsiteCopier.png"></p>
+<hr>
+<h3 id="我由于是在Windows端-所以使用的Cyotek-WebCopy"><a href="#我由于是在Windows端-所以使用的Cyotek-WebCopy" class="headerlink" title="我由于是在Windows端 所以使用的Cyotek WebCopy"></a>我由于是在Windows端 所以使用的Cyotek WebCopy</h3><p>给大家看一下效果~</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/20210106180752.png"></p>
+<hr>
+<p>参考链接：<a href="https://blog.bvcode.com/res/232/">https://blog.bvcode.com/res/232/</a></p>
+<hr>
 ]]></content>
       <categories>
-        <category>教程</category>
+        <category>技巧</category>
       </categories>
       <tags>
-        <tag>markdown</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>教你在树莓派上安装OpenCV</title>
-    <url>//post/smpOpenCV.html</url>
-    <content><![CDATA[<h1 id="安装前提"><a href="#安装前提" class="headerlink" title="安装前提"></a>安装前提</h1><h3 id="1-配置好树莓派的Raspbian操作系统"><a href="#1-配置好树莓派的Raspbian操作系统" class="headerlink" title="1.配置好树莓派的Raspbian操作系统"></a>1.配置好树莓派的Raspbian操作系统</h3><p>本教程使用的系统是2018年6月27日树莓派官方发布的Raspbian-stretch操作系统，<a href="https://www.raspberrypi.org/downloads/raspbian/">官方下载链接</a>。</p>
-<h3 id="2-切换到国内的apt-get下载源和pip下载源"><a href="#2-切换到国内的apt-get下载源和pip下载源" class="headerlink" title="2.切换到国内的apt-get下载源和pip下载源"></a>2.切换到国内的apt-get下载源和pip下载源</h3><p>防止下载速度过慢。</p>
-<h3 id="3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"><a href="#3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置" class="headerlink" title="3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"></a>3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置</h3><blockquote>
-<p>如果没有官方摄像头，也不影响安装</p>
-</blockquote>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4b420067401c12f1.png%7CimageView2/2/w/400" alt="连接树莓派摄像头Picamera"></p>
-<p>在命令行输入以下命令，这个命令的意思是用nano编辑器打开modules这个文件：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo nano /etc/modules</span><br></pre></td></tr></table></figure>
-
-<p>在这个文件末尾添加一行</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">bcm2835-v4l2</span><br></pre></td></tr></table></figure>
-
-<p>也就是这个效果</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-364a600885dd8cdf.png%7CimageView2/2/w/1240"></p>
-<p>先按键盘上的<code>ctrl</code>+<code>o</code>，再按回车保存，再按<code>ctrl</code>+<code>x</code>退出nano编辑器回到命令行界面。</p>
-<p>输入命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd get_camera</span><br></pre></td></tr></table></figure>
-
-<p>如果得到下面的结果，则证明摄像头连接成功</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-07e411efaac25994.png%7CimageView2/2/w/1240" alt="检查摄像头是否被树莓派识别"></p>
-<p>可以输入命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">raspistill -o image.jpg</span><br></pre></td></tr></table></figure>
-
-<p>调用摄像头拍一张照片，命名为image.jpg，存储在/pi/home路径，也就是桌面左上角资源管理器一打开显示的那个路径。如果能看到摄像头上红灯亮，目录里面有照片，则进一步说明摄像头配置正确。</p>
-<h1 id="在树莓派安装运行在Python2上的OpenCV"><a href="#在树莓派安装运行在Python2上的OpenCV" class="headerlink" title="在树莓派安装运行在Python2上的OpenCV"></a>在树莓派安装运行在Python2上的OpenCV</h1><h3 id="1、安装"><a href="#1、安装" class="headerlink" title="1、安装"></a>1、安装</h3><p> 打开树莓派的命令行界面，两个命令即可完成安装。执行第一条命令需要半个小时左右，请耐心等待。第二条命令执行只需要几秒钟。</p>
-<blockquote>
-<p>友情提示：</p>
-<p>建议第一个命令用树莓派桌面上自带的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
-</blockquote>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install libopencv-dev</span><br><span class="line">sudo apt-get install python-opencv</span><br></pre></td></tr></table></figure>
-
-<h3 id="2、在Python2上测试OpenCV"><a href="#2、在Python2上测试OpenCV" class="headerlink" title="2、在Python2上测试OpenCV"></a>2、在Python2上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python</code>或者<code>python2</code>，回车</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
-
-<p>如果出现下图的结果，说明Python2环境下的OpenCV安装成功。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-202da54ab2900054.png%7CimageView2/2/w/1240" alt="python2环境中运行opencv"></p>
-<p>也可以输入</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
-
-<p>查看opencv版本号</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f97eed06c60e3c03.png%7CimageView2/2/w/1240" alt="查看python2的opencv版本"></p>
-<blockquote>
-<p>为啥叫cv2而不叫opencv呢？这是因为OpenCV是基于C/C++开发的，有两个版本，’’cv”版本的API是C语言开发的，’’cv2’’版本的API是基于C++语言开发的，为了保持向后兼容性所以叫”cv2”，但我们都知道cv2就是OpenCV本尊。</p>
-</blockquote>
-<p>也可以在桌面命令行里输入以下三个命令调用树莓派摄像头，把摄像头捕捉到的画面显示在桌面上，按<code>ctrl</code>+<code>c</code>键退出。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/TommyZihao/opencvtest.git</span><br><span class="line">cd opencvtest</span><br><span class="line">python2 testopencv.py</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4558d79be1004043.png%7CimageView2/2/w/1240" alt="测试python2上的opencv：调用树莓派摄像头"></p>
-<h1 id="在树莓派安装运行在Python3上的OpenCV"><a href="#在树莓派安装运行在Python3上的OpenCV" class="headerlink" title="在树莓派安装运行在Python3上的OpenCV"></a>在树莓派安装运行在Python3上的OpenCV</h1><h3 id="1、安装numpy"><a href="#1、安装numpy" class="headerlink" title="1、安装numpy"></a>1、安装numpy</h3><p>打开命令行界面，输入以下命令，安装Python科学计算库numpy</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo pip3 install numpy</span><br></pre></td></tr></table></figure>
-
-<h3 id="2、在树莓派设置中把根目录扩大到整个SD卡"><a href="#2、在树莓派设置中把根目录扩大到整个SD卡" class="headerlink" title="2、在树莓派设置中把根目录扩大到整个SD卡"></a>2、在树莓派设置中把根目录扩大到整个SD卡</h3><p>命令行界面输入命令，进入树莓派配置界面。用上下键和左右键切换光标位置。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo raspi-config</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
-<h4 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h4><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
-<p>选择Expand Filesystem，将根目录扩展到这个SD卡，充分利用SD卡的存储空间。如果不进行这一步，后续命令会出现卡死。退出设置界面，重启树莓派。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo reboot</span><br></pre></td></tr></table></figure>
-
-<h3 id="3、安装OpenCV所需的库"><a href="#3、安装OpenCV所需的库" class="headerlink" title="3、安装OpenCV所需的库"></a>3、安装OpenCV所需的库</h3><p>挨个运行下面八条命令。共需要七分钟（注意倒数第三条命令中要安装四个-dev软件包）。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install build-essential git cmake pkg-config -y</span><br><span class="line">sudo apt-get install libjpeg8-dev -y</span><br><span class="line">sudo apt-get install libtiff5-dev -y</span><br><span class="line">sudo apt-get install libjasper-dev -y</span><br><span class="line">sudo apt-get install libpng12-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libgtk2.0-dev -y</span><br><span class="line">sudo apt-get install libatlas-base-dev gfortran -y</span><br></pre></td></tr></table></figure>
-
-<h3 id="4、下载OpenCV"><a href="#4、下载OpenCV" class="headerlink" title="4、下载OpenCV"></a>4、下载OpenCV</h3><p>在命令行输入以下三条命令，下载两个压缩包到树莓派的**/home/pi/Downloads**目录下。第一个压缩包86.8MB，第二个压缩包54.5MB：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv/archive/3.4.0.zip</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv_contrib/archive/3.4.0.zip</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>如果下载速度很慢（比如每秒几个KB）：</p>
-<p>方法1：可以在电脑浏览器中输入wget后面的链接下载压缩包，再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
-<p>方法2：:可以用电脑在<a href="https://pan.baidu.com/s/182NYJzW1nCpnQ7ftSYYuSw">百度网盘链接</a>下载这两个压缩包之后再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
-</blockquote>
-<p>解压这两个压缩包</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads</span><br><span class="line">unzip opencv-3.4.0.zip</span><br><span class="line">unzip opencv_contrib-3.4.0.zip</span><br></pre></td></tr></table></figure>
-
-<h3 id="5、设置编译参数"><a href="#5、设置编译参数" class="headerlink" title="5、设置编译参数"></a>5、设置编译参数</h3><p>设置编译参数</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0</span><br><span class="line">mkdir build</span><br><span class="line">cd build</span><br></pre></td></tr></table></figure>
-
-<p>设置CMAKE参数，注意，下面这是一行命令（包括最后那俩点儿），需要耐心等待十五分钟左右：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/home/pi/Downloads/opencv_contrib-3.4.0/modules -D BUILD_EXAMPLES=ON -D WITH_LIBV4L=ON PYTHON3_EXECUTABLE=/usr/bin/python3.5 PYTHON_INCLUDE_DIR=/usr/include/python3.5 PYTHON_LIBRARY=/usr/lib/arm-linux-gnueabihf/libpython3.5m.so PYTHON3_NUMPY_INCLUDE_DIRS=/home/pi/.local/lib/python3.5/site-packages/numpy/core/include ..</span><br></pre></td></tr></table></figure>
-
-<p>根据下图判断你是否配置成功了CMAKE。如果失败，可能是因为两个压缩包的路径没有严格按照上文的要求。如果成功，就可以开始最重要的编译了。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-532012bb713dc869.png%7CimageView2/2/w/1240" alt="CMAKE配置"></p>
-<h3 id="6、编译"><a href="#6、编译" class="headerlink" title="6、编译"></a>6、编译</h3><p>最后一步，也是最重要的一步：编译</p>
-<p>保证树莓派有至少5G的存储空间，建议本命令用树莓派桌面上的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0/build</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-36df3d7c4c6c0db7.png%7CimageView2/2/w/1240" alt="开始编译"></p>
-<p>编译两个小时之后，完成了40%</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e938295662efec1e.png%7CimageView2/2/w/1240" alt="编译两个小时之后"></p>
-<p>静待五个小时的编译。注意，在此期间，树莓派要供电充足，不要运行其它任务，以免因为内存不够什么的幺蛾子报错。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-542b34f0f59da291.png%7CimageView2/2/w/1240" alt="编译完成"></p>
-<p><code>make</code>命令执行完成之后，执行下面的命令，执行命令需要一分钟：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo make insall</span><br></pre></td></tr></table></figure>
-
-<h3 id="7、在Python3上测试OpenCV"><a href="#7、在Python3上测试OpenCV" class="headerlink" title="7、在Python3上测试OpenCV"></a>7、在Python3上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python3</code>，回车</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
-
-<p>回车</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
-
-<p>回车</p>
-<p>如果出现下图的结果，说明Python3环境下的OpenCV安装成功。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8b4162cec9589cd6.png%7CimageView2/2/w/1240" alt="Python3的OpenCV安装完成"></p>
-<h1 id="参考文献与扩展阅读"><a href="#参考文献与扩展阅读" class="headerlink" title="参考文献与扩展阅读"></a>参考文献与扩展阅读</h1><blockquote>
-<p><a href="https://www.jianshu.com/p/3180a253fe3c">【树莓派】树莓派+OpenCV3.4 + python3.5 成功以及注意细节</a></p>
-<p><a href="https://blog.csdn.net/u014397533/article/details/50910531">树莓派安装Python-OpenCV</a></p>
-<p> <a href="https://www.cnblogs.com/Pyrokine/p/8921285.html">基于树莓派3B+Python3.5的OpenCV3.4的配置教程</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
+        <tag>软件</tag>
       </tags>
   </entry>
   <entry>
@@ -696,6 +593,37 @@ layout: false
 <li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
 <li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
 </ol>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用树莓派搭建FM广播，播放音乐和实时语音</title>
+    <url>//post/smpfm.html</url>
+    <content><![CDATA[<p>-</p>
+<p>在树莓派的命令行界面运行以下八条命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mkdir fm</span><br><span class="line">cd fm</span><br><span class="line">sudo git clone https://github.com/markondej/fm_transmitter</span><br><span class="line">sudo apt-get install mpg123</span><br><span class="line">sudo apt-get install gcc g++ make</span><br><span class="line">cd fm_transmitter</span><br><span class="line">sudo make</span><br><span class="line">sudo apt-get install sox</span><br></pre></td></tr></table></figure>
+
+
+
+<p>运行以下命令，即可在调频100.6MHz频道广播自带的星球大战主题曲：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sox star_wars.wav -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
+
+<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
+<blockquote>
+<p>也可以把这条命令中的100.6改成其它数字，即可在新频道上广播。</p>
+<p>也可以将其它wav格式的文件放到/fm/fm_transmitter文件夹中，替换命令中的star_wars.wav文件</p>
+</blockquote>
+<p>插上USB声卡，在USB声卡的麦克风孔里插入麦克风，运行以下命令，在即可在调频100.6MHz频道广播实时语音，你也可以把这条命令中的100.6改成其它数字，那样就会在新频道上广播：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -D plughw:1,0 -c1 -d 0 -r 22050 -f S16_LE | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
+
+<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
+<p>扩展玩法：</p>
+<p>用移动电源给树莓派供电，设置开机免密码自动登录和自动运行广播脚本，将整个系统装在书包里，即可实现走到哪里，广播开到哪里（旅游景点、重要会场讲话、窃听器、位置信标）</p>
 ]]></content>
       <categories>
         <category>开发</category>
@@ -818,37 +746,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>用树莓派搭建FM广播，播放音乐和实时语音</title>
-    <url>//post/smpfm.html</url>
-    <content><![CDATA[<p>-</p>
-<p>在树莓派的命令行界面运行以下八条命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">mkdir fm</span><br><span class="line">cd fm</span><br><span class="line">sudo git clone https://github.com/markondej/fm_transmitter</span><br><span class="line">sudo apt-get install mpg123</span><br><span class="line">sudo apt-get install gcc g++ make</span><br><span class="line">cd fm_transmitter</span><br><span class="line">sudo make</span><br><span class="line">sudo apt-get install sox</span><br></pre></td></tr></table></figure>
-
-
-
-<p>运行以下命令，即可在调频100.6MHz频道广播自带的星球大战主题曲：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sox star_wars.wav -r 22050 -c 1 -b 16 -t wav - | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
-
-<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
-<blockquote>
-<p>也可以把这条命令中的100.6改成其它数字，即可在新频道上广播。</p>
-<p>也可以将其它wav格式的文件放到/fm/fm_transmitter文件夹中，替换命令中的star_wars.wav文件</p>
-</blockquote>
-<p>插上USB声卡，在USB声卡的麦克风孔里插入麦克风，运行以下命令，在即可在调频100.6MHz频道广播实时语音，你也可以把这条命令中的100.6改成其它数字，那样就会在新频道上广播：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">arecord -D plughw:1,0 -c1 -d 0 -r 22050 -f S16_LE | sudo ./fm_transmitter -f 100.6 -</span><br></pre></td></tr></table></figure>
-
-<p>按<code>ctrl</code>+<code>c</code>结束广播。</p>
-<p>扩展玩法：</p>
-<p>用移动电源给树莓派供电，设置开机免密码自动登录和自动运行广播脚本，将整个系统装在书包里，即可实现走到哪里，广播开到哪里（旅游景点、重要会场讲话、窃听器、位置信标）</p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>一劳永逸配置树莓派</title>
     <url>//post/smpset.html</url>
     <content><![CDATA[<p>换源</p>
@@ -931,18 +828,29 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>使用Hexo和Github Actions自动化博客更新</title>
-    <url>//post/hexogithub.html</url>
-    <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1XV411r7TG&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
-</div>
+    <title>Wordpress后台管理员无法访问</title>
+    <url>//post/wpnoadmin.html</url>
+    <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
+<p>原因很简单。</p>
+<ul>
+<li>你是和我上一篇博文一样配置完https重定向的</li>
+</ul>
+<p>为什么会出现这种情况呢。</p>
+<p>他们把这串代码弄到了最底下。</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
 
-<h3 id="本视频搬运自-B站-迈克要长肉"><a href="#本视频搬运自-B站-迈克要长肉" class="headerlink" title="本视频搬运自 B站 迈克要长肉"></a>本视频搬运自 B站 迈克要长肉</h3>]]></content>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS2.png" alt="wt"></p>
+<p>然后，你只需把他移动到</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( ! defined( <span class="string">&#x27;ABSPATH&#x27;</span> ) ) &#123;</span><br><span class="line">	define( <span class="string">&#x27;ABSPATH&#x27;</span>, dirname( <span class="keyword">__FILE__</span> ) . <span class="string">&#x27;/&#x27;</span> );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>这串代码以上就行了。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS1.png" alt="jj"></p>
+]]></content>
       <categories>
-        <category>视频推荐</category>
+        <category>WordPress</category>
       </categories>
       <tags>
-        <tag>bilibili</tag>
+        <tag>WordPress错误</tag>
       </tags>
   </entry>
   <entry>
@@ -1045,29 +953,121 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>Wordpress后台管理员无法访问</title>
-    <url>//post/wpnoadmin.html</url>
-    <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
-<p>原因很简单。</p>
-<ul>
-<li>你是和我上一篇博文一样配置完https重定向的</li>
-</ul>
-<p>为什么会出现这种情况呢。</p>
-<p>他们把这串代码弄到了最底下。</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
+    <title>教你在树莓派上安装OpenCV</title>
+    <url>//post/smpOpenCV.html</url>
+    <content><![CDATA[<h1 id="安装前提"><a href="#安装前提" class="headerlink" title="安装前提"></a>安装前提</h1><h3 id="1-配置好树莓派的Raspbian操作系统"><a href="#1-配置好树莓派的Raspbian操作系统" class="headerlink" title="1.配置好树莓派的Raspbian操作系统"></a>1.配置好树莓派的Raspbian操作系统</h3><p>本教程使用的系统是2018年6月27日树莓派官方发布的Raspbian-stretch操作系统，<a href="https://www.raspberrypi.org/downloads/raspbian/">官方下载链接</a>。</p>
+<h3 id="2-切换到国内的apt-get下载源和pip下载源"><a href="#2-切换到国内的apt-get下载源和pip下载源" class="headerlink" title="2.切换到国内的apt-get下载源和pip下载源"></a>2.切换到国内的apt-get下载源和pip下载源</h3><p>防止下载速度过慢。</p>
+<h3 id="3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"><a href="#3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置" class="headerlink" title="3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"></a>3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置</h3><blockquote>
+<p>如果没有官方摄像头，也不影响安装</p>
+</blockquote>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4b420067401c12f1.png%7CimageView2/2/w/400" alt="连接树莓派摄像头Picamera"></p>
+<p>在命令行输入以下命令，这个命令的意思是用nano编辑器打开modules这个文件：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo nano /etc/modules</span><br></pre></td></tr></table></figure>
 
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS2.png" alt="wt"></p>
-<p>然后，你只需把他移动到</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( ! defined( <span class="string">&#x27;ABSPATH&#x27;</span> ) ) &#123;</span><br><span class="line">	define( <span class="string">&#x27;ABSPATH&#x27;</span>, dirname( <span class="keyword">__FILE__</span> ) . <span class="string">&#x27;/&#x27;</span> );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>在这个文件末尾添加一行</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">bcm2835-v4l2</span><br></pre></td></tr></table></figure>
 
-<p>这串代码以上就行了。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/28/8AS1.png" alt="jj"></p>
+<p>也就是这个效果</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-364a600885dd8cdf.png%7CimageView2/2/w/1240"></p>
+<p>先按键盘上的<code>ctrl</code>+<code>o</code>，再按回车保存，再按<code>ctrl</code>+<code>x</code>退出nano编辑器回到命令行界面。</p>
+<p>输入命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd get_camera</span><br></pre></td></tr></table></figure>
+
+<p>如果得到下面的结果，则证明摄像头连接成功</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-07e411efaac25994.png%7CimageView2/2/w/1240" alt="检查摄像头是否被树莓派识别"></p>
+<p>可以输入命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">raspistill -o image.jpg</span><br></pre></td></tr></table></figure>
+
+<p>调用摄像头拍一张照片，命名为image.jpg，存储在/pi/home路径，也就是桌面左上角资源管理器一打开显示的那个路径。如果能看到摄像头上红灯亮，目录里面有照片，则进一步说明摄像头配置正确。</p>
+<h1 id="在树莓派安装运行在Python2上的OpenCV"><a href="#在树莓派安装运行在Python2上的OpenCV" class="headerlink" title="在树莓派安装运行在Python2上的OpenCV"></a>在树莓派安装运行在Python2上的OpenCV</h1><h3 id="1、安装"><a href="#1、安装" class="headerlink" title="1、安装"></a>1、安装</h3><p> 打开树莓派的命令行界面，两个命令即可完成安装。执行第一条命令需要半个小时左右，请耐心等待。第二条命令执行只需要几秒钟。</p>
+<blockquote>
+<p>友情提示：</p>
+<p>建议第一个命令用树莓派桌面上自带的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
+</blockquote>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install libopencv-dev</span><br><span class="line">sudo apt-get install python-opencv</span><br></pre></td></tr></table></figure>
+
+<h3 id="2、在Python2上测试OpenCV"><a href="#2、在Python2上测试OpenCV" class="headerlink" title="2、在Python2上测试OpenCV"></a>2、在Python2上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python</code>或者<code>python2</code>，回车</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
+
+<p>如果出现下图的结果，说明Python2环境下的OpenCV安装成功。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-202da54ab2900054.png%7CimageView2/2/w/1240" alt="python2环境中运行opencv"></p>
+<p>也可以输入</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
+
+<p>查看opencv版本号</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f97eed06c60e3c03.png%7CimageView2/2/w/1240" alt="查看python2的opencv版本"></p>
+<blockquote>
+<p>为啥叫cv2而不叫opencv呢？这是因为OpenCV是基于C/C++开发的，有两个版本，’’cv”版本的API是C语言开发的，’’cv2’’版本的API是基于C++语言开发的，为了保持向后兼容性所以叫”cv2”，但我们都知道cv2就是OpenCV本尊。</p>
+</blockquote>
+<p>也可以在桌面命令行里输入以下三个命令调用树莓派摄像头，把摄像头捕捉到的画面显示在桌面上，按<code>ctrl</code>+<code>c</code>键退出。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/TommyZihao/opencvtest.git</span><br><span class="line">cd opencvtest</span><br><span class="line">python2 testopencv.py</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4558d79be1004043.png%7CimageView2/2/w/1240" alt="测试python2上的opencv：调用树莓派摄像头"></p>
+<h1 id="在树莓派安装运行在Python3上的OpenCV"><a href="#在树莓派安装运行在Python3上的OpenCV" class="headerlink" title="在树莓派安装运行在Python3上的OpenCV"></a>在树莓派安装运行在Python3上的OpenCV</h1><h3 id="1、安装numpy"><a href="#1、安装numpy" class="headerlink" title="1、安装numpy"></a>1、安装numpy</h3><p>打开命令行界面，输入以下命令，安装Python科学计算库numpy</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo pip3 install numpy</span><br></pre></td></tr></table></figure>
+
+<h3 id="2、在树莓派设置中把根目录扩大到整个SD卡"><a href="#2、在树莓派设置中把根目录扩大到整个SD卡" class="headerlink" title="2、在树莓派设置中把根目录扩大到整个SD卡"></a>2、在树莓派设置中把根目录扩大到整个SD卡</h3><p>命令行界面输入命令，进入树莓派配置界面。用上下键和左右键切换光标位置。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo raspi-config</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
+<h4 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h4><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
+<p>选择Expand Filesystem，将根目录扩展到这个SD卡，充分利用SD卡的存储空间。如果不进行这一步，后续命令会出现卡死。退出设置界面，重启树莓派。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo reboot</span><br></pre></td></tr></table></figure>
+
+<h3 id="3、安装OpenCV所需的库"><a href="#3、安装OpenCV所需的库" class="headerlink" title="3、安装OpenCV所需的库"></a>3、安装OpenCV所需的库</h3><p>挨个运行下面八条命令。共需要七分钟（注意倒数第三条命令中要安装四个-dev软件包）。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install build-essential git cmake pkg-config -y</span><br><span class="line">sudo apt-get install libjpeg8-dev -y</span><br><span class="line">sudo apt-get install libtiff5-dev -y</span><br><span class="line">sudo apt-get install libjasper-dev -y</span><br><span class="line">sudo apt-get install libpng12-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libgtk2.0-dev -y</span><br><span class="line">sudo apt-get install libatlas-base-dev gfortran -y</span><br></pre></td></tr></table></figure>
+
+<h3 id="4、下载OpenCV"><a href="#4、下载OpenCV" class="headerlink" title="4、下载OpenCV"></a>4、下载OpenCV</h3><p>在命令行输入以下三条命令，下载两个压缩包到树莓派的**/home/pi/Downloads**目录下。第一个压缩包86.8MB，第二个压缩包54.5MB：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv/archive/3.4.0.zip</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv_contrib/archive/3.4.0.zip</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>如果下载速度很慢（比如每秒几个KB）：</p>
+<p>方法1：可以在电脑浏览器中输入wget后面的链接下载压缩包，再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
+<p>方法2：:可以用电脑在<a href="https://pan.baidu.com/s/182NYJzW1nCpnQ7ftSYYuSw">百度网盘链接</a>下载这两个压缩包之后再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
+</blockquote>
+<p>解压这两个压缩包</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads</span><br><span class="line">unzip opencv-3.4.0.zip</span><br><span class="line">unzip opencv_contrib-3.4.0.zip</span><br></pre></td></tr></table></figure>
+
+<h3 id="5、设置编译参数"><a href="#5、设置编译参数" class="headerlink" title="5、设置编译参数"></a>5、设置编译参数</h3><p>设置编译参数</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0</span><br><span class="line">mkdir build</span><br><span class="line">cd build</span><br></pre></td></tr></table></figure>
+
+<p>设置CMAKE参数，注意，下面这是一行命令（包括最后那俩点儿），需要耐心等待十五分钟左右：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/home/pi/Downloads/opencv_contrib-3.4.0/modules -D BUILD_EXAMPLES=ON -D WITH_LIBV4L=ON PYTHON3_EXECUTABLE=/usr/bin/python3.5 PYTHON_INCLUDE_DIR=/usr/include/python3.5 PYTHON_LIBRARY=/usr/lib/arm-linux-gnueabihf/libpython3.5m.so PYTHON3_NUMPY_INCLUDE_DIRS=/home/pi/.local/lib/python3.5/site-packages/numpy/core/include ..</span><br></pre></td></tr></table></figure>
+
+<p>根据下图判断你是否配置成功了CMAKE。如果失败，可能是因为两个压缩包的路径没有严格按照上文的要求。如果成功，就可以开始最重要的编译了。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-532012bb713dc869.png%7CimageView2/2/w/1240" alt="CMAKE配置"></p>
+<h3 id="6、编译"><a href="#6、编译" class="headerlink" title="6、编译"></a>6、编译</h3><p>最后一步，也是最重要的一步：编译</p>
+<p>保证树莓派有至少5G的存储空间，建议本命令用树莓派桌面上的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0/build</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-36df3d7c4c6c0db7.png%7CimageView2/2/w/1240" alt="开始编译"></p>
+<p>编译两个小时之后，完成了40%</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e938295662efec1e.png%7CimageView2/2/w/1240" alt="编译两个小时之后"></p>
+<p>静待五个小时的编译。注意，在此期间，树莓派要供电充足，不要运行其它任务，以免因为内存不够什么的幺蛾子报错。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-542b34f0f59da291.png%7CimageView2/2/w/1240" alt="编译完成"></p>
+<p><code>make</code>命令执行完成之后，执行下面的命令，执行命令需要一分钟：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo make insall</span><br></pre></td></tr></table></figure>
+
+<h3 id="7、在Python3上测试OpenCV"><a href="#7、在Python3上测试OpenCV" class="headerlink" title="7、在Python3上测试OpenCV"></a>7、在Python3上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python3</code>，回车</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
+
+<p>回车</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
+
+<p>回车</p>
+<p>如果出现下图的结果，说明Python3环境下的OpenCV安装成功。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8b4162cec9589cd6.png%7CimageView2/2/w/1240" alt="Python3的OpenCV安装完成"></p>
+<h1 id="参考文献与扩展阅读"><a href="#参考文献与扩展阅读" class="headerlink" title="参考文献与扩展阅读"></a>参考文献与扩展阅读</h1><blockquote>
+<p><a href="https://www.jianshu.com/p/3180a253fe3c">【树莓派】树莓派+OpenCV3.4 + python3.5 成功以及注意细节</a></p>
+<p><a href="https://blog.csdn.net/u014397533/article/details/50910531">树莓派安装Python-OpenCV</a></p>
+<p> <a href="https://www.cnblogs.com/Pyrokine/p/8921285.html">基于树莓派3B+Python3.5的OpenCV3.4的配置教程</a></p>
+</blockquote>
 ]]></content>
       <categories>
-        <category>WordPress</category>
+        <category>开发</category>
       </categories>
       <tags>
-        <tag>WordPress错误</tag>
+        <tag>树莓派</tag>
       </tags>
   </entry>
   <entry>
@@ -1094,33 +1094,6 @@ layout: false
       </categories>
       <tags>
         <tag>WordPress错误</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站推荐第一期</title>
-    <url>//post/websitefx.html</url>
-    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
-<ul>
-<li>资源类 </li>
-</ul>
-<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
-<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
-<p>如果你需要寻找开源软件你可以前往这个网站。</p>
-<ul>
-<li>杂项类</li>
-</ul>
-<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
-<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
-<p>那么，第一期就先这样了。我们下一期再见~</p>
-]]></content>
-      <categories>
-        <category>推荐</category>
-      </categories>
-      <tags>
-        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -1851,6 +1824,33 @@ npm install hexo-generator-baidu-sitemap --save</code></pre>
       </categories>
       <tags>
         <tag>开发</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站推荐第一期</title>
+    <url>//post/websitefx.html</url>
+    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
+<ul>
+<li>资源类 </li>
+</ul>
+<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
+<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
+<p>如果你需要寻找开源软件你可以前往这个网站。</p>
+<ul>
+<li>杂项类</li>
+</ul>
+<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
+<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
+<p>那么，第一期就先这样了。我们下一期再见~</p>
+]]></content>
+      <categories>
+        <category>推荐</category>
+      </categories>
+      <tags>
+        <tag>网站推荐</tag>
       </tags>
   </entry>
 </search>
