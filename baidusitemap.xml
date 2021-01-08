@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nesxc.com//post/yunyin.html</loc>
+    <lastmod>2021-01-08</lastmod>
+  </url>
+  <url>
     <loc>https://www.nesxc.com//post/pzsoft.html</loc>
     <lastmod>2021-01-06</lastmod>
   </url>
@@ -45,19 +49,19 @@
     <lastmod>2020-12-19</lastmod>
   </url>
   <url>
-    <loc>https://www.nesxc.com//post/smpOpenCV.html</loc>
-    <lastmod>2020-12-16</lastmod>
-  </url>
-  <url>
     <loc>https://www.nesxc.com//post/20minmarkdown.html</loc>
     <lastmod>2020-12-16</lastmod>
   </url>
   <url>
-    <loc>https://www.nesxc.com//post/smpkj.html</loc>
+    <loc>https://www.nesxc.com//post/smpOpenCV.html</loc>
     <lastmod>2020-12-16</lastmod>
   </url>
   <url>
     <loc>https://www.nesxc.com//post/smpbtb.html</loc>
+    <lastmod>2020-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nesxc.com//post/smpkj.html</loc>
     <lastmod>2020-12-16</lastmod>
   </url>
   <url>

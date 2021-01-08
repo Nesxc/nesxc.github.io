@@ -180,7 +180,7 @@ template {
 }
 
 @font-face { font-family:MyFont;
-src: url(https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2)}
+src: url(https://cdn.jsdelivr.net/gh/Ran08/file@master/%E8%8B%B9%E6%96%B9%E9%BB%91%E4%BD%93-%E5%87%86-%E7%AE%80.woff2)}
 body{font-family:MyFont!important;}
 .limit-one-line,
 .flink#article-container .flink-list > .flink-list-item a .flink-item-name,

@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>你好 2021！</title>
+    <url>//post/2021welcome.html</url>
+    <content><![CDATA[<h3 id="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"><a href="#再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。" class="headerlink" title="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"></a>再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。</h3><p>2020一个令人难忘的一年。这一年里，最大的努力就是让自己活着。</p>
+<p>希望新的一年，万事大吉！！！</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>OKR工作法</title>
+    <url>//post/OKR.html</url>
+    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://pic1.zhimg.com/v2-2420fcc1a9e6f2f13bf456ded6c2e616_1440w.jpg" alt="OKR"></p>
+<h5 id="OKR的意义"><a href="#OKR的意义" class="headerlink" title="OKR的意义"></a>OKR的意义</h5><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">O是Objectives，</span><br><span class="line">KR是Key Results，</span><br><span class="line">OKR就是Objectives and Key Results，即目标与关键结果法。</span><br></pre></td></tr></table></figure>
+
+<p>使用OKR工作法可以协调推进团队任务的进度。</p>
+<h5 id="如何推进OKR？"><a href="#如何推进OKR？" class="headerlink" title="如何推进OKR？"></a>如何推进OKR？</h5><p>每周一，团队一起开会盘点OKR，来明确本周具体负责完成哪些任务。可以参考这种四象限OKR展示形式：</p>
+<p>本周关注的任务</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">OKR当前状态</span><br><span class="line">P1：订阅系统的建立</span><br><span class="line">P1：Ico的制作</span><br><span class="line">P1：留言板的制作</span><br><span class="line">P2：SEO的优化</span><br><span class="line"></span><br><span class="line">目标：百度谷歌的收录</span><br><span class="line">关键结果：网站的收录（50%）</span><br><span class="line">关键结果：第一个被收录的博客（50%）</span><br><span class="line"></span><br><span class="line">未来四周的计划</span><br><span class="line">优化系统</span><br><span class="line">服务器的提升</span><br><span class="line">备份系统的建立</span><br></pre></td></tr></table></figure>
+
+<p>● 本周关注的任务：列出3~4件最重要的事情，只有本周完成了这几件事，团队的目标才能向前推进；明确这些事的优先级（P表示Plan，P1的优先级大于P2，没有P3或更不重要的事）。</p>
+<p>● 未来四周的计划：有哪些事情需要其他团队成员做好准备或支持，都列在这一象限。</p>
+<p>● OKR当前的状态：每周讨论你们的信心指数，变高了还是变低了？因为发生了什么导致如此？</p>
+<p>● 状态指标：挑出两个影响目标达成的其他因素，简略地用色彩记录它们的变化来关注它们。（例如绿色为好，黄色为警戒，红色为差）当这些因素发生意外时，马上讨论找出应对方案，确保OKR不受影响。</p>
+<h5 id="怎么进行OKR"><a href="#怎么进行OKR" class="headerlink" title="怎么进行OKR"></a>怎么进行OKR</h5><p>每周一的会议可以用1/4的时间来讲述进度，剩余时间一起讨论下一步计划，并落实每个人本周的职责。</p>
+<p>每周五，召开“胜利会议”，让每个团队都可以展示本周的工作成果，并准备一些酒水饮料和点心等庆祝这些成果。</p>
+<p>每周重复这些事情，反复这样“明确责任”-“庆祝胜利”的节奏，就实现了OKR的分步骤落实。</p>
+<h5 id="易造成目标无法达成的5个因素"><a href="#易造成目标无法达成的5个因素" class="headerlink" title="易造成目标无法达成的5个因素"></a>易造成目标无法达成的5个因素</h5><p>（1）设置多个目标但没有给目标设定优先级。</p>
+<p>（2）缺乏充分沟通，导致团队其他成员没能准确理解目标。</p>
+<p>（3）没有做好具体落实目标的计划，只是空谈目标。</p>
+<p>（4）没有把时间花在重要的事情上，而去做了许多偏离目标的事情。</p>
+<p>（5）轻易放弃。</p>
+<h5 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h5><p>OKR是一个可以供大到上万人小到我一个人的目标实现工作法。 </p>
+]]></content>
+      <categories>
+        <category>电商</category>
+      </categories>
+      <tags>
+        <tag>OKR</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>二十分钟精通markdown</title>
     <url>//post/20minmarkdown.html</url>
     <content><![CDATA[<blockquote>
@@ -76,45 +115,6 @@
       </categories>
       <tags>
         <tag>markdown</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>你好 2021！</title>
-    <url>//post/2021welcome.html</url>
-    <content><![CDATA[<h3 id="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"><a href="#再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。" class="headerlink" title="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"></a>再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。</h3><p>2020一个令人难忘的一年。这一年里，最大的努力就是让自己活着。</p>
-<p>希望新的一年，万事大吉！！！</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>OKR工作法</title>
-    <url>//post/OKR.html</url>
-    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://pic1.zhimg.com/v2-2420fcc1a9e6f2f13bf456ded6c2e616_1440w.jpg" alt="OKR"></p>
-<h5 id="OKR的意义"><a href="#OKR的意义" class="headerlink" title="OKR的意义"></a>OKR的意义</h5><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">O是Objectives，</span><br><span class="line">KR是Key Results，</span><br><span class="line">OKR就是Objectives and Key Results，即目标与关键结果法。</span><br></pre></td></tr></table></figure>
-
-<p>使用OKR工作法可以协调推进团队任务的进度。</p>
-<h5 id="如何推进OKR？"><a href="#如何推进OKR？" class="headerlink" title="如何推进OKR？"></a>如何推进OKR？</h5><p>每周一，团队一起开会盘点OKR，来明确本周具体负责完成哪些任务。可以参考这种四象限OKR展示形式：</p>
-<p>本周关注的任务</p>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">OKR当前状态</span><br><span class="line">P1：订阅系统的建立</span><br><span class="line">P1：Ico的制作</span><br><span class="line">P1：留言板的制作</span><br><span class="line">P2：SEO的优化</span><br><span class="line"></span><br><span class="line">目标：百度谷歌的收录</span><br><span class="line">关键结果：网站的收录（50%）</span><br><span class="line">关键结果：第一个被收录的博客（50%）</span><br><span class="line"></span><br><span class="line">未来四周的计划</span><br><span class="line">优化系统</span><br><span class="line">服务器的提升</span><br><span class="line">备份系统的建立</span><br></pre></td></tr></table></figure>
-
-<p>● 本周关注的任务：列出3~4件最重要的事情，只有本周完成了这几件事，团队的目标才能向前推进；明确这些事的优先级（P表示Plan，P1的优先级大于P2，没有P3或更不重要的事）。</p>
-<p>● 未来四周的计划：有哪些事情需要其他团队成员做好准备或支持，都列在这一象限。</p>
-<p>● OKR当前的状态：每周讨论你们的信心指数，变高了还是变低了？因为发生了什么导致如此？</p>
-<p>● 状态指标：挑出两个影响目标达成的其他因素，简略地用色彩记录它们的变化来关注它们。（例如绿色为好，黄色为警戒，红色为差）当这些因素发生意外时，马上讨论找出应对方案，确保OKR不受影响。</p>
-<h5 id="怎么进行OKR"><a href="#怎么进行OKR" class="headerlink" title="怎么进行OKR"></a>怎么进行OKR</h5><p>每周一的会议可以用1/4的时间来讲述进度，剩余时间一起讨论下一步计划，并落实每个人本周的职责。</p>
-<p>每周五，召开“胜利会议”，让每个团队都可以展示本周的工作成果，并准备一些酒水饮料和点心等庆祝这些成果。</p>
-<p>每周重复这些事情，反复这样“明确责任”-“庆祝胜利”的节奏，就实现了OKR的分步骤落实。</p>
-<h5 id="易造成目标无法达成的5个因素"><a href="#易造成目标无法达成的5个因素" class="headerlink" title="易造成目标无法达成的5个因素"></a>易造成目标无法达成的5个因素</h5><p>（1）设置多个目标但没有给目标设定优先级。</p>
-<p>（2）缺乏充分沟通，导致团队其他成员没能准确理解目标。</p>
-<p>（3）没有做好具体落实目标的计划，只是空谈目标。</p>
-<p>（4）没有把时间花在重要的事情上，而去做了许多偏离目标的事情。</p>
-<p>（5）轻易放弃。</p>
-<h5 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h5><p>OKR是一个可以供大到上万人小到我一个人的目标实现工作法。 </p>
-]]></content>
-      <categories>
-        <category>电商</category>
-      </categories>
-      <tags>
-        <tag>OKR</tag>
       </tags>
   </entry>
   <entry>
@@ -382,29 +382,6 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>//post/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
-
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>维护</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo主题配置整合包发布</title>
     <url>//post/hexo-ran.html</url>
     <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
@@ -447,6 +424,29 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>//post/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="C:\Users\Hr082\AppData\Roaming\Typora\typora-user-images\image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用Hexo和Github Actions自动化博客更新</title>
     <url>//post/hexogithub.html</url>
     <content><![CDATA[<div style="position:relative; padding-bottom:75%; width:100%; height:0">
@@ -459,31 +459,6 @@ $$</code></pre>
       </categories>
       <tags>
         <tag>bilibili</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo建立一个独立的html页面</title>
-    <url>//post/hexohtml.html</url>
-    <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
-<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><pre><code>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 `_config.yml` 里找到 `skip_render` 关键字，在后面添加想要跳过渲染的页面，比如我们创建 `\source\about\index.html`， 配置文件填写：`skip_render: about\**`，那么就表示 `\source\about` 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：https://hexo.io/docs/configuration</code></pre>
-<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><pre><code>在文章头部的 Front-matter 里添加配置 `layout: false` 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 `\source\about\index.md`，将这个页面的相关 HTML 代码写进`.md`文件并保存，然后在 `index.md` 的头部写入：
-
----
-layout: false
----
-
-    xxxxxxxxxxxxx
-    xx HTML代码 xx
-    xxxxxxxxxxxxx
-    </code></pre>
-<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
-<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -569,30 +544,140 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>树莓派开机教程</title>
-    <url>//post/smpkj.html</url>
-    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
-<p>格式化SD卡</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc7215d37c39e836.png%7CimageView2/2/w/640" alt="格式化已有的SD卡"></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-abf5e3f941d3016a.png%7CimageView2/2/w/300" alt="格式化SD卡成功"></p>
-<p>烧录系统镜像</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6d22b8fb9a2fbd6a.png%7CimageView2/2/w/1240" alt="烧录树莓派操作系统镜像"></p>
-<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
-<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+    <title>hexo建立一个独立的html页面</title>
+    <url>//post/hexohtml.html</url>
+    <content><![CDATA[<pre><code>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 `\source\_posts` 文件夹，然后再推送上去就行了，原理就是当我们在执行 `hexo g` 命令时，`.md` 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</code></pre>
+<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><pre><code>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 `_config.yml` 里找到 `skip_render` 关键字，在后面添加想要跳过渲染的页面，比如我们创建 `\source\about\index.html`， 配置文件填写：`skip_render: about\**`，那么就表示 `\source\about` 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：https://hexo.io/docs/configuration</code></pre>
+<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><pre><code>在文章头部的 Front-matter 里添加配置 `layout: false` 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 `\source\about\index.md`，将这个页面的相关 HTML 代码写进`.md`文件并保存，然后在 `index.md` 的头部写入：
 
-<p>例如这样</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1b37351bcd946978.png%7CimageView2/2/w/1240" alt="配置wifi文件"></p>
-<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-70819fe7ad131c4c.png%7CimageView2/2/w/1240" alt="将ssh文件和wpa_supplicant.conf文件放入boot盘中"></p>
-<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
-<p>获取树莓派ip地址的方法：</p>
-<ol>
-<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
-<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
-<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
-<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
-</ol>
+---
+layout: false
+---
+
+    xxxxxxxxxxxxx
+    xx HTML代码 xx
+    xxxxxxxxxxxxx
+    </code></pre>
+<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
+<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>教你在树莓派上安装OpenCV</title>
+    <url>//post/smpOpenCV.html</url>
+    <content><![CDATA[<h1 id="安装前提"><a href="#安装前提" class="headerlink" title="安装前提"></a>安装前提</h1><h3 id="1-配置好树莓派的Raspbian操作系统"><a href="#1-配置好树莓派的Raspbian操作系统" class="headerlink" title="1.配置好树莓派的Raspbian操作系统"></a>1.配置好树莓派的Raspbian操作系统</h3><p>本教程使用的系统是2018年6月27日树莓派官方发布的Raspbian-stretch操作系统，<a href="https://www.raspberrypi.org/downloads/raspbian/">官方下载链接</a>。</p>
+<h3 id="2-切换到国内的apt-get下载源和pip下载源"><a href="#2-切换到国内的apt-get下载源和pip下载源" class="headerlink" title="2.切换到国内的apt-get下载源和pip下载源"></a>2.切换到国内的apt-get下载源和pip下载源</h3><p>防止下载速度过慢。</p>
+<h3 id="3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"><a href="#3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置" class="headerlink" title="3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"></a>3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置</h3><blockquote>
+<p>如果没有官方摄像头，也不影响安装</p>
+</blockquote>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4b420067401c12f1.png%7CimageView2/2/w/400" alt="连接树莓派摄像头Picamera"></p>
+<p>在命令行输入以下命令，这个命令的意思是用nano编辑器打开modules这个文件：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo nano /etc/modules</span><br></pre></td></tr></table></figure>
+
+<p>在这个文件末尾添加一行</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">bcm2835-v4l2</span><br></pre></td></tr></table></figure>
+
+<p>也就是这个效果</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-364a600885dd8cdf.png%7CimageView2/2/w/1240"></p>
+<p>先按键盘上的<code>ctrl</code>+<code>o</code>，再按回车保存，再按<code>ctrl</code>+<code>x</code>退出nano编辑器回到命令行界面。</p>
+<p>输入命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd get_camera</span><br></pre></td></tr></table></figure>
+
+<p>如果得到下面的结果，则证明摄像头连接成功</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-07e411efaac25994.png%7CimageView2/2/w/1240" alt="检查摄像头是否被树莓派识别"></p>
+<p>可以输入命令</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">raspistill -o image.jpg</span><br></pre></td></tr></table></figure>
+
+<p>调用摄像头拍一张照片，命名为image.jpg，存储在/pi/home路径，也就是桌面左上角资源管理器一打开显示的那个路径。如果能看到摄像头上红灯亮，目录里面有照片，则进一步说明摄像头配置正确。</p>
+<h1 id="在树莓派安装运行在Python2上的OpenCV"><a href="#在树莓派安装运行在Python2上的OpenCV" class="headerlink" title="在树莓派安装运行在Python2上的OpenCV"></a>在树莓派安装运行在Python2上的OpenCV</h1><h3 id="1、安装"><a href="#1、安装" class="headerlink" title="1、安装"></a>1、安装</h3><p> 打开树莓派的命令行界面，两个命令即可完成安装。执行第一条命令需要半个小时左右，请耐心等待。第二条命令执行只需要几秒钟。</p>
+<blockquote>
+<p>友情提示：</p>
+<p>建议第一个命令用树莓派桌面上自带的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
+</blockquote>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install libopencv-dev</span><br><span class="line">sudo apt-get install python-opencv</span><br></pre></td></tr></table></figure>
+
+<h3 id="2、在Python2上测试OpenCV"><a href="#2、在Python2上测试OpenCV" class="headerlink" title="2、在Python2上测试OpenCV"></a>2、在Python2上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python</code>或者<code>python2</code>，回车</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
+
+<p>如果出现下图的结果，说明Python2环境下的OpenCV安装成功。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-202da54ab2900054.png%7CimageView2/2/w/1240" alt="python2环境中运行opencv"></p>
+<p>也可以输入</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
+
+<p>查看opencv版本号</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f97eed06c60e3c03.png%7CimageView2/2/w/1240" alt="查看python2的opencv版本"></p>
+<blockquote>
+<p>为啥叫cv2而不叫opencv呢？这是因为OpenCV是基于C/C++开发的，有两个版本，’’cv”版本的API是C语言开发的，’’cv2’’版本的API是基于C++语言开发的，为了保持向后兼容性所以叫”cv2”，但我们都知道cv2就是OpenCV本尊。</p>
+</blockquote>
+<p>也可以在桌面命令行里输入以下三个命令调用树莓派摄像头，把摄像头捕捉到的画面显示在桌面上，按<code>ctrl</code>+<code>c</code>键退出。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/TommyZihao/opencvtest.git</span><br><span class="line">cd opencvtest</span><br><span class="line">python2 testopencv.py</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4558d79be1004043.png%7CimageView2/2/w/1240" alt="测试python2上的opencv：调用树莓派摄像头"></p>
+<h1 id="在树莓派安装运行在Python3上的OpenCV"><a href="#在树莓派安装运行在Python3上的OpenCV" class="headerlink" title="在树莓派安装运行在Python3上的OpenCV"></a>在树莓派安装运行在Python3上的OpenCV</h1><h3 id="1、安装numpy"><a href="#1、安装numpy" class="headerlink" title="1、安装numpy"></a>1、安装numpy</h3><p>打开命令行界面，输入以下命令，安装Python科学计算库numpy</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo pip3 install numpy</span><br></pre></td></tr></table></figure>
+
+<h3 id="2、在树莓派设置中把根目录扩大到整个SD卡"><a href="#2、在树莓派设置中把根目录扩大到整个SD卡" class="headerlink" title="2、在树莓派设置中把根目录扩大到整个SD卡"></a>2、在树莓派设置中把根目录扩大到整个SD卡</h3><p>命令行界面输入命令，进入树莓派配置界面。用上下键和左右键切换光标位置。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo raspi-config</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
+<h4 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h4><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
+<p>选择Expand Filesystem，将根目录扩展到这个SD卡，充分利用SD卡的存储空间。如果不进行这一步，后续命令会出现卡死。退出设置界面，重启树莓派。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo reboot</span><br></pre></td></tr></table></figure>
+
+<h3 id="3、安装OpenCV所需的库"><a href="#3、安装OpenCV所需的库" class="headerlink" title="3、安装OpenCV所需的库"></a>3、安装OpenCV所需的库</h3><p>挨个运行下面八条命令。共需要七分钟（注意倒数第三条命令中要安装四个-dev软件包）。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install build-essential git cmake pkg-config -y</span><br><span class="line">sudo apt-get install libjpeg8-dev -y</span><br><span class="line">sudo apt-get install libtiff5-dev -y</span><br><span class="line">sudo apt-get install libjasper-dev -y</span><br><span class="line">sudo apt-get install libpng12-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libgtk2.0-dev -y</span><br><span class="line">sudo apt-get install libatlas-base-dev gfortran -y</span><br></pre></td></tr></table></figure>
+
+<h3 id="4、下载OpenCV"><a href="#4、下载OpenCV" class="headerlink" title="4、下载OpenCV"></a>4、下载OpenCV</h3><p>在命令行输入以下三条命令，下载两个压缩包到树莓派的**/home/pi/Downloads**目录下。第一个压缩包86.8MB，第二个压缩包54.5MB：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv/archive/3.4.0.zip</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv_contrib/archive/3.4.0.zip</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>如果下载速度很慢（比如每秒几个KB）：</p>
+<p>方法1：可以在电脑浏览器中输入wget后面的链接下载压缩包，再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
+<p>方法2：:可以用电脑在<a href="https://pan.baidu.com/s/182NYJzW1nCpnQ7ftSYYuSw">百度网盘链接</a>下载这两个压缩包之后再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
+</blockquote>
+<p>解压这两个压缩包</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads</span><br><span class="line">unzip opencv-3.4.0.zip</span><br><span class="line">unzip opencv_contrib-3.4.0.zip</span><br></pre></td></tr></table></figure>
+
+<h3 id="5、设置编译参数"><a href="#5、设置编译参数" class="headerlink" title="5、设置编译参数"></a>5、设置编译参数</h3><p>设置编译参数</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0</span><br><span class="line">mkdir build</span><br><span class="line">cd build</span><br></pre></td></tr></table></figure>
+
+<p>设置CMAKE参数，注意，下面这是一行命令（包括最后那俩点儿），需要耐心等待十五分钟左右：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/home/pi/Downloads/opencv_contrib-3.4.0/modules -D BUILD_EXAMPLES=ON -D WITH_LIBV4L=ON PYTHON3_EXECUTABLE=/usr/bin/python3.5 PYTHON_INCLUDE_DIR=/usr/include/python3.5 PYTHON_LIBRARY=/usr/lib/arm-linux-gnueabihf/libpython3.5m.so PYTHON3_NUMPY_INCLUDE_DIRS=/home/pi/.local/lib/python3.5/site-packages/numpy/core/include ..</span><br></pre></td></tr></table></figure>
+
+<p>根据下图判断你是否配置成功了CMAKE。如果失败，可能是因为两个压缩包的路径没有严格按照上文的要求。如果成功，就可以开始最重要的编译了。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-532012bb713dc869.png%7CimageView2/2/w/1240" alt="CMAKE配置"></p>
+<h3 id="6、编译"><a href="#6、编译" class="headerlink" title="6、编译"></a>6、编译</h3><p>最后一步，也是最重要的一步：编译</p>
+<p>保证树莓派有至少5G的存储空间，建议本命令用树莓派桌面上的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0/build</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-36df3d7c4c6c0db7.png%7CimageView2/2/w/1240" alt="开始编译"></p>
+<p>编译两个小时之后，完成了40%</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e938295662efec1e.png%7CimageView2/2/w/1240" alt="编译两个小时之后"></p>
+<p>静待五个小时的编译。注意，在此期间，树莓派要供电充足，不要运行其它任务，以免因为内存不够什么的幺蛾子报错。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-542b34f0f59da291.png%7CimageView2/2/w/1240" alt="编译完成"></p>
+<p><code>make</code>命令执行完成之后，执行下面的命令，执行命令需要一分钟：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo make insall</span><br></pre></td></tr></table></figure>
+
+<h3 id="7、在Python3上测试OpenCV"><a href="#7、在Python3上测试OpenCV" class="headerlink" title="7、在Python3上测试OpenCV"></a>7、在Python3上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python3</code>，回车</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
+
+<p>回车</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
+
+<p>回车</p>
+<p>如果出现下图的结果，说明Python3环境下的OpenCV安装成功。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8b4162cec9589cd6.png%7CimageView2/2/w/1240" alt="Python3的OpenCV安装完成"></p>
+<h1 id="参考文献与扩展阅读"><a href="#参考文献与扩展阅读" class="headerlink" title="参考文献与扩展阅读"></a>参考文献与扩展阅读</h1><blockquote>
+<p><a href="https://www.jianshu.com/p/3180a253fe3c">【树莓派】树莓派+OpenCV3.4 + python3.5 成功以及注意细节</a></p>
+<p><a href="https://blog.csdn.net/u014397533/article/details/50910531">树莓派安装Python-OpenCV</a></p>
+<p> <a href="https://www.cnblogs.com/Pyrokine/p/8921285.html">基于树莓派3B+Python3.5的OpenCV3.4的配置教程</a></p>
+</blockquote>
 ]]></content>
       <categories>
         <category>开发</category>
@@ -746,6 +831,165 @@ layout: false
       </tags>
   </entry>
   <entry>
+    <title>树莓派开机教程</title>
+    <url>//post/smpkj.html</url>
+    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
+<p>格式化SD卡</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-bc7215d37c39e836.png%7CimageView2/2/w/640" alt="格式化已有的SD卡"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-abf5e3f941d3016a.png%7CimageView2/2/w/300" alt="格式化SD卡成功"></p>
+<p>烧录系统镜像</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-6d22b8fb9a2fbd6a.png%7CimageView2/2/w/1240" alt="烧录树莓派操作系统镜像"></p>
+<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
+<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>例如这样</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1b37351bcd946978.png%7CimageView2/2/w/1240" alt="配置wifi文件"></p>
+<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-70819fe7ad131c4c.png%7CimageView2/2/w/1240" alt="将ssh文件和wpa_supplicant.conf文件放入boot盘中"></p>
+<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
+<p>获取树莓派ip地址的方法：</p>
+<ol>
+<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
+<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
+<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
+<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
+</ol>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站推荐第一期</title>
+    <url>//post/websitefx.html</url>
+    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
+<ul>
+<li>资源类 </li>
+</ul>
+<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
+<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
+<p>如果你需要寻找开源软件你可以前往这个网站。</p>
+<ul>
+<li>杂项类</li>
+</ul>
+<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
+<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
+<p>那么，第一期就先这样了。我们下一期再见~</p>
+]]></content>
+      <categories>
+        <category>推荐</category>
+      </categories>
+      <tags>
+        <tag>网站推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VirtualHardwares硬件虚拟工具收费版本</title>
+    <url>//post/virtualhardwareshack.html</url>
+    <content><![CDATA[<p><strong>VirtualHardwares硬件虚拟工具收费版本</strong>为能够任意更改你的硬件显示参数的软件，并非真实的改变哟，有时候试用部分程序的时候，会用到它来改本机ID识别码，进行多次、长时间的免费</p>
+<p>使用，功能上来说，还是挺强大实用的东西呢，推荐给有需要的用户们！</p>
+<h3 id="virtualhardwares破解版简介"><a href="#virtualhardwares破解版简介" class="headerlink" title="virtualhardwares破解版简介"></a>virtualhardwares破解版简介</h3><p>VirtualHardwares是一款windows下可视化可定制虚拟硬件信息的工具。VirtualHardwares并不是真正的修改，而是虚拟修改，您重启计算机后将恢复到原始计算机状态，不会对您的硬件和软件造成任何影响。VirtualHardwares内置了查询硬件信息和随机生成硬件信息，用户不需要任何专业知识，甚至可以完全不懂硬件信息，也能快速虚拟一份新硬件信息。此外他能支持全局虚拟一份硬件信息，也支持不同进程虚拟不同硬件信息，他是完全可定制化的，是一款所见即所得的软件。让普通人虚拟出专业水准的硬件信息，以前是一个不可思议的想法，而VirtualHardwares的出现，让这成为现实。经过数年的发展，目前国内已经有数万用户成功利用VirtualHardwares自行虚拟硬件信息，不再受制于软件硬件公司，不少用户省了一笔不菲费用；同时也发展了一大批个人爱好者，这些爱好者很多都是个人用户，硬件DIY爱好者，熟悉硬件和硬件DIY，以前苦于没有合适的虚拟工具，无法根据自己的需要自行虚拟硬件，VirtualHardwares的出现，让他们如虎添翼，纷纷虚拟出适合自己需求的硬件信息。</p>
+<h3 id="GITEE下载地址，"><a href="#GITEE下载地址，" class="headerlink" title="GITEE下载地址，"></a><a href="https://gitee.com/lybbs/img/raw/master/hardware.exe" target="_blank">GITEE下载地址</a>，</h3><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220113248.png"></p>
+<h3 id="本软件对电脑软件硬件有损坏吗？"><a href="#本软件对电脑软件硬件有损坏吗？" class="headerlink" title="本软件对电脑软件硬件有损坏吗？"></a>本软件对电脑软件硬件有损坏吗？</h3><p>**硬件:**本软件是虚拟修改，并非正真修改，重启计算机将恢复您的原始计算机状态。因此本软件不会对您的硬件有任何损坏。 </p>
+<p>**软件:**本软件是虚拟设置操作系统和软件信息，不会真正的修改操作系统和软件的设置。 </p>
+<p>**注意:**某些软件会根据硬件信息来生成序列号和注册码，您的虚拟操作可能会使您的机器码改变，导致您正常使用的序列号或者注册码无法正常使用。(使用本软件表明您已经同意此操作，在使用过程中出现任何未知预料的错误将于本人无关)。</p>
+<h3 id="VirtualHardwares免费主要特性"><a href="#VirtualHardwares免费主要特性" class="headerlink" title="VirtualHardwares免费主要特性"></a>VirtualHardwares免费主要特性</h3><p>功能特性概括起来就是兼容性强、多重虚拟、可定制化、参数丰富。下面我们逐个来看下介绍。</p>
+<p><strong>1、兼容性强</strong></p>
+<p>支持所有windows32/64位系统(xp-win10)</p>
+<p>支持<a href="http://www.itmop.com/key/vmware/">vmware</a> Workstation Pro<a href="http://www.itmop.com/key/xuniji/">虚拟机</a></p>
+<p>全面兼容32/64位进程</p>
+<p>重启恢复原始硬件信息状态</p>
+<p>不破坏任何软件和硬件</p>
+<p><strong>2、多重虚拟</strong></p>
+<p>支持驱动级系统全局虚拟</p>
+<p>支持对所有进程虚拟</p>
+<p>支持对精准进程ID虚拟</p>
+<p>支持启动新的进程虚拟</p>
+<p>支持以上4种模式禁止查询硬件信息</p>
+<p><strong>3、可定制化</strong></p>
+<p>支持自定义硬件信息进行虚拟一份新硬件信息</p>
+<p>可根据虚拟模式来虚拟不同硬件信息</p>
+<p>完全可定制化</p>
+<p><strong>4、参数丰富</strong></p>
+<p>系统信息虚拟：计算机名,产品ID,系统安时间</p>
+<p>网卡信息虚拟：当前、物理、操作系统的MAC地址</p>
+<p>硬盘分区信息虚拟：硬盘序列号、硬盘型号、硬盘大小、硬盘固件版本、硬盘分区序列号</p>
+<h3 id="运行模式介绍"><a href="#运行模式介绍" class="headerlink" title="运行模式介绍"></a>运行模式介绍</h3><p>该软件包括hardware.exe、VMwarehardware.exe、网卡MAC地址修改工具.exe 和 GameHardware.exe四个可执行文件，包换多种模式设置，需要注意的是不论什么模式均需要加载驱动，所以可能被<a href="http://www.itmop.com/key/anquanruanjian/">安全软件</a>拦截，这个工具不会修改任何硬件，也不会修改操作系统任何设置，重启计算机将恢复到系统的初始化状态，所以大家可以大胆设置放行。</p>
+<p><strong>驱动全局模式</strong></p>
+<p>驱动全局模式是驱动级虚拟一份硬件信息，当操作系统或者硬件信息查询软件进行硬件信息查询的时候都能进入虚拟硬件模式。</p>
+<p>双击桌面的hardware.exe 图标启动本软件，选择”驱动全局模式”，勾选需要虚拟的硬件信息，点击确定按钮。</p>
+<p><strong>驱动进程模式</strong></p>
+<p>驱动进程模式是驱动级虚拟一份硬件信息，当硬件信息查询软件进行硬件信息查询的时候都能进入虚拟硬件模式（只对当前选择操作的进程有效其他进程和系统不受影响）。</p>
+<p><strong>全部进程模式</strong></p>
+<p>全部进程模式是对当前操作系统正在运行的所有进程进程虚拟一份完全一样的硬件信息，这个工具只是内部自动过滤了系统进程，不会对系统造成任何影响，并且此操作只会对系统正在运行的常用软件进行虚拟硬件。</p>
+<p><strong>单一进程模式</strong></p>
+<p>单一进程模式是对当前某个进程进程虚拟一份硬件信息的模式，比如只需对获取硬件信息的软件执行虚拟一份硬件信息，这个功能就非常合适了。不仅可以启动一个新的进程开虚拟一份硬件信息还可以在进程列表中选择一个已经存在的进程进行虚拟一份硬件信息。</p>
+<p><strong>禁止查询模式</strong></p>
+<h3 id="virtualhardwares怎么用"><a href="#virtualhardwares怎么用" class="headerlink" title="virtualhardwares怎么用"></a>virtualhardwares怎么用</h3><p><strong>常见操作说明</strong></p>
+<p><strong>1、虚拟硬件信息使用说明</strong></p>
+<p><strong>1.1 修改硬盘序列号</strong></p>
+<p>硬盘有硬盘序列号,硬盘固件版本,硬盘型号ID,硬盘大小。这些信息都可以虚拟一份。选择需要操作的硬盘，勾选要操作的硬盘信息，纯手工输入您需要虚拟的硬盘硬件信息，点击随机按钮，随机生成一份，点击确定。</p>
+<p><strong>1.2 修改分区序列号</strong></p>
+<p>分区序列号是硬盘分区后(C盘 D盘)每个盘符都有的一个序列号，您可以对分区的序列号进行虚拟，重启计算机将恢复您的分区序列号初始化状态。选择需要操作的分区，纯手工输入您需要虚拟的分区序列号，点击随机按钮，随机生成一份，点击确定。</p>
+<p><strong>1.3 修改网卡MAC地址</strong></p>
+<p>网卡MAC码是由全球惟一的一个固定组织来分配的，未经认证和授权的厂家无权生产网卡。每块网卡都有一个固定的卡号，并且任何正规厂家生产的网卡上都直接标明了卡号，一般为一组12位的16进制数。其中前6位代表网卡的生产厂商，您可以虚拟物理网卡MAC、当前网卡MAC和操作系统的网卡MAC地址。</p>
+<p>选择要操作的网卡，勾选操作选项，纯手工输入网卡MAC地址，点击随机按钮来随机生成一份，点击确定按钮。</p>
+<p>为了使用方便，本工具包单独制作有一个网卡MAC地址修改工具.exe的可执行文件。 </p>
+<p><strong>2、VM虚拟机修改使用说明</strong></p>
+<p>VMwarehardware是一款在VMware Workstation Pro虚拟机里面运行的软件，用来修改VMware Workstation Pro虚拟机里面的xp-win10系统的硬件信息，3z学堂这里要特别提醒下，请勿用这个虚拟机软件修改物理机器！</p>
+<p>请勿用这个虚拟机软件修改物理机器！请勿用这个虚拟机软件修改物理机器！重要的事情说三遍！</p>
+<p>VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。VMware Workstation可在一部实体机器上模拟完整的网络环境，以及可便于携带的虚拟机器，其更好的灵活性与先进的技术胜过了市面上其他的虚拟计算机软件。对于企业的 IT开发人员和系统管理员而言， VMware在虚拟网路，实时快照，拖曳共享文件夹，支持 PXE 等方面的特点使它成为必不可少的工具。</p>
+<p>使用方法：在VMware Workstation Pro虚拟机里面运行VMwarehardware.exe，勾选要修改的信息，可点击随机来随机生成硬件信息，点击确定修改按钮来实现。</p>
+<p><strong>3、游戏多开虚拟硬件使用说明</strong></p>
+<p>GameHardware是一款针对游戏多开多进程不同硬件信息的工具，支持系统MAC地址 硬盘信息 分区信息 自动父子进程硬件信息同步。</p>
+<p>使用方法：启动GameHardware.exe，登陆账号，功能设置，添加程序，启动游戏。</p>
+<p><strong>3.1 父子进程同步模式</strong></p>
+<p>比如A.exe启动了B.exe，然后B.exe又启动了C.exe，那么ABC进程硬件信息同步，反之只有A有效果</p>
+<p><strong>3.2 禁用WMI模式</strong></p>
+<p>禁用系统WMI接口查询硬件信息，推荐勾选，如果进程环境异常请不要勾选增强硬盘模式(插入U盘等移动设备系统识别不了请关闭此项)。注册表中保存了一份硬盘信息，某些程序会读取这里，推荐勾选，如果进程环境异常请不要勾选</p>
+<p><strong>3.3 自动加入模式</strong></p>
+<p>启动新进程自动加入虚拟列表中</p>
+<p><strong>3.4 设置开机启动流程</strong></p>
+<p>1.右键创建到桌面快捷方式 2.拖动桌面快捷方式到开始程序启动</p>
+<h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><p><strong>2018/03/07</strong></p>
+<p>修复分区序列号虚拟设置后去掉勾选无法还原的BUG</p>
+<p><strong>2018/03/02</strong></p>
+<p>紧急去掉上个版本虚拟硬盘信息导致蓝屏的问题</p>
+<p><strong>2018/03/01</strong></p>
+<p>1.禁止查询模式下分区序列号置零处理,修复分区序列号修改后关闭EXE重新打开读取修改状态错误的bug</p>
+<p>2.增强硬盘信息虚拟能力，某些情况下虚拟硬盘信息关闭EXE打开还是以前的信息</p>
+<p>3.磁盘信息只对固定磁盘类型虚拟，过滤U盘 CD-ROM 网络磁盘等等</p>
+<p>4.勾选硬盘信息和禁止查询模式下，插入U盘识别不了的，请关闭这些功能重新插拔U盘已正常识别使用。</p>
+<p><strong>2018/02/23</strong></p>
+<p>驱动全局模式的禁止查询模式增加新的功能，大大提升禁止查询硬件信息能力</p>
+<p><strong>2018/01/31</strong></p>
+<p>hardware正式发布</p>
+<h3 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h3><p><strong>1、虚拟硬件信息后如何恢复？</strong></p>
+<p>当虚拟硬件信息后想恢复原始状态时只需要去掉勾选的硬件信息，点击确定无需重启计算机即可完成恢复。也可以使用快捷恢复按钮”一键恢复”</p>
+<p><strong>2、VMwarehardware使用场景</strong></p>
+<p>VMwarehardware是一款在VMware Workstation Pro虚拟机里面运行的软件，用来修改VMware Workstation Pro虚拟机里面的xp-win10系统的硬件信息，请勿用于修改物理机器，否则后果自负！</p>
+<p><strong>3、操作完毕后软件可以关闭吗？</strong></p>
+<p>操作完成后您可以关闭本软件，它仍然在继续工作</p>
+<p>**4、为什么网卡MAC地址修改失败？ **</p>
+<p>答：这种情况一般是网卡不支持修改MAC地址(比如USB无线网卡)</p>
+<p>**5、为什么重启网卡失败? **</p>
+<p>答：这种情况一般是网卡被其他程序独占打开了，导致程序重启网卡失败，可以尝试手动禁用网卡在启动或重启计算机</p>
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>破解软件</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一劳永逸配置树莓派</title>
     <url>//post/smpset.html</url>
     <content><![CDATA[<p>换源</p>
@@ -854,223 +1098,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>VirtualHardwares硬件虚拟工具收费版本</title>
-    <url>//post/virtualhardwareshack.html</url>
-    <content><![CDATA[<p><strong>VirtualHardwares硬件虚拟工具收费版本</strong>为能够任意更改你的硬件显示参数的软件，并非真实的改变哟，有时候试用部分程序的时候，会用到它来改本机ID识别码，进行多次、长时间的免费</p>
-<p>使用，功能上来说，还是挺强大实用的东西呢，推荐给有需要的用户们！</p>
-<h3 id="virtualhardwares破解版简介"><a href="#virtualhardwares破解版简介" class="headerlink" title="virtualhardwares破解版简介"></a>virtualhardwares破解版简介</h3><p>VirtualHardwares是一款windows下可视化可定制虚拟硬件信息的工具。VirtualHardwares并不是真正的修改，而是虚拟修改，您重启计算机后将恢复到原始计算机状态，不会对您的硬件和软件造成任何影响。VirtualHardwares内置了查询硬件信息和随机生成硬件信息，用户不需要任何专业知识，甚至可以完全不懂硬件信息，也能快速虚拟一份新硬件信息。此外他能支持全局虚拟一份硬件信息，也支持不同进程虚拟不同硬件信息，他是完全可定制化的，是一款所见即所得的软件。让普通人虚拟出专业水准的硬件信息，以前是一个不可思议的想法，而VirtualHardwares的出现，让这成为现实。经过数年的发展，目前国内已经有数万用户成功利用VirtualHardwares自行虚拟硬件信息，不再受制于软件硬件公司，不少用户省了一笔不菲费用；同时也发展了一大批个人爱好者，这些爱好者很多都是个人用户，硬件DIY爱好者，熟悉硬件和硬件DIY，以前苦于没有合适的虚拟工具，无法根据自己的需要自行虚拟硬件，VirtualHardwares的出现，让他们如虎添翼，纷纷虚拟出适合自己需求的硬件信息。</p>
-<h3 id="GITEE下载地址，"><a href="#GITEE下载地址，" class="headerlink" title="GITEE下载地址，"></a><a href="https://gitee.com/lybbs/img/raw/master/hardware.exe" target="_blank">GITEE下载地址</a>，</h3><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220113248.png"></p>
-<h3 id="本软件对电脑软件硬件有损坏吗？"><a href="#本软件对电脑软件硬件有损坏吗？" class="headerlink" title="本软件对电脑软件硬件有损坏吗？"></a>本软件对电脑软件硬件有损坏吗？</h3><p>**硬件:**本软件是虚拟修改，并非正真修改，重启计算机将恢复您的原始计算机状态。因此本软件不会对您的硬件有任何损坏。 </p>
-<p>**软件:**本软件是虚拟设置操作系统和软件信息，不会真正的修改操作系统和软件的设置。 </p>
-<p>**注意:**某些软件会根据硬件信息来生成序列号和注册码，您的虚拟操作可能会使您的机器码改变，导致您正常使用的序列号或者注册码无法正常使用。(使用本软件表明您已经同意此操作，在使用过程中出现任何未知预料的错误将于本人无关)。</p>
-<h3 id="VirtualHardwares免费主要特性"><a href="#VirtualHardwares免费主要特性" class="headerlink" title="VirtualHardwares免费主要特性"></a>VirtualHardwares免费主要特性</h3><p>功能特性概括起来就是兼容性强、多重虚拟、可定制化、参数丰富。下面我们逐个来看下介绍。</p>
-<p><strong>1、兼容性强</strong></p>
-<p>支持所有windows32/64位系统(xp-win10)</p>
-<p>支持<a href="http://www.itmop.com/key/vmware/">vmware</a> Workstation Pro<a href="http://www.itmop.com/key/xuniji/">虚拟机</a></p>
-<p>全面兼容32/64位进程</p>
-<p>重启恢复原始硬件信息状态</p>
-<p>不破坏任何软件和硬件</p>
-<p><strong>2、多重虚拟</strong></p>
-<p>支持驱动级系统全局虚拟</p>
-<p>支持对所有进程虚拟</p>
-<p>支持对精准进程ID虚拟</p>
-<p>支持启动新的进程虚拟</p>
-<p>支持以上4种模式禁止查询硬件信息</p>
-<p><strong>3、可定制化</strong></p>
-<p>支持自定义硬件信息进行虚拟一份新硬件信息</p>
-<p>可根据虚拟模式来虚拟不同硬件信息</p>
-<p>完全可定制化</p>
-<p><strong>4、参数丰富</strong></p>
-<p>系统信息虚拟：计算机名,产品ID,系统安时间</p>
-<p>网卡信息虚拟：当前、物理、操作系统的MAC地址</p>
-<p>硬盘分区信息虚拟：硬盘序列号、硬盘型号、硬盘大小、硬盘固件版本、硬盘分区序列号</p>
-<h3 id="运行模式介绍"><a href="#运行模式介绍" class="headerlink" title="运行模式介绍"></a>运行模式介绍</h3><p>该软件包括hardware.exe、VMwarehardware.exe、网卡MAC地址修改工具.exe 和 GameHardware.exe四个可执行文件，包换多种模式设置，需要注意的是不论什么模式均需要加载驱动，所以可能被<a href="http://www.itmop.com/key/anquanruanjian/">安全软件</a>拦截，这个工具不会修改任何硬件，也不会修改操作系统任何设置，重启计算机将恢复到系统的初始化状态，所以大家可以大胆设置放行。</p>
-<p><strong>驱动全局模式</strong></p>
-<p>驱动全局模式是驱动级虚拟一份硬件信息，当操作系统或者硬件信息查询软件进行硬件信息查询的时候都能进入虚拟硬件模式。</p>
-<p>双击桌面的hardware.exe 图标启动本软件，选择”驱动全局模式”，勾选需要虚拟的硬件信息，点击确定按钮。</p>
-<p><strong>驱动进程模式</strong></p>
-<p>驱动进程模式是驱动级虚拟一份硬件信息，当硬件信息查询软件进行硬件信息查询的时候都能进入虚拟硬件模式（只对当前选择操作的进程有效其他进程和系统不受影响）。</p>
-<p><strong>全部进程模式</strong></p>
-<p>全部进程模式是对当前操作系统正在运行的所有进程进程虚拟一份完全一样的硬件信息，这个工具只是内部自动过滤了系统进程，不会对系统造成任何影响，并且此操作只会对系统正在运行的常用软件进行虚拟硬件。</p>
-<p><strong>单一进程模式</strong></p>
-<p>单一进程模式是对当前某个进程进程虚拟一份硬件信息的模式，比如只需对获取硬件信息的软件执行虚拟一份硬件信息，这个功能就非常合适了。不仅可以启动一个新的进程开虚拟一份硬件信息还可以在进程列表中选择一个已经存在的进程进行虚拟一份硬件信息。</p>
-<p><strong>禁止查询模式</strong></p>
-<h3 id="virtualhardwares怎么用"><a href="#virtualhardwares怎么用" class="headerlink" title="virtualhardwares怎么用"></a>virtualhardwares怎么用</h3><p><strong>常见操作说明</strong></p>
-<p><strong>1、虚拟硬件信息使用说明</strong></p>
-<p><strong>1.1 修改硬盘序列号</strong></p>
-<p>硬盘有硬盘序列号,硬盘固件版本,硬盘型号ID,硬盘大小。这些信息都可以虚拟一份。选择需要操作的硬盘，勾选要操作的硬盘信息，纯手工输入您需要虚拟的硬盘硬件信息，点击随机按钮，随机生成一份，点击确定。</p>
-<p><strong>1.2 修改分区序列号</strong></p>
-<p>分区序列号是硬盘分区后(C盘 D盘)每个盘符都有的一个序列号，您可以对分区的序列号进行虚拟，重启计算机将恢复您的分区序列号初始化状态。选择需要操作的分区，纯手工输入您需要虚拟的分区序列号，点击随机按钮，随机生成一份，点击确定。</p>
-<p><strong>1.3 修改网卡MAC地址</strong></p>
-<p>网卡MAC码是由全球惟一的一个固定组织来分配的，未经认证和授权的厂家无权生产网卡。每块网卡都有一个固定的卡号，并且任何正规厂家生产的网卡上都直接标明了卡号，一般为一组12位的16进制数。其中前6位代表网卡的生产厂商，您可以虚拟物理网卡MAC、当前网卡MAC和操作系统的网卡MAC地址。</p>
-<p>选择要操作的网卡，勾选操作选项，纯手工输入网卡MAC地址，点击随机按钮来随机生成一份，点击确定按钮。</p>
-<p>为了使用方便，本工具包单独制作有一个网卡MAC地址修改工具.exe的可执行文件。 </p>
-<p><strong>2、VM虚拟机修改使用说明</strong></p>
-<p>VMwarehardware是一款在VMware Workstation Pro虚拟机里面运行的软件，用来修改VMware Workstation Pro虚拟机里面的xp-win10系统的硬件信息，3z学堂这里要特别提醒下，请勿用这个虚拟机软件修改物理机器！</p>
-<p>请勿用这个虚拟机软件修改物理机器！请勿用这个虚拟机软件修改物理机器！重要的事情说三遍！</p>
-<p>VMware Workstation（中文名“威睿工作站”）是一款功能强大的桌面虚拟计算机软件，提供用户可在单一的桌面上同时运行不同的操作系统，和进行开发、测试 、部署新的应用程序的最佳解决方案。VMware Workstation可在一部实体机器上模拟完整的网络环境，以及可便于携带的虚拟机器，其更好的灵活性与先进的技术胜过了市面上其他的虚拟计算机软件。对于企业的 IT开发人员和系统管理员而言， VMware在虚拟网路，实时快照，拖曳共享文件夹，支持 PXE 等方面的特点使它成为必不可少的工具。</p>
-<p>使用方法：在VMware Workstation Pro虚拟机里面运行VMwarehardware.exe，勾选要修改的信息，可点击随机来随机生成硬件信息，点击确定修改按钮来实现。</p>
-<p><strong>3、游戏多开虚拟硬件使用说明</strong></p>
-<p>GameHardware是一款针对游戏多开多进程不同硬件信息的工具，支持系统MAC地址 硬盘信息 分区信息 自动父子进程硬件信息同步。</p>
-<p>使用方法：启动GameHardware.exe，登陆账号，功能设置，添加程序，启动游戏。</p>
-<p><strong>3.1 父子进程同步模式</strong></p>
-<p>比如A.exe启动了B.exe，然后B.exe又启动了C.exe，那么ABC进程硬件信息同步，反之只有A有效果</p>
-<p><strong>3.2 禁用WMI模式</strong></p>
-<p>禁用系统WMI接口查询硬件信息，推荐勾选，如果进程环境异常请不要勾选增强硬盘模式(插入U盘等移动设备系统识别不了请关闭此项)。注册表中保存了一份硬盘信息，某些程序会读取这里，推荐勾选，如果进程环境异常请不要勾选</p>
-<p><strong>3.3 自动加入模式</strong></p>
-<p>启动新进程自动加入虚拟列表中</p>
-<p><strong>3.4 设置开机启动流程</strong></p>
-<p>1.右键创建到桌面快捷方式 2.拖动桌面快捷方式到开始程序启动</p>
-<h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><p><strong>2018/03/07</strong></p>
-<p>修复分区序列号虚拟设置后去掉勾选无法还原的BUG</p>
-<p><strong>2018/03/02</strong></p>
-<p>紧急去掉上个版本虚拟硬盘信息导致蓝屏的问题</p>
-<p><strong>2018/03/01</strong></p>
-<p>1.禁止查询模式下分区序列号置零处理,修复分区序列号修改后关闭EXE重新打开读取修改状态错误的bug</p>
-<p>2.增强硬盘信息虚拟能力，某些情况下虚拟硬盘信息关闭EXE打开还是以前的信息</p>
-<p>3.磁盘信息只对固定磁盘类型虚拟，过滤U盘 CD-ROM 网络磁盘等等</p>
-<p>4.勾选硬盘信息和禁止查询模式下，插入U盘识别不了的，请关闭这些功能重新插拔U盘已正常识别使用。</p>
-<p><strong>2018/02/23</strong></p>
-<p>驱动全局模式的禁止查询模式增加新的功能，大大提升禁止查询硬件信息能力</p>
-<p><strong>2018/01/31</strong></p>
-<p>hardware正式发布</p>
-<h3 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h3><p><strong>1、虚拟硬件信息后如何恢复？</strong></p>
-<p>当虚拟硬件信息后想恢复原始状态时只需要去掉勾选的硬件信息，点击确定无需重启计算机即可完成恢复。也可以使用快捷恢复按钮”一键恢复”</p>
-<p><strong>2、VMwarehardware使用场景</strong></p>
-<p>VMwarehardware是一款在VMware Workstation Pro虚拟机里面运行的软件，用来修改VMware Workstation Pro虚拟机里面的xp-win10系统的硬件信息，请勿用于修改物理机器，否则后果自负！</p>
-<p><strong>3、操作完毕后软件可以关闭吗？</strong></p>
-<p>操作完成后您可以关闭本软件，它仍然在继续工作</p>
-<p>**4、为什么网卡MAC地址修改失败？ **</p>
-<p>答：这种情况一般是网卡不支持修改MAC地址(比如USB无线网卡)</p>
-<p>**5、为什么重启网卡失败? **</p>
-<p>答：这种情况一般是网卡被其他程序独占打开了，导致程序重启网卡失败，可以尝试手动禁用网卡在启动或重启计算机</p>
-]]></content>
-      <categories>
-        <category>软件</category>
-      </categories>
-      <tags>
-        <tag>破解软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>教你在树莓派上安装OpenCV</title>
-    <url>//post/smpOpenCV.html</url>
-    <content><![CDATA[<h1 id="安装前提"><a href="#安装前提" class="headerlink" title="安装前提"></a>安装前提</h1><h3 id="1-配置好树莓派的Raspbian操作系统"><a href="#1-配置好树莓派的Raspbian操作系统" class="headerlink" title="1.配置好树莓派的Raspbian操作系统"></a>1.配置好树莓派的Raspbian操作系统</h3><p>本教程使用的系统是2018年6月27日树莓派官方发布的Raspbian-stretch操作系统，<a href="https://www.raspberrypi.org/downloads/raspbian/">官方下载链接</a>。</p>
-<h3 id="2-切换到国内的apt-get下载源和pip下载源"><a href="#2-切换到国内的apt-get下载源和pip下载源" class="headerlink" title="2.切换到国内的apt-get下载源和pip下载源"></a>2.切换到国内的apt-get下载源和pip下载源</h3><p>防止下载速度过慢。</p>
-<h3 id="3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"><a href="#3-如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置" class="headerlink" title="3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置"></a>3.如果你有树莓派官方的摄像头Picamera，需按如下方法正确配置</h3><blockquote>
-<p>如果没有官方摄像头，也不影响安装</p>
-</blockquote>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4b420067401c12f1.png%7CimageView2/2/w/400" alt="连接树莓派摄像头Picamera"></p>
-<p>在命令行输入以下命令，这个命令的意思是用nano编辑器打开modules这个文件：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo nano /etc/modules</span><br></pre></td></tr></table></figure>
-
-<p>在这个文件末尾添加一行</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">bcm2835-v4l2</span><br></pre></td></tr></table></figure>
-
-<p>也就是这个效果</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-364a600885dd8cdf.png%7CimageView2/2/w/1240"></p>
-<p>先按键盘上的<code>ctrl</code>+<code>o</code>，再按回车保存，再按<code>ctrl</code>+<code>x</code>退出nano编辑器回到命令行界面。</p>
-<p>输入命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">vcgencmd get_camera</span><br></pre></td></tr></table></figure>
-
-<p>如果得到下面的结果，则证明摄像头连接成功</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-07e411efaac25994.png%7CimageView2/2/w/1240" alt="检查摄像头是否被树莓派识别"></p>
-<p>可以输入命令</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">raspistill -o image.jpg</span><br></pre></td></tr></table></figure>
-
-<p>调用摄像头拍一张照片，命名为image.jpg，存储在/pi/home路径，也就是桌面左上角资源管理器一打开显示的那个路径。如果能看到摄像头上红灯亮，目录里面有照片，则进一步说明摄像头配置正确。</p>
-<h1 id="在树莓派安装运行在Python2上的OpenCV"><a href="#在树莓派安装运行在Python2上的OpenCV" class="headerlink" title="在树莓派安装运行在Python2上的OpenCV"></a>在树莓派安装运行在Python2上的OpenCV</h1><h3 id="1、安装"><a href="#1、安装" class="headerlink" title="1、安装"></a>1、安装</h3><p> 打开树莓派的命令行界面，两个命令即可完成安装。执行第一条命令需要半个小时左右，请耐心等待。第二条命令执行只需要几秒钟。</p>
-<blockquote>
-<p>友情提示：</p>
-<p>建议第一个命令用树莓派桌面上自带的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
-</blockquote>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install libopencv-dev</span><br><span class="line">sudo apt-get install python-opencv</span><br></pre></td></tr></table></figure>
-
-<h3 id="2、在Python2上测试OpenCV"><a href="#2、在Python2上测试OpenCV" class="headerlink" title="2、在Python2上测试OpenCV"></a>2、在Python2上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python</code>或者<code>python2</code>，回车</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
-
-<p>如果出现下图的结果，说明Python2环境下的OpenCV安装成功。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-202da54ab2900054.png%7CimageView2/2/w/1240" alt="python2环境中运行opencv"></p>
-<p>也可以输入</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
-
-<p>查看opencv版本号</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-f97eed06c60e3c03.png%7CimageView2/2/w/1240" alt="查看python2的opencv版本"></p>
-<blockquote>
-<p>为啥叫cv2而不叫opencv呢？这是因为OpenCV是基于C/C++开发的，有两个版本，’’cv”版本的API是C语言开发的，’’cv2’’版本的API是基于C++语言开发的，为了保持向后兼容性所以叫”cv2”，但我们都知道cv2就是OpenCV本尊。</p>
-</blockquote>
-<p>也可以在桌面命令行里输入以下三个命令调用树莓派摄像头，把摄像头捕捉到的画面显示在桌面上，按<code>ctrl</code>+<code>c</code>键退出。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git clone https://github.com/TommyZihao/opencvtest.git</span><br><span class="line">cd opencvtest</span><br><span class="line">python2 testopencv.py</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-4558d79be1004043.png%7CimageView2/2/w/1240" alt="测试python2上的opencv：调用树莓派摄像头"></p>
-<h1 id="在树莓派安装运行在Python3上的OpenCV"><a href="#在树莓派安装运行在Python3上的OpenCV" class="headerlink" title="在树莓派安装运行在Python3上的OpenCV"></a>在树莓派安装运行在Python3上的OpenCV</h1><h3 id="1、安装numpy"><a href="#1、安装numpy" class="headerlink" title="1、安装numpy"></a>1、安装numpy</h3><p>打开命令行界面，输入以下命令，安装Python科学计算库numpy</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo pip3 install numpy</span><br></pre></td></tr></table></figure>
-
-<h3 id="2、在树莓派设置中把根目录扩大到整个SD卡"><a href="#2、在树莓派设置中把根目录扩大到整个SD卡" class="headerlink" title="2、在树莓派设置中把根目录扩大到整个SD卡"></a>2、在树莓派设置中把根目录扩大到整个SD卡</h3><p>命令行界面输入命令，进入树莓派配置界面。用上下键和左右键切换光标位置。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo raspi-config</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-59742b839ab0c666.png%7CimageView2/2/w/1240" alt="树莓派配置界面"></p>
-<h4 id="第七行：Advanced-Options"><a href="#第七行：Advanced-Options" class="headerlink" title="第七行：Advanced Options"></a>第七行：Advanced Options</h4><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-1d3bb4659426dce8.png%7CimageView2/2/w/1240" alt="Adcanved Options"></p>
-<p>选择Expand Filesystem，将根目录扩展到这个SD卡，充分利用SD卡的存储空间。如果不进行这一步，后续命令会出现卡死。退出设置界面，重启树莓派。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo reboot</span><br></pre></td></tr></table></figure>
-
-<h3 id="3、安装OpenCV所需的库"><a href="#3、安装OpenCV所需的库" class="headerlink" title="3、安装OpenCV所需的库"></a>3、安装OpenCV所需的库</h3><p>挨个运行下面八条命令。共需要七分钟（注意倒数第三条命令中要安装四个-dev软件包）。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install build-essential git cmake pkg-config -y</span><br><span class="line">sudo apt-get install libjpeg8-dev -y</span><br><span class="line">sudo apt-get install libtiff5-dev -y</span><br><span class="line">sudo apt-get install libjasper-dev -y</span><br><span class="line">sudo apt-get install libpng12-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev -y</span><br><span class="line"></span><br><span class="line">sudo apt-get install libgtk2.0-dev -y</span><br><span class="line">sudo apt-get install libatlas-base-dev gfortran -y</span><br></pre></td></tr></table></figure>
-
-<h3 id="4、下载OpenCV"><a href="#4、下载OpenCV" class="headerlink" title="4、下载OpenCV"></a>4、下载OpenCV</h3><p>在命令行输入以下三条命令，下载两个压缩包到树莓派的**/home/pi/Downloads**目录下。第一个压缩包86.8MB，第二个压缩包54.5MB：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv/archive/3.4.0.zip</span><br><span class="line"></span><br><span class="line">wget https://github.com/Itseez/opencv_contrib/archive/3.4.0.zip</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>如果下载速度很慢（比如每秒几个KB）：</p>
-<p>方法1：可以在电脑浏览器中输入wget后面的链接下载压缩包，再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
-<p>方法2：:可以用电脑在<a href="https://pan.baidu.com/s/182NYJzW1nCpnQ7ftSYYuSw">百度网盘链接</a>下载这两个压缩包之后再用Fillzilla或者U盘等方法把文件传输到树莓派的**/home/pi/Downloads**目录下（一定不能错）。</p>
-</blockquote>
-<p>解压这两个压缩包</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads</span><br><span class="line">unzip opencv-3.4.0.zip</span><br><span class="line">unzip opencv_contrib-3.4.0.zip</span><br></pre></td></tr></table></figure>
-
-<h3 id="5、设置编译参数"><a href="#5、设置编译参数" class="headerlink" title="5、设置编译参数"></a>5、设置编译参数</h3><p>设置编译参数</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0</span><br><span class="line">mkdir build</span><br><span class="line">cd build</span><br></pre></td></tr></table></figure>
-
-<p>设置CMAKE参数，注意，下面这是一行命令（包括最后那俩点儿），需要耐心等待十五分钟左右：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/home/pi/Downloads/opencv_contrib-3.4.0/modules -D BUILD_EXAMPLES=ON -D WITH_LIBV4L=ON PYTHON3_EXECUTABLE=/usr/bin/python3.5 PYTHON_INCLUDE_DIR=/usr/include/python3.5 PYTHON_LIBRARY=/usr/lib/arm-linux-gnueabihf/libpython3.5m.so PYTHON3_NUMPY_INCLUDE_DIRS=/home/pi/.local/lib/python3.5/site-packages/numpy/core/include ..</span><br></pre></td></tr></table></figure>
-
-<p>根据下图判断你是否配置成功了CMAKE。如果失败，可能是因为两个压缩包的路径没有严格按照上文的要求。如果成功，就可以开始最重要的编译了。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-532012bb713dc869.png%7CimageView2/2/w/1240" alt="CMAKE配置"></p>
-<h3 id="6、编译"><a href="#6、编译" class="headerlink" title="6、编译"></a>6、编译</h3><p>最后一步，也是最重要的一步：编译</p>
-<p>保证树莓派有至少5G的存储空间，建议本命令用树莓派桌面上的命令行工具运行，而不要使用远程ssh连接。因为执行命令时间太长，中途如果ssh断线的话无法得知是否已经安装完毕。</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cd /home/pi/Downloads/opencv-3.4.0/build</span><br><span class="line">make</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-36df3d7c4c6c0db7.png%7CimageView2/2/w/1240" alt="开始编译"></p>
-<p>编译两个小时之后，完成了40%</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-e938295662efec1e.png%7CimageView2/2/w/1240" alt="编译两个小时之后"></p>
-<p>静待五个小时的编译。注意，在此期间，树莓派要供电充足，不要运行其它任务，以免因为内存不够什么的幺蛾子报错。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-542b34f0f59da291.png%7CimageView2/2/w/1240" alt="编译完成"></p>
-<p><code>make</code>命令执行完成之后，执行下面的命令，执行命令需要一分钟：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo make insall</span><br></pre></td></tr></table></figure>
-
-<h3 id="7、在Python3上测试OpenCV"><a href="#7、在Python3上测试OpenCV" class="headerlink" title="7、在Python3上测试OpenCV"></a>7、在Python3上测试OpenCV</h3><p>安装好之后，在命令行中输入<code>python3</code>，回车</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br></pre></td></tr></table></figure>
-
-<p>回车</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">cv2.__version__</span><br></pre></td></tr></table></figure>
-
-<p>回车</p>
-<p>如果出现下图的结果，说明Python3环境下的OpenCV安装成功。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://upload-images.jianshu.io/upload_images/13714448-8b4162cec9589cd6.png%7CimageView2/2/w/1240" alt="Python3的OpenCV安装完成"></p>
-<h1 id="参考文献与扩展阅读"><a href="#参考文献与扩展阅读" class="headerlink" title="参考文献与扩展阅读"></a>参考文献与扩展阅读</h1><blockquote>
-<p><a href="https://www.jianshu.com/p/3180a253fe3c">【树莓派】树莓派+OpenCV3.4 + python3.5 成功以及注意细节</a></p>
-<p><a href="https://blog.csdn.net/u014397533/article/details/50910531">树莓派安装Python-OpenCV</a></p>
-<p> <a href="https://www.cnblogs.com/Pyrokine/p/8921285.html">基于树莓派3B+Python3.5的OpenCV3.4的配置教程</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>树莓派</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>WordPress配置完SSL证书后台重定向过多</title>
     <url>//post/wpsslerror.html</url>
     <content><![CDATA[<h5 id="Wordpress配置完SSL证书后台重定向过多"><a href="#Wordpress配置完SSL证书后台重定向过多" class="headerlink" title="Wordpress配置完SSL证书后台重定向过多"></a>Wordpress配置完SSL证书后台重定向过多</h5><p>前言:在配置完cloudflash的DNS解析后，我发现我的管理员后台一直显示重定向过多。</p>
@@ -1094,6 +1121,51 @@ layout: false
       </categories>
       <tags>
         <tag>WordPress错误</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电商运营基本知识点</title>
+    <url>//post/yunyin.html</url>
+    <content><![CDATA[<p>电商运营要了解基本的一些电商词汇，一定要知道。而且要花时间把其中的逻辑想清楚。才能结合数据分析自身店铺那个环节出了问题</p>
+<h4 id="问题一：电子商务有哪些模式"><a href="#问题一：电子商务有哪些模式" class="headerlink" title="问题一：电子商务有哪些模式"></a>问题一：电子商务有哪些模式</h4><p>B2B（经济组织对经济组织）<br>B2C（经济组织对消费者）<br>B2B2C（企业对企业对消费者）<br>C2B（T）（消费者集合竞价-团购）<br>C2C（消费者对消费者）<br>B2F（企业对家庭）<br>O2O（网上与网下相结合）<br>SaaS（软件服务）<br>PaaS（平台服务）<br>IaaS（基础服务）<br>M-B（移动电子商务）<br>B2G（政府采购）<br>G2B（政府抛售）<br>B2M（面向市场营销的电子商务企业）<br>M2C（生产厂商对消费者）<br>SoLoMo（社交+本地化+移动）<br>ABC（代理商-商家-消费者）<br>BAB（企业-联盟-企业）<br>P2C（生活服务平台）<br>P2P（点对点、渠道对渠道）<br>SNS-EC（社会化网络电子商务）<br>B2S（分享式商务，或体验式商务）<br>旗舰店天猫旗舰店 京东 苏宁 国美</p>
+<h4 id="问题二：O2O、C2C、B2B、B2C的区别在哪里？"><a href="#问题二：O2O、C2C、B2B、B2C的区别在哪里？" class="headerlink" title="问题二：O2O、C2C、B2B、B2C的区别在哪里？"></a>问题二：O2O、C2C、B2B、B2C的区别在哪里？</h4><p>1、O2O是online to offline分为四种运营模式：<br>1）online to offline是线上交易到线下消费体验<br>2）offline to online是线下营销到线上交易<br>3）offline to online tooffline是线下营销到线上交易再到线下消费体验<br>4）online to offline toonline是线上交易或营销到线下消费体验再到线上消费体验</p>
+<p>2、通过举例说区别。<br>1）O2O，比如：保险直购O2O，苏宁易购O2O，大众点评O2O等<br>2）C2C是consumer to consumer就是个人对个人的，比如淘宝的小店铺。<br>3）B2C是business to consumer是商家对个人，这个就很多了卓越、当当、京东等等都是。B2C、C2C很重要的一点是都运用了物流。<br>4）B2B是business to business是企业间的，比如阿里巴巴。</p>
+<p>举例通俗说明一下，就是：<br>1）C2C就是我卖东西你来买<br>2）B2C就是我成立个公司卖东西，你来买<br>3）O2O就是我成立个公司卖东西你来买但是要你自己来拿<br>4）B2B就是你也成立了公司买我公司的东西</p>
+<h4 id="问题三：移动互联网最常出现的名词有哪些？"><a href="#问题三：移动互联网最常出现的名词有哪些？" class="headerlink" title="问题三：移动互联网最常出现的名词有哪些？"></a>问题三：移动互联网最常出现的名词有哪些？</h4><p>【广告形式】<br>RichMedia：(富媒体)，这种应用采取了所有适合的最先进技术，以最好的传达广告主的信息，甚至与用户进行互动！如视频、flash广告等<br>植入式广告：在电影或电视剧或者其它场景插入相关的广告。如变形金刚，非诚勿扰等。<br>SEM：Search Engine Marketing的缩写，意即搜索引擎营销。<br>SEO：SearchEngineOptimization，搜索引擎优化。<br>EDM：Electronic DirectMarketing的缩写，就是电子邮件营销。<br>AdWords：Google的关键词竞价广告。<br>Banner：横幅广告<br>Button：图标广告<br>PR推广：软文推广<br>Adertorial：软文广告的一种，即付费文章，故意设计成像一篇普通的文章。<br>BannerAd：（横幅广告）网页顶部、底部或者侧边的广告展示位置；<br>DSP展示广告：是Demand-Side Platform的缩写，即需求方平台。<br>POP：Point Of Purchase，意为“卖点广告”，又名「店头陈设」。本来是指商业销售中的一种店头促销工具，其型式不拘，但以摆设在店头的展示物为主，如吊牌、海报、小贴纸、纸货架、展示架、纸堆头、大招牌、实物模型、旗帜等等，都是林立在POP的范围内。</p>
+<p>【推广模式分类】<br>CPS：Cost Per Sales的缩写,即销售分成。<br>CPA：Cost PerAction，每次动作成本。<br>CPM：Cost Per Mille，或者Cost Per Thousand，即每千人成本。<br>CPC：Cost Per Click；Cost Per Thousand Click-Through，即每点击成本。<br>CPR：Cost Per Response，即每回应成本。<br>CPP：Cost Per Purchase，即每购买成本。</p>
+<p>【点击及转化】<br>UV： Unique Vister的缩写，独立访客。<br>PV： page view，即网站被浏览的总次数；<br>IP： 即internet protocol,指独立IP数，一天内相同IP地址只被计算一次；<br>PR值： 全称为Pagerank（网页级别），是用于评测一个网页“重要性”的一种方法。<br>Alexa： Alexa.com是专门发布网站世界排名的网站，网站排名有两种：综合排名和分类排名。<br>Click：（点击量/点击次数）即Click through，用户点击广告的次数，评估广告效果的指标之一；<br>ClickRate：（点击率/点进率）即Click through-Rate;即网络广告被点击的次数与访问次数的比例，即clicks/impressions.如果这个页面被访问了100次，而页面上的广告也被点击了20次，那么CTR为20%，CTR是评估广告效果的指标之一。<br>ROI：Return On Investment的缩写，投资报酬率。<br>CR转化率：ConversionRate的缩写，是指访问某一网站访客中，转化的访客占全部访客的比例。<br>二跳率：网站页面展开后，用户在页面上产生的首次点击被称为 “二跳”，二跳的次数即为”二跳量”，二跳量与浏览量的比值称为页面的二跳率。<br>跳出率： 跳出率是指浏览了一个页面就离开的用户占一组页面或一个页面访问次数的百分比。<br>人均访问页面：PV总和除以IP=人均访问页面。人均访问页面&gt;=10个，才算优质用户。<br>重复购买率：指消费者在网站中的重复购买次数；<br>客单价：是指每一个订单的平均购买商品金额，也就是平均交易金额。</p>
+<h4 id="问题四：电商营销方式有哪些？"><a href="#问题四：电商营销方式有哪些？" class="headerlink" title="问题四：电商营销方式有哪些？"></a>问题四：电商营销方式有哪些？</h4><p>网络媒体：门户网站广告，客户端软件广告。<br>SEM： 竞价排名，联盟广告。<br>EDM：内部邮件群发，第三方平台，数据库整合营销等方式。<br>社区营销：BBS推广（发帖和活动） SNS（微博、微信、QQ群推广等）。<br>CPS\代销：销售分成（一起发，成果网，创盟）。<br>SEO：搜索引擎优化。<br>积分营销：积分兑换，积分打折，积分购买等。<br>DM目录：传统单张目录，如麦考林，红孩子，凡客。<br>线下活动：会展，体验店等。<br>传统媒体：电视电台，报刊杂志。</p>
+<h4 id="问题五：电商营销数字化参照标准有哪些指标？"><a href="#问题五：电商营销数字化参照标准有哪些指标？" class="headerlink" title="问题五：电商营销数字化参照标准有哪些指标？"></a>问题五：电商营销数字化参照标准有哪些指标？</h4><p>[访问页面]：<br>网络推广的访问者访问 &gt;=5个页面以上才是有效流量。<br>访问&gt;=10个页面以上是高质量的流量，访问2个以下页面是垃圾流量。<br>访问页面=70%是高质量流量。</p>
+<p>[停留时间]：<br>超过3分钟才是有效流量；<br>超过6分钟是高质量流量；<br>小于1分钟的是垃圾流量。</p>
+<p>[二跳率数据]：<br>推广来主页二跳率70%以上是高质量流量。<br>[转化率数据]：<br>推广购买转化率&gt;=1%以上为高质量流量。</p>
+<p>[动销率]：<br>商品动销率=动销品种数 ÷ 门店经营总品种数*100%。</p>
+<p>[动销品种数]：<br>门店中所有商品种类中有销售的商品种类总数。</p>
+<p>[商品动销率]<br>商品累计销售数量 ÷商品期末库存数量</p>
+<p>[流量需要辩别好]：<br>真实流量与流量，<br>有效流量与流量，<br>自然流量与购买流量，<br>PV高的流量与PV低的流量，<br>商业流量与娱乐流量。  </p>
+<h4 id="问题六：数字化工具汇总"><a href="#问题六：数字化工具汇总" class="headerlink" title="问题六：数字化工具汇总"></a>问题六：数字化工具汇总</h4><p>访问量查询： alexa，chinaz查询工具。<br>网络流行度：搜索网站名，搜索结果越多相对来说越流行。<br>行业排名：查询艾瑞的排名。<br>网络新闻曝光率：用baidu新闻搜索。<br>SEO表现： 收录与PR，排名。<br>百度指数：百度指数是用以反映关键词在过去30天内的网络曝光率及用户关注度。<br>每天新增注册用户数＝UV_1%（参考数据）<br>活跃用户 ＝注册用户/10（参考数据）<br>最高同时在线＝活跃用户_20%（参考数据）<br>收费交易客户数＝活跃用户_5%（参考数据）<br>销售额： 收费交易客户数_商品平均价格<br>客单价: per customer transaction 零售术语又称ATV，即每位顾客平均购买商品金额</p>
+<h4 id="问题七：电子商务公司职位，你想干哪个？"><a href="#问题七：电子商务公司职位，你想干哪个？" class="headerlink" title="问题七：电子商务公司职位，你想干哪个？"></a>问题七：电子商务公司职位，你想干哪个？</h4><p>UI即UserInterface（用户界面）的简称。UI设计则是指对软件的人机交互、操作逻辑、界面美观的整体设计.。<br>TD即技术部研发简称TDD–TechnologyDevelopment Department<br>JS即JavaScript前端开发。<br>DZ即页面重构，页面制作。<br>PM即项目经理。<br>PDM即产品经理。<br>UED即用户体验设计，交互设计。<br>OperationManager 即运营经理。  </p>
+<h4 id="问题八：商品物流及客户管理方面专业名词知多少？"><a href="#问题八：商品物流及客户管理方面专业名词知多少？" class="headerlink" title="问题八：商品物流及客户管理方面专业名词知多少？"></a>问题八：商品物流及客户管理方面专业名词知多少？</h4><p>QC：即英文Quality Control的简称，中文意义是品质控制，又称质检，即对产品进行一个初步的检验，排除质量问题。</p>
+<p>SKU：即英文Stock Keeping Unit的简称，即库存进出计量的单位，可以是以件，盒，托盘等为单位。保存库存控制的最小可用单位。</p>
+<p>3PL：即第三方物流（Third Party Logistics），电商行业意指快递公司。</p>
+<p>PCS：即计量单位的简写，即pieces一块、件、片、篇、张、条、套。多见于外贸交易中，后为书写方便，延伸到其他行业，可代表个、包、袋等表示数量的产品。</p>
+<p>商品编码：企业生产商品入库的数字身份证，正规厂家都会有一个全球通用、唯一的商品编码。</p>
+<p>商品条码：是由一组按一定规则排列的条、空及对应字符数字组成的用于表示上点自动销售管理系统的信息标记或者对商品分类编码进行表示的标记。</p>
+<p>实际库存：实际仓库中的实际库存量。</p>
+<p>虚拟库存：即网站前台展示的库存数量，是电商行业特定属性的产物，日常操作中，经常有消费者仙丹后可能不会付款，商品不做时间出库操作，但是前台页面库存已减少，为了不影响前台展现的库存量，因此需要设置一个虚拟库存。</p>
+<p>库存预警：库存预警是指设置一个库存警戒线，当仓库实际库存到达仓库警戒线的时候就会提醒你补货，库存警戒线设置可参考该商品平时销量情况考虑。</p>
+<p>ITO库存周转率：Inventoryturn over，一般缩写为ITO，一种衡量材料在工厂里或是整条价值流中，流动快慢的标准。最常见的计算库存周转的方法，就是把年度销售产品的成本（不计销售的开支以及管理成本）作为分子，除以年度平均库存价值，即：库存周转率=年度销售产品成本/当年平均库存价值</p>
+<p>【物流配送】<br>SRM是SupplierRelationship Management的缩写，即供应商关系管理。<br>ERP是EnterpriseResource Planning的缩写，即企业资源计划。<br>OMS是OrderManagement System的缩写，即订单管理系统。</p>
+<p>【客户管理】<br>CRM：是Customer Relationship Management的缩写，即客户关系管理。<br>RFM模型：是衡量客户价值和客户创利能力的重要工具和手段。该机械模型通过一个客户的近期购买行为、购买的总体频率以及花了多少钱三项指标来描述该客户的价值状况。</p>
+<h4 id="【WEB产品设计】"><a href="#【WEB产品设计】" class="headerlink" title="【WEB产品设计】"></a>【WEB产品设计】</h4><h5 id="用户界面UI："><a href="#用户界面UI：" class="headerlink" title="用户界面UI："></a>用户界面UI：</h5><p>UserInterface（用户界面）的简称，UI设计则是指对页面的人机交互、操作逻辑、界面美观的整体设计。</p>
+<h5 id="用户体验UE："><a href="#用户体验UE：" class="headerlink" title="用户体验UE："></a>用户体验UE：</h5><p>UserExperience（用户体验）的简称。它是指用户访问一个网站或者使用一个产品时的全部体验。</p>
+<p>问题九：前方高能，你确定你数学学好了？—-数据比例换算公式</p>
+<p>老客户 =回头率_客户数<br>回头率 =回头客人/店铺总访客数<br>新客户 =客户数-老客户<br>转换率 =客户数/UV<br>点击率 =点击数/页面展现<br>PV利用率 =客户数/PV<br>客户月增长率 =当月客户数/当月客户数— 1<br>客单价 =支付宝成交金额/支付宝成交笔数<br>页面打开率 =从首页点击进入宝贝页的次数/首页浏览量<br>人均访问页面数 =PV/UV（浏览人数/页面总访问人数）<br>人均店内停留时间 =总访问时长/UV<br>收藏率 =当天收藏量/UV<br>宝贝跳失率 =只访问了该宝贝一个页面就离开的访问次数/该宝贝总访问次数<br>库存周转率 =年度销售产品成本/当年平均库存价值<br>商品动销率 =动销品种数 ÷ 门店经营总品种数_100%。<br>CPC=财务消耗/点击数<br>CPM =财务消耗/广告有效展现量*1000</p>
+]]></content>
+      <categories>
+        <category>电商</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -1824,33 +1896,6 @@ npm install hexo-generator-baidu-sitemap --save</code></pre>
       </categories>
       <tags>
         <tag>开发</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站推荐第一期</title>
-    <url>//post/websitefx.html</url>
-    <content><![CDATA[<h5 id="网站推荐第一期"><a href="#网站推荐第一期" class="headerlink" title="网站推荐第一期"></a>网站推荐第一期</h5><p>不知道有没有人和我一样是书签强迫站，就是那种非常喜欢把书签塞的满满的全是干货。今天我来给大家推荐几个网站。</p>
-<ul>
-<li>资源类 </li>
-</ul>
-<p><a href="https://www.fosshub.com/">Fosshub</a> 开源软件合集</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8D.png" alt="image-20200829141755290"></p>
-<p>fosshub是一个开源软件合计网站，里面包含了各种分类</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8H.png" alt="png"></p>
-<p>如果你需要寻找开源软件你可以前往这个网站。</p>
-<ul>
-<li>杂项类</li>
-</ul>
-<p><a href="https://www.cupfox.com/">Cupfox</a> 茶杯狐</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://i.niupic.com/images/2020/08/29/8B8Y.png" alt="cif"></p>
-<p>因为某些原因，我就不多说啥了，这玩意你看图片就知道是干啥用的了。</p>
-<p>那么，第一期就先这样了。我们下一期再见~</p>
-]]></content>
-      <categories>
-        <category>推荐</category>
-      </categories>
-      <tags>
-        <tag>网站推荐</tag>
       </tags>
   </entry>
 </search>
