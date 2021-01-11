@@ -1,0 +1,275 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>hexo主题配置整合包发布 | Nesxc</title><meta name="keywords" content="hexo-ran"><meta name="author" content="Nesxc"><meta name="copyright" content="Nesxc"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><meta name="description" content="hexo-ran预览: 👍 Ran文檔: 📖 Butterfly Docs项目地址: Hexo-Ran   本整合包是基于hexo-butterfly整合而来的整合包 安裝Git 安裝新建一个blog文件夹，在里面直接运行: 1git clone https:&#x2F;&#x2F;github.com&#x2F;Ran08&#x2F;hexo-ran.git exe安装打开提供的exe程序，将文件安装在你的hexo博客目录即可点">
+<meta property="og:type" content="article">
+<meta property="og:title" content="hexo主题配置整合包发布">
+<meta property="og:url" content="https://www.nesxc.com/post/hexo-ran/">
+<meta property="og:site_name" content="Nesxc">
+<meta property="og:description" content="hexo-ran预览: 👍 Ran文檔: 📖 Butterfly Docs项目地址: Hexo-Ran   本整合包是基于hexo-butterfly整合而来的整合包 安裝Git 安裝新建一个blog文件夹，在里面直接运行: 1git clone https:&#x2F;&#x2F;github.com&#x2F;Ran08&#x2F;hexo-ran.git exe安装打开提供的exe程序，将文件安装在你的hexo博客目录即可点">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://www.nesxc.com/img/defaultcover.jpg">
+<meta property="article:published_time" content="2020-12-03T15:31:18.000Z">
+<meta property="article:modified_time" content="2021-01-10T16:17:54.423Z">
+<meta property="article:author" content="Nesxc">
+<meta property="article:tag" content="hexo-ran">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.nesxc.com/img/defaultcover.jpg"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://www.nesxc.com/post/hexo-ran/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//hm.baidu.com"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="preconnect" href="//zz.bdstatic.com"/><meta name="baidu-site-verification" content="e96a99ede662ec2e25d60808b5886cc0"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"><script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e96a99ede662ec2e25d60808b5886cc0";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"limitCount":50,"languages":{"author":"作者: Nesxc","link":"链接: ","source":"来源: Nesxc","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。"}},
+  ClickShowText: undefined,
+  lightbox: 'mediumZoom',
+  Snackbar: undefined,
+  justifiedGallery: {
+    js: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js',
+    css: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css'
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isanchor: false
+};
+
+var saveToLocal = {
+  set: function setWithExpiry(key, value, ttl) {
+    const now = new Date()
+    const expiryDay = ttl * 86400000
+    const item = {
+      value: value,
+      expiry: now.getTime() + expiryDay,
+    }
+    localStorage.setItem(key, JSON.stringify(item))
+  },
+
+  get: function getWithExpiry(key) {
+    const itemStr = localStorage.getItem(key)
+
+    if (!itemStr) {
+      return undefined
+    }
+    const item = JSON.parse(itemStr)
+    const now = new Date()
+
+    if (now.getTime() > item.expiry) {
+      localStorage.removeItem(key)
+      return undefined
+    }
+    return item.value
+  }
+}</script><script id="config_change">var GLOBAL_CONFIG_SITE = { 
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2021-01-11 00:17:54'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(function () {  window.activateDarkMode = function () {
+    document.documentElement.setAttribute('data-theme', 'dark')
+    if (document.querySelector('meta[name="theme-color"]') !== null) {
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+    }
+  }
+  window.activateLightMode = function () {
+    document.documentElement.setAttribute('data-theme', 'light')
+   if (document.querySelector('meta[name="theme-color"]') !== null) {
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+    }
+  }
+  const autoChangeMode = 'false'
+  const t = saveToLocal.get('theme')
+  if (autoChangeMode === '1') {
+    const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+    const isLightMode = window.matchMedia('(prefers-color-scheme: light)').matches
+    const isNotSpecified = window.matchMedia('(prefers-color-scheme: no-preference)').matches
+    const hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+    if (t === undefined) {
+      if (isLightMode) activateLightMode()
+      else if (isDarkMode) activateDarkMode()
+      else if (isNotSpecified || hasNoSupport) {
+        const now = new Date()
+        const hour = now.getHours()
+        const isNight = hour <= 6 || hour >= 18
+        isNight ? activateDarkMode() : activateLightMode()
+      }
+      window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
+        if (saveToLocal.get('theme') === undefined) {
+          e.matches ? activateDarkMode() : activateLightMode()
+        }
+      })
+    } else if (t === 'light') activateLightMode()
+    else activateDarkMode()
+  } else if (autoChangeMode === '2') {
+    const now = new Date()
+    const hour = now.getHours()
+    const isNight = hour <= 6 || hour >= 18
+    if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+    else if (t === 'light') activateLightMode()
+    else activateDarkMode()
+  } else {
+    if (t === 'dark') activateDarkMode()
+    else if (t === 'light') activateLightMode()
+  }const asideStatus = saveToLocal.get('aside-status')
+if (asideStatus !== undefined) {
+   if (asideStatus === 'hide') {
+     document.documentElement.classList.add('hide-aside')
+   } else {
+     document.documentElement.classList.remove('hide-aside')
+   }
+}})()</script><link rel="stylesheet" href="https://at.alicdn.com/t/font_2309438_v0v66azm33r.css"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Ran08/file@master//git.css"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Ran08/file@master/nesxc-s.css"/><div class="aplayer" data-id="5441751858" data-server="netease" data-type="playlist" data-fixed="true" data-listFolded="false" data-order="random" data-preload="true"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Ran08/file@master/APlayer.min.css"><script src="https://cdn.jsdelivr.net/gh/Ran08/file@master/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@1.2.0/dist/Meting.min.js"></script><meta name="generator" content="Hexo 5.2.0"><link rel="alternate" href="/atom.xml" title="Nesxc" type="application/atom+xml">
+</head><body><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="author-avatar"><img class="avatar-img" data-lazy-src="/img/tx.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">27</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">17</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">8</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw iconfont icon-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw iconfont icon-shijian"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-icon-test3"></i><span> 文章</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/tags/"><i class="fa-fw iconfont icon-biaoqian"></i><span> 标签</span></a></li><li><a class="site-page" href="/categories/"><i class="fa-fw iconfont icon-icon"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/messageboard/"><i class="fa-fw iconfont icon-liuyan"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw iconfont icon-lianjie"></i><span> 友情链接</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-icon-test3"></i><span> 工具</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/qn/"><i class="fa-fw iconfont icon-taiyang"></i><span> 100%的晴天女孩</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://status.nesxc.com/"><i class="fa-fw iconfont icon-jiance"></i><span> 网站监测</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://cdn.nesxc.com/"><i class="fa-fw iconfont icon-SCDNanquanjiasu"></i><span> 图床</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-icon-test3"></i><span> 关于</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/about/"><i class="fa-fw iconfont icon-guanyu"></i><span> 关于我</span></a></li><li><a class="site-page" href="/aboutsite/"><i class="fa-fw iconfont icon-guanyu"></i><span> 关于本站</span></a></li><li><a class="site-page" href="/disclaimer/"><i class="fa-fw iconfont icon-guanyu"></i><span> 免责声明</span></a></li></ul></div></div></div></div><div id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url(/img/defaultcover.jpg)"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">Nesxc</a></span><span id="menus"><div id="search_button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw iconfont icon-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw iconfont icon-shijian"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-icon-test3"></i><span> 文章</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/tags/"><i class="fa-fw iconfont icon-biaoqian"></i><span> 标签</span></a></li><li><a class="site-page" href="/categories/"><i class="fa-fw iconfont icon-icon"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/messageboard/"><i class="fa-fw iconfont icon-liuyan"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw iconfont icon-lianjie"></i><span> 友情链接</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-icon-test3"></i><span> 工具</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/qn/"><i class="fa-fw iconfont icon-taiyang"></i><span> 100%的晴天女孩</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://status.nesxc.com/"><i class="fa-fw iconfont icon-jiance"></i><span> 网站监测</span></a></li><li><a class="site-page" target="_blank" rel="noopener" href="https://cdn.nesxc.com/"><i class="fa-fw iconfont icon-SCDNanquanjiasu"></i><span> 图床</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw iconfont icon-icon-test3"></i><span> 关于</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/about/"><i class="fa-fw iconfont icon-guanyu"></i><span> 关于我</span></a></li><li><a class="site-page" href="/aboutsite/"><i class="fa-fw iconfont icon-guanyu"></i><span> 关于本站</span></a></li><li><a class="site-page" href="/disclaimer/"><i class="fa-fw iconfont icon-guanyu"></i><span> 免责声明</span></a></li></ul></div></div><span class="close" id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></span></span></nav><div id="post-info"><h1 class="post-title">hexo主题配置整合包发布</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2020-12-03T15:31:18.000Z" title="发表于 2020-12-03 23:31:18">2020-12-03</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2021-01-10T16:17:54.423Z" title="更新于 2021-01-11 00:17:54">2021-01-11</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/hexo/">hexo</a></span></div><div class="meta-secondline"> <span class="post-meta-separator">|</span><span class="post-meta-pv-cv"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
+<h1 id="hexo-ran"><a href="#hexo-ran" class="headerlink" title="hexo-ran"></a>hexo-ran</h1><p>预览: 👍 <a target="_blank" rel="noopener" href="https://www.ranas.cn/">Ran</a><br>文檔: 📖 <a target="_blank" rel="noopener" href="https://butterfly.js.org/posts/21cfbf15/">Butterfly Docs</a><br>项目地址: <a target="_blank" rel="noopener" href="https://github.com/Ran08/hexo-ran/">Hexo-Ran</a></p>
+<p>  本整合包是基于<a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-butterfly</a>整合而来的整合包</p>
+<h2 id="安裝"><a href="#安裝" class="headerlink" title="安裝"></a>安裝</h2><h3 id="Git-安裝"><a href="#Git-安裝" class="headerlink" title="Git 安裝"></a>Git 安裝</h3><p>新建一个blog文件夹，在里面直接运行:</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">git</span> <span class="string">clone</span> <span class="string">https://github.com/Ran08/hexo-ran.git</span></span><br></pre></td></tr></table></figure>
+<h3 id="exe安装"><a href="#exe安装" class="headerlink" title="exe安装"></a>exe安装</h3><p>打开提供的exe程序，将文件安装在你的hexo博客目录即可<br><a href="https://github.com/Ran08/hexo-ran/releases/download/V0.1/hexo-ran.exe" target="_blank">点击下载</a><br>下载直连github  </p>
+<h2 id="前置NPM插件"><a href="#前置NPM插件" class="headerlink" title="前置NPM插件"></a>前置NPM插件</h2><blockquote>
+<p>如果需要删除，把install更为uninstall即可。<br>pug以及stylus的渲染器</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-renderer-pug</span> <span class="string">hexo-renderer-stylus</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://github.com/wzpan/hexo-generator-search">hexo-generator-search</a>本地搜索</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-searchdb</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo-generator-feed">hexo-generator-feed</a> RSS</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-feed</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://github.com/coneycode/hexo-generator-baidu-sitemap">hexo-generator-sitemap</a> sitemap生成</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-sitemap</span> <span class="string">--save</span></span><br><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">hexo-generator-baidu-sitemap</span> <span class="string">--save</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://github.com/EYHN/hexo-helper-live2d">hexo-helper-live2d</a> 看板娘</p>
+</blockquote>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">npm</span> <span class="string">install</span> <span class="string">--save</span> <span class="string">hexo-helper-live2d</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<h3 id="整合包的好处"><a href="#整合包的好处" class="headerlink" title="整合包的好处"></a>整合包的好处</h3></blockquote>
+<blockquote>
+<p>1.对于小白更加的友好。<br>2.即装即用。<br>3.稳定不易出错。</p>
+</blockquote>
+<h2 id="本站的-config-butterfly-yml正在全面汉化。"><a href="#本站的-config-butterfly-yml正在全面汉化。" class="headerlink" title="本站的_config.butterfly.yml正在全面汉化。"></a>本站的_config.butterfly.yml正在全面汉化。</h2></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:undefined">Nesxc</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://www.nesxc.com/post/hexo-ran/">https://www.nesxc.com/post/hexo-ran/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.nesxc.com" target="_blank">Nesxc</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/hexo-ran/">hexo-ran</a></div><div class="post_share"><div class="social-share" data-image="/img/defaultcover.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css"><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i> 打赏<div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="https://cdn.jsdelivr.net/gh/Ran08/file@master/WeChat.png" target="_blank"><img class="post-qr-code-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/WeChat.png" alt="wechat"/></a><div class="post-qr-code-desc">wechat</div></li><li class="reward-item"><a href="https://cdn.jsdelivr.net/gh/Ran08/file@master/Alipay.png" target="_blank"><img class="post-qr-code-img" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/Alipay.png" alt="alipay"/></a><div class="post-qr-code-desc">alipay</div></li></ul></div></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/post/macosmc/"><img class="prev-cover" data-lazy-src="/img/defaultcover.jpg" onerror="onerror=null;src='/img/404.jpg'"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">Mac如何用第三方启动器玩Minecraft</div></div></a></div><div class="next-post pull-right"><a href="/post/hexogithub/"><img class="next-cover" data-lazy-src="/img/defaultcover.jpg" onerror="onerror=null;src='/img/404.jpg'"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">使用Hexo和Github Actions自动化博客更新</div></div></a></div></nav><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div class="vcomment" id="vcomment"></div></div></div></div></div><div class="aside_content" id="aside_content"><div class="card-widget card-info"><div class="card-content"><div class="card-info-avatar is-center"><img class="avatar-img" data-lazy-src="/img/tx.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/><div class="author-info__name">Nesxc</div><div class="author-info__description">An ordinary web page based on hexo, but ordinary does not mean simple.</div></div><div class="card-info-data"><div class="card-info-data-item is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">27</div></a></div><div class="card-info-data-item is-center"><a href="/tags/"><div class="headline">标签</div><div class="length-num">17</div></a></div><div class="card-info-data-item is-center"><a href="/categories/"><div class="headline">分类</div><div class="length-num">8</div></a></div></div><a class="button--animated" id="card-info-btn" href="mailto:hr0824@qq.com"><i class="fab fa-email"></i><span>我的邮箱</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="https://www.nesxc.com/atom.xml" target="_blank" title="rss"><i class="fas fa-rss"></i></a><a class="social-icon" href="https://wpa.qq.com/msgrd?v=3&amp;uin=384965992&amp;site=qq&amp;menu=yes" target="_blank" title="QQ"><i class="fab fa-qq"></i></a><a class="social-icon" href="https://github.com/Ran08" target="_blank" title="github"><i class="fab fa-github"></i></a></div></div></div><div class="card-widget card-announcement"><div class="card-content"><div class="item-headline"><i class="fas fa-bullhorn card-announcement-animation"></i><span>公告</span></div><div class="announcement_content">欢迎来到Nesxc，这是一个新手电商运营的尝试之站，分享从零到完整的电商运营知识，不定期分享各种实用技巧，希望能够帮到其他的电商小伙伴。<img src="https://cdn.jsdelivr.net/gh/Ran08/file/QRcode_A%20%E2%80%94%20a1.png"/></div></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="card-content"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#hexo-ran"><span class="toc-number">1.</span> <span class="toc-text">hexo-ran</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AE%89%E8%A3%9D"><span class="toc-number">1.1.</span> <span class="toc-text">安裝</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Git-%E5%AE%89%E8%A3%9D"><span class="toc-number">1.1.1.</span> <span class="toc-text">Git 安裝</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#exe%E5%AE%89%E8%A3%85"><span class="toc-number">1.1.2.</span> <span class="toc-text">exe安装</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%89%8D%E7%BD%AENPM%E6%8F%92%E4%BB%B6"><span class="toc-number">1.2.</span> <span class="toc-text">前置NPM插件</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%95%B4%E5%90%88%E5%8C%85%E7%9A%84%E5%A5%BD%E5%A4%84"><span class="toc-number">1.2.1.</span> <span class="toc-text">整合包的好处</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%9C%AC%E7%AB%99%E7%9A%84-config-butterfly-yml%E6%AD%A3%E5%9C%A8%E5%85%A8%E9%9D%A2%E6%B1%89%E5%8C%96%E3%80%82"><span class="toc-number">1.3.</span> <span class="toc-text">本站的_config.butterfly.yml正在全面汉化。</span></a></li></ol></li></ol></div></div></div><div class="card-widget card-recent-post"><div class="card-content"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/post/1688hydzfa/" title="1688推广避坑之行业定制解决方案"><img data-lazy-src="/img/defaultcover.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="1688推广避坑之行业定制解决方案"/></a><div class="content"><a class="title" href="/post/1688hydzfa/" title="1688推广避坑之行业定制解决方案">1688推广避坑之行业定制解决方案</a><time datetime="2021-01-10T16:01:16.000Z" title="发表于 2021-01-11 00:01:16">2021-01-11</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/taobaoyunying/" title="淘宝基础运营教学"><img data-lazy-src="/img/defaultcover.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="淘宝基础运营教学"/></a><div class="content"><a class="title" href="/post/taobaoyunying/" title="淘宝基础运营教学">淘宝基础运营教学</a><time datetime="2021-01-09T16:01:16.000Z" title="发表于 2021-01-10 00:01:16">2021-01-10</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/1688yunying/" title="1688基础运营教学"><img data-lazy-src="/img/defaultcover.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="1688基础运营教学"/></a><div class="content"><a class="title" href="/post/1688yunying/" title="1688基础运营教学">1688基础运营教学</a><time datetime="2021-01-08T16:01:16.000Z" title="发表于 2021-01-09 00:01:16">2021-01-09</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/yunyin/" title="电商运营基本知识点"><img data-lazy-src="/img/defaultcover.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="电商运营基本知识点"/></a><div class="content"><a class="title" href="/post/yunyin/" title="电商运营基本知识点">电商运营基本知识点</a><time datetime="2021-01-07T16:01:16.000Z" title="发表于 2021-01-08 00:01:16">2021-01-08</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/post/pzsoft/" title="三款扒站软件"><img data-lazy-src="/img/defaultcover.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="三款扒站软件"/></a><div class="content"><a class="title" href="/post/pzsoft/" title="三款扒站软件">三款扒站软件</a><time datetime="2021-01-06T01:01:16.000Z" title="发表于 2021-01-06 09:01:16">2021-01-06</time></div></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2018 - 2021 By Nesxc</div><div class="framework-info"><span>青石落晚巷</span><span class="footer-separator">|</span><span>故人未还乡</span></div><div class="footer_custom_text">本站部署于中国大陆，请勿发布违反国家法律信息</div><div class="icp"><a target="_blank" rel="noopener" href="http://www.beian.miit.gov.cn/"><img class="icp-icon" src="/img/icp.png" alt="ICP"/><span>苏ICP备20005417号-3</span></a></div><p id="ghbdages"><a class="github-badge" target="_blank" href="https://hexo.io/" style="margin-inline:5px"><img src="https://img.shields.io/badge/Frame-Hexo-blue?style=flat&amp;logo=hexo"/></a><a class="github-badge" target="_blank" href="https://demo.jerryc.me/" style="margin-inline:5px"><img src="https://img.shields.io/badge/Theme-Butterfly-6513df?style=flat&amp;logo=bitdefender"/></a><a class="github-badge" target="_blank" href="https://www.jsdelivr.com/" style="margin-inline:5px"><img src="https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&amp;logo=jsDelivr"/></a><a class="github-badge" target="_blank" href="https://cloud.tencent.com/product/cdn/" style="margin-inline:5px"><img src="https://img.shields.io/badge/CDN-Tencent-blue"/></a><a class="github-badge" target="_blank" href="https://coding.net/" style="margin-inline:5px"><img src="https://img.shields.io/badge/Hosted-Coding-0cedbe?style=flat&amp;logo=Codio"/></a><a class="github-badge" target="_blank" href="https://github.com/" style="margin-inline:5px"><img src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&amp;logo=GitHub"/></a><a class="github-badge" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" style="margin-inline:5px"><img src="https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-d42328?style=flat&amp;logo=Claris"/></a></p></div><div class="container" id="jsi-flying-fish-container"><script src="js/fish.js"></script></div><style>   @media only screen and (max-width: 767px){
+   #sidebar_search_box input[type=text]{width:calc(100% - 24px)}
+}</style></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><button id="chat_btn" type="button" title="rightside.chat_btn"><i class="fas fa-sms"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"><div id="local-hits"></div><div id="local-stats"><div class="local-search-stats__hr" id="hr"><span>由</span> <a target="_blank" rel="noopener" href="https://github.com/wzpan/hexo-generator-search" style="color:#49B1F5;">hexo-generator-search</a>
+ <span>提供支持</span></div></div></div><span class="search-close-button"><i class="fas fa-times"></i></span></div><div id="search-mask"></div></div><div><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js"></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js"></script><script src="/js/search/local-search.js"></script><div class="js-pjax"><script src="https://cdn.jsdelivr.net/gh/Ran08/file@master/Valine.min.js"></script><script>var requestSetting = function (from,set) {
+  var from = from
+  var setting = set.split(',').filter(function(item){
+  return from.indexOf(item) > -1
+  });
+  setting = setting.length == 0 ? from :setting;
+  return setting
+}
+
+var guestInfo = requestSetting(['nick','mail','link'],'nick,mail,link')
+var requiredFields = requestSetting(['nick','mail','link'],'nick,mail')
+let friends = ''.split(',')
+let master = '0babb118d4c7a8e7b2c395fcd6dd01b3'.split(',')
+let tagMeta = '博主,小伙伴,访客'.split(',')
+
+function loadValine () {
+  function initValine () {
+    window.valine = new Valine({
+      el: '#vcomment',
+      appId: 'Jxr1sYz4wibsCW4t5GvLH9lr-gzGzoHsz',
+      appKey: 'YzYL4iIbJW4VAHGgWsblDVCz',
+      placeholder: '有事情是要说出来的，不要等着对方去领悟，因为对方不是你，不知道你想要什么，等到最后只能是伤心和失望，尤其是感情。',
+      avatar: 'monsterid',
+      meta: 'nick,mail,link'.split(','),
+      pageSize: '10',
+      lang: 'zh-CN',
+      recordIP: false,
+      serverURLs: '',
+      emojiCDN: '',
+      emojiMaps: "",
+      enableQQ: false,
+      path: window.location.pathname,
+      master: master,
+      friends: friends,
+      tagMeta: tagMeta,
+      metaPlaceholder: {"nick":"昵称/QQ号(必填)","mail":"邮箱(必填)","link":"网址(https://)"}
+    });
+    if ('nick,mail') { valine.config.requiredFields= 'nick,mail'.split(',') }
+  }
+
+  if (typeof Valine === 'function') initValine() 
+  else $.getScript('https://cdn.jsdelivr.net/gh/Ran08/file@master/Valine.min.js', initValine)
+}
+
+if ('Valine' === 'Valine' || !false) {
+  if (false) loadComment(document.querySelector('#vcomment'),loadValine)
+  else setTimeout(() => loadValine(), 0)
+} else {
+  function loadOtherComment () {
+    loadValine()
+  }
+}</script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><script src="https://cdn.jsdelivr.net/gh/xiabo2/CDN@latest/fish.js"></script><script src="https://cdn.jsdelivr.net/gh/Ran08/file@master/tido.js"></script><script src="https://cdn.jsdelivr.net/gh/Ran08/file@master/s-nesxc.js"></script><script src="https://cdn.jsdelivr.net/gh/Ran08/file@master/webpushr-sw.js"></script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script><script src="https://cdn.jsdelivr.net/gh/Ran08/file@master//git.js"></script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = true;
+POWERMODE.mobile = true;
+document.body.addEventListener('input', POWERMODE);
+</script><script id="click-heart" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-heart.min.js" async="async" mobile="true"></script><script src="//code.tidio.co/htmh3ewruddf6hm5mzkldlurmudoucqs.js" async="async"></script><script>function onTidioChatApiReady() {
+  window.tidioChatApi.hide();
+  window.tidioChatApi.on("close", function() {
+    window.tidioChatApi.hide();
+  });
+}
+if (window.tidioChatApi) {
+  window.tidioChatApi.on("ready", onTidioChatApiReady);
+} else {
+  document.addEventListener("tidioChat-ready", onTidioChatApiReady);
+}
+
+var chatBtnFn = () => {
+  document.getElementById("chat_btn").addEventListener("click", function(){
+    window.tidioChatApi.show();
+    window.tidioChatApi.open();
+  });
+}
+chatBtnFn()
+</script><script>(function(){
+  const bp = document.createElement('script');
+  const curProtocol = window.location.protocol.split(':')[0];
+  if (curProtocol === 'https'){
+  bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+  bp.dataset.pjax = ''
+  const s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(bp, s);
+})()</script></div><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginModelPath":"assets/","model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"left","width":150,"height":300},"mobile":{"show":false},"log":false,"pluginJsPath":"lib/","pluginRootPath":"live2dw/","tagMode":false});</script><script>(function(w,d, s, id) {w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = 'https://cdn.webpushr.com/app.min.js';fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));webpushr('init','BB6v1mHQgZepZa3kxPfdt3Wp6G9bRtbC1qQELzb-74LBWxxsT_nOjP9HNJuhigjDku-Rzn-GNGvtBuMtQp1ixwc');</script></body></html>
