@@ -218,6 +218,29 @@
       </tags>
   </entry>
   <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>//post/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>typora教程附下载地址</title>
     <url>//post/Typora.html</url>
     <content><![CDATA[<h3 id="文章目录"><a href="#文章目录" class="headerlink" title="文章目录"></a>文章目录</h3><ul>
@@ -483,29 +506,6 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>//post/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
-
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201219222611.png"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/image-20201219222945319.png" alt="image-20201219222945319"></p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>维护</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo主题配置整合包发布</title>
     <url>//post/hexo-ran.html</url>
     <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://ss.im5i.com/2020/12/03/image.png" alt="image.png"></p>
@@ -560,80 +560,6 @@ $$</code></pre>
       </categories>
       <tags>
         <tag>bilibili</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>客户分析-价格段的选取</title>
-    <url>//post/khfx.html</url>
-    <content><![CDATA[<p>我们在对产品定位时不仅要通过产品进行定位，也要从客户方面进行定位。</p>
-<h3 id="首先我们要看：客户购买时会考虑什么因素？"><a href="#首先我们要看：客户购买时会考虑什么因素？" class="headerlink" title="首先我们要看：客户购买时会考虑什么因素？"></a>首先我们要看：客户购买时会考虑什么因素？</h3><p>我们在购买一款产品时，无法就会关注两点 1.价格 2.品牌。</p>
-<p>而此时，如果我们店铺没有品牌和价格优势。就会陷入一个非常被动的场面，而此时我们就要进行<strong>价格区间</strong>的调整。</p>
-<h3 id="什么是价格区间"><a href="#什么是价格区间" class="headerlink" title="什么是价格区间"></a>什么是价格区间</h3><p>价值区间就是指在某个时间段,由产品在市场上的流通量和资金的变化所决定的变动范围。</p>
-<p>价格区间有什么<strong>用</strong>？</p>
-<ul>
-<li> 区分不同的客户人群。</li>
-</ul>
-<p>例如，一件衣服的三个价格区间为：100-200、200-500、500-1000那么：</p>
-<p>100-200的客户可能会在产品质量和性价比上做关注。</p>
-<p>200-500的客户可能会在外观上有要求。</p>
-<p>500-1000的客户会有比较全方面的要求。</p>
-<p>同样，价格区间还把你的客户分为了3个<strong>人群</strong></p>
-<p>100-200的客户可能是普通的民众。</p>
-<p>200-500的客户可能是有一定消费能力的从业者。</p>
-<p>500-1000的客户会是中产、高级从业者。</p>
-<h3 id="那么怎么寻找“价格区间”？"><a href="#那么怎么寻找“价格区间”？" class="headerlink" title="那么怎么寻找“价格区间”？"></a>那么怎么寻找“价格区间”？</h3><p>举例说明：小提琴中高端市场<strong>179-413</strong>元，</p>
-<p>[<img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/1605856519.png" alt="1605856519.png">]</p>
-<p>那么平均价格=（179+431）÷2=305；</p>
-<p>305-179=126；431-305=126</p>
-<p>区间价格的20%浮动 126*0.3=37.8</p>
-<p>305+37.8=342.8；305-37.8=267.5</p>
-<p>267作为一个区间相对低点参考；342作为一个区间相对高点；</p>
-<p>（当要进行较大幅度竞争则直接中间点642.5浮动+-20%）</p>
-<h3 id="找到了价格区间那么我们会有竞争力吗？"><a href="#找到了价格区间那么我们会有竞争力吗？" class="headerlink" title="找到了价格区间那么我们会有竞争力吗？"></a>找到了价格区间那么我们会有竞争力吗？</h3><p>不，这个价格段包含了很多产品，我们还要看同行的价格。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/16058568751.png" alt="16058568751.png"></p>
-<p>同行的价格也能给予很大的参考。通过对比价格，参数，品牌等。寻找一个适合自己的价格段才是最重要的。</p>
-<h5 id="价格维度考虑要素有以下几点"><a href="#价格维度考虑要素有以下几点" class="headerlink" title="价格维度考虑要素有以下几点"></a>价格维度考虑要素有以下几点</h5><p>（1）中小卖家不能再迷信自己有核心竞争力，充其量也就是局部竞争力</p>
-<p>（2）中小卖家局部优势要发挥到极致，选取最合理的点</p>
-<p>（3）底价冲量做法目前并不是最先选取的参考点</p>
-<p>（4）目标价格带的中间点是中小卖家优先选取的参考点；一般空白价格段更具与竞争空间</p>
-<p>（5）20%作为一个经验参考点可供测试（注意金额变大超过1000元的波动应当适当加大调成30%-35%）</p>
-<p>（6）可以到不同价格带找典型的参考卖家</p>
-<p>（7）看评价数据，买家好评原因，差评不能满足客户要求的原因，做到人无我有突出我们的主要竞争力，我们的优势，识别出最终客户（精准客户）</p>
-<p>（8）通过（供应链、资金、人才能力、风险承受能力）来选择适合自己的竞争参考系</p>
-<p>（9）发现自己的局部优势来定价</p>
-<h3 id="那怎么在同价格段能够领先同行？"><a href="#那怎么在同价格段能够领先同行？" class="headerlink" title="那怎么在同价格段能够领先同行？"></a>那怎么在同价格段能够领先同行？</h3><h4 id="那就要说到高低认知的部分了"><a href="#那就要说到高低认知的部分了" class="headerlink" title="那就要说到高低认知的部分了"></a>那就要说到高低认知的部分了</h4><p>（1）低认知：品牌、价格、差异化卖点-能让客户一见钟情</p>
-<p>（2）高认知：参数、属性、评测、细节—属于细水长流工作能让客户日久生情</p>
-<p>我们中小卖家可以通过一些市场上目前所不具备的卖点进行打造产品。然后通过问大家、评价等方式积攒口碑以及买家信任度来领先同行。</p>
-]]></content>
-      <categories>
-        <category>电商</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo建立一个独立的html页面</title>
-    <url>//post/hexohtml.html</url>
-    <content><![CDATA[<p>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 <code>\source\_posts</code> 文件夹，然后再推送上去就行了，原理就是当我们在执行 <code>hexo g</code> 命令时，<code>.md</code> 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</p>
-<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><p>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 <code>_config.yml</code> 里找到 <code>skip_render</code> 关键字，在后面添加想要跳过渲染的页面，比如我们创建 <code>\source\about\index.html</code>， 配置文件填写：<code>skip_render: about\**</code>，那么就表示 <code>\source\about</code> 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：<a href="https://hexo.io/docs/configuration">https://hexo.io/docs/configuration</a></p>
-<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><p>在文章头部的 Front-matter 里添加配置 <code>layout: false</code> 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 <code>\source\about\index.md</code>，将这个页面的相关 HTML 代码写进<code>.md</code>文件并保存，然后在 <code>index.md</code> 的头部写入：</p>
-<pre><code>---
-layout: false
----
-
-    xxxxxxxxxxxxx
-    xx HTML代码 xx
-    xxxxxxxxxxxxx
-    </code></pre>
-<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
-<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -798,36 +724,27 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>树莓派开机教程</title>
-    <url>//post/smpkj.html</url>
-    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
-<p>格式化SD卡</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-bc7215d37c39e836.png" alt="格式化已有的SD卡"></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-abf5e3f941d3016a.png" alt="格式化SD卡成功"></p>
-<p>烧录系统镜像</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-6d22b8fb9a2fbd6a.png" alt="烧录树莓派操作系统镜像"></p>
-<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
-<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+    <title>hexo建立一个独立的html页面</title>
+    <url>//post/hexohtml.html</url>
+    <content><![CDATA[<p>Hexo 是一个轻量、快速，简单和强大的博客框架，当我们需要发布博文的时候，只需要将写好的文章（MarkDown文件）放入本地的 <code>\source\_posts</code> 文件夹，然后再推送上去就行了，原理就是当我们在执行 <code>hexo g</code> 命令时，<code>.md</code> 文件就会被转化成 HTML 文件，但是有时候我们需要新建一个独立的页面，这个页面不使用主题的渲染，具有自己独立的样式，可以放一些自己的作品，相册什么的，以下就介绍这种独立页面的实现方法。</p>
+<h3 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h3><p>使用 Hexo 提供的跳过渲染配置，在博客根目录的配置文件 <code>_config.yml</code> 里找到 <code>skip_render</code> 关键字，在后面添加想要跳过渲染的页面，比如我们创建 <code>\source\about\index.html</code>， 配置文件填写：<code>skip_render: about\**</code>，那么就表示 <code>\source\about</code> 里所有的文件将跳过渲染，里面的文件将会被直接复制到 public 文件夹，此时就会得到一个独立的 about 页面；官方文档：<a href="https://hexo.io/docs/configuration">https://hexo.io/docs/configuration</a></p>
+<h3 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h3><p>在文章头部的 Front-matter 里添加配置 <code>layout: false</code> 来跳过渲染配置，比如我们要使 about 页面跳过渲染，创建 <code>\source\about\index.md</code>，将这个页面的相关 HTML 代码写进<code>.md</code>文件并保存，然后在 <code>index.md</code> 的头部写入：</p>
+<pre><code>---
+layout: false
+---
 
-<p>例如这样</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-1b37351bcd946978.png" alt="配置wifi文件"></p>
-<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-70819fe7ad131c4c.png"></p>
-<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
-<p>获取树莓派ip地址的方法：</p>
-<ol>
-<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
-<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
-<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
-<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
-</ol>
+    xxxxxxxxxxxxx
+    xx HTML代码 xx
+    xxxxxxxxxxxxx
+    </code></pre>
+<p>PS：Front-matter 是 <code>.md</code> 文件最上方以 — 分隔的区域，用于指定个别文件的变量，官方文档：<a href="https://hexo.io/docs/front-matter">https://hexo.io/docs/front-matter</a><br><code>.md</code>文件中的 HTML 代码要用 <code>` 和 `</code> 包起来，使其能正确编译里面的代码</p>
+<p>效果以我的<a href="https://www.ranas.cn/">博客</a>中的<a href="https://www.ranas.cn/qn/">晴女页面</a>为例：<br><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master//20201220201300.png"></p>
 ]]></content>
       <categories>
-        <category>教程</category>
+        <category>hexo</category>
       </categories>
       <tags>
-        <tag>树莓派</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -936,6 +853,89 @@ layout: false
 </blockquote>
 <p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/pi-plug-in.gif" alt="树莓派接线"></p>
 <p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-9413183a2d79c2a8.png" alt="欢迎加入树莓派全球开源社区"></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>客户分析-价格段的选取</title>
+    <url>//post/khfx.html</url>
+    <content><![CDATA[<p>我们在对产品定位时不仅要通过产品进行定位，也要从客户方面进行定位。</p>
+<h3 id="首先我们要看：客户购买时会考虑什么因素？"><a href="#首先我们要看：客户购买时会考虑什么因素？" class="headerlink" title="首先我们要看：客户购买时会考虑什么因素？"></a>首先我们要看：客户购买时会考虑什么因素？</h3><p>我们在购买一款产品时，无法就会关注两点 1.价格 2.品牌。</p>
+<p>而此时，如果我们店铺没有品牌和价格优势。就会陷入一个非常被动的场面，而此时我们就要进行<strong>价格区间</strong>的调整。</p>
+<h3 id="什么是价格区间"><a href="#什么是价格区间" class="headerlink" title="什么是价格区间"></a>什么是价格区间</h3><p>价值区间就是指在某个时间段,由产品在市场上的流通量和资金的变化所决定的变动范围。</p>
+<p>价格区间有什么<strong>用</strong>？</p>
+<ul>
+<li> 区分不同的客户人群。</li>
+</ul>
+<p>例如，一件衣服的三个价格区间为：100-200、200-500、500-1000那么：</p>
+<p>100-200的客户可能会在产品质量和性价比上做关注。</p>
+<p>200-500的客户可能会在外观上有要求。</p>
+<p>500-1000的客户会有比较全方面的要求。</p>
+<p>同样，价格区间还把你的客户分为了3个<strong>人群</strong></p>
+<p>100-200的客户可能是普通的民众。</p>
+<p>200-500的客户可能是有一定消费能力的从业者。</p>
+<p>500-1000的客户会是中产、高级从业者。</p>
+<h3 id="那么怎么寻找“价格区间”？"><a href="#那么怎么寻找“价格区间”？" class="headerlink" title="那么怎么寻找“价格区间”？"></a>那么怎么寻找“价格区间”？</h3><p>举例说明：小提琴中高端市场<strong>179-413</strong>元，</p>
+<p>[<img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/1605856519.png" alt="1605856519.png">]</p>
+<p>那么平均价格=（179+431）÷2=305；</p>
+<p>305-179=126；431-305=126</p>
+<p>区间价格的20%浮动 126*0.3=37.8</p>
+<p>305+37.8=342.8；305-37.8=267.5</p>
+<p>267作为一个区间相对低点参考；342作为一个区间相对高点；</p>
+<p>（当要进行较大幅度竞争则直接中间点642.5浮动+-20%）</p>
+<h3 id="找到了价格区间那么我们会有竞争力吗？"><a href="#找到了价格区间那么我们会有竞争力吗？" class="headerlink" title="找到了价格区间那么我们会有竞争力吗？"></a>找到了价格区间那么我们会有竞争力吗？</h3><p>不，这个价格段包含了很多产品，我们还要看同行的价格。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/16058568751.png" alt="16058568751.png"></p>
+<p>同行的价格也能给予很大的参考。通过对比价格，参数，品牌等。寻找一个适合自己的价格段才是最重要的。</p>
+<h5 id="价格维度考虑要素有以下几点"><a href="#价格维度考虑要素有以下几点" class="headerlink" title="价格维度考虑要素有以下几点"></a>价格维度考虑要素有以下几点</h5><p>（1）中小卖家不能再迷信自己有核心竞争力，充其量也就是局部竞争力</p>
+<p>（2）中小卖家局部优势要发挥到极致，选取最合理的点</p>
+<p>（3）底价冲量做法目前并不是最先选取的参考点</p>
+<p>（4）目标价格带的中间点是中小卖家优先选取的参考点；一般空白价格段更具与竞争空间</p>
+<p>（5）20%作为一个经验参考点可供测试（注意金额变大超过1000元的波动应当适当加大调成30%-35%）</p>
+<p>（6）可以到不同价格带找典型的参考卖家</p>
+<p>（7）看评价数据，买家好评原因，差评不能满足客户要求的原因，做到人无我有突出我们的主要竞争力，我们的优势，识别出最终客户（精准客户）</p>
+<p>（8）通过（供应链、资金、人才能力、风险承受能力）来选择适合自己的竞争参考系</p>
+<p>（9）发现自己的局部优势来定价</p>
+<h3 id="那怎么在同价格段能够领先同行？"><a href="#那怎么在同价格段能够领先同行？" class="headerlink" title="那怎么在同价格段能够领先同行？"></a>那怎么在同价格段能够领先同行？</h3><h4 id="那就要说到高低认知的部分了"><a href="#那就要说到高低认知的部分了" class="headerlink" title="那就要说到高低认知的部分了"></a>那就要说到高低认知的部分了</h4><p>（1）低认知：品牌、价格、差异化卖点-能让客户一见钟情</p>
+<p>（2）高认知：参数、属性、评测、细节—属于细水长流工作能让客户日久生情</p>
+<p>我们中小卖家可以通过一些市场上目前所不具备的卖点进行打造产品。然后通过问大家、评价等方式积攒口碑以及买家信任度来领先同行。</p>
+]]></content>
+      <categories>
+        <category>电商</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>树莓派开机教程</title>
+    <url>//post/smpkj.html</url>
+    <content><![CDATA[<h1 id="树莓派开机"><a href="#树莓派开机" class="headerlink" title="树莓派开机"></a>树莓派开机</h1><p>下载镜像文件2018-06-27-raspbian-stretch</p>
+<p>格式化SD卡</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-bc7215d37c39e836.png" alt="格式化已有的SD卡"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-abf5e3f941d3016a.png" alt="格式化SD卡成功"></p>
+<p>烧录系统镜像</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-6d22b8fb9a2fbd6a.png" alt="烧录树莓派操作系统镜像"></p>
+<p>创建<code>ssh</code>文件和<code>wpa_supplicant.conf</code>空白文件</p>
+<p>用文本编辑器打开<code>wpa_supplicant.conf</code>,输入以下配置，可以用多个network{}来配置多个wifi：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">country=GB</span><br><span class="line">ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev</span><br><span class="line">update_config=1</span><br><span class="line">network=&#123;</span><br><span class="line">	ssid=&quot;将我替换成WiFi名字，不删除引号,不能有中文&quot;</span><br><span class="line">	psk=&quot;将我替换成WiFi密码，不删除引号&quot;</span><br><span class="line">	priority=将我替换成数字，数字越大代表优先级越高</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>例如这样</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-1b37351bcd946978.png" alt="配置wifi文件"></p>
+<p>将ssh空白文件和wpa_supplicant.conf文件放入boot盘中</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/13714448-70819fe7ad131c4c.png"></p>
+<p>拔出SD卡，插入树莓派，插好HDMI显示屏线和电源线，通电。</p>
+<p>获取树莓派ip地址的方法：</p>
+<ol>
+<li>如果树莓派连接到了显示屏上，可以直接鼠标指向右上角网络图标，ip地址会自动显示</li>
+<li>如果树莓派连接到了显示屏上，可以打开树莓派命令行窗口，输入<code>ifconfig</code></li>
+<li>如果没有显示屏，用手机连到与树莓派同一个网络的wifi下，打开dataplicity应用上扫描出树莓派的ip地址</li>
+<li>如果没有显示屏，用电脑连到与树莓派同一个网络的wif或者有线网络下，打开局域网ip扫描器，扫描出树莓派ip地址</li>
+</ol>
 ]]></content>
       <categories>
         <category>教程</category>
@@ -1139,6 +1139,32 @@ layout: false
       </tags>
   </entry>
   <entry>
+    <title>Wordpress后台管理员无法访问</title>
+    <url>//post/wpnoadmin.html</url>
+    <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
+<p>原因很简单。</p>
+<ul>
+<li>你是和我上一篇博文一样配置完https重定向的</li>
+</ul>
+<p>为什么会出现这种情况呢。</p>
+<p>他们把这串代码弄到了最底下。</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/8AS2.png" alt="wt"></p>
+<p>然后，你只需把他移动到</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( ! defined( <span class="string">&#x27;ABSPATH&#x27;</span> ) ) &#123;</span><br><span class="line">	define( <span class="string">&#x27;ABSPATH&#x27;</span>, dirname( <span class="keyword">__FILE__</span> ) . <span class="string">&#x27;/&#x27;</span> );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>这串代码以上就行了。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/8AS1.png" alt="jj"></p>
+]]></content>
+      <categories>
+        <category>WordPress</category>
+      </categories>
+      <tags>
+        <tag>WordPress错误</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>VirtualHardwares硬件虚拟工具收费版本</title>
     <url>//post/virtualhardwareshack.html</url>
     <content><![CDATA[<p><strong>VirtualHardwares硬件虚拟工具收费版本</strong>为能够任意更改你的硬件显示参数的软件，并非真实的改变哟，有时候试用部分程序的时候，会用到它来改本机ID识别码，进行多次、长时间的免费</p>
@@ -1238,32 +1264,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>Wordpress后台管理员无法访问</title>
-    <url>//post/wpnoadmin.html</url>
-    <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
-<p>原因很简单。</p>
-<ul>
-<li>你是和我上一篇博文一样配置完https重定向的</li>
-</ul>
-<p>为什么会出现这种情况呢。</p>
-<p>他们把这串代码弄到了最底下。</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/8AS2.png" alt="wt"></p>
-<p>然后，你只需把他移动到</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( ! defined( <span class="string">&#x27;ABSPATH&#x27;</span> ) ) &#123;</span><br><span class="line">	define( <span class="string">&#x27;ABSPATH&#x27;</span>, dirname( <span class="keyword">__FILE__</span> ) . <span class="string">&#x27;/&#x27;</span> );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>这串代码以上就行了。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file/8AS1.png" alt="jj"></p>
-]]></content>
-      <categories>
-        <category>WordPress</category>
-      </categories>
-      <tags>
-        <tag>WordPress错误</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>WordPress配置完SSL证书后台重定向过多</title>
     <url>//post/wpsslerror.html</url>
     <content><![CDATA[<h5 id="Wordpress配置完SSL证书后台重定向过多"><a href="#Wordpress配置完SSL证书后台重定向过多" class="headerlink" title="Wordpress配置完SSL证书后台重定向过多"></a>Wordpress配置完SSL证书后台重定向过多</h5><p>前言:在配置完cloudflash的DNS解析后，我发现我的管理员后台一直显示重定向过多。</p>
@@ -1332,6 +1332,40 @@ layout: false
       </categories>
       <tags>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你真的了解电商种草或者内容营销吗？</title>
+    <url>//post/zc.html</url>
+    <content><![CDATA[<p><img src= "https://cdn.jsdelivr.net/gh/Ran08/file@master/5-160914192R5-50.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Ran08/file@master/xhs.jpg" alt="xhs"></p>
+<h2 id="综合电商为什么会做种草及内容？"><a href="#综合电商为什么会做种草及内容？" class="headerlink" title="综合电商为什么会做种草及内容？"></a>综合电商为什么会做种草及内容？</h2><p>以往我们在讲电商生态时更多侧重于讲“商家生态”，而忽视综合电商平台对“内容生态”的营建。</p>
+<blockquote>
+<p>淘宝有“微淘”、淘宝头条、淘宝直播；<br>天猫商城则是“种草猫”；<br>京东中间位置是“发现”就是此前的“购物圈”；<br>网易考拉App有“种草社区”；<br>网易严选首页正中心位置是“识物”；<br>新上线的小米有品电商的内容板块是“品味”；<br>连一向“佛系”的亚马逊首页也有购物推荐指南。</p>
+</blockquote>
+<h3 id="什么叫种草？"><a href="#什么叫种草？" class="headerlink" title="什么叫种草？"></a>什么叫种草？</h3><p>针对现货活动商品的收藏；  </p>
+<p>针对现货活动加购的买家；  </p>
+<p>领取定制询单礼劵的买家。  </p>
+<h3 id="种草有什么好处"><a href="#种草有什么好处" class="headerlink" title="种草有什么好处"></a>种草有什么好处</h3><p><strong>真实：</strong></p>
+<p>真实是永远的套路;种草内容是关键，要让粉丝们相信是 KOL 用了以后真心推荐，那KOL的内容怎样才是真实，第一是亲自体验产品，第二是发自内心的使用心得，产品测评。</p>
+<p><strong>带货节奏</strong>：</p>
+<p>新品上市站内外节奏全打通;控评引导转化，监督舆论走向，在每一个阶段投放出适合的内容，多维评论内容引发共鸣。</p>
+<p><strong>有始有终 ：</strong></p>
+<p>做好各平台露出，关联电商关键词搜索，让用户看到标题与关键词然后能搜索到产品，展现遍地种草效果。</p>
+<h3 id="如何种草"><a href="#如何种草" class="headerlink" title="如何种草?"></a>如何种草?</h3><p><strong>首先，分析产品的定位。</strong></p>
+<p>美容仪的关键词有超声波、去黑头、清洁毛孔和提拉紧致脸部，我们要明确这个产品的定位，再去准备更精准的内容，然后用更精确的IP去带它。</p>
+<p><strong>其次，准备内容。</strong></p>
+<p>内容一定是人格化，一定要让用户感觉到我们是真实的在用这个产品，我想把这种状态分享给大家，分享给我的粉丝，分享给打开这条笔记看的那个人，这样会有一种真实感。</p>
+<p><strong>第三，筛选匹配的 IP 。</strong></p>
+<p>我知道很多厂商客户可能萌生过一些念头，可能想过要自己做IP，<strong>我不建议大家自己去玩，也不建议大家去找机构代运营。</strong></p>
+<p>当我们离开了这个机构后，虽然 IP 依旧是我们自己的，但是没有机构扶持，我们无法保证 IP 的数据不会下降。</p>
+<p>所以最好的方案是，我们按照我们的需求去找现有的IP，精准匹配适合的的IP。</p>
+<p>回到案例，当厂家想推按摩仪的时候，他们把这个需求提过来，我给他们精确匹配好，找到一个适合给按摩带货的IP，然后我根据这个来做，这是最快的。</p>
+]]></content>
+      <categories>
+        <category>电商</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
