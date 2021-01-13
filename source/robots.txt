@@ -1,0 +1,10 @@
+# hexo robots.txtUser-agent: *
+Allow: /
+Allow: /post/
+Disallow: /js/
+Disallow: /css/
+Disallow: /live2dw/
+Disallow: /qn/
+Disallow: /img/
+Sitemap: https://www.nesxc.com/sitemap.xml
+Sitemap: https://www.nesxc.com/baidusitemap.xml

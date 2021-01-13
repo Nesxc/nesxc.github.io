@@ -1,0 +1,55 @@
+- class_name: 大佬们
+  class_desc: 都是大佬
+  link_list:
+    - name: 2BROEAR
+      link: https://blog.2broear.com/
+      avatar: https://img.2broear.com/2broear.png
+      descr: 兴趣指引方向，会玩才会学
+    - name: itsNekoDeng
+      link: https://nekodeng.gitee.io
+      avatar: https://nekodeng.gitee.io/medias/avatar.jpg
+      descr: 十万伏特皮卡丘，梦想是世界和平，想要发光发热
+    - name: 框架师
+      avatar: https://www.mobaijun.com/medias/avatar.jpg
+      link: https://www.mobaijun.com
+      descr: 终于等到你,还好没放弃!
+    - name: 小康博客
+      link: https://www.antmoe.com/
+      avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+      descr: 一个收藏回忆与分享技术的地方！
+
+
+- class_name: 小伙伴
+  class_desc: 都是一群可爱的人
+  link_list:
+    - name: 凡尘纪
+      link: https://hesifan.top/
+      avatar: https://hesifan.top/medias/avatar.jpg
+      descr: 念念不忘 必有回响
+    - name: Seeker
+      link: https://snow.js.org/
+      avatar: https://cdn.jsdelivr.net/gh/SerokSSR/img/share.jpg
+      descr: 沧海月明珠有泪
+    - name: GAATTC
+      link: https://gaattc.gitee.io
+      avatar: https://cdn.jsdelivr.net/gh/GAATTC0/MyPicGoOSS@main/img/avatar.gif
+      descr: 东拼西凑的小破站
+    - name: Qing-Blog
+      link: https://lovpass.cn
+      avatar: https://lovpass.cn/tou.jpg
+      descr: 个人笔记，技术分享，开心就好！
+    - name: 皮皮凛の小窝
+      avatar: https://cdn.jsdelivr.net/gh/AyagawaSeirin/Assets/img/logo.jpg
+      link: https://owomoe.net/
+      descr: 永远相信美好的事情即将发生~ 
+- class_name: 鸣谢
+  class_desc: 感谢大佬们的成果~
+  link_list:
+    - name: hexo
+      link: https://hexo.io/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简洁且高效的博客框架
+    - name: butterfly
+      link: https://butterfly.js.org/
+      avatar: https://jerryc.me/image/avatar.png
+      descr: 今日事,今日畢    
