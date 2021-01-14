@@ -29,7 +29,7 @@ cover:
 
 ### 安装Gitalk
 
-1.打开<a href="https://github.com/settings/applications/new">链接。
+1.打开<a href="https://github.com/settings/applications/new">链接。</a>
 
 ![image-20210113150359282](https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210113150359282.png)
 
