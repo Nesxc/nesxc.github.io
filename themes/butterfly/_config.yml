@@ -839,7 +839,7 @@ CDN:
   pjax: https://cdn.jsdelivr.net/npm/pjax/pjax.min.js
 
   # comments
-  gitalk: https://cdn.jsdelivr.net/gh/Nesxc/file@master/gitalk.min.js
+  gitalk: https://cdn.jsdelivr.net/gh/Nesxc/file/js/nesxc/gitalk.min.js
   gitalk_css: https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.css
   valine: https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js
   disqusjs: https://cdn.jsdelivr.net/npm/disqusjs@1/dist/disqus.js
