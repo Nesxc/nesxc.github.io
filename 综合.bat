@@ -1,9 +1,6 @@
 @Echo Off
 Title HEXO控制台
 :begin
-call move "%LOCALAPPDATA%\一键本地预览.bat" ./ 
-call move "%LOCALAPPDATA%\一键上传托管.bat" ./ 
-call move "%LOCALAPPDATA%\文章更新.bat" ./ 
 cls
 Echo. ------------------------HEXO控制台 V0.1------------------------
 Echo. 请选择需要的操作

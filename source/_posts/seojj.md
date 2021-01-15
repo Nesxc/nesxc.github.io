@@ -4,7 +4,7 @@ date: 2021-01-14 18:33:19
 tags: 技巧
 categories: hexo
 top_img:
-cover:
+cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/What-is-SEO.png
 ---
 
 ### 前言

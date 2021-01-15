@@ -1,15 +1,18 @@
 ---
-title: Gridea博客 + vercel部署超简单超详细部署教程
+title: Gridea + vercel超简单超详细博客部署教程
 date: 2021-01-15 10:58:10
 tags: 技巧
 categories: 站点
 top_img:
 cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/v2-0d9eb92f67ba93b514f2555a70eacebe_1440w.jpg
+sticky: 101
 ---
 
 ### 前言:
 
 如过你是一个电脑小白，但是你也想写博客。但是觉得hexo博客的搭建极其烦人，那么你可以试一试Gridea这款博客程序：
+
+<a href="https://nesxc.vercel.app/">演示地址</a>
 
 ![image-20210115095332583](https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210115095332583.png)
 

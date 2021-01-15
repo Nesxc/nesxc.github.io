@@ -4,6 +4,7 @@ date: 2020-12-19 00:01:16
 categories: hexo
 tags: 开发
 sticky: 100
+cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/hexo.webp
 ---
 
 ![site](https://cdn.jsdelivr.net/gh/Nesxc/file@master//20201217223938.png)  

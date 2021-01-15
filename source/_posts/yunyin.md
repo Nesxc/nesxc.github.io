@@ -4,7 +4,7 @@ date: 2021-1-8 00:01:16
 tags: 教程
 categories: 电商
 top_img: 
-cover: 
+cover:  https://cdn.jsdelivr.net/gh/Nesxc/file@master/Nesxc%20(3).png
 ---  
 电商运营要了解基本的一些电商词汇，一定要知道。而且要花时间把其中的逻辑想清楚。才能结合数据分析自身店铺那个环节出了问题
 

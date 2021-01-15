@@ -3,7 +3,8 @@ title: 你真的了解电商种草或者内容营销吗？
 date: 2021-01-12 11:44:57
 tags: 技巧
 categories: 电商
-top_img:
+top_img: 
+cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/20150129162129_44457.jpg
 ---
 
 ![xhs](https://cdn.jsdelivr.net/gh/Nesxc/file@master/xhs.jpg)

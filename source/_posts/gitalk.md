@@ -4,7 +4,7 @@ date: 2021-01-13 15:16:51
 tags: 技巧
 categories: hexo
 top_img:
-cover:
+cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/20210115131745.png
 ---
 
 ### 前言

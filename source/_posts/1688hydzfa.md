@@ -4,7 +4,7 @@ date: 2021-01-11 00:01:16
 tags: 1688
 categories: 电商
 top_img: 
-cover: 
+cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/20210115132318.png 
 ---  
 ### 前言
 

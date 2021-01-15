@@ -4,7 +4,7 @@ date: 2021-01-12 15:01:36
 tags: 技巧
 categories: 电商
 top_img:
-cover:
+cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/Nesxc%20(1).png
 ---
 
 ### 良好的待客态度。

@@ -5,27 +5,33 @@
 #   description: 置顶文章描述
 #   button: 手机端按钮内容
 # 示例如下
-- cover: /img/defaultcover.jpg
-  timeline: '2021-01-08'
-  link: /post/yunyin.html
-  title: 学习电商运营的系统知识前先了解专业术语
-  description: 对部分电商术语作出解释
-  button: 🍡详情
-- cover: /img/defaultcover.jpg
+- cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/v2-0d9eb92f67ba93b514f2555a70eacebe_1440w.jpg
+  timeline: '2021-01-15'
+  link: /post/gridea.html
+  title: Gridea + vercel简单部署博客
+  description: 小白式部署博客
+  button: 点击查看
+- cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/20210115132318.png
+  timeline: '2020-12-19'
+  link: /post/1688yunying.html
+  title: 想学1688运营不知道怎么学？
+  description: 这篇文章您值得拥有
+  button: 点击查看
+- cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/hexo.webp
   timeline: '2020-12-19'
   link: /post/hexo.html
   title: 想用和我一样的博客系统？
   description: 点击了解hexo安装方法！
-  button: 🍡详情
-- cover: /img/defaultcover.jpg
-  timeline: '2020-06-28'
-  link: /post/Typora.html
-  title: 想学习markdown而不知道怎么学？
-  description: 看这里！教会你markdown~
-  button: 🍡详情
-- cover: /img/defaultcover.jpg
-  timeline: '2020-03-01'
-  link: /post/smpkj.html
-  title: 买了树莓派不会开机不会用？
-  description: 这里教你怎么弄~
-  button: 🍡详情
+  button: 点击查看
+- cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/Nesxc%20(3).png
+  timeline: '2021-01-08'
+  link: /post/yunyin.html
+  title: 学习电商运营的系统知识前先了解专业术语
+  description: 对部分电商术语作出解释
+  button: 点击查看
+- cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/20150129162129_44457.jpg
+  timeline: '2021-01-12'
+  link: /post/zc.html
+  title: 什么事内容运营？什么是种草？
+  description: 这里告诉你答案！
+  button: 点击查看

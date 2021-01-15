@@ -4,8 +4,8 @@ date: 2021-1-10 00:01:16
 tags: 淘宝
 categories: 电商
 top_img: 
-cover: 
----  
+cover: https://cdn.jsdelivr.net/gh/Nesxc/file@master/Nesxc%20(2).png
+---
 现在淘宝新手卖家越来越多，很多人在感叹，新手开店需要什么基础吗？要学习什么知识呢？所以这里来和大家分析一下，淘宝新手卖家开店之初，除了积极乐观的心态和勤快的双手之外，还要有最基本的运营思路。
 
 一、选好产品货源是店铺成功的基石
