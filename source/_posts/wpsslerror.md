@@ -1,7 +1,7 @@
 ---
 title: WordPress配置完SSL证书后台重定向过多
 date: 2020-11-01 00:01:15
-categories: WordPress
+categories: 站点
 tags: WordPress错误
 ---
 ##### Wordpress配置完SSL证书后台重定向过多

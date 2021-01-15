@@ -1,7 +1,7 @@
 ---
 title: Wordpress后台管理员无法访问
 date: 2020-11-01 00:01:16
-categories: WordPress
+categories: 站点
 tags: WordPress错误
 ---
 ##### Wordpress后台管理员无法访问
