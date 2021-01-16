@@ -17,7 +17,26 @@
       link: https://www.antmoe.com/
       avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
       descr: 一个收藏回忆与分享技术的地方！
-
+    - name: Akilarの糖果屋
+      link: https://akilar.top/
+      avatar: https://akilar.top/img/siteicon/favicon.png
+      descr: 期待您的光临！
+    - name: xwcker 
+      link: https://www.hack-gov.com.cn/
+      avatar: https://www.hack-gov.com.cn/img/friend_404.gif
+      descr: 海客GO - 爱牟 听着海客的瀛谈
+    - name: 超逸の技术博客
+      link: https://yangchaoyi.vip/
+      avatar: https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png
+      descr: 不是只会写业务代码の前端攻城狮
+    - name: 小冰博客
+      link: https://zfe.one
+      avatar: https://zfe.space/images/headimage.png
+      descr: 做个有梦想的人！
+    - name: Lete乐特
+      link: https://www.lete114.top/
+      avatar: https://www.lete114.top/img/avatar.png
+      descr: 人生只有一次，大胆的生活！！  
 
 - class_name: 小伙伴
   class_desc: 都是一群可爱的人

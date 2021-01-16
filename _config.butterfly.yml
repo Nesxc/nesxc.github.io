@@ -299,7 +299,8 @@ comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Utterances/Facebook Comments
   use:
-   - Gitalk
+    - Twikoo
+    - Gitalk
   # - Disqus
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -391,7 +392,7 @@ facebook_comments:
 
 # Twikoo
 # https://github.com/imaegoo/twikoo
-twikoo:
+twikoo: waline-6gomnu98c731f23b
 
 # Chat Services
 # --------------------------------------
