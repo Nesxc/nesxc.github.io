@@ -95,13 +95,6 @@
       </tags>
   </entry>
   <entry>
-    <title>你好 2021！</title>
-    <url>//post/2021welcome.html</url>
-    <content><![CDATA[<h3 id="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"><a href="#再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。" class="headerlink" title="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"></a>再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。</h3><p>2020一个令人难忘的一年。这一年里，最大的努力就是让自己活着。</p>
-<p>希望新的一年，万事大吉！！！</p>
-]]></content>
-  </entry>
-  <entry>
     <title>二十分钟精通markdown</title>
     <url>//post/20minmarkdown.html</url>
     <content><![CDATA[<blockquote>
@@ -186,6 +179,13 @@
       <tags>
         <tag>markdown</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>你好 2021！</title>
+    <url>//post/2021welcome.html</url>
+    <content><![CDATA[<h3 id="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"><a href="#再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。" class="headerlink" title="再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。"></a>再见了，2020年！你好，2021年！不去追逐，永远不会拥有。不往前走，永远原地停留。</h3><p>2020一个令人难忘的一年。这一年里，最大的努力就是让自己活着。</p>
+<p>希望新的一年，万事大吉！！！</p>
+]]></content>
   </entry>
   <entry>
     <title>OKR工作法</title>
@@ -531,6 +531,83 @@ $$</code></pre>
       </tags>
   </entry>
   <entry>
+    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
+    <url>//post/errorpush.html</url>
+    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
+
+<p>的命令时，跳出了这个错误：</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file/image-20201219222210846.png" alt="image-20201219222210846"></p>
+<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
+<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master//20201219222611.png" alt="img"></p>
+<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file/image-20201219222945319.png" alt="image-20201219222945319"></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>维护</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于hexo的评论系统以及改用Gitalk</title>
+    <url>//post/gitalk.html</url>
+    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于某种原因，我放弃了Valine，主要是休眠时间太过烦人，而且评论托管在第三方，数据管理不方便。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210113145039309.png" alt="image-20210113145039309"></p>
+<blockquote>
+<p>因为设置错误导致每天早上6点开始休眠，一直到中午12点45。</p>
+</blockquote>
+<p>所以以上种种让我开始了选择其他评论系统。</p>
+<h3 id="考虑过哪些评论系统？"><a href="#考虑过哪些评论系统？" class="headerlink" title="考虑过哪些评论系统？"></a>考虑过哪些评论系统？</h3><ul>
+<li><p>Github家族：gitment、gitalk、gitter</p>
+</li>
+<li><p>leancloud家族：Waline</p>
+</li>
+<li><p>国外：disqus</p>
+</li>
+</ul>
+<p>最终，不喜欢gitment和gitter的样子。disqus据说会被墙，waline还是基于leancloud。而选择了gitalk。</p>
+<h3 id="安装Gitalk"><a href="#安装Gitalk" class="headerlink" title="安装Gitalk"></a>安装Gitalk</h3><p>1.打开<a href="https://github.com/settings/applications/new">链接。</a></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210113150359282.png" alt="image-20210113150359282"></p>
+<blockquote>
+<p>填写完毕点击注册申请</p>
+</blockquote>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210113150855631.png" alt="image-20210113150855631"></p>
+<blockquote>
+<p>成功的界面。</p>
+</blockquote>
+<p>然后我们看看butterfly主题需要那些参数，并且往上填写即可。</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># gitalk</span></span><br><span class="line"><span class="comment"># https://github.com/gitalk/gitalk</span></span><br><span class="line"><span class="attr">gitalk:</span></span><br><span class="line">  <span class="attr">client_id:</span> <span class="comment">#上图中的客户编号</span></span><br><span class="line">  <span class="attr">client_secret:</span> <span class="comment">#上图中的客户机密</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="comment">#仓库</span></span><br><span class="line">  <span class="attr">owner:</span> <span class="comment">#用户名</span></span><br><span class="line">  <span class="attr">admin:</span> <span class="comment">#管理员</span></span><br><span class="line">  <span class="attr">language:</span> <span class="string">zh-CN</span> <span class="comment"># en, zh-CN, zh-TW, es-ES, fr, ru</span></span><br><span class="line">  <span class="attr">perPage:</span> <span class="number">10</span> <span class="comment"># Pagination size, with maximum 100.</span></span><br><span class="line">  <span class="attr">distractionFreeMode:</span> <span class="literal">false</span> <span class="comment"># Facebook-like distraction free mode.</span></span><br><span class="line">  <span class="attr">pagerDirection:</span> <span class="string">last</span> <span class="comment"># Comment sorting direction, available values are last and first.</span></span><br><span class="line">  <span class="attr">createIssueManually:</span> <span class="literal">false</span> <span class="comment"># Gitalk will create a corresponding github issue for your every single page automatically</span></span><br></pre></td></tr></table></figure>
+
+<p>填写完之后一顿hexo clean…..g……d….</p>
+<p>然后进入网站：</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/noinit.png" alt="img"></p>
+<blockquote>
+<p>我当时忘了截图，这是来自<a href="https://phantomt.github.io的图/">https://phantomt.github.io的图</a></p>
+</blockquote>
+<p>登录并进行初始化。这里登录的账号一定要是创建Oauth的账户。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210113151255855.png" alt="image-20210113151255855"></p>
+<blockquote>
+<p>初始化之后就可以正常评论了。</p>
+</blockquote>
+<h3 id="gitalk对比Valine有什么优势？"><a href="#gitalk对比Valine有什么优势？" class="headerlink" title="gitalk对比Valine有什么优势？"></a>gitalk对比Valine有什么优势？</h3><ul>
+<li>没有Leancloud的休眠政策</li>
+<li>评论储存在github仓库，管理方便</li>
+<li>较之Valine多了登录程序，bot炸评论的几率小了许多</li>
+</ul>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>「电商运营知识分享」如何快速提高点击率</title>
     <url>//post/dsyyzsfx-2.html</url>
     <content><![CDATA[<p>现在我写文章，都是结合自己最近的案例或者感触来写的，今天我想跟大家深度讨论下解决点击率的问题，点击率前面也说过很多次了，今天我将结合我更多案例后的经验来做个更加深度的解析，希望可以帮到大家！  </p>
@@ -624,83 +701,6 @@ $$</code></pre>
       <tags>
         <tag>技巧</tag>
         <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>解决hexo的error:failed to push some refs to &#39;xxx&#39;</title>
-    <url>//post/errorpush.html</url>
-    <content><![CDATA[<p>今天我在日常上传新文档是发现使用 </p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="string">hexo</span> <span class="string">d</span></span><br></pre></td></tr></table></figure>
-
-<p>的命令时，跳出了这个错误：</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">error:</span> <span class="string">failed</span> <span class="string">to</span> <span class="string">push</span> <span class="string">some</span> <span class="string">refs</span> <span class="string">to</span> <span class="string">&#x27;https://e.coding.net/ranhexo/hexo/hexo.git&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file/image-20201219222210846.png" alt="image-20201219222210846"></p>
-<p>这个错误其实很简单，是应为同步文件缺失导致的，很明显我们push的hexo静态文件会缺失README.md这个文件，所以我们只需要把远端的README.md文件同步下来或者新建一个readme.md文档即可。</p>
-<p>这里我选择新建README.md文档，毕竟这个没有什么用。哈哈哈哈</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master//20201219222611.png" alt="img"></p>
-<p>果不其然，在创建了README.md文档后同步就能正常的进行。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file/image-20201219222945319.png" alt="image-20201219222945319"></p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>维护</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于hexo的评论系统以及改用Gitalk</title>
-    <url>//post/gitalk.html</url>
-    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>由于某种原因，我放弃了Valine，主要是休眠时间太过烦人，而且评论托管在第三方，数据管理不方便。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210113145039309.png" alt="image-20210113145039309"></p>
-<blockquote>
-<p>因为设置错误导致每天早上6点开始休眠，一直到中午12点45。</p>
-</blockquote>
-<p>所以以上种种让我开始了选择其他评论系统。</p>
-<h3 id="考虑过哪些评论系统？"><a href="#考虑过哪些评论系统？" class="headerlink" title="考虑过哪些评论系统？"></a>考虑过哪些评论系统？</h3><ul>
-<li><p>Github家族：gitment、gitalk、gitter</p>
-</li>
-<li><p>leancloud家族：Waline</p>
-</li>
-<li><p>国外：disqus</p>
-</li>
-</ul>
-<p>最终，不喜欢gitment和gitter的样子。disqus据说会被墙，waline还是基于leancloud。而选择了gitalk。</p>
-<h3 id="安装Gitalk"><a href="#安装Gitalk" class="headerlink" title="安装Gitalk"></a>安装Gitalk</h3><p>1.打开<a href="https://github.com/settings/applications/new">链接。</a></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210113150359282.png" alt="image-20210113150359282"></p>
-<blockquote>
-<p>填写完毕点击注册申请</p>
-</blockquote>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210113150855631.png" alt="image-20210113150855631"></p>
-<blockquote>
-<p>成功的界面。</p>
-</blockquote>
-<p>然后我们看看butterfly主题需要那些参数，并且往上填写即可。</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># gitalk</span></span><br><span class="line"><span class="comment"># https://github.com/gitalk/gitalk</span></span><br><span class="line"><span class="attr">gitalk:</span></span><br><span class="line">  <span class="attr">client_id:</span> <span class="comment">#上图中的客户编号</span></span><br><span class="line">  <span class="attr">client_secret:</span> <span class="comment">#上图中的客户机密</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="comment">#仓库</span></span><br><span class="line">  <span class="attr">owner:</span> <span class="comment">#用户名</span></span><br><span class="line">  <span class="attr">admin:</span> <span class="comment">#管理员</span></span><br><span class="line">  <span class="attr">language:</span> <span class="string">zh-CN</span> <span class="comment"># en, zh-CN, zh-TW, es-ES, fr, ru</span></span><br><span class="line">  <span class="attr">perPage:</span> <span class="number">10</span> <span class="comment"># Pagination size, with maximum 100.</span></span><br><span class="line">  <span class="attr">distractionFreeMode:</span> <span class="literal">false</span> <span class="comment"># Facebook-like distraction free mode.</span></span><br><span class="line">  <span class="attr">pagerDirection:</span> <span class="string">last</span> <span class="comment"># Comment sorting direction, available values are last and first.</span></span><br><span class="line">  <span class="attr">createIssueManually:</span> <span class="literal">false</span> <span class="comment"># Gitalk will create a corresponding github issue for your every single page automatically</span></span><br></pre></td></tr></table></figure>
-
-<p>填写完之后一顿hexo clean…..g……d….</p>
-<p>然后进入网站：</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/noinit.png" alt="img"></p>
-<blockquote>
-<p>我当时忘了截图，这是来自<a href="https://phantomt.github.io的图/">https://phantomt.github.io的图</a></p>
-</blockquote>
-<p>登录并进行初始化。这里登录的账号一定要是创建Oauth的账户。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210113151255855.png" alt="image-20210113151255855"></p>
-<blockquote>
-<p>初始化之后就可以正常评论了。</p>
-</blockquote>
-<h3 id="gitalk对比Valine有什么优势？"><a href="#gitalk对比Valine有什么优势？" class="headerlink" title="gitalk对比Valine有什么优势？"></a>gitalk对比Valine有什么优势？</h3><ul>
-<li>没有Leancloud的休眠政策</li>
-<li>评论储存在github仓库，管理方便</li>
-<li>较之Valine多了登录程序，bot炸评论的几率小了许多</li>
-</ul>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -871,37 +871,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>电商客服怎么提高业绩？以及常用短语?</title>
-    <url>//post/kfhf.html</url>
-    <content><![CDATA[<h3 id="良好的待客态度。"><a href="#良好的待客态度。" class="headerlink" title="良好的待客态度。"></a>良好的待客态度。</h3><p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/kfhf.jpg" alt="img"></p>
-<p>　　杜绝与客户起争执或顶撞对骂——顾客永远是对的，至少让顾客对你产生这样的印象，可稍微妥协让步，顺带向对方附点条件，对客户的审美，眼光之类进行赞美，而不是让客户有种和机器人聊的感觉，建议客服外包人员可以多用表情和语气词，让聊天生动些，学会用朋友的角度接待客户。</p>
-<h3 id="了解产品及店内活动。"><a href="#了解产品及店内活动。" class="headerlink" title="了解产品及店内活动。"></a>了解产品及店内活动。</h3><p>　　作为客服外包人员对自己产品的了解是必备的，不能等客户问了才去看自己的1688开店详情描述，产品的规格：长度，纯度，容量，重量，大小等，产品的特性卖点，和其他产品不一样的功效或优势，认为要清楚自己产品的客户人群，比如是年轻人的，就要活泼的话术，如果面向中老年人的，就要表现的稳重专业。</p>
-<h3 id="关联销售。"><a href="#关联销售。" class="headerlink" title="关联销售。"></a>关联销售。</h3><p>　　认为客服外包人员也要适当推荐关联产品，旺旺上向客户推荐时，我们需要找客户的兴趣点在哪里，是价格，是赠品，还是纠结一点运费，<strong>1688运营</strong>有的会因为加几元就能换购A商品而感觉占了大便宜，有的想赶时间收到货，让他加购B商品给她包邮顺丰，她也会感到服务非常棒。</p>
-<h3 id="订单催付。"><a href="#订单催付。" class="headerlink" title="订单催付。"></a>订单催付。</h3><p>　　针对下单未付款的买家进行催付，是提高转化一个关键因素，买家没有立即支付可能是主观原因，可能是客观原因，认为只有明白了原因，才能对症下药，催付时态度用语得体，告诉自己产品的优势，强调性价比，引起客户共鸣。</p>
-<h3 id="售后与维护。"><a href="#售后与维护。" class="headerlink" title="售后与维护。"></a>售后与维护。</h3><p>　　售后涉及到退款，退换货，甚至是客户维权，小阿里巴巴批发二介入的情况，客服应该妥善处理，尽量安抚致歉，作出协调方案，不上心的话会导致增加纠纷比例甚至店铺扣分，得不偿失。</p>
-<p>　　对于交易完成的客户，可以使用微淘等社交渠道圈起来维护，便于日后新活动上线通知老客户，挖取流量价值，提升回头率与客单价。</p>
-<p>　　1，亲~我们的产品价格非常实惠，直接按批发价发售，为的是节省双方购买的时间与口舌，本小店业务繁忙，没议价的时间与精力，谢谢口下留情诚信通。</p>
-<p>　　2，亲~您在我们店上买到的绝对是超值好宝贝，本小店超级实在的，没有华丽的语言，只有勤劳的工作，好品质的宝贝，谢谢支持。</p>
-<p>　　3，亲~我们店现在有优惠活动，请详细浏览一下小店的公告，不要错过哦。</p>
-<p>　　4，亲~舒心购物，满多少元或以上就可以免去邮费，非常划算哦。</p>
-<p>　　5，亲~冲浪购物，四件衣服，只收一次邮费，不收超重费，非常划算哦。</p>
-<p>　　6，亲~满意购物，单次购买满多少元，送诚信通推广赠品一件，多买多送哦。</p>
-<p>　　7，您好，我们的商品价格已经最低了，不好意思，不能少了。</p>
-<p>　　8，亲，不议价哦，不过今天我们有些此类产品正在搞活动，很优惠哦。</p>
-<p>　　9，新店开张，为赚信用，利润已降到最低，不再议价了。</p>
-<p>　　10，抱歉，价格已经最优惠了，不过买满多少包邮哦。</p>
-<p>　　11，亲，小店利薄，不议价了啦。</p>
-<p>　　12，对不起，我不可能亏本卖的。</p>
-<p>　　13，您好，谢绝还价，议价者绕道。</p>
-]]></content>
-      <categories>
-        <category>电商</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>客户分析-价格段的选取</title>
     <url>//post/khfx.html</url>
     <content><![CDATA[<p>我们在对产品定位时不仅要通过产品进行定位，也要从客户方面进行定位。</p>
@@ -965,6 +934,37 @@ layout: false
       </categories>
       <tags>
         <tag>bilibili</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电商客服怎么提高业绩？以及常用短语?</title>
+    <url>//post/kfhf.html</url>
+    <content><![CDATA[<h3 id="良好的待客态度。"><a href="#良好的待客态度。" class="headerlink" title="良好的待客态度。"></a>良好的待客态度。</h3><p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/kfhf.jpg" alt="img"></p>
+<p>　　杜绝与客户起争执或顶撞对骂——顾客永远是对的，至少让顾客对你产生这样的印象，可稍微妥协让步，顺带向对方附点条件，对客户的审美，眼光之类进行赞美，而不是让客户有种和机器人聊的感觉，建议客服外包人员可以多用表情和语气词，让聊天生动些，学会用朋友的角度接待客户。</p>
+<h3 id="了解产品及店内活动。"><a href="#了解产品及店内活动。" class="headerlink" title="了解产品及店内活动。"></a>了解产品及店内活动。</h3><p>　　作为客服外包人员对自己产品的了解是必备的，不能等客户问了才去看自己的1688开店详情描述，产品的规格：长度，纯度，容量，重量，大小等，产品的特性卖点，和其他产品不一样的功效或优势，认为要清楚自己产品的客户人群，比如是年轻人的，就要活泼的话术，如果面向中老年人的，就要表现的稳重专业。</p>
+<h3 id="关联销售。"><a href="#关联销售。" class="headerlink" title="关联销售。"></a>关联销售。</h3><p>　　认为客服外包人员也要适当推荐关联产品，旺旺上向客户推荐时，我们需要找客户的兴趣点在哪里，是价格，是赠品，还是纠结一点运费，<strong>1688运营</strong>有的会因为加几元就能换购A商品而感觉占了大便宜，有的想赶时间收到货，让他加购B商品给她包邮顺丰，她也会感到服务非常棒。</p>
+<h3 id="订单催付。"><a href="#订单催付。" class="headerlink" title="订单催付。"></a>订单催付。</h3><p>　　针对下单未付款的买家进行催付，是提高转化一个关键因素，买家没有立即支付可能是主观原因，可能是客观原因，认为只有明白了原因，才能对症下药，催付时态度用语得体，告诉自己产品的优势，强调性价比，引起客户共鸣。</p>
+<h3 id="售后与维护。"><a href="#售后与维护。" class="headerlink" title="售后与维护。"></a>售后与维护。</h3><p>　　售后涉及到退款，退换货，甚至是客户维权，小阿里巴巴批发二介入的情况，客服应该妥善处理，尽量安抚致歉，作出协调方案，不上心的话会导致增加纠纷比例甚至店铺扣分，得不偿失。</p>
+<p>　　对于交易完成的客户，可以使用微淘等社交渠道圈起来维护，便于日后新活动上线通知老客户，挖取流量价值，提升回头率与客单价。</p>
+<p>　　1，亲~我们的产品价格非常实惠，直接按批发价发售，为的是节省双方购买的时间与口舌，本小店业务繁忙，没议价的时间与精力，谢谢口下留情诚信通。</p>
+<p>　　2，亲~您在我们店上买到的绝对是超值好宝贝，本小店超级实在的，没有华丽的语言，只有勤劳的工作，好品质的宝贝，谢谢支持。</p>
+<p>　　3，亲~我们店现在有优惠活动，请详细浏览一下小店的公告，不要错过哦。</p>
+<p>　　4，亲~舒心购物，满多少元或以上就可以免去邮费，非常划算哦。</p>
+<p>　　5，亲~冲浪购物，四件衣服，只收一次邮费，不收超重费，非常划算哦。</p>
+<p>　　6，亲~满意购物，单次购买满多少元，送诚信通推广赠品一件，多买多送哦。</p>
+<p>　　7，您好，我们的商品价格已经最低了，不好意思，不能少了。</p>
+<p>　　8，亲，不议价哦，不过今天我们有些此类产品正在搞活动，很优惠哦。</p>
+<p>　　9，新店开张，为赚信用，利润已降到最低，不再议价了。</p>
+<p>　　10，抱歉，价格已经最优惠了，不过买满多少包邮哦。</p>
+<p>　　11，亲，小店利薄，不议价了啦。</p>
+<p>　　12，对不起，我不可能亏本卖的。</p>
+<p>　　13，您好，谢绝还价，议价者绕道。</p>
+]]></content>
+      <categories>
+        <category>电商</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -1039,41 +1039,6 @@ layout: false
       </categories>
       <tags>
         <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>浅谈seo竞价系统</title>
-    <url>//post/seojj.html</url>
-    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>我觉得大家都曾经以为把标题优化到完美无缺或者在标题上就起我的商标名，就能搜的到我了吧。</p>
-<p>那事实真的是这样吗？</p>
-<h3 id="百度SEO系统"><a href="#百度SEO系统" class="headerlink" title="百度SEO系统"></a>百度SEO系统</h3><p>相信玩PC游戏的小伙伴的知道Steam吧，那么大家都应该知道百度搜索steam会有什么吧？</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210114182310560.png" alt="image-20210114182310560"></p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210114182318959.png" alt="image-20210114182318959"></p>
-<blockquote>
-<p>百度搜出来的都这样了，那谷歌呢？</p>
-</blockquote>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210114182359089.png" alt="image-20210114182359089"></p>
-<blockquote>
-<p>恩，没错了。</p>
-</blockquote>
-<p>那为什么会出现这种情况呢？</p>
-<p>那就要说说竞价系统了。竞价系统有什么用？</p>
-<p>比方说有个公司，买泡面的，叫：帅师傅泡面。大家正常百度谷歌帅师傅泡面，第一个网站肯定是他的。那么另外一家公司，是帅师傅的竞争对手。叫丑师傅泡面。这丑师傅看帅师傅生意好，他急啊。</p>
-<p>这是有个人给了他一计：</p>
-<blockquote>
-<p>建立一个网站，然后去参与竞价，竞价的关键词是什么？两个：一、帅师傅泡面 二、泡面。</p>
-</blockquote>
-<p>然后会发生什么？</p>
-<p>你会发现你搜索帅师傅泡面。点开第一个网站它自动给你跳转到了丑师傅的店铺。</p>
-<p>这就出现了开头的一幕。大家搜索steam，结果进的国人钓鱼网站。</p>
-<h3 id="为什么seo-lt-钱？"><a href="#为什么seo-lt-钱？" class="headerlink" title="为什么seo&lt;钱？"></a>为什么seo&lt;钱？</h3><p>因为谷歌和百度是要吃饭的。所以就算你的seo做的再好。再牛逼。也不会上前三。除非你的关键词没人竞价。</p>
-<p>tips:现在百度已经开始整治这些所谓的钓鱼网站了，你现在百度steam就可以安安心心的点第一个连接了~</p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -1192,6 +1157,41 @@ layout: false
       </categories>
       <tags>
         <tag>树莓派</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浅谈seo竞价系统</title>
+    <url>//post/seojj.html</url>
+    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>我觉得大家都曾经以为把标题优化到完美无缺或者在标题上就起我的商标名，就能搜的到我了吧。</p>
+<p>那事实真的是这样吗？</p>
+<h3 id="百度SEO系统"><a href="#百度SEO系统" class="headerlink" title="百度SEO系统"></a>百度SEO系统</h3><p>相信玩PC游戏的小伙伴的知道Steam吧，那么大家都应该知道百度搜索steam会有什么吧？</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210114182310560.png" alt="image-20210114182310560"></p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210114182318959.png" alt="image-20210114182318959"></p>
+<blockquote>
+<p>百度搜出来的都这样了，那谷歌呢？</p>
+</blockquote>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file@master/image-20210114182359089.png" alt="image-20210114182359089"></p>
+<blockquote>
+<p>恩，没错了。</p>
+</blockquote>
+<p>那为什么会出现这种情况呢？</p>
+<p>那就要说说竞价系统了。竞价系统有什么用？</p>
+<p>比方说有个公司，买泡面的，叫：帅师傅泡面。大家正常百度谷歌帅师傅泡面，第一个网站肯定是他的。那么另外一家公司，是帅师傅的竞争对手。叫丑师傅泡面。这丑师傅看帅师傅生意好，他急啊。</p>
+<p>这是有个人给了他一计：</p>
+<blockquote>
+<p>建立一个网站，然后去参与竞价，竞价的关键词是什么？两个：一、帅师傅泡面 二、泡面。</p>
+</blockquote>
+<p>然后会发生什么？</p>
+<p>你会发现你搜索帅师傅泡面。点开第一个网站它自动给你跳转到了丑师傅的店铺。</p>
+<p>这就出现了开头的一幕。大家搜索steam，结果进的国人钓鱼网站。</p>
+<h3 id="为什么seo-lt-钱？"><a href="#为什么seo-lt-钱？" class="headerlink" title="为什么seo&lt;钱？"></a>为什么seo&lt;钱？</h3><p>因为谷歌和百度是要吃饭的。所以就算你的seo做的再好。再牛逼。也不会上前三。除非你的关键词没人竞价。</p>
+<p>tips:现在百度已经开始整治这些所谓的钓鱼网站了，你现在百度steam就可以安安心心的点第一个连接了~</p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -1695,32 +1695,6 @@ layout: false
       </tags>
   </entry>
   <entry>
-    <title>Wordpress后台管理员无法访问</title>
-    <url>//post/wpnoadmin.html</url>
-    <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
-<p>原因很简单。</p>
-<ul>
-<li>你是和我上一篇博文一样配置完https重定向的</li>
-</ul>
-<p>为什么会出现这种情况呢。</p>
-<p>他们把这串代码弄到了最底下。</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
-
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file/8AS2.png" alt="wt"></p>
-<p>然后，你只需把他移动到</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( ! defined( <span class="string">&#x27;ABSPATH&#x27;</span> ) ) &#123;</span><br><span class="line">	define( <span class="string">&#x27;ABSPATH&#x27;</span>, dirname( <span class="keyword">__FILE__</span> ) . <span class="string">&#x27;/&#x27;</span> );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>这串代码以上就行了。</p>
-<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file/8AS1.png" alt="jj"></p>
-]]></content>
-      <categories>
-        <category>站点</category>
-      </categories>
-      <tags>
-        <tag>WordPress错误</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>WordPress配置完SSL证书后台重定向过多</title>
     <url>//post/wpsslerror.html</url>
     <content><![CDATA[<h5 id="Wordpress配置完SSL证书后台重定向过多"><a href="#Wordpress配置完SSL证书后台重定向过多" class="headerlink" title="Wordpress配置完SSL证书后台重定向过多"></a>Wordpress配置完SSL证书后台重定向过多</h5><p>前言:在配置完cloudflash的DNS解析后，我发现我的管理员后台一直显示重定向过多。</p>
@@ -1738,6 +1712,32 @@ layout: false
 
 <p>刷新即可。</p>
 <p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file/8ARV.png" alt="cg"></p>
+]]></content>
+      <categories>
+        <category>站点</category>
+      </categories>
+      <tags>
+        <tag>WordPress错误</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Wordpress后台管理员无法访问</title>
+    <url>//post/wpnoadmin.html</url>
+    <content><![CDATA[<h5 id="Wordpress后台管理员无法访问"><a href="#Wordpress后台管理员无法访问" class="headerlink" title="Wordpress后台管理员无法访问"></a>Wordpress后台管理员无法访问</h5><p>这个问题，非常的致命哈哈哈哈。</p>
+<p>原因很简单。</p>
+<ul>
+<li>你是和我上一篇博文一样配置完https重定向的</li>
+</ul>
+<p>为什么会出现这种情况呢。</p>
+<p>他们把这串代码弄到了最底下。</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="variable">$_SERVER</span>[<span class="string">&#x27;HTTPS&#x27;</span>] = <span class="string">&#x27;on&#x27;</span>;</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_LOGIN&#x27;</span>, <span class="literal">true</span>);</span><br><span class="line">define(<span class="string">&#x27;FORCE_SSL_ADMIN&#x27;</span>, <span class="literal">true</span>);</span><br></pre></td></tr></table></figure>
+
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file/8AS2.png" alt="wt"></p>
+<p>然后，你只需把他移动到</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( ! defined( <span class="string">&#x27;ABSPATH&#x27;</span> ) ) &#123;</span><br><span class="line">	define( <span class="string">&#x27;ABSPATH&#x27;</span>, dirname( <span class="keyword">__FILE__</span> ) . <span class="string">&#x27;/&#x27;</span> );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>这串代码以上就行了。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/Nesxc/file/img/nesxc/loding.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Nesxc/file/8AS1.png" alt="jj"></p>
 ]]></content>
       <categories>
         <category>站点</category>
